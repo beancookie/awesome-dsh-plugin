@@ -278,6 +278,7 @@ This project actively supports and acknowledges the [LINUX DO](https://linux.do)
 - [dsh-feishu-notify](https://github.com/dsh-external/dsh-feishu-notify) - Feishu notifications on session end / input needed.
 - [dsh-notify-windows](https://github.com/SeverusZh/dsh-notify-windows) - Windows notifications, zero dependencies.
 - [dsh-opencode-server](https://github.com/dsh-external/dsh-opencode-server) - Smooth TUI via opencode attach.
+- [Alan2Z/dsh-speak](https://github.com/Alan2Z/dsh-speak) - Voice-announce the final reply on Windows (SAPI5 natural voices) and macOS (system voice); skips reasoning and tool calls, one-line npm install.
 
 ### Models & Providers
 
