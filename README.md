@@ -324,6 +324,7 @@ DeepSeek Harness 是 DeepSeek 开源的 agent harness——既是可直接运行
 - [Letter2025/dsh-model-failover](https://github.com/Letter2025/dsh-model-failover) — 两级模型熔断与回退：模型或平台连续失败后自动熔断，并把下一个请求路由到配置好的备用模型。
 - [dsh-plan-execute](https://github.com/dsh-external/dsh-plan-execute) — plan/execute 双模型路由：规划模型思考、执行模型干活。
 - [timwhitez/dsh-self-evolving](https://github.com/timwhitez/dsh-self-evolving) — 证据优先、可崩溃恢复的自进化引擎：有界生成 Cordis 候选插件、一次性真实 Loader 准入、Harbor 评估，并保留可审计的日志化谱系。
+- [huxint/dsh-team](https://github.com/huxint/dsh-team) — Agent 团队：派生具名常驻队友，用共享任务列表、成员邮箱与虚拟工作区协作，并在协作室页签里实时观察团队。
 
 ### 🔔 通知与集成
 
