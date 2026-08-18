@@ -3,7 +3,7 @@
  "url": "https://beancookie.github.io/awesome-dsh-plugin",
  "source": "https://github.com/beancookie/awesome-dsh-plugin",
  "updated": "2026-08-18",
- "count": 372,
+ "count": 373,
  "categories": {
   "ui": {
    "zh": "UI 增强",
@@ -4295,6 +4295,21 @@
    "createdAt": "2026-08-13",
    "install": "dsh plugin --profile web add @openma/deepseek-harness-acp",
    "added": "2026-08-14"
+  },
+  {
+   "name": "dsh-feishu",
+   "owner": "PGZXB",
+   "url": "https://github.com/PGZXB/dsh-feishu",
+   "category": "notify",
+   "description": {
+    "zh": "DeepSeek Harness 的飞书 UI：面板驱动控制台，卡内审批与提问，流式卡片，扫码一键配置。",
+    "en": "Feishu (Lark) UI for DeepSeek Harness: panel-driven control console, in-card approvals and questions, live streaming cards, one-QR setup."
+   },
+   "npm": null,
+   "stars": 8,
+   "createdAt": "2026-08-14",
+   "install": "dsh plugin --profile web add github:PGZXB/dsh-feishu",
+   "added": "2026-08-18"
   },
   {
    "name": "dsh-notify-windows",
