@@ -413,6 +413,7 @@ DeepSeek Harness 是 DeepSeek 开源的 agent harness——既是可直接运行
 - [disyli/dsh-tool-call-stats](https://github.com/disyli/dsh-tool-call-stats) — 进程内工具调用统计：提供 `tool_stats` 工具，按工具汇报调用次数、失败次数与平均耗时。
 - [DoggyHU/dsh4vscode](https://github.com/DoggyHU/dsh4vscode) — 基于 DSH agent 的 VS Code 聊天窗口，模型自动路由。
 - [EvilIrving/dsh-repro](https://github.com/EvilIrving/dsh-repro) — /repro 导出最小可复现问题包：去 secret 的会话日志、失败命令与 git diff。
+- [fakechris/dsh-harness-ops](https://github.com/fakechris/dsh-harness-ops) — DSH 自愈运维工具箱：官方每日快照 A/B 双槽轮换（验收通过才原子切换、一键回滚）、10s 守护自动拉起 web 并续接被打断的回合、web/agent 全挂时终端 dsh-doctor 一键诊断修复拉起。
 - [foolgry/dsh-desktop](https://github.com/foolgry/dsh-desktop) — 开箱即用的 Electron 桌面版，自动跟随上游发版。
 - [forrestchang/dsh-multica-runtime](https://github.com/forrestchang/dsh-multica-runtime) — 让 dsh 运行时跑在 Multica 上。
 - [fountunt/dsh-session-cleaner](https://github.com/fountunt/dsh-session-cleaner) — 无需重启即可删除运行中 Web 运行时里的会话。
