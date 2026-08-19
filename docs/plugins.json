@@ -3,7 +3,7 @@
  "url": "https://beancookie.github.io/awesome-dsh-plugin",
  "source": "https://github.com/beancookie/awesome-dsh-plugin",
  "updated": "2026-08-19",
- "count": 374,
+ "count": 402,
  "categories": {
   "ui": {
    "zh": "UI 增强",
@@ -727,6 +727,66 @@
    "added": "2026-08-14"
   },
   {
+   "name": "dsh-composer-history",
+   "owner": "PerryLink",
+   "url": "https://github.com/PerryLink/dsh-composer-history",
+   "category": "ui",
+   "description": {
+    "zh": "网页输入区的终端式输入历史：方向键精确还原草稿/光标，Ctrl+R 反搜，工作区级回忆，感知滑动上下文。",
+    "en": "Terminal-style input history for the Web composer: arrow keys restore drafts/cursor position exactly, Ctrl+R reverse search, workspace-scoped recall with sliding-context awareness."
+   },
+   "npm": "dsh-composer-history",
+   "stars": 6,
+   "createdAt": "2026-08-13",
+   "install": "dsh plugin --profile web add dsh-composer-history",
+   "added": "2026-08-19"
+  },
+  {
+   "name": "dsh-output-styles",
+   "owner": "PerryLink",
+   "url": "https://github.com/PerryLink/dsh-output-styles",
+   "category": "ui",
+   "description": {
+    "zh": "运行时切换模型输出风格（对齐 Claude Code outputStyles），含 output.render.* 呈现协议与 /style 命令。",
+    "en": "Runtime-switchable model output styles (aligned with Claude Code outputStyles), with the output.render.* presentation protocol and a /style command."
+   },
+   "npm": "dsh-output-styles",
+   "stars": 3,
+   "createdAt": "2026-08-13",
+   "install": "dsh plugin --profile web add dsh-output-styles",
+   "added": "2026-08-19"
+  },
+  {
+   "name": "dsh-session-pin",
+   "owner": "PerryLink",
+   "url": "https://github.com/PerryLink/dsh-session-pin",
+   "category": "ui",
+   "description": {
+    "zh": "置顶会话与工作区到侧边栏：逐置顶行配色、看板/标签/已存视图、健康摘要与 /goto。",
+    "en": "Pin sessions and workspaces to the sidebar: per-pin row colors, board/tag/saved views, health summaries, and /goto."
+   },
+   "npm": null,
+   "stars": 2,
+   "createdAt": "2026-08-13",
+   "install": "dsh plugin --profile web add github:PerryLink/dsh-session-pin",
+   "added": "2026-08-19"
+  },
+  {
+   "name": "dsh-talk",
+   "owner": "PerryLink",
+   "url": "https://github.com/PerryLink/dsh-talk",
+   "category": "ui",
+   "description": {
+    "zh": "语音优先会话回路：输入区麦克风（浏览器/本地语音识别），speak 工具语音播报，事件播报与说话打断。",
+    "en": "Voice-first conversation loop: a composer microphone (browser/local speech recognition), a speak tool for spoken replies, event announcements, and barge-in."
+   },
+   "npm": "dsh-talk",
+   "stars": 0,
+   "createdAt": "2026-08-16",
+   "install": "dsh plugin --profile web add dsh-talk",
+   "added": "2026-08-19"
+  },
+  {
    "name": "dsh-token-pet",
    "owner": "pk7j7sqryy-ops",
    "url": "https://github.com/pk7j7sqryy-ops/dsh-token-pet",
@@ -1190,6 +1250,51 @@
    "createdAt": "2026-08-17",
    "install": "dsh plugin --profile web add github:lkdx0220/Genshin-odette-skin-dsh",
    "added": "2026-08-17"
+  },
+  {
+   "name": "dsh-checkpoint-rewind",
+   "owner": "PerryLink",
+   "url": "https://github.com/PerryLink/dsh-checkpoint-rewind",
+   "category": "theme",
+   "description": {
+    "zh": "DSH 版 Claude Code /rewind：git 优先工作区快照 + 轮边界会话 fork + /checkpoint、/rewind 一键恢复。",
+    "en": "Claude Code /rewind for DSH: git-first workspace snapshots plus per-turn session forks, with one-click restore via /checkpoint and /rewind."
+   },
+   "npm": "dsh-checkpoint-rewind",
+   "stars": 8,
+   "createdAt": "2026-08-13",
+   "install": "dsh plugin --profile web add dsh-checkpoint-rewind",
+   "added": "2026-08-19"
+  },
+  {
+   "name": "dsh-claude-move",
+   "owner": "PerryLink",
+   "url": "https://github.com/PerryLink/dsh-claude-move",
+   "category": "theme",
+   "description": {
+    "zh": "四源迁移向导：把 Claude Code、Codex、OpenCode、Hermes 的会话、记忆、技能、斜杠命令搬进 DSH 并可续跑。",
+    "en": "Four-source migration wizard: move sessions, memory, skills, and slash commands from Claude Code, Codex, OpenCode, and Hermes into DSH and keep working."
+   },
+   "npm": "dsh-claude-move",
+   "stars": 6,
+   "createdAt": "2026-08-13",
+   "install": "dsh plugin --profile web add dsh-claude-move",
+   "added": "2026-08-19"
+  },
+  {
+   "name": "dsh-session-sync",
+   "owner": "PerryLink",
+   "url": "https://github.com/PerryLink/dsh-session-sync",
+   "category": "theme",
+   "description": {
+    "zh": "会话跨设备同步：专用 git 镜像 + append-only 三方合并（keep-both + fork 冲突解决），/sync 命令与自动推拉。",
+    "en": "Cross-device session sync: a dedicated git mirror with append-only three-way merging (keep-both + fork conflict resolution), a /sync command, and automatic push/pull."
+   },
+   "npm": "dsh-session-sync",
+   "stars": 1,
+   "createdAt": "2026-08-16",
+   "install": "dsh plugin --profile web add dsh-session-sync",
+   "added": "2026-08-19"
   },
   {
    "name": "dsh-dream-skin",
@@ -1777,6 +1882,111 @@
    "added": "2026-08-13"
   },
   {
+   "name": "dsh-auto-review",
+   "owner": "PerryLink",
+   "url": "https://github.com/PerryLink/dsh-auto-review",
+   "category": "memory",
+   "description": {
+    "zh": "审批链上的第二模型自动审查：只读审查子代理返回带理由的 allow/deny 结构化裁决，fail-closed 兜底。",
+    "en": "Second-model auto-review on the approval chain: a read-only reviewer subagent returns structured allow/deny verdicts with reasons, fail-closed by default."
+   },
+   "npm": "dsh-auto-review",
+   "stars": 40,
+   "createdAt": "2026-08-13",
+   "install": "dsh plugin --profile web add dsh-auto-review",
+   "added": "2026-08-19"
+  },
+  {
+   "name": "dsh-budget",
+   "owner": "PerryLink",
+   "url": "https://github.com/PerryLink/dsh-budget",
+   "category": "memory",
+   "description": {
+    "zh": "成本治理：按模型/会话/日聚合 token 与成本计量，预算上限 + 阈值告警 + alert/block/degrade 超限策略，/budget 命令。",
+    "en": "Cost governance: token and cost metering aggregated by model/session/day, with budget caps, threshold alerts, and alert/block/degrade over-limit policies via the /budget command."
+   },
+   "npm": "dsh-budget",
+   "stars": 1,
+   "createdAt": "2026-08-16",
+   "install": "dsh plugin --profile web add dsh-budget",
+   "added": "2026-08-19"
+  },
+  {
+   "name": "dsh-click",
+   "owner": "PerryLink",
+   "url": "https://github.com/PerryLink/dsh-click",
+   "category": "memory",
+   "description": {
+    "zh": "跨平台原生桌面控制（Windows 优先）：截图/读屏/点击/输入/滚轮/按键/应用启动，变更动作全过审批门。",
+    "en": "Cross-platform native desktop control (Windows-first): screenshots, screen reading, click, input, scroll, keys, and app launching — every mutating action goes through an approval gate."
+   },
+   "npm": "dsh-click",
+   "stars": 0,
+   "createdAt": "2026-08-16",
+   "install": "dsh plugin --profile web add dsh-click",
+   "added": "2026-08-19"
+  },
+  {
+   "name": "dsh-defend",
+   "owner": "PerryLink",
+   "url": "https://github.com/PerryLink/dsh-defend",
+   "category": "memory",
+   "description": {
+    "zh": "提示注入/越狱/密钥泄露检测：Aho-Corasick 引擎在用户消息、工具参数、工具结果三道缝上 allow/ask/block 拦截。",
+    "en": "Prompt-injection, jailbreak, and secret-leak detection: an Aho-Corasick engine interposes allow/ask/block at three seams — user messages, tool arguments, and tool results."
+   },
+   "npm": "dsh-defend",
+   "stars": 0,
+   "createdAt": "2026-08-16",
+   "install": "dsh plugin --profile web add dsh-defend",
+   "added": "2026-08-19"
+  },
+  {
+   "name": "dsh-draw",
+   "owner": "PerryLink",
+   "url": "https://github.com/PerryLink/dsh-draw",
+   "category": "memory",
+   "description": {
+    "zh": "统一静态图像生成路由：一个 image_generate 工具接 OpenAI 兼容引擎（OpenAI Images、智谱 CogView 等），健康感知回退 + 会话配额。",
+    "en": "Unified static-image generation routing: one image_generate tool over OpenAI-compatible engines (OpenAI Images, Zhipu CogView, etc.) with health-aware fallback and per-session quotas."
+   },
+   "npm": "dsh-draw",
+   "stars": 0,
+   "createdAt": "2026-08-16",
+   "install": "dsh plugin --profile web add dsh-draw",
+   "added": "2026-08-19"
+  },
+  {
+   "name": "dsh-library",
+   "owner": "PerryLink",
+   "url": "https://github.com/PerryLink/dsh-library",
+   "category": "memory",
+   "description": {
+    "zh": "本地文档知识库：语义+关键词混合检索、多样性重排、引用感知注入，SQLite 索引，零模型下载。",
+    "en": "Local document knowledge base: hybrid semantic + keyword retrieval, diversity reranking, citation-aware injection, SQLite index, zero model downloads."
+   },
+   "npm": "dsh-library",
+   "stars": 2,
+   "createdAt": "2026-08-16",
+   "install": "dsh plugin --profile web add dsh-library",
+   "added": "2026-08-19"
+  },
+  {
+   "name": "dsh-mask",
+   "owner": "PerryLink",
+   "url": "https://github.com/PerryLink/dsh-mask",
+   "category": "memory",
+   "description": {
+    "zh": "PII 脱敏中间件：姓名/电话/身份证/银行卡等在到达模型前匿名化为占位符，展示层还原，绝不记录明文。",
+    "en": "PII redaction middleware: names, phone numbers, ID cards, and bank cards are anonymized to placeholders before reaching the model and restored at the display layer; plaintext is never logged."
+   },
+   "npm": "dsh-mask",
+   "stars": 0,
+   "createdAt": "2026-08-17",
+   "install": "dsh plugin --profile web add dsh-mask",
+   "added": "2026-08-19"
+  },
+  {
    "name": "dsh-memento",
    "owner": "PerryLink",
    "url": "https://github.com/PerryLink/dsh-memento",
@@ -1790,6 +2000,51 @@
    "createdAt": "2026-08-13",
    "install": "dsh plugin --profile web add github:PerryLink/dsh-memento",
    "added": "2026-08-14"
+  },
+  {
+   "name": "dsh-permission-rules",
+   "owner": "PerryLink",
+   "url": "https://github.com/PerryLink/dsh-permission-rules",
+   "category": "memory",
+   "description": {
+    "zh": "声明式 allow/deny/ask 权限规则 + Codex 式进程级网络策略（内置本地 HTTP/CONNECT 代理），全量审计 + 规则热重载。",
+    "en": "Declarative allow/deny/ask permission rules plus Codex-style per-process network policy (with a built-in local HTTP/CONNECT proxy), full audit logging and hot rule reload."
+   },
+   "npm": "dsh-permission-rules",
+   "stars": 13,
+   "createdAt": "2026-08-13",
+   "install": "dsh plugin --profile web add dsh-permission-rules",
+   "added": "2026-08-19"
+  },
+  {
+   "name": "dsh-score",
+   "owner": "PerryLink",
+   "url": "https://github.com/PerryLink/dsh-score",
+   "category": "memory",
+   "description": {
+    "zh": "插件多维质量评分：安装成功/维护/文档/安全/协议合规五维，真实 CLI 证据 + 审计时间戳，产出 JSON/Markdown 榜单。",
+    "en": "Multi-dimensional plugin quality scoring across five axes (install success, maintenance, docs, security, protocol compliance) with real CLI evidence, audit timestamps, and JSON/Markdown leaderboards."
+   },
+   "npm": "dsh-score",
+   "stars": 0,
+   "createdAt": "2026-08-17",
+   "install": "dsh plugin --profile web add dsh-score",
+   "added": "2026-08-19"
+  },
+  {
+   "name": "dsh-test-drive",
+   "owner": "PerryLink",
+   "url": "https://github.com/PerryLink/dsh-test-drive",
+   "category": "memory",
+   "description": {
+    "zh": "插件隔离安装冒烟试驾：一次性 DSH_HOME profile 内安装+校验+启动，产出结构化通过/失败矩阵。",
+    "en": "Isolated install-and-smoke-test for plugins: install, validate, and boot inside a throwaway DSH_HOME profile, producing a structured pass/fail matrix."
+   },
+   "npm": "dsh-test-drive",
+   "stars": 0,
+   "createdAt": "2026-08-17",
+   "install": "dsh plugin --profile web add dsh-test-drive",
+   "added": "2026-08-19"
   },
   {
    "name": "dsh-memory-meow",
@@ -1828,7 +2083,7 @@
    "category": "memory",
    "description": {
     "zh": "评分制记忆树插件 eco-memory-tree：结构化长期记忆，BM25/中文检索，Obsidian 双向同步。",
-    "en": "L1-L4 risk-tiered permission gate (eco-permission-gate) and SM3 tamper-proof audit chain (eco-audit-chain)."
+    "en": "A scored memory-tree plugin (eco-memory-tree): structured long-term memory with BM25/Chinese retrieval and two-way Obsidian sync."
    },
    "npm": null,
    "stars": 0,
@@ -2518,7 +2773,7 @@
    "category": "tools",
    "description": {
     "zh": "阻止 agent 读写敏感文件（.env、凭据），掩码工具结果中泄露的密钥，附审计日志与安全的 sg_* 检查工具。",
-    "en": "Blocks agents from reading/writing sensitive files, masks leaked secrets in tool results, with an audit journal."
+    "en": "Blocks agents from reading/writing sensitive files, masks leaked secrets in tool results, with an audit journal and safe sg_* inspection tools."
    },
    "npm": null,
    "stars": 0,
@@ -2797,6 +3052,21 @@
    "added": "2026-08-13"
   },
   {
+   "name": "dsh-trading",
+   "owner": "maddogfinance",
+   "url": "https://github.com/maddogfinance/dsh-trading",
+   "category": "tools",
+   "description": {
+    "zh": "只读交易研究工作台：类型化行情数据接缝（可自带数据源）、多周期指标 regime 快照、dsh web 交互式 K 线卡（AI 标注需引用依据并经真实 K 线区间校验）、结构性禁止下单的 risk-guard。",
+    "en": "Read-only trading research workbench: a typed market-data seam (bring your own data source), multi-timeframe indicator regime snapshots, interactive candlestick cards in the dsh web UI (AI annotations require cited sources verified against real candle ranges), and a structurally order-blocking risk-guard."
+   },
+   "npm": null,
+   "stars": 5,
+   "createdAt": "2026-08-17",
+   "install": "dsh plugin --profile web add github:maddogfinance/dsh-trading",
+   "added": "2026-08-19"
+  },
+  {
    "name": "dsh-bash-terminal",
    "owner": "MAXeaglet",
    "url": "https://github.com/MAXeaglet/dsh-bash-terminal",
@@ -3050,6 +3320,51 @@
    "createdAt": "2026-08-08",
    "install": "dsh plugin --profile web add github:omdsh-dev/dsh-toolkit",
    "added": "2026-08-13"
+  },
+  {
+   "name": "dsh-background-agents",
+   "owner": "PerryLink",
+   "url": "https://github.com/PerryLink/dsh-background-agents",
+   "category": "tools",
+   "description": {
+    "zh": "可续跑的后台子代理 + 持久多代理团队房间：消息总线、共享任务板、审批门交接，跨重启存活。",
+    "en": "Resumable background subagents plus persistent multi-agent team rooms: a message bus, shared task boards, and approval-gated handoffs that survive restarts."
+   },
+   "npm": "dsh-background-agents",
+   "stars": 5,
+   "createdAt": "2026-08-14",
+   "install": "dsh plugin --profile web add dsh-background-agents",
+   "added": "2026-08-19"
+  },
+  {
+   "name": "dsh-plugin-guide",
+   "owner": "PerryLink",
+   "url": "https://github.com/PerryLink/dsh-plugin-guide",
+   "category": "tools",
+   "description": {
+    "zh": "插件开发知识库打包为按需加载的 agent 技能：官方约束、任务工作流、API 参考与社区踩坑。",
+    "en": "A plugin-development knowledge base packaged as on-demand agent skills: official constraints, task workflows, API references, and community gotchas."
+   },
+   "npm": "dsh-plugin-guide",
+   "stars": 5,
+   "createdAt": "2026-08-13",
+   "install": "dsh plugin --profile web add dsh-plugin-guide",
+   "added": "2026-08-19"
+  },
+  {
+   "name": "dsh-skill-pack-security",
+   "owner": "PerryLink",
+   "url": "https://github.com/PerryLink/dsh-skill-pack-security",
+   "category": "tools",
+   "description": {
+    "zh": "安全审计技能包 + plugin_vet 供应链门禁：八个双语技能 + 自动化预安装扫描器。",
+    "en": "Security-audit skill pack plus a plugin_vet supply-chain gate: eight bilingual skills and an automated pre-install scanner."
+   },
+   "npm": null,
+   "stars": 2,
+   "createdAt": "2026-08-13",
+   "install": "dsh plugin --profile web add github:PerryLink/dsh-skill-pack-security",
+   "added": "2026-08-19"
   },
   {
    "name": "dshmath-manim",
@@ -3787,6 +4102,21 @@
    "added": "2026-08-13"
   },
   {
+   "name": "deepseek-desk-rsi",
+   "owner": "huchunlinnk",
+   "url": "https://github.com/huchunlinnk/deepseek-desk-rsi",
+   "category": "workflow",
+   "description": {
+    "zh": "Recursive Self-Improvement engine: bounded perceive→integrate→verify→parity→repair→propose loop + 128-plugin 1:1 parity gate — DSH maintains DSH.",
+    "en": "Recursive Self-Improvement engine: bounded perceive→integrate→verify→parity→repair→propose loop + 128-plugin 1:1 parity gate — DSH maintains DSH."
+   },
+   "npm": null,
+   "stars": 1,
+   "createdAt": "2026-08-18",
+   "install": "dsh plugin --profile web add github:huchunlinnk/deepseek-desk-rsi",
+   "added": "2026-08-19"
+  },
+  {
    "name": "dsh_workflow",
    "owner": "icetomoyo",
    "url": "https://github.com/icetomoyo/dsh_workflow",
@@ -3965,6 +4295,51 @@
    "createdAt": "2026-08-14",
    "install": "dsh plugin --profile web add github:PerryLink/dsh-doublecheck",
    "added": "2026-08-14"
+  },
+  {
+   "name": "dsh-github",
+   "owner": "PerryLink",
+   "url": "https://github.com/PerryLink/dsh-github",
+   "category": "workflow",
+   "description": {
+    "zh": "官方级 GitHub CI 集成：composite action、轮询 PR 审查机器人（幂等行内评论）、状态检查门，写操作全过审批。",
+    "en": "Production-grade GitHub CI integration: a composite action, a polling PR review bot (idempotent inline comments), and a status-check gate; all writes pass through approval."
+   },
+   "npm": "@perrylink/dsh-github",
+   "stars": 3,
+   "createdAt": "2026-08-13",
+   "install": "dsh plugin --profile web add @perrylink/dsh-github",
+   "added": "2026-08-19"
+  },
+  {
+   "name": "dsh-local-ai",
+   "owner": "PerryLink",
+   "url": "https://github.com/PerryLink/dsh-local-ai",
+   "category": "workflow",
+   "description": {
+    "zh": "Ollama 本地模型集成：发现/拉取/移除/查看，按任务类型或关键词路由并自动回退云端，/ollama 总览。",
+    "en": "Local Ollama model integration: discover/pull/remove/inspect, route by task type or keyword with automatic cloud fallback, and a /ollama overview."
+   },
+   "npm": "dsh-local-ai",
+   "stars": 1,
+   "createdAt": "2026-08-17",
+   "install": "dsh plugin --profile web add dsh-local-ai",
+   "added": "2026-08-19"
+  },
+  {
+   "name": "dsh-translate",
+   "owner": "PerryLink",
+   "url": "https://github.com/PerryLink/dsh-translate",
+   "category": "workflow",
+   "description": {
+    "zh": "跨 11 家厂商的参数翻译（temperature/top_p 等）+ 确定性 JSON 修复，绝不编造数据。",
+    "en": "Parameter translation across 11 providers (temperature, top_p, etc.) plus deterministic JSON repair; never fabricates data."
+   },
+   "npm": "dsh-translate",
+   "stars": 0,
+   "createdAt": "2026-08-16",
+   "install": "dsh plugin --profile web add dsh-translate",
+   "added": "2026-08-19"
   },
   {
    "name": "dsh-plugin-automations",
@@ -4295,6 +4670,51 @@
    "createdAt": "2026-08-13",
    "install": "dsh plugin --profile web add @openma/deepseek-harness-acp",
    "added": "2026-08-14"
+  },
+  {
+   "name": "dsh-fast",
+   "owner": "PerryLink",
+   "url": "https://github.com/PerryLink/dsh-fast",
+   "category": "notify",
+   "description": {
+    "zh": "只读性能诊断：会话加载耗时、spill 命中、压缩统计、上下文注入量、LLM 缓存命中率，/fast + fast_report。",
+    "en": "Read-only performance diagnostics: session load time, spill hits, compaction stats, context injection volume, and LLM cache hit rate via /fast and fast_report."
+   },
+   "npm": "dsh-fast",
+   "stars": 0,
+   "createdAt": "2026-08-17",
+   "install": "dsh plugin --profile web add dsh-fast",
+   "added": "2026-08-19"
+  },
+  {
+   "name": "dsh-lsp-actions",
+   "owner": "PerryLink",
+   "url": "https://github.com/PerryLink/dsh-lsp-actions",
+   "category": "notify",
+   "description": {
+    "zh": "LSP 动作面：诊断/格式化/补全/代码动作/符号/签名提示/inlay 提示/重命名，由真实语言服务器驱动。",
+    "en": "LSP action surface: diagnostics, formatting, completion, code actions, symbols, signature help, inlay hints, and rename, all driven by real language servers."
+   },
+   "npm": "dsh-lsp-actions",
+   "stars": 5,
+   "createdAt": "2026-08-13",
+   "install": "dsh plugin --profile web add dsh-lsp-actions",
+   "added": "2026-08-19"
+  },
+  {
+   "name": "dsh-observe",
+   "owner": "PerryLink",
+   "url": "https://github.com/PerryLink/dsh-observe",
+   "category": "notify",
+   "description": {
+    "zh": "OpenTelemetry 与 Langfuse 可观测性导出：turn/step/tool/LLM span 与 token/成本指标，脱敏采集 + 离线缓冲重试。",
+    "en": "OpenTelemetry and Langfuse observability export: turn/step/tool/LLM spans plus token and cost metrics, with sanitized collection and offline buffering with retry."
+   },
+   "npm": "dsh-observe",
+   "stars": 0,
+   "createdAt": "2026-08-16",
+   "install": "dsh plugin --profile web add dsh-observe",
+   "added": "2026-08-19"
   },
   {
    "name": "dsh-feishu",
