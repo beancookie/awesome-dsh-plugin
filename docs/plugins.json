@@ -3,7 +3,7 @@
  "url": "https://beancookie.github.io/awesome-dsh-plugin",
  "source": "https://github.com/beancookie/awesome-dsh-plugin",
  "updated": "2026-08-19",
- "count": 404,
+ "count": 405,
  "categories": {
   "ui": {
    "zh": "UI 增强",
@@ -3965,6 +3965,21 @@
    "createdAt": "2026-07-17",
    "install": "dsh plugin --profile web add github:leechen298/Code2Skill",
    "added": "2026-08-14"
+  },
+  {
+   "name": "sandbase-skills",
+   "owner": "sandbaseai",
+   "url": "https://github.com/sandbaseai/sandbase-skills",
+   "category": "skill",
+   "description": {
+    "zh": "88 个面向研究、社交情报、营销与商业工作流的 Agent Skills，通过原生 DSH bundle 挂载技能目录，也可按项目单独安装 multi-source-search。",
+    "en": "88 Agent Skills for research, social intelligence, marketing, and business workflows, mounted through a native DSH bundle with optional project-scoped installation of multi-source-search."
+   },
+   "npm": null,
+   "stars": 21,
+   "createdAt": "2026-07-29",
+   "install": "dsh plugin --profile web add github:sandbaseai/sandbase-skills",
+   "added": "2026-08-19"
   },
   {
    "name": "dsh-skill-manager",

@@ -160,6 +160,13 @@
     <summary>Security-audit skill pack plus a plugin_vet supply-chain gate: eight bilingual skills and an automated pre-install scanner.</summary>
   </entry>
   <entry>
+    <title>sandbaseai/sandbase-skills</title>
+    <id>https://github.com/sandbaseai/sandbase-skills</id>
+    <link href="https://github.com/sandbaseai/sandbase-skills"/>
+    <updated>2026-08-19T00:00:00Z</updated>
+    <summary>88 Agent Skills for research, social intelligence, marketing, and business workflows, mounted through a native DSH bundle with optional project-scoped installation of multi-source-search.</summary>
+  </entry>
+  <entry>
     <title>huchunlinnk/deepseek-desk-rsi</title>
     <id>https://github.com/huchunlinnk/deepseek-desk-rsi</id>
     <link href="https://github.com/huchunlinnk/deepseek-desk-rsi"/>
@@ -207,12 +214,5 @@
     <link href="https://github.com/PerryLink/dsh-observe"/>
     <updated>2026-08-19T00:00:00Z</updated>
     <summary>OpenTelemetry and Langfuse observability export: turn/step/tool/LLM spans plus token and cost metrics, with sanitized collection and offline buffering with retry.</summary>
-  </entry>
-  <entry>
-    <title>fakechris/dsh-harness-ops</title>
-    <id>https://github.com/fakechris/dsh-harness-ops</id>
-    <link href="https://github.com/fakechris/dsh-harness-ops"/>
-    <updated>2026-08-19T00:00:00Z</updated>
-    <summary>Self-healing DSH ops toolbox: official daily-snapshot A/B slot rotation (acceptance-gated atomic switch, one-click rollback), a 10s watchdog that auto-relaunches the web and resumes interrupted turns, and an out-of-band dsh-doctor (diagnosis → repair → relaunch) when web and agent are both down.</summary>
   </entry>
 </feed>

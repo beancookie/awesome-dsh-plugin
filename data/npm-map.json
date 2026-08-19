@@ -1307,6 +1307,10 @@
   "npm": null,
   "checkedAt": "2026-08-14"
  },
+ "https://github.com/sandbaseai/sandbase-skills": {
+  "npm": null,
+  "checkedAt": "2026-08-19"
+ },
  "https://github.com/Sanqi-normal/dsh-webui-market-plugin": {
   "npm": "@sanqi-normal/dsh-webui-market-plugin",
   "checkedAt": "2026-08-14"
