@@ -130,10 +130,10 @@ DeepSeek Harness 是 DeepSeek 开源的 agent harness——既是可直接运行
 - [ZSeven-W/dsh-openpencil](https://github.com/ZSeven-W/dsh-openpencil) — OpenPencil 设计预览与编辑插件。
 
 ### 🎭 主题与外观
-- [h2682503133/dsh-wallpaper-rotation](https://github.com/h2682503133/dsh-wallpaper-rotation) — 壁纸轮换插件：本地图片定时轮换（间隔可调）、亮/暗主题各一组壁纸自动切换、侧边栏/对话区半透明透出壁纸、一键开关恢复默认界面。
 - [BeiZi6/dsh-theme-plugin](https://github.com/BeiZi6/dsh-theme-plugin) — DSH Web GUI 主题工作室：5 套内置预设 + 完全可自定义的浅/深配色（强调色、背景、前景、UI 与代码字体、半透明侧栏、对比度），即时热切换并持久化到 localStorage。
 - [Braidy-Wu/dsh-conversation-minimap](https://github.com/Braidy-Wu/dsh-conversation-minimap) — DSH Web GUI 对话迷你地图（复刻 ChatGPT 桌面端）：每轮 Prompt 一个等距胶囊锚点，鱼眼钟形悬停放大 + 完整 Prompt 预览，顶部/底部渐隐，蓝色高亮跟随当前 Prompt，点击跳转对应消息，自动拉取完整历史。
 - [dsh-skins](https://github.com/dsh-external/dsh-skins) — Web UI 皮肤。
+- [h2682503133/dsh-wallpaper-rotation](https://github.com/h2682503133/dsh-wallpaper-rotation) — 壁纸轮换插件：本地图片定时轮换（间隔可调）、亮/暗主题各一组壁纸自动切换、侧边栏/对话区半透明透出壁纸、一键开关恢复默认界面。
 - [ink5897/dsh-theme-kit](https://github.com/ink5897/dsh-theme-kit) — 32 款预设主题（莫兰迪 / 马卡龙 / 中国传统色）、动态与静态壁纸、纸纹纹理、分区透明度与文字深浅，附按键桌宠。
 - [dsh-custom-theme-import](https://github.com/Juryorca/dsh-custom-theme-import) — DSH Web 自定义主题导入插件：支持本地路径/GitHub 集合一键导入、主题预览与实时刷新、托管主题库；格式轻量，作者可直接改 CSS/DOM 文件热加载，适合个人主题开发与分享。
 - [KinGao294/dsh-skin](https://github.com/KinGao294/dsh-skin) — Codex 风格皮肤切换器 + 自定义壁纸层，可调透明度与模糊。
