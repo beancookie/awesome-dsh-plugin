@@ -101,6 +101,10 @@ DeepSeek Harness 是 DeepSeek 开源的 agent harness——既是可直接运行
 - [omdsh-dev/ex-setting](https://github.com/omdsh-dev/ex-setting) — DSH 的设置扩展。
 - [omdsh-dev/web-components](https://github.com/omdsh-dev/web-components) — Web Components 支持。
 - [openma-ai/deepseek-harness-tui](https://github.com/openma-ai/deepseek-harness-tui) — Rust/ratatui 终端客户端，直接使用 DSH SDK JSON-RPC 协议，支持独立运行或作为 profile bundle 加载。
+- [PerryLink/dsh-composer-history](https://github.com/PerryLink/dsh-composer-history) — 网页输入区的终端式输入历史：方向键精确还原草稿/光标，Ctrl+R 反搜，工作区级回忆，感知滑动上下文。
+- [PerryLink/dsh-output-styles](https://github.com/PerryLink/dsh-output-styles) — 运行时切换模型输出风格（对齐 Claude Code outputStyles），含 output.render.* 呈现协议与 /style 命令。
+- [PerryLink/dsh-session-pin](https://github.com/PerryLink/dsh-session-pin) — 置顶会话与工作区到侧边栏：逐置顶行配色、看板/标签/已存视图、健康摘要与 /goto。
+- [PerryLink/dsh-talk](https://github.com/PerryLink/dsh-talk) — 语音优先会话回路：输入区麦克风（浏览器/本地语音识别），speak 工具语音播报，事件播报与说话打断。
 - [pk7j7sqryy-ops/dsh-token-pet](https://github.com/pk7j7sqryy-ops/dsh-token-pet) — 会话头部卡通用量小部件：布布玩偶 + 上下文占用/会话累计/构成，附日期周几、天气、3 天预报与极端天气预警（雨滴/雪花动画），跟随主题色。
 - [qyw233/dsh-deeplink](https://github.com/qyw233/dsh-deeplink) — `?session=` / `?workspace=` 深链直达指定项目对话。
 - [renat3u/dsh-web-archive](https://github.com/renat3u/dsh-web-archive) — 折叠对话中的 Think、Bash 等「无用消息」。
@@ -137,6 +141,9 @@ DeepSeek Harness 是 DeepSeek 开源的 agent harness——既是可直接运行
 - [RevolutionLA/dsh-dream-skin](https://github.com/RevolutionLA/dsh-dream-skin) — DSH Web 一键换肤插件：8 套原创主题、背景壁纸（透明度/模糊/渐变/URL）、每用户强调色、主题包导入导出与分享链接、收藏与随机，纯原生 token 系统。
 - [Small-tailqwq/dsh-deep-whale](https://github.com/Small-tailqwq/dsh-deep-whale) — DSH Web 鲸鱼娘皮肤系列（深海女仆工坊 maid-atelier）。
 - [wsxwj123/dsh-plugins#theme-gallery](https://github.com/wsxwj123/dsh-plugins/tree/main/packages/theme-gallery) — 15 个精选主题家族，浅深配色完整，跟随 DSH 原生浅色/深色/跟随系统模式。
+- [PerryLink/dsh-checkpoint-rewind](https://github.com/PerryLink/dsh-checkpoint-rewind) — DSH 版 Claude Code /rewind：git 优先工作区快照 + 轮边界会话 fork + /checkpoint、/rewind 一键恢复。
+- [PerryLink/dsh-claude-move](https://github.com/PerryLink/dsh-claude-move) — 四源迁移向导：把 Claude Code、Codex、OpenCode、Hermes 的会话、记忆、技能、斜杠命令搬进 DSH 并可续跑。
+- [PerryLink/dsh-session-sync](https://github.com/PerryLink/dsh-session-sync) — 会话跨设备同步：专用 git 镜像 + append-only 三方合并（keep-both + fork 冲突解决），/sync 命令与自动推拉。
 - [xiaoyanzi191/dsh-premium-themes](https://github.com/xiaoyanzi191/dsh-premium-themes) — 8 套精选配色方案与自定义调色板导入（名称+方案+种子色推导完整 token 映射），设置页「调色板」行，热插拔安装。
 - [zhtx2024/dsh-skin-switcher](https://github.com/zhtx2024/dsh-skin-switcher) — 在设置界面新增「皮肤」页，自动发现已安装皮肤并一键切换，支持一键恢复官方默认外观。
 
@@ -177,7 +184,17 @@ DeepSeek Harness 是 DeepSeek 开源的 agent harness——既是可直接运行
 - [modusensus/dsh-mneme](https://github.com/modusensus/dsh-mneme) — 跨会话记忆：SQLite + 可人工编辑的 Markdown 镜像，后台自动巩固（去重/合并/冲突裁决），提供 6 个记忆工具。
 - [nowledge-co/nowledge-mem-deepseek-harness](https://github.com/nowledge-co/nowledge-mem-deepseek-harness) — 给所有 AI 工具和 Agent 共用的一层记忆：注入 Context Bundle、提示时检索、MCP 工具与回合结束 DSH 线程捕获。
 - [omdsh-dev/dsh-mnemon](https://github.com/omdsh-dev/dsh-mnemon) — Mnemon 深度集成：本地三层记忆（Runtime Memory、可检索 Documents、受监督 Memory Spaces）。
+- [PerryLink/dsh-auto-review](https://github.com/PerryLink/dsh-auto-review) — 审批链上的第二模型自动审查：只读审查子代理返回带理由的 allow/deny 结构化裁决，fail-closed 兜底。
+- [PerryLink/dsh-budget](https://github.com/PerryLink/dsh-budget) — 成本治理：按模型/会话/日聚合 token 与成本计量，预算上限 + 阈值告警 + alert/block/degrade 超限策略，/budget 命令。
+- [PerryLink/dsh-click](https://github.com/PerryLink/dsh-click) — 跨平台原生桌面控制（Windows 优先）：截图/读屏/点击/输入/滚轮/按键/应用启动，变更动作全过审批门。
+- [PerryLink/dsh-defend](https://github.com/PerryLink/dsh-defend) — 提示注入/越狱/密钥泄露检测：Aho-Corasick 引擎在用户消息、工具参数、工具结果三道缝上 allow/ask/block 拦截。
+- [PerryLink/dsh-draw](https://github.com/PerryLink/dsh-draw) — 统一静态图像生成路由：一个 image_generate 工具接 OpenAI 兼容引擎（OpenAI Images、智谱 CogView 等），健康感知回退 + 会话配额。
+- [PerryLink/dsh-library](https://github.com/PerryLink/dsh-library) — 本地文档知识库：语义+关键词混合检索、多样性重排、引用感知注入，SQLite 索引，零模型下载。
+- [PerryLink/dsh-mask](https://github.com/PerryLink/dsh-mask) — PII 脱敏中间件：姓名/电话/身份证/银行卡等在到达模型前匿名化为占位符，展示层还原，绝不记录明文。
 - [PerryLink/dsh-memento](https://github.com/PerryLink/dsh-memento) — 有界、分层、带审批门、可审计的跨会话记忆：`ctx.memory` 服务 + 零依赖 SQLite 存储 + `memory` 工具与冻结快照注入；写入必过审批门，模型可见内容可自会话日志重建。
+- [PerryLink/dsh-permission-rules](https://github.com/PerryLink/dsh-permission-rules) — 声明式 allow/deny/ask 权限规则 + Codex 式进程级网络策略（内置本地 HTTP/CONNECT 代理），全量审计 + 规则热重载。
+- [PerryLink/dsh-score](https://github.com/PerryLink/dsh-score) — 插件多维质量评分：安装成功/维护/文档/安全/协议合规五维，真实 CLI 证据 + 审计时间戳，产出 JSON/Markdown 榜单。
+- [PerryLink/dsh-test-drive](https://github.com/PerryLink/dsh-test-drive) — 插件隔离安装冒烟试驾：一次性 DSH_HOME profile 内安装+校验+启动，产出结构化通过/失败矩阵。
 - [Phant0Meow/dsh-memory-meow](https://github.com/Phant0Meow/dsh-memory-meow) — 项目级跨会话记忆：PROJECT.md 快照注入首条用户消息（缓存友好）+ memory_remember 工具 + ReAct 任务结束自动反思；各项目独立记忆文件，互不互通。
 - [Tyan66666/billion-context-dsh](https://github.com/Tyan66666/billion-context-dsh) — 模型驱动的上下文压缩：由模型决定何时压缩、压缩什么。
 - [xiejianjun000/eco-dsh-plugins](https://github.com/xiejianjun000/eco-dsh-plugins) — 评分制记忆树插件 eco-memory-tree：结构化长期记忆，BM25/中文检索，Obsidian 双向同步。
@@ -278,6 +295,8 @@ DeepSeek Harness 是 DeepSeek 开源的 agent harness——既是可直接运行
 - [vibeinging/dsh-tool-search](https://github.com/vibeinging/dsh-tool-search) — 按 agent 的按需工具发现与渐进式 schema 披露。
 - [xiaoyuyu6420/dsh-backup](https://github.com/xiaoyuyu6420/dsh-backup) — 一键备份 DSH 用户数据：/backup 命令、定时自动备份、sha256 校验与自动轮换。
 - [xiehuan123/coding-coach](https://github.com/xiehuan123/coding-coach) — Coding Coach 编程教练：面向非开发人员的 35 技能 bundle + 完整 Agent 预设（八段编排流水线 + 工程/产品/界面技能），npm 可装 `dsh plugin add coding-coach`，同时提供 Claude Code 插件。
+- [PerryLink/dsh-plugin-guide](https://github.com/PerryLink/dsh-plugin-guide) — 插件开发知识库打包为按需加载的 agent 技能：官方约束、任务工作流、API 参考与社区踩坑。
+- [PerryLink/dsh-skill-pack-security](https://github.com/PerryLink/dsh-skill-pack-security) — 安全审计技能包 + plugin_vet 供应链门禁：八个双语技能 + 自动化预安装扫描器。
 - [xiehuan123/dsh-deepread](https://github.com/xiehuan123/dsh-deepread) — DeepRead 精读助手：五种精读模式（quick / deep / map 知识地图（四档置信度）/ feynman 费曼读书法 / book 全书）、批量对比、预算预检与后台任务进度透明、微信公众号链接 / .pdf 文件（内置纯 JS 提取器）/ 粘贴文本，可选导出 MD / FreeMind 思维导图（XMind 可导入）/ 编辑风网页报告。
 - [xmutfyh/dsh-plugin-writing-guard](https://github.com/xmutfyh/dsh-plugin-writing-guard) — 论文写作守卫：本地规则扫描修改过程残留、防御性写作与 AI 写作痕迹（破折号滥用、不是X而是Y、LLM 高频词、三连排比），论文文件写入后增量自动审计（writing_audit / writing_rules）。
 - [yangyunsong023/dsh-sxs-anti-bot-http](https://github.com/yangyunsong023/dsh-sxs-anti-bot-http) — 反爬 HTTP 工具：UA 池轮换、指数退避重试、反爬墙检测（验证码/安全验证）与自适应限流，提炼自 SXS 生产采集体系（每日数百万请求）——工具：`sxs_fetch` / `sxs_fetch_json` / `sxs_rate_status`。
@@ -290,6 +309,7 @@ DeepSeek Harness 是 DeepSeek 开源的 agent harness——既是可直接运行
 - [zimai233/dsh-figma-to-lottie](https://github.com/zimai233/dsh-figma-to-lottie) — 将 SVG 路径与关键帧参数编译成自包含的 Lottie JSON 动画文件。
 - [zimai233/dsh-image-search](https://github.com/zimai233/dsh-image-search) — 多引擎反向识图聚合：Google Lens、百度、Yandex、TinEye、SauceNAO、IQDB、Ascii2d。
 - [zimai233/dsh-video-downloader](https://github.com/zimai233/dsh-video-downloader) — 检测并下载 B站/YouTube/抖音/小红书视频媒体，带清晰度与格式分析。
+- [PerryLink/dsh-background-agents](https://github.com/PerryLink/dsh-background-agents) — 可续跑的后台子代理 + 持久多代理团队房间：消息总线、共享任务板、审批门交接，跨重启存活。
 - [zimai233/dsh-wash-calendar](https://github.com/zimai233/dsh-wash-calendar) — 基于纯日期数学的周期习惯排程：下次发生日、区间排程与逾期提醒。
 - [ZK-Andy/dsh-continual-evolve](https://github.com/ZK-Andy/dsh-continual-evolve) — 持续自进化：从会话轨迹沉淀版本化、可审计、可回滚的 harness 状态（提示词/记忆/技能/子代理规格），带审查门禁与技能热加载。
 - [zp-home/dsh-recommend](https://github.com/zp-home/dsh-recommend) — DSH 插件透明排行与推荐：每日自动抓取 `dsh-plugin` 话题生态，公开评分模型，提供 rank/search/recommend 工具与设置页榜单。
@@ -322,6 +342,7 @@ DeepSeek Harness 是 DeepSeek 开源的 agent harness——既是可直接运行
 - [icetomoyo/dsh_workflow](https://github.com/icetomoyo/dsh_workflow) — 把 UltraCode 式多 Agent 调度带给 DSH：可生成、可保存、可治理、可观察、可恢复的 Workflow 层。
 - [Jesse-njx/dsh-routines](https://github.com/Jesse-njx/dsh-routines) — 定时 Agent：按 cron 计划运行 prompt，把摘要送到你已有的地方，内置重叠/漏跑/超时安全策略。
 - [file-planning](https://github.com/JohnXu22786/file-planning) — trailmap：磁盘持久化执行规划——里程碑状态机、依赖标注、审计事件与复盘纪要。
+- [PerryLink/dsh-github](https://github.com/PerryLink/dsh-github) — 官方级 GitHub CI 集成：composite action、轮询 PR 审查机器人（幂等行内评论）、状态检查门，写操作全过审批。
 - [task-board](https://github.com/JohnXu22786/task-board) — 跨会话事件溯源工作台账：任务跟踪、审计历史、看板导出。
 - [Letter2025/dsh-approval-llm](https://github.com/Letter2025/dsh-approval-llm) — 基于模型的权限审批：由独立审查模型自动应答 approval 权限请求。
 - [Letter2025/dsh-model-failover](https://github.com/Letter2025/dsh-model-failover) — 两级模型熔断与回退：模型或平台连续失败后自动熔断，并把下一个请求路由到配置好的备用模型。
@@ -337,6 +358,8 @@ DeepSeek Harness 是 DeepSeek 开源的 agent harness——既是可直接运行
 - [titanwings/dsh-plannotator](https://github.com/titanwings/dsh-plannotator) — 计划批注：选中计划原文逐条批注，结构化反馈送回 Agent。
 - [vlln/dsh-loop](https://github.com/vlln/dsh-loop) — 定时循环：`/loop` 命令 + loop 工具 + 活动状态条。
 
+- [PerryLink/dsh-local-ai](https://github.com/PerryLink/dsh-local-ai) — Ollama 本地模型集成：发现/拉取/移除/查看，按任务类型或关键词路由并自动回退云端，/ollama 总览。
+- [PerryLink/dsh-translate](https://github.com/PerryLink/dsh-translate) — 跨 11 家厂商的参数翻译（temperature/top_p 等）+ 确定性 JSON 修复，绝不编造数据。
 ### 🔔 通知与集成
 - [Andyqwe44/dsh-notify-win](https://github.com/Andyqwe44/dsh-notify-win) — 原生 Windows toast + 任务栏闪烁，任务完成/审批/提问时触发，支持 Win10/11，npm 安装 `dsh plugin --profile web add dsh-notify-win`。
 - [BiBoyang/dsh-im-bridge](https://github.com/BiBoyang/dsh-im-bridge) — 微信（iLink）双向桥：turn 完成/批准请求推送、聊天内批准与消息注入、持久去重与长回复收敛分段；通道层为多 IM 预留。
@@ -355,6 +378,9 @@ DeepSeek Harness 是 DeepSeek 开源的 agent harness——既是可直接运行
 - [omdsh-dev/dsh-notification](https://github.com/omdsh-dev/dsh-notification) — 回合完成桌面通知，按结果分控 + 关键词过滤。
 - [omdsh-dev/dsh-open-in-vscode](https://github.com/omdsh-dev/dsh-open-in-vscode) — 从 Web GUI 一键在 VS Code 中打开工作区目录。
 - [openma-ai/deepseek-harness-acp](https://github.com/openma-ai/deepseek-harness-acp) — ACP profile 插件与独立 stdio server，可从 Zed 等 ACP 客户端使用完整 DSH agent，并共享 DSH 凭据与会话。
+- [PerryLink/dsh-fast](https://github.com/PerryLink/dsh-fast) — 只读性能诊断：会话加载耗时、spill 命中、压缩统计、上下文注入量、LLM 缓存命中率，/fast + fast_report。
+- [PerryLink/dsh-lsp-actions](https://github.com/PerryLink/dsh-lsp-actions) — LSP 动作面：诊断/格式化/补全/代码动作/符号/签名提示/inlay 提示/重命名，由真实语言服务器驱动。
+- [PerryLink/dsh-observe](https://github.com/PerryLink/dsh-observe) — OpenTelemetry 与 Langfuse 可观测性导出：turn/step/tool/LLM span 与 token/成本指标，脱敏采集 + 离线缓冲重试。
 - [dsh-feishu](https://github.com/PGZXB/dsh-feishu) — DeepSeek Harness 的飞书 UI：面板驱动控制台，卡内审批与提问，流式卡片，扫码一键配置。
 - [SeverusZh/dsh-notify-windows](https://github.com/SeverusZh/dsh-notify-windows) — Windows 通知，零依赖。
 
