@@ -219,6 +219,7 @@ DeepSeek Harness 是 DeepSeek 开源的 agent harness——既是可直接运行
 - [dsh-browser-panel](https://github.com/dsh-external/dsh-browser-panel) — WebUI 内嵌有头浏览器，模型实时操控、0 视觉依赖。
 - [dsh-office](https://github.com/dsh-external/dsh-office) — 模型读写 Office 文件，web 客户端 docx/pdf 预览。
 - [dsh-market/dsh-market](https://github.com/dsh-market/dsh-market) — 装在 DSH 里的插件市场：设置页内逛/搜全部社区插件，按分类筛选，确认后一键安装，已装插件一目了然。
+- [dream-num/dsh-univer-office](https://github.com/dream-num/dsh-univer-office) — 在 DeepSeek Harness 中创建、编辑、检查和交付表格、文档、演示文稿、多维表格和画布，支持实时预览与 worktree 审阅。
 - [EvilIrving/dsh-context-proxy](https://github.com/EvilIrving/dsh-context-proxy) — 按需取回薄层：context_query / context_slice / context_grep 三个工具读取已持久化的历史，引用可回放。
 - [flymysql/dsh-remote](https://github.com/flymysql/dsh-remote) — 远程工作区：SSH 密码或 key 连接远程主机，选取远程工作区目录，用 rw_pick_workspace / rw_list_dir / rw_read_file / rw_exec 工具在远程直接操作。
 - [futongxu9-maker/dsh-path-reveal](https://github.com/futongxu9-maker/dsh-path-reveal) — 点击消息里的 Windows 绝对路径在资源管理器中打开所在文件夹（文件定位选中/目录直接打开）。
