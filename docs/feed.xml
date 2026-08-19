@@ -125,6 +125,13 @@
     <summary>插件隔离安装冒烟试驾：一次性 DSH_HOME profile 内安装+校验+启动，产出结构化通过/失败矩阵。</summary>
   </entry>
   <entry>
+    <title>dream-num/dsh-univer-office</title>
+    <id>https://github.com/dream-num/dsh-univer-office</id>
+    <link href="https://github.com/dream-num/dsh-univer-office"/>
+    <updated>2026-08-19T00:00:00Z</updated>
+    <summary>在 DeepSeek Harness 中创建、编辑、检查和交付表格、文档、演示文稿、多维表格和画布，支持实时预览与 worktree 审阅。</summary>
+  </entry>
+  <entry>
     <title>maddogfinance/dsh-trading</title>
     <id>https://github.com/maddogfinance/dsh-trading</id>
     <link href="https://github.com/maddogfinance/dsh-trading"/>
@@ -207,12 +214,5 @@
     <link href="https://github.com/SunQingyuan0/Kabutack"/>
     <updated>2026-08-19T00:00:00Z</updated>
     <summary>基于角色的 DSH 插件 / Skill / MCP 管理器：把能力组合定义为“角色”，在 Web 设置页一键动态装载与切换。</summary>
-  </entry>
-  <entry>
-    <title>dsh-custom-theme-import</title>
-    <id>https://github.com/Juryorca/dsh-custom-theme-import</id>
-    <link href="https://github.com/Juryorca/dsh-custom-theme-import"/>
-    <updated>2026-08-18T00:00:00Z</updated>
-    <summary>DSH Web 自定义主题导入插件：支持本地路径/GitHub 集合一键导入、主题预览与实时刷新、托管主题库；格式轻量，作者可直接改 CSS/DOM 文件热加载，适合个人主题开发与分享。</summary>
   </entry>
 </feed>

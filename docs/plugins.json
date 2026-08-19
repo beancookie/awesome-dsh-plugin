@@ -3,7 +3,7 @@
  "url": "https://beancookie.github.io/awesome-dsh-plugin",
  "source": "https://github.com/beancookie/awesome-dsh-plugin",
  "updated": "2026-08-19",
- "count": 402,
+ "count": 403,
  "categories": {
   "ui": {
    "zh": "UI 增强",
@@ -2315,6 +2315,21 @@
    "createdAt": "2026-08-14",
    "install": "dsh plugin --profile web add github:ciceroyang/dsh-report-studio",
    "added": "2026-08-14"
+  },
+  {
+   "name": "dsh-univer-office",
+   "owner": "dream-num",
+   "url": "https://github.com/dream-num/dsh-univer-office",
+   "category": "tools",
+   "description": {
+    "zh": "在 DeepSeek Harness 中创建、编辑、检查和交付表格、文档、演示文稿、多维表格和画布，支持实时预览与 worktree 审阅。",
+    "en": "Create, edit, inspect, and deliver spreadsheets, documents, presentations, databases, and canvases in DeepSeek Harness, with live preview and worktree review."
+   },
+   "npm": "dsh-univer-office",
+   "stars": 9,
+   "createdAt": "2026-08-15",
+   "install": "dsh plugin --profile web add dsh-univer-office",
+   "added": "2026-08-19"
   },
   {
    "name": "browser4-dsh",

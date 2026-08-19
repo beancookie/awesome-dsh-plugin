@@ -315,6 +315,10 @@
   "npm": null,
   "checkedAt": "2026-08-14"
  },
+ "https://github.com/dream-num/dsh-univer-office": {
+  "npm": "dsh-univer-office",
+  "checkedAt": "2026-08-19"
+ },
  "https://github.com/dsh-external/browser4-dsh": {
   "npm": null,
   "checkedAt": "2026-08-14"

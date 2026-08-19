@@ -125,6 +125,13 @@
     <summary>Isolated install-and-smoke-test for plugins: install, validate, and boot inside a throwaway DSH_HOME profile, producing a structured pass/fail matrix.</summary>
   </entry>
   <entry>
+    <title>dream-num/dsh-univer-office</title>
+    <id>https://github.com/dream-num/dsh-univer-office</id>
+    <link href="https://github.com/dream-num/dsh-univer-office"/>
+    <updated>2026-08-19T00:00:00Z</updated>
+    <summary>Create, edit, inspect, and deliver spreadsheets, documents, presentations, databases, and canvases in DeepSeek Harness, with live preview and worktree review.</summary>
+  </entry>
+  <entry>
     <title>maddogfinance/dsh-trading</title>
     <id>https://github.com/maddogfinance/dsh-trading</id>
     <link href="https://github.com/maddogfinance/dsh-trading"/>
@@ -207,12 +214,5 @@
     <link href="https://github.com/SunQingyuan0/Kabutack"/>
     <updated>2026-08-19T00:00:00Z</updated>
     <summary>Role-based manager for DSH plugins/Skills/MCP: bundle capabilities into “roles” and hot-switch them from the Web UI.</summary>
-  </entry>
-  <entry>
-    <title>dsh-custom-theme-import</title>
-    <id>https://github.com/Juryorca/dsh-custom-theme-import</id>
-    <link href="https://github.com/Juryorca/dsh-custom-theme-import"/>
-    <updated>2026-08-18T00:00:00Z</updated>
-    <summary>DSH Web custom theme importer: one-click import from local paths or GitHub theme collections, live preview and refresh, hosted theme library; the lightweight format lets authors edit CSS/DOM files and hot-reload, making it a friendly option for personal theme development and sharing.</summary>
   </entry>
 </feed>
