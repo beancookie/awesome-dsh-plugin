@@ -219,6 +219,7 @@ DeepSeek Harness is DeepSeek's open-source agent harness — a runnable coding a
 - [dsh-browser-panel](https://github.com/dsh-external/dsh-browser-panel) - Headed browser embedded in the WebUI, model-driven and zero vision deps.
 - [dsh-office](https://github.com/dsh-external/dsh-office) - Model reads/edits Office files with docx/pdf preview in the web client.
 - [dsh-market/dsh-market](https://github.com/dsh-market/dsh-market) - The plugin market inside DSH: a Settings page to browse and search the full community catalog by category, with confirmed one-click installs and an installed-plugins view.
+- [dream-num/dsh-univer-office](https://github.com/dream-num/dsh-univer-office) - Create, edit, inspect, and deliver spreadsheets, documents, presentations, databases, and canvases in DeepSeek Harness, with live preview and worktree review.
 - [EvilIrving/dsh-context-proxy](https://github.com/EvilIrving/dsh-context-proxy) - Thin on-demand context retrieval: context_query / context_slice / context_grep tools that read already-persisted history back with replay-safe citations.
 - [flymysql/dsh-remote](https://github.com/flymysql/dsh-remote) - Remote workspace: connect a host over SSH (password or key), pick a remote workspace directory and operate on it with rw_pick_workspace / rw_list_dir / rw_read_file / rw_exec tools.
 - [futongxu9-maker/dsh-path-reveal](https://github.com/futongxu9-maker/dsh-path-reveal) - Click any absolute Windows path in DSH messages to reveal it in Explorer (select the file or open the folder).
