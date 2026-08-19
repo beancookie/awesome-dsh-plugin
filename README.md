@@ -32,7 +32,7 @@ DeepSeek Harness 是 DeepSeek 开源的 agent harness——既是可直接运行
 
 </details>
 
-**372** 个插件 · 欢迎 [PR](#贡献)
+**374** 个插件 · 欢迎 [PR](#贡献)
 
 ## 目录
 
@@ -381,6 +381,7 @@ DeepSeek Harness 是 DeepSeek 开源的 agent harness——既是可直接运行
 - [PerryLink/dsh-fast](https://github.com/PerryLink/dsh-fast) — 只读性能诊断：会话加载耗时、spill 命中、压缩统计、上下文注入量、LLM 缓存命中率，/fast + fast_report。
 - [PerryLink/dsh-lsp-actions](https://github.com/PerryLink/dsh-lsp-actions) — LSP 动作面：诊断/格式化/补全/代码动作/符号/签名提示/inlay 提示/重命名，由真实语言服务器驱动。
 - [PerryLink/dsh-observe](https://github.com/PerryLink/dsh-observe) — OpenTelemetry 与 Langfuse 可观测性导出：turn/step/tool/LLM span 与 token/成本指标，脱敏采集 + 离线缓冲重试。
+- [dsh-feishu](https://github.com/PGZXB/dsh-feishu) — DeepSeek Harness 的飞书 UI：面板驱动控制台，卡内审批与提问，流式卡片，扫码一键配置。
 - [SeverusZh/dsh-notify-windows](https://github.com/SeverusZh/dsh-notify-windows) — Windows 通知，零依赖。
 
 ### 🔌 模型与账号接入
@@ -442,6 +443,7 @@ DeepSeek Harness 是 DeepSeek 开源的 agent harness——既是可直接运行
 - [slywalker2006/dsh-passwords](https://github.com/slywalker2006/dsh-passwords) — DSH Web UI 登录网关：首次配置、bcrypt + 静态加密（AES-256-GCM/HMAC）、防爆破、审计日志、TLS 1.2+ 与 80→443 跳转、CSRF 与防嵌框。
 - [Small-tailqwq/dsh-tps](https://github.com/Small-tailqwq/dsh-tps) — TPS 指标插件。
 - [suimi8/dsh-test-runner](https://github.com/suimi8/dsh-test-runner) — 结构化测试运行工具：自动识别 Vitest/Jest/pytest/node:test 并解析失败。
+- [SunQingyuan0/Kabutack](https://github.com/SunQingyuan0/Kabutack) — 基于角色的 DSH 插件 / Skill / MCP 管理器：把能力组合定义为“角色”，在 Web 设置页一键动态装载与切换。
 - [vibeinging/dsh-agent-budget](https://github.com/vibeinging/dsh-agent-budget) — agent 树 token 预算管理。
 - [vibeinging/dsh-trace](https://github.com/vibeinging/dsh-trace) — 遥测后端：把 turns、model steps、tool calls 导出到 yiTrace。
 - [vlln/plugin-registry](https://github.com/vlln/plugin-registry) — 插件生态基建：浏览器面板管理官方 repository 插件（0 patch）+ make-dsh-plugin 插件开发引导技能。

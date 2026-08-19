@@ -1683,6 +1683,12 @@
   "etag": "W/\"a4c3855d98bcff115dd3ee1ed2ee3304879ee31f96b5bd3a6c7959ddf2accd31\"",
   "checkedAt": "2026-08-17"
  },
+ "https://github.com/PGZXB/dsh-feishu": {
+  "stars": 8,
+  "createdAt": "2026-08-14",
+  "etag": "W/\"0880f521a971539977e8c9bc5e1c58d37f05c563bf57573f40de1c7c2af65ef0\"",
+  "checkedAt": "2026-08-18"
+ },
  "https://github.com/Phant0Meow/dsh-memory-meow": {
   "stars": 3,
   "createdAt": "2026-08-14",
@@ -1838,6 +1844,12 @@
   "createdAt": "2026-08-13",
   "etag": "W/\"762bdc3350f5ff0569c5789ab69c5f424b0577dbb73fef13361bcc0ada47912a\"",
   "checkedAt": "2026-08-17"
+ },
+ "https://github.com/SunQingyuan0/Kabutack": {
+  "stars": 3,
+  "createdAt": "2026-08-17",
+  "etag": "W/\"3203a29f122cfd738a8153575f089dba3bea5e0da5bdc8d32b4508645d00ed99\"",
+  "checkedAt": "2026-08-19"
  },
  "https://github.com/sunshine-lang/dsh-pdf": {
   "stars": 4,

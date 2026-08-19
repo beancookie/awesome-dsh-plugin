@@ -1147,6 +1147,10 @@
   "npm": null,
   "checkedAt": "2026-08-14"
  },
+ "https://github.com/PGZXB/dsh-feishu": {
+  "npm": null,
+  "checkedAt": "2026-08-18"
+ },
  "https://github.com/Phant0Meow/dsh-memory-meow": {
   "npm": null,
   "checkedAt": "2026-08-14"
@@ -1250,6 +1254,10 @@
  "https://github.com/suimi8/dsh-test-runner": {
   "npm": null,
   "checkedAt": "2026-08-14"
+ },
+ "https://github.com/SunQingyuan0/Kabutack": {
+  "npm": "@galactus/kabutack",
+  "checkedAt": "2026-08-19"
  },
  "https://github.com/sunshine-lang/dsh-pdf": {
   "npm": "dsh-pdf",

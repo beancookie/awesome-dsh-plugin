@@ -4,7 +4,14 @@
   <id>https://beancookie.github.io/awesome-dsh-plugin/</id>
   <link href="https://beancookie.github.io/awesome-dsh-plugin/"/>
   <link rel="self" href="https://beancookie.github.io/awesome-dsh-plugin/feed.xml"/>
-  <updated>2026-08-18T00:00:00Z</updated>
+  <updated>2026-08-19T00:00:00Z</updated>
+  <entry>
+    <title>SunQingyuan0/Kabutack</title>
+    <id>https://github.com/SunQingyuan0/Kabutack</id>
+    <link href="https://github.com/SunQingyuan0/Kabutack"/>
+    <updated>2026-08-19T00:00:00Z</updated>
+    <summary>基于角色的 DSH 插件 / Skill / MCP 管理器：把能力组合定义为“角色”，在 Web 设置页一键动态装载与切换。</summary>
+  </entry>
   <entry>
     <title>dsh-custom-theme-import</title>
     <id>https://github.com/Juryorca/dsh-custom-theme-import</id>
@@ -46,6 +53,13 @@
     <link href="https://github.com/orziz/odai/tree/main/dsh/plugin"/>
     <updated>2026-08-18T00:00:00Z</updated>
     <summary>面向整个 DSH profile 的治理与路由 bundle，提供可配置的压缩调用与本地作用域语义记忆；兼容 DSH 0.1.0-rc.6 与 0.1.0-rc.7。</summary>
+  </entry>
+  <entry>
+    <title>dsh-feishu</title>
+    <id>https://github.com/PGZXB/dsh-feishu</id>
+    <link href="https://github.com/PGZXB/dsh-feishu"/>
+    <updated>2026-08-18T00:00:00Z</updated>
+    <summary>DeepSeek Harness 的飞书 UI：面板驱动控制台，卡内审批与提问，流式卡片，扫码一键配置。</summary>
   </entry>
   <entry>
     <title>daetz-coder/dsh-multi-chat</title>
@@ -200,19 +214,5 @@
     <link href="https://github.com/JohnXu22786/computer-control"/>
     <updated>2026-08-17T00:00:00Z</updated>
     <summary>桌面控制：屏幕捕获、指针/键盘注入、无障碍树操作、确认流程与紧急停止。</summary>
-  </entry>
-  <entry>
-    <title>context-pruner</title>
-    <id>https://github.com/JohnXu22786/context-pruner</id>
-    <link href="https://github.com/JohnXu22786/context-pruner"/>
-    <updated>2026-08-17T00:00:00Z</updated>
-    <summary>会话上下文整理插件：修剪过期、重复、失败与过大的上下文以节省 token 预算。</summary>
-  </entry>
-  <entry>
-    <title>docs-retriever</title>
-    <id>https://github.com/JohnXu22786/docs-retriever</id>
-    <link href="https://github.com/JohnXu22786/docs-retriever"/>
-    <updated>2026-08-17T00:00:00Z</updated>
-    <summary>doctrove：版本化库文档检索 MCP 服务器，零运行时依赖，可作 dsh 插件 bundle 安装。</summary>
   </entry>
 </feed>
