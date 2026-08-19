@@ -138,12 +138,12 @@ DeepSeek Harness 是 DeepSeek 开源的 agent harness——既是可直接运行
 - [KinGao294/dsh-skin](https://github.com/KinGao294/dsh-skin) — Codex 风格皮肤切换器 + 自定义壁纸层，可调透明度与模糊。
 - [Liu-ZA-81/dsh-theme-firefly](https://github.com/Liu-ZA-81/dsh-theme-firefly) — 崩坏：星穹铁道「流萤」主题：立绘/动态壁纸、萤火绿霓虹配色、开屏变身动画、萤火氛围粒子、背景音乐、打字音效与按对话触发的表情包彩蛋。
 - [dsh-odette-skin](https://github.com/lkdx0220/Genshin-odette-skin-dsh) — DSH 原神「奥黛塔」主题 UI 皮肤：深/浅双模式背景图 + 13 个主题 token 毛玻璃覆盖 + 侧栏 Q 版小兽皮肤开关，npm 即装即用。
-- [RevolutionLA/dsh-dream-skin](https://github.com/RevolutionLA/dsh-dream-skin) — DSH Web 一键换肤插件：8 套原创主题、背景壁纸（透明度/模糊/渐变/URL）、每用户强调色、主题包导入导出与分享链接、收藏与随机，纯原生 token 系统。
-- [Small-tailqwq/dsh-deep-whale](https://github.com/Small-tailqwq/dsh-deep-whale) — DSH Web 鲸鱼娘皮肤系列（深海女仆工坊 maid-atelier）。
-- [wsxwj123/dsh-plugins#theme-gallery](https://github.com/wsxwj123/dsh-plugins/tree/main/packages/theme-gallery) — 15 个精选主题家族，浅深配色完整，跟随 DSH 原生浅色/深色/跟随系统模式。
 - [PerryLink/dsh-checkpoint-rewind](https://github.com/PerryLink/dsh-checkpoint-rewind) — DSH 版 Claude Code /rewind：git 优先工作区快照 + 轮边界会话 fork + /checkpoint、/rewind 一键恢复。
 - [PerryLink/dsh-claude-move](https://github.com/PerryLink/dsh-claude-move) — 四源迁移向导：把 Claude Code、Codex、OpenCode、Hermes 的会话、记忆、技能、斜杠命令搬进 DSH 并可续跑。
 - [PerryLink/dsh-session-sync](https://github.com/PerryLink/dsh-session-sync) — 会话跨设备同步：专用 git 镜像 + append-only 三方合并（keep-both + fork 冲突解决），/sync 命令与自动推拉。
+- [RevolutionLA/dsh-dream-skin](https://github.com/RevolutionLA/dsh-dream-skin) — DSH Web 一键换肤插件：8 套原创主题、背景壁纸（透明度/模糊/渐变/URL）、每用户强调色、主题包导入导出与分享链接、收藏与随机，纯原生 token 系统。
+- [Small-tailqwq/dsh-deep-whale](https://github.com/Small-tailqwq/dsh-deep-whale) — DSH Web 鲸鱼娘皮肤系列（深海女仆工坊 maid-atelier）。
+- [wsxwj123/dsh-plugins#theme-gallery](https://github.com/wsxwj123/dsh-plugins/tree/main/packages/theme-gallery) — 15 个精选主题家族，浅深配色完整，跟随 DSH 原生浅色/深色/跟随系统模式。
 - [xiaoyanzi191/dsh-premium-themes](https://github.com/xiaoyanzi191/dsh-premium-themes) — 8 套精选配色方案与自定义调色板导入（名称+方案+种子色推导完整 token 映射），设置页「调色板」行，热插拔安装。
 - [zhtx2024/dsh-skin-switcher](https://github.com/zhtx2024/dsh-skin-switcher) — 在设置界面新增「皮肤」页，自动发现已安装皮肤并一键切换，支持一键恢复官方默认外观。
 
@@ -282,6 +282,9 @@ DeepSeek Harness 是 DeepSeek 开源的 agent harness——既是可直接运行
 - [omdsh-dev/dsh-tool-stat](https://github.com/omdsh-dev/dsh-tool-stat) — 描述统计/百分位数/频数分布/相关性。
 - [omdsh-dev/dsh-tool-time](https://github.com/omdsh-dev/dsh-tool-time) — 严格 ISO 8601 解析、IANA 时区转换、UTC 日历运算。
 - [omdsh-dev/dsh-toolkit](https://github.com/omdsh-dev/dsh-toolkit) — 零依赖工具包：time / encoding / json / calculator / csv / regex / markdown / diff / stat / schema 十件套一键安装。
+- [PerryLink/dsh-background-agents](https://github.com/PerryLink/dsh-background-agents) — 可续跑的后台子代理 + 持久多代理团队房间：消息总线、共享任务板、审批门交接，跨重启存活。
+- [PerryLink/dsh-plugin-guide](https://github.com/PerryLink/dsh-plugin-guide) — 插件开发知识库打包为按需加载的 agent 技能：官方约束、任务工作流、API 参考与社区踩坑。
+- [PerryLink/dsh-skill-pack-security](https://github.com/PerryLink/dsh-skill-pack-security) — 安全审计技能包 + plugin_vet 供应链门禁：八个双语技能 + 自动化预安装扫描器。
 - [phelpsyacht/dshmath-manim](https://github.com/phelpsyacht/dshmath-manim) — 基于 Manim CE 的数学动画插件：6 个内置模板（函数/导数/积分/几何/极坐标/3D 曲面）+ 零代码技能包（math-animation / manim-codegen），模型说人话即可生成动画视频，含 AST 静态安全校验。
 - [PicGo/dsh-plugin](https://github.com/PicGo/dsh-plugin) — 通过 PicGo 已有配置（PicGo Cloud、GitHub、S3、腾讯云 COS、七牛，或任意已安装的上传插件）把本地图片和文件上传到图床，提供 `picgo_upload` 工具与 `/picgo` 命令。
 - [PolinniZhong/dsh-omi-voice](https://github.com/PolinniZhong/dsh-omi-voice) — 豆包音质对话内朗读：每条 AI 回复 🔊 点读/自动朗读（默认关、状态持久化），音色由本地 Omi 引擎合成（豆包 seed-tts），BYOK（Key 只留在本机 Keychain，插件零 Key）。
@@ -295,8 +298,6 @@ DeepSeek Harness 是 DeepSeek 开源的 agent harness——既是可直接运行
 - [vibeinging/dsh-tool-search](https://github.com/vibeinging/dsh-tool-search) — 按 agent 的按需工具发现与渐进式 schema 披露。
 - [xiaoyuyu6420/dsh-backup](https://github.com/xiaoyuyu6420/dsh-backup) — 一键备份 DSH 用户数据：/backup 命令、定时自动备份、sha256 校验与自动轮换。
 - [xiehuan123/coding-coach](https://github.com/xiehuan123/coding-coach) — Coding Coach 编程教练：面向非开发人员的 35 技能 bundle + 完整 Agent 预设（八段编排流水线 + 工程/产品/界面技能），npm 可装 `dsh plugin add coding-coach`，同时提供 Claude Code 插件。
-- [PerryLink/dsh-plugin-guide](https://github.com/PerryLink/dsh-plugin-guide) — 插件开发知识库打包为按需加载的 agent 技能：官方约束、任务工作流、API 参考与社区踩坑。
-- [PerryLink/dsh-skill-pack-security](https://github.com/PerryLink/dsh-skill-pack-security) — 安全审计技能包 + plugin_vet 供应链门禁：八个双语技能 + 自动化预安装扫描器。
 - [xiehuan123/dsh-deepread](https://github.com/xiehuan123/dsh-deepread) — DeepRead 精读助手：五种精读模式（quick / deep / map 知识地图（四档置信度）/ feynman 费曼读书法 / book 全书）、批量对比、预算预检与后台任务进度透明、微信公众号链接 / .pdf 文件（内置纯 JS 提取器）/ 粘贴文本，可选导出 MD / FreeMind 思维导图（XMind 可导入）/ 编辑风网页报告。
 - [xmutfyh/dsh-plugin-writing-guard](https://github.com/xmutfyh/dsh-plugin-writing-guard) — 论文写作守卫：本地规则扫描修改过程残留、防御性写作与 AI 写作痕迹（破折号滥用、不是X而是Y、LLM 高频词、三连排比），论文文件写入后增量自动审计（writing_audit / writing_rules）。
 - [yangyunsong023/dsh-sxs-anti-bot-http](https://github.com/yangyunsong023/dsh-sxs-anti-bot-http) — 反爬 HTTP 工具：UA 池轮换、指数退避重试、反爬墙检测（验证码/安全验证）与自适应限流，提炼自 SXS 生产采集体系（每日数百万请求）——工具：`sxs_fetch` / `sxs_fetch_json` / `sxs_rate_status`。
@@ -309,7 +310,6 @@ DeepSeek Harness 是 DeepSeek 开源的 agent harness——既是可直接运行
 - [zimai233/dsh-figma-to-lottie](https://github.com/zimai233/dsh-figma-to-lottie) — 将 SVG 路径与关键帧参数编译成自包含的 Lottie JSON 动画文件。
 - [zimai233/dsh-image-search](https://github.com/zimai233/dsh-image-search) — 多引擎反向识图聚合：Google Lens、百度、Yandex、TinEye、SauceNAO、IQDB、Ascii2d。
 - [zimai233/dsh-video-downloader](https://github.com/zimai233/dsh-video-downloader) — 检测并下载 B站/YouTube/抖音/小红书视频媒体，带清晰度与格式分析。
-- [PerryLink/dsh-background-agents](https://github.com/PerryLink/dsh-background-agents) — 可续跑的后台子代理 + 持久多代理团队房间：消息总线、共享任务板、审批门交接，跨重启存活。
 - [zimai233/dsh-wash-calendar](https://github.com/zimai233/dsh-wash-calendar) — 基于纯日期数学的周期习惯排程：下次发生日、区间排程与逾期提醒。
 - [ZK-Andy/dsh-continual-evolve](https://github.com/ZK-Andy/dsh-continual-evolve) — 持续自进化：从会话轨迹沉淀版本化、可审计、可回滚的 harness 状态（提示词/记忆/技能/子代理规格），带审查门禁与技能热加载。
 - [zp-home/dsh-recommend](https://github.com/zp-home/dsh-recommend) — DSH 插件透明排行与推荐：每日自动抓取 `dsh-plugin` 话题生态，公开评分模型，提供 rank/search/recommend 工具与设置页榜单。
@@ -342,7 +342,6 @@ DeepSeek Harness 是 DeepSeek 开源的 agent harness——既是可直接运行
 - [icetomoyo/dsh_workflow](https://github.com/icetomoyo/dsh_workflow) — 把 UltraCode 式多 Agent 调度带给 DSH：可生成、可保存、可治理、可观察、可恢复的 Workflow 层。
 - [Jesse-njx/dsh-routines](https://github.com/Jesse-njx/dsh-routines) — 定时 Agent：按 cron 计划运行 prompt，把摘要送到你已有的地方，内置重叠/漏跑/超时安全策略。
 - [file-planning](https://github.com/JohnXu22786/file-planning) — trailmap：磁盘持久化执行规划——里程碑状态机、依赖标注、审计事件与复盘纪要。
-- [PerryLink/dsh-github](https://github.com/PerryLink/dsh-github) — 官方级 GitHub CI 集成：composite action、轮询 PR 审查机器人（幂等行内评论）、状态检查门，写操作全过审批。
 - [task-board](https://github.com/JohnXu22786/task-board) — 跨会话事件溯源工作台账：任务跟踪、审计历史、看板导出。
 - [Letter2025/dsh-approval-llm](https://github.com/Letter2025/dsh-approval-llm) — 基于模型的权限审批：由独立审查模型自动应答 approval 权限请求。
 - [Letter2025/dsh-model-failover](https://github.com/Letter2025/dsh-model-failover) — 两级模型熔断与回退：模型或平台连续失败后自动熔断，并把下一个请求路由到配置好的备用模型。
@@ -352,14 +351,15 @@ DeepSeek Harness 是 DeepSeek 开源的 agent harness——既是可直接运行
 - [omdsh-dev/dsh-inspect](https://github.com/omdsh-dev/dsh-inspect) — 发现问题→修复交付→质量复查的对抗式闭环工具集。
 - [odai-dsh-plugin](https://github.com/orziz/odai/tree/main/dsh/plugin) — 面向整个 DSH profile 的治理与路由 bundle，提供可配置的压缩调用与本地作用域语义记忆；兼容 DSH 0.1.0-rc.6 与 0.1.0-rc.7。
 - [PerryLink/dsh-doublecheck](https://github.com/PerryLink/dsh-doublecheck) — 工程纪律守门：动笔前审讯需求，红绿测试证据门，交付后对抗评审（grill-requirements 技能 + 工具策略门）。
+- [PerryLink/dsh-github](https://github.com/PerryLink/dsh-github) — 官方级 GitHub CI 集成：composite action、轮询 PR 审查机器人（幂等行内评论）、状态检查门，写操作全过审批。
+- [PerryLink/dsh-local-ai](https://github.com/PerryLink/dsh-local-ai) — Ollama 本地模型集成：发现/拉取/移除/查看，按任务类型或关键词路由并自动回退云端，/ollama 总览。
+- [PerryLink/dsh-translate](https://github.com/PerryLink/dsh-translate) — 跨 11 家厂商的参数翻译（temperature/top_p 等）+ 确定性 JSON 修复，绝不编造数据。
 - [Sev7een/dsh-plugin-automations](https://github.com/Sev7een/dsh-plugin-automations) — 设置页定时任务：支持准点或 DeepSeek 谷时段执行、单次/每日重复，并持久化任务状态。
 - [timwhitez/dsh-self-evolving](https://github.com/timwhitez/dsh-self-evolving) — 证据优先、可崩溃恢复的自进化引擎：有界生成 Cordis 候选插件、一次性真实 Loader 准入、Harbor 评估，并保留可审计的日志化谱系。
 - [titanwings/dsh-automation](https://github.com/titanwings/dsh-automation) — 定时任务：让 Coding 任务按计划在全新 Agent Session 中运行，保留可审计历史。
 - [titanwings/dsh-plannotator](https://github.com/titanwings/dsh-plannotator) — 计划批注：选中计划原文逐条批注，结构化反馈送回 Agent。
 - [vlln/dsh-loop](https://github.com/vlln/dsh-loop) — 定时循环：`/loop` 命令 + loop 工具 + 活动状态条。
 
-- [PerryLink/dsh-local-ai](https://github.com/PerryLink/dsh-local-ai) — Ollama 本地模型集成：发现/拉取/移除/查看，按任务类型或关键词路由并自动回退云端，/ollama 总览。
-- [PerryLink/dsh-translate](https://github.com/PerryLink/dsh-translate) — 跨 11 家厂商的参数翻译（temperature/top_p 等）+ 确定性 JSON 修复，绝不编造数据。
 ### 🔔 通知与集成
 - [Andyqwe44/dsh-notify-win](https://github.com/Andyqwe44/dsh-notify-win) — 原生 Windows toast + 任务栏闪烁，任务完成/审批/提问时触发，支持 Win10/11，npm 安装 `dsh plugin --profile web add dsh-notify-win`。
 - [BiBoyang/dsh-im-bridge](https://github.com/BiBoyang/dsh-im-bridge) — 微信（iLink）双向桥：turn 完成/批准请求推送、聊天内批准与消息注入、持久去重与长回复收敛分段；通道层为多 IM 预留。

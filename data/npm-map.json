@@ -1135,9 +1135,69 @@
   "npm": null,
   "checkedAt": "2026-08-18"
  },
+ "https://github.com/PerryLink/dsh-auto-review": {
+  "npm": "dsh-auto-review",
+  "checkedAt": "2026-08-19"
+ },
+ "https://github.com/PerryLink/dsh-background-agents": {
+  "npm": "dsh-background-agents",
+  "checkedAt": "2026-08-19"
+ },
+ "https://github.com/PerryLink/dsh-budget": {
+  "npm": "dsh-budget",
+  "checkedAt": "2026-08-19"
+ },
+ "https://github.com/PerryLink/dsh-checkpoint-rewind": {
+  "npm": "dsh-checkpoint-rewind",
+  "checkedAt": "2026-08-19"
+ },
+ "https://github.com/PerryLink/dsh-claude-move": {
+  "npm": "dsh-claude-move",
+  "checkedAt": "2026-08-19"
+ },
+ "https://github.com/PerryLink/dsh-click": {
+  "npm": "dsh-click",
+  "checkedAt": "2026-08-19"
+ },
+ "https://github.com/PerryLink/dsh-composer-history": {
+  "npm": "dsh-composer-history",
+  "checkedAt": "2026-08-19"
+ },
+ "https://github.com/PerryLink/dsh-defend": {
+  "npm": "dsh-defend",
+  "checkedAt": "2026-08-19"
+ },
  "https://github.com/PerryLink/dsh-doublecheck": {
   "npm": null,
   "checkedAt": "2026-08-14"
+ },
+ "https://github.com/PerryLink/dsh-draw": {
+  "npm": "dsh-draw",
+  "checkedAt": "2026-08-19"
+ },
+ "https://github.com/PerryLink/dsh-fast": {
+  "npm": "dsh-fast",
+  "checkedAt": "2026-08-19"
+ },
+ "https://github.com/PerryLink/dsh-github": {
+  "npm": "@perrylink/dsh-github",
+  "checkedAt": "2026-08-19"
+ },
+ "https://github.com/PerryLink/dsh-library": {
+  "npm": "dsh-library",
+  "checkedAt": "2026-08-19"
+ },
+ "https://github.com/PerryLink/dsh-local-ai": {
+  "npm": "dsh-local-ai",
+  "checkedAt": "2026-08-19"
+ },
+ "https://github.com/PerryLink/dsh-lsp-actions": {
+  "npm": "dsh-lsp-actions",
+  "checkedAt": "2026-08-19"
+ },
+ "https://github.com/PerryLink/dsh-mask": {
+  "npm": "dsh-mask",
+  "checkedAt": "2026-08-19"
  },
  "https://github.com/PerryLink/dsh-mcp-panel": {
   "npm": null,
@@ -1146,6 +1206,50 @@
  "https://github.com/PerryLink/dsh-memento": {
   "npm": null,
   "checkedAt": "2026-08-14"
+ },
+ "https://github.com/PerryLink/dsh-observe": {
+  "npm": "dsh-observe",
+  "checkedAt": "2026-08-19"
+ },
+ "https://github.com/PerryLink/dsh-output-styles": {
+  "npm": "dsh-output-styles",
+  "checkedAt": "2026-08-19"
+ },
+ "https://github.com/PerryLink/dsh-permission-rules": {
+  "npm": "dsh-permission-rules",
+  "checkedAt": "2026-08-19"
+ },
+ "https://github.com/PerryLink/dsh-plugin-guide": {
+  "npm": "dsh-plugin-guide",
+  "checkedAt": "2026-08-19"
+ },
+ "https://github.com/PerryLink/dsh-score": {
+  "npm": "dsh-score",
+  "checkedAt": "2026-08-19"
+ },
+ "https://github.com/PerryLink/dsh-session-pin": {
+  "npm": null,
+  "checkedAt": "2026-08-19"
+ },
+ "https://github.com/PerryLink/dsh-session-sync": {
+  "npm": "dsh-session-sync",
+  "checkedAt": "2026-08-19"
+ },
+ "https://github.com/PerryLink/dsh-skill-pack-security": {
+  "npm": null,
+  "checkedAt": "2026-08-19"
+ },
+ "https://github.com/PerryLink/dsh-talk": {
+  "npm": "dsh-talk",
+  "checkedAt": "2026-08-19"
+ },
+ "https://github.com/PerryLink/dsh-test-drive": {
+  "npm": "dsh-test-drive",
+  "checkedAt": "2026-08-19"
+ },
+ "https://github.com/PerryLink/dsh-translate": {
+  "npm": "dsh-translate",
+  "checkedAt": "2026-08-19"
  },
  "https://github.com/PGZXB/dsh-feishu": {
   "npm": null,
