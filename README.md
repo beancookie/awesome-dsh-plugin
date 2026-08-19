@@ -443,6 +443,7 @@ DeepSeek Harness 是 DeepSeek 开源的 agent harness——既是可直接运行
 - [omdsh-dev/sandbox-nono](https://github.com/omdsh-dev/sandbox-nono) — nono 沙盒支持。
 - [PerryLink/dsh-mcp-panel](https://github.com/PerryLink/dsh-mcp-panel) — 官方 MCP 客户端（dsh-mcp-client）的只读运行时管理面板：/mcp 命令与设置页 MCP 页签展示连接状态、已注册工具、错误与重连计数，脱敏展示并提供启停 patch 建议。
 - [ruimin251204/dsh-plugin-surgery](https://github.com/ruimin251204/dsh-plugin-surgery) — 插件手术刀：安全卸载（dry-run 预览影响面、快照、三方对账、失败自动回滚）、一键回滚、restart-pending 确认与插件体检。
+- [sandbaseai/dsh-plugin-store](https://github.com/sandbaseai/dsh-plugin-store) — DSH 设置页原生插件市场，支持社区目录搜索、标签筛选、插件安装和已安装包查看。
 - [slywalker2006/dsh-passwords](https://github.com/slywalker2006/dsh-passwords) — DSH Web UI 登录网关：首次配置、bcrypt + 静态加密（AES-256-GCM/HMAC）、防爆破、审计日志、TLS 1.2+ 与 80→443 跳转、CSRF 与防嵌框。
 - [Small-tailqwq/dsh-tps](https://github.com/Small-tailqwq/dsh-tps) — TPS 指标插件。
 - [suimi8/dsh-test-runner](https://github.com/suimi8/dsh-test-runner) — 结构化测试运行工具：自动识别 Vitest/Jest/pytest/node:test 并解析失败。
