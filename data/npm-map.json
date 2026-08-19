@@ -1255,6 +1255,10 @@
   "npm": null,
   "checkedAt": "2026-08-14"
  },
+ "https://github.com/SunQingyuan0/Kabutack": {
+  "npm": "@galactus/kabutack",
+  "checkedAt": "2026-08-19"
+ },
  "https://github.com/sunshine-lang/dsh-pdf": {
   "npm": "dsh-pdf",
   "checkedAt": "2026-08-14"

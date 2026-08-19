@@ -2,8 +2,8 @@
  "name": "awesome-dsh-plugin",
  "url": "https://beancookie.github.io/awesome-dsh-plugin",
  "source": "https://github.com/beancookie/awesome-dsh-plugin",
- "updated": "2026-08-18",
- "count": 373,
+ "updated": "2026-08-19",
+ "count": 374,
  "categories": {
   "ui": {
    "zh": "UI 增强",
@@ -5165,6 +5165,21 @@
    "createdAt": "2026-08-13",
    "install": "dsh plugin --profile web add github:suimi8/dsh-test-runner",
    "added": "2026-08-14"
+  },
+  {
+   "name": "Kabutack",
+   "owner": "SunQingyuan0",
+   "url": "https://github.com/SunQingyuan0/Kabutack",
+   "category": "dev",
+   "description": {
+    "zh": "基于角色的 DSH 插件 / Skill / MCP 管理器：把能力组合定义为“角色”，在 Web 设置页一键动态装载与切换。",
+    "en": "Role-based manager for DSH plugins/Skills/MCP: bundle capabilities into “roles” and hot-switch them from the Web UI."
+   },
+   "npm": "@galactus/kabutack",
+   "stars": 3,
+   "createdAt": "2026-08-17",
+   "install": "dsh plugin --profile web add @galactus/kabutack",
+   "added": "2026-08-19"
   },
   {
    "name": "dsh-agent-budget",

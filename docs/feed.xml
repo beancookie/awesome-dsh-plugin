@@ -4,7 +4,14 @@
   <id>https://beancookie.github.io/awesome-dsh-plugin/</id>
   <link href="https://beancookie.github.io/awesome-dsh-plugin/"/>
   <link rel="self" href="https://beancookie.github.io/awesome-dsh-plugin/feed.xml"/>
-  <updated>2026-08-18T00:00:00Z</updated>
+  <updated>2026-08-19T00:00:00Z</updated>
+  <entry>
+    <title>SunQingyuan0/Kabutack</title>
+    <id>https://github.com/SunQingyuan0/Kabutack</id>
+    <link href="https://github.com/SunQingyuan0/Kabutack"/>
+    <updated>2026-08-19T00:00:00Z</updated>
+    <summary>基于角色的 DSH 插件 / Skill / MCP 管理器：把能力组合定义为“角色”，在 Web 设置页一键动态装载与切换。</summary>
+  </entry>
   <entry>
     <title>dsh-custom-theme-import</title>
     <id>https://github.com/Juryorca/dsh-custom-theme-import</id>
@@ -207,12 +214,5 @@
     <link href="https://github.com/JohnXu22786/computer-control"/>
     <updated>2026-08-17T00:00:00Z</updated>
     <summary>桌面控制：屏幕捕获、指针/键盘注入、无障碍树操作、确认流程与紧急停止。</summary>
-  </entry>
-  <entry>
-    <title>context-pruner</title>
-    <id>https://github.com/JohnXu22786/context-pruner</id>
-    <link href="https://github.com/JohnXu22786/context-pruner"/>
-    <updated>2026-08-17T00:00:00Z</updated>
-    <summary>会话上下文整理插件：修剪过期、重复、失败与过大的上下文以节省 token 预算。</summary>
   </entry>
 </feed>

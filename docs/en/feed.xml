@@ -4,7 +4,14 @@
   <id>https://beancookie.github.io/awesome-dsh-plugin/en/</id>
   <link href="https://beancookie.github.io/awesome-dsh-plugin/en/"/>
   <link rel="self" href="https://beancookie.github.io/awesome-dsh-plugin/en/feed.xml"/>
-  <updated>2026-08-18T00:00:00Z</updated>
+  <updated>2026-08-19T00:00:00Z</updated>
+  <entry>
+    <title>SunQingyuan0/Kabutack</title>
+    <id>https://github.com/SunQingyuan0/Kabutack</id>
+    <link href="https://github.com/SunQingyuan0/Kabutack"/>
+    <updated>2026-08-19T00:00:00Z</updated>
+    <summary>Role-based manager for DSH plugins/Skills/MCP: bundle capabilities into “roles” and hot-switch them from the Web UI.</summary>
+  </entry>
   <entry>
     <title>dsh-custom-theme-import</title>
     <id>https://github.com/Juryorca/dsh-custom-theme-import</id>
@@ -207,12 +214,5 @@
     <link href="https://github.com/JohnXu22786/computer-control"/>
     <updated>2026-08-17T00:00:00Z</updated>
     <summary>Desktop control: screen capture, pointer/keyboard injection, accessibility-tree actions, confirmation flow, emergency stop.</summary>
-  </entry>
-  <entry>
-    <title>context-pruner</title>
-    <id>https://github.com/JohnXu22786/context-pruner</id>
-    <link href="https://github.com/JohnXu22786/context-pruner"/>
-    <updated>2026-08-17T00:00:00Z</updated>
-    <summary>Session context triage: prunes stale, repeated, failed and oversized context to save token budget.</summary>
   </entry>
 </feed>
