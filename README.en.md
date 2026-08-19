@@ -327,6 +327,7 @@ DeepSeek Harness is DeepSeek's open-source agent harness — a runnable coding a
 - [skill-manager](https://github.com/JohnXu22786/skill-manager) - Multi-zone skill discovery, progressive disclosure, creation wizard, audit and statistics.
 - [spec-driven](https://github.com/JohnXu22786/spec-driven) - keel (龙骨): spec-driven development discipline skill pack — spec first, verify assumptions, prevent over-engineering.
 - [leechen298/Code2Skill](https://github.com/leechen298/Code2Skill) - Generates Function, MCP, Agent Skill, and offline test packages from existing code as an installable DSH bundle.
+- [sandbaseai/sandbase-skills](https://github.com/sandbaseai/sandbase-skills) - 88 Agent Skills for research, social intelligence, marketing, and business workflows, mounted through a native DSH bundle with optional project-scoped installation of multi-source-search.
 - [yanglaofish/dsh-skill-manager](https://github.com/yanglaofish/dsh-skill-manager) - Skill lifecycle manager for DSH: list / edit / import / enable / disable skills under a global-workspace-session three-layer model, with unified settings & conversation UI, cross-layer search and pagination.
 
 ### Workflow & Automation
