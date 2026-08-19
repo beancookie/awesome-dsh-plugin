@@ -567,6 +567,12 @@
   "etag": "W/\"faf9c823021f29db5b147c3751b3c76c0a704e642e7650dfd1d75b597f3fd047\"",
   "checkedAt": "2026-08-17"
  },
+ "https://github.com/fakechris/dsh-harness-ops": {
+  "stars": 11,
+  "createdAt": "2026-08-11",
+  "etag": "W/\"6be0717773c207becac9cd2518166015a0473c812567d8c408b649e31da9da4d\"",
+  "checkedAt": "2026-08-19"
+ },
  "https://github.com/fakechris/dsh-track": {
   "stars": 6,
   "createdAt": "2026-08-09",

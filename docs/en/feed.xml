@@ -209,10 +209,10 @@
     <summary>OpenTelemetry and Langfuse observability export: turn/step/tool/LLM spans plus token and cost metrics, with sanitized collection and offline buffering with retry.</summary>
   </entry>
   <entry>
-    <title>SunQingyuan0/Kabutack</title>
-    <id>https://github.com/SunQingyuan0/Kabutack</id>
-    <link href="https://github.com/SunQingyuan0/Kabutack"/>
+    <title>fakechris/dsh-harness-ops</title>
+    <id>https://github.com/fakechris/dsh-harness-ops</id>
+    <link href="https://github.com/fakechris/dsh-harness-ops"/>
     <updated>2026-08-19T00:00:00Z</updated>
-    <summary>Role-based manager for DSH plugins/Skills/MCP: bundle capabilities into “roles” and hot-switch them from the Web UI.</summary>
+    <summary>Self-healing DSH ops toolbox: official daily-snapshot A/B slot rotation (acceptance-gated atomic switch, one-click rollback), a 10s watchdog that auto-relaunches the web and resumes interrupted turns, and an out-of-band dsh-doctor (diagnosis → repair → relaunch) when web and agent are both down.</summary>
   </entry>
 </feed>

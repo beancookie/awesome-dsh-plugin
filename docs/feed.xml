@@ -209,10 +209,10 @@
     <summary>OpenTelemetry 与 Langfuse 可观测性导出：turn/step/tool/LLM span 与 token/成本指标，脱敏采集 + 离线缓冲重试。</summary>
   </entry>
   <entry>
-    <title>SunQingyuan0/Kabutack</title>
-    <id>https://github.com/SunQingyuan0/Kabutack</id>
-    <link href="https://github.com/SunQingyuan0/Kabutack"/>
+    <title>fakechris/dsh-harness-ops</title>
+    <id>https://github.com/fakechris/dsh-harness-ops</id>
+    <link href="https://github.com/fakechris/dsh-harness-ops"/>
     <updated>2026-08-19T00:00:00Z</updated>
-    <summary>基于角色的 DSH 插件 / Skill / MCP 管理器：把能力组合定义为“角色”，在 Web 设置页一键动态装载与切换。</summary>
+    <summary>DSH 自愈运维工具箱：官方每日快照 A/B 双槽轮换（验收通过才原子切换、一键回滚）、10s 守护自动拉起 web 并续接被打断的回合、web/agent 全挂时终端 dsh-doctor 一键诊断修复拉起。</summary>
   </entry>
 </feed>
