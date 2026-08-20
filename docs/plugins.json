@@ -3,7 +3,7 @@
  "url": "https://beancookie.github.io/awesome-dsh-plugin",
  "source": "https://github.com/beancookie/awesome-dsh-plugin",
  "updated": "2026-08-20",
- "count": 408,
+ "count": 409,
  "categories": {
   "ui": {
    "zh": "UI 增强",
@@ -1640,6 +1640,21 @@
    "createdAt": "2026-08-14",
    "install": "dsh plugin --profile web add dsh-file-claim",
    "added": "2026-08-14"
+  },
+  {
+   "name": "DSH-EasyRewrite",
+   "owner": "Renzic-Stone",
+   "url": "https://github.com/Renzic-Stone/DSH-EasyRewrite",
+   "category": "session",
+   "description": {
+    "zh": "DSH Web 用户消息气泡内联编辑与撤回：惰性提交、无痕替换、版本翻页器、草稿自动备份、三语 i18n。",
+    "en": "In-bubble inline edit and recall for user messages in DSH Web: lazy commit, seamless replacement, a version pager, draft auto-backup, and trilingual i18n."
+   },
+   "npm": null,
+   "stars": 16,
+   "createdAt": "2026-08-18",
+   "install": "dsh plugin --profile web add github:Renzic-Stone/DSH-EasyRewrite",
+   "added": "2026-08-20"
   },
   {
    "name": "dsh-what-changed",

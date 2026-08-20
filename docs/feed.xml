@@ -13,6 +13,13 @@
     <summary>DSH 插件管理面板：一键启停 + 多源市场（GitHub/Gitee/自定义）+ 静态索引市场（500+ 插件 / 300 技能）+ 技能安装/停用 + 套装一键装配 + 框架升级适配。</summary>
   </entry>
   <entry>
+    <title>Renzic-Stone/DSH-EasyRewrite</title>
+    <id>https://github.com/Renzic-Stone/DSH-EasyRewrite</id>
+    <link href="https://github.com/Renzic-Stone/DSH-EasyRewrite"/>
+    <updated>2026-08-20T00:00:00Z</updated>
+    <summary>DSH Web 用户消息气泡内联编辑与撤回：惰性提交、无痕替换、版本翻页器、草稿自动备份、三语 i18n。</summary>
+  </entry>
+  <entry>
     <title>JxaMe/dsh-condense</title>
     <id>https://github.com/JxaMe/dsh-condense</id>
     <link href="https://github.com/JxaMe/dsh-condense"/>
@@ -207,12 +214,5 @@
     <link href="https://github.com/PerryLink/dsh-local-ai"/>
     <updated>2026-08-19T00:00:00Z</updated>
     <summary>Ollama 本地模型集成：发现/拉取/移除/查看，按任务类型或关键词路由并自动回退云端，/ollama 总览。</summary>
-  </entry>
-  <entry>
-    <title>PerryLink/dsh-translate</title>
-    <id>https://github.com/PerryLink/dsh-translate</id>
-    <link href="https://github.com/PerryLink/dsh-translate"/>
-    <updated>2026-08-19T00:00:00Z</updated>
-    <summary>跨 11 家厂商的参数翻译（temperature/top_p 等）+ 确定性 JSON 修复，绝不编造数据。</summary>
   </entry>
 </feed>

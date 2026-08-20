@@ -13,6 +13,13 @@
     <summary>DSH plugin manager panel: one-click enable/disable of installed plugins, multi-source market (GitHub/Gitee/custom), static-index market (500+ plugins / 300 skills), skill install/disable, one-click bundle assembly, and framework upgrade adaptation.</summary>
   </entry>
   <entry>
+    <title>Renzic-Stone/DSH-EasyRewrite</title>
+    <id>https://github.com/Renzic-Stone/DSH-EasyRewrite</id>
+    <link href="https://github.com/Renzic-Stone/DSH-EasyRewrite"/>
+    <updated>2026-08-20T00:00:00Z</updated>
+    <summary>In-bubble inline edit and recall for user messages in DSH Web: lazy commit, seamless replacement, a version pager, draft auto-backup, and trilingual i18n.</summary>
+  </entry>
+  <entry>
     <title>JxaMe/dsh-condense</title>
     <id>https://github.com/JxaMe/dsh-condense</id>
     <link href="https://github.com/JxaMe/dsh-condense"/>
@@ -207,12 +214,5 @@
     <link href="https://github.com/PerryLink/dsh-local-ai"/>
     <updated>2026-08-19T00:00:00Z</updated>
     <summary>Local Ollama model integration: discover/pull/remove/inspect, route by task type or keyword with automatic cloud fallback, and a /ollama overview.</summary>
-  </entry>
-  <entry>
-    <title>PerryLink/dsh-translate</title>
-    <id>https://github.com/PerryLink/dsh-translate</id>
-    <link href="https://github.com/PerryLink/dsh-translate"/>
-    <updated>2026-08-19T00:00:00Z</updated>
-    <summary>Parameter translation across 11 providers (temperature, top_p, etc.) plus deterministic JSON repair; never fabricates data.</summary>
   </entry>
 </feed>
