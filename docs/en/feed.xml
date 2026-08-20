@@ -6,6 +6,13 @@
   <link rel="self" href="https://beancookie.github.io/awesome-dsh-plugin/en/feed.xml"/>
   <updated>2026-08-20T00:00:00Z</updated>
   <entry>
+    <title>JxaMe/dsh-condense</title>
+    <id>https://github.com/JxaMe/dsh-condense</id>
+    <link href="https://github.com/JxaMe/dsh-condense"/>
+    <updated>2026-08-20T00:00:00Z</updated>
+    <summary>Token optimizer for DSH: blocks low-signal reads, compresses oversized outputs, hash-dedupes repeated calls, smart_read skeletonization (tree-sitter), BM25 retrieval; real usage metering + persistence. Pre-history pruning keeps prompt-cache hits.</summary>
+  </entry>
+  <entry>
     <title>sandbaseai/dsh-plugin-store</title>
     <id>https://github.com/sandbaseai/dsh-plugin-store</id>
     <link href="https://github.com/sandbaseai/dsh-plugin-store"/>
@@ -207,12 +214,5 @@
     <link href="https://github.com/PerryLink/dsh-fast"/>
     <updated>2026-08-19T00:00:00Z</updated>
     <summary>Read-only performance diagnostics: session load time, spill hits, compaction stats, context injection volume, and LLM cache hit rate via /fast and fast_report.</summary>
-  </entry>
-  <entry>
-    <title>PerryLink/dsh-lsp-actions</title>
-    <id>https://github.com/PerryLink/dsh-lsp-actions</id>
-    <link href="https://github.com/PerryLink/dsh-lsp-actions"/>
-    <updated>2026-08-19T00:00:00Z</updated>
-    <summary>LSP action surface: diagnostics, formatting, completion, code actions, symbols, signature help, inlay hints, and rename, all driven by real language servers.</summary>
   </entry>
 </feed>

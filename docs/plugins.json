@@ -3,7 +3,7 @@
  "url": "https://beancookie.github.io/awesome-dsh-plugin",
  "source": "https://github.com/beancookie/awesome-dsh-plugin",
  "updated": "2026-08-20",
- "count": 406,
+ "count": 407,
  "categories": {
   "ui": {
    "zh": "UI 增强",
@@ -2840,6 +2840,21 @@
    "createdAt": "2026-08-16",
    "install": "dsh plugin --profile web add github:JohnXu22786/worktree-mgr",
    "added": "2026-08-17"
+  },
+  {
+   "name": "dsh-condense",
+   "owner": "JxaMe",
+   "url": "https://github.com/JxaMe/dsh-condense",
+   "category": "tools",
+   "description": {
+    "zh": "token 优化插件：屏蔽低信号读取、压缩大输出、哈希去重、smart_read 骨架化（tree-sitter）、BM25 检索，真实用量统计 + 持久化；入历史前削减，不破坏缓存命中。",
+    "en": "Token optimizer for DSH: blocks low-signal reads, compresses oversized outputs, hash-dedupes repeated calls, smart_read skeletonization (tree-sitter), BM25 retrieval; real usage metering + persistence. Pre-history pruning keeps prompt-cache hits."
+   },
+   "npm": null,
+   "stars": 0,
+   "createdAt": "2026-08-19",
+   "install": "dsh plugin --profile web add github:JxaMe/dsh-condense",
+   "added": "2026-08-20"
   },
   {
    "name": "dsh-mobile-gui-agent",

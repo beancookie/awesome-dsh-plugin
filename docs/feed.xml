@@ -6,6 +6,13 @@
   <link rel="self" href="https://beancookie.github.io/awesome-dsh-plugin/feed.xml"/>
   <updated>2026-08-20T00:00:00Z</updated>
   <entry>
+    <title>JxaMe/dsh-condense</title>
+    <id>https://github.com/JxaMe/dsh-condense</id>
+    <link href="https://github.com/JxaMe/dsh-condense"/>
+    <updated>2026-08-20T00:00:00Z</updated>
+    <summary>token 优化插件：屏蔽低信号读取、压缩大输出、哈希去重、smart_read 骨架化（tree-sitter）、BM25 检索，真实用量统计 + 持久化；入历史前削减，不破坏缓存命中。</summary>
+  </entry>
+  <entry>
     <title>sandbaseai/dsh-plugin-store</title>
     <id>https://github.com/sandbaseai/dsh-plugin-store</id>
     <link href="https://github.com/sandbaseai/dsh-plugin-store"/>
@@ -207,12 +214,5 @@
     <link href="https://github.com/PerryLink/dsh-fast"/>
     <updated>2026-08-19T00:00:00Z</updated>
     <summary>只读性能诊断：会话加载耗时、spill 命中、压缩统计、上下文注入量、LLM 缓存命中率，/fast + fast_report。</summary>
-  </entry>
-  <entry>
-    <title>PerryLink/dsh-lsp-actions</title>
-    <id>https://github.com/PerryLink/dsh-lsp-actions</id>
-    <link href="https://github.com/PerryLink/dsh-lsp-actions"/>
-    <updated>2026-08-19T00:00:00Z</updated>
-    <summary>LSP 动作面：诊断/格式化/补全/代码动作/符号/签名提示/inlay 提示/重命名，由真实语言服务器驱动。</summary>
   </entry>
 </feed>
