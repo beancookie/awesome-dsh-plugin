@@ -3,7 +3,7 @@
  "url": "https://beancookie.github.io/awesome-dsh-plugin",
  "source": "https://github.com/beancookie/awesome-dsh-plugin",
  "updated": "2026-08-20",
- "count": 407,
+ "count": 408,
  "categories": {
   "ui": {
    "zh": "UI 增强",
@@ -620,6 +620,21 @@
    "createdAt": "2026-08-14",
    "install": "dsh plugin --profile web add dsh-spend",
    "added": "2026-08-14"
+  },
+  {
+   "name": "dsh-plugin-hub",
+   "owner": "Noob-stupid",
+   "url": "https://github.com/Noob-stupid/dsh-plugin-hub",
+   "category": "ui",
+   "description": {
+    "zh": "DSH 插件管理面板：一键启停 + 多源市场（GitHub/Gitee/自定义）+ 静态索引市场（500+ 插件 / 300 技能）+ 技能安装/停用 + 套装一键装配 + 框架升级适配。",
+    "en": "DSH plugin manager panel: one-click enable/disable of installed plugins, multi-source market (GitHub/Gitee/custom), static-index market (500+ plugins / 300 skills), skill install/disable, one-click bundle assembly, and framework upgrade adaptation."
+   },
+   "npm": null,
+   "stars": 62,
+   "createdAt": "2026-08-14",
+   "install": "dsh plugin --profile web add github:Noob-stupid/dsh-plugin-hub",
+   "added": "2026-08-20"
   },
   {
    "name": "dsh-annotation",

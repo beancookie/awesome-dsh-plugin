@@ -6,6 +6,13 @@
   <link rel="self" href="https://beancookie.github.io/awesome-dsh-plugin/feed.xml"/>
   <updated>2026-08-20T00:00:00Z</updated>
   <entry>
+    <title>dsh-plugin-hub</title>
+    <id>https://github.com/Noob-stupid/dsh-plugin-hub</id>
+    <link href="https://github.com/Noob-stupid/dsh-plugin-hub"/>
+    <updated>2026-08-20T00:00:00Z</updated>
+    <summary>DSH 插件管理面板：一键启停 + 多源市场（GitHub/Gitee/自定义）+ 静态索引市场（500+ 插件 / 300 技能）+ 技能安装/停用 + 套装一键装配 + 框架升级适配。</summary>
+  </entry>
+  <entry>
     <title>JxaMe/dsh-condense</title>
     <id>https://github.com/JxaMe/dsh-condense</id>
     <link href="https://github.com/JxaMe/dsh-condense"/>
@@ -207,12 +214,5 @@
     <link href="https://github.com/PerryLink/dsh-translate"/>
     <updated>2026-08-19T00:00:00Z</updated>
     <summary>跨 11 家厂商的参数翻译（temperature/top_p 等）+ 确定性 JSON 修复，绝不编造数据。</summary>
-  </entry>
-  <entry>
-    <title>PerryLink/dsh-fast</title>
-    <id>https://github.com/PerryLink/dsh-fast</id>
-    <link href="https://github.com/PerryLink/dsh-fast"/>
-    <updated>2026-08-19T00:00:00Z</updated>
-    <summary>只读性能诊断：会话加载耗时、spill 命中、压缩统计、上下文注入量、LLM 缓存命中率，/fast + fast_report。</summary>
   </entry>
 </feed>

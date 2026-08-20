@@ -6,6 +6,13 @@
   <link rel="self" href="https://beancookie.github.io/awesome-dsh-plugin/en/feed.xml"/>
   <updated>2026-08-20T00:00:00Z</updated>
   <entry>
+    <title>dsh-plugin-hub</title>
+    <id>https://github.com/Noob-stupid/dsh-plugin-hub</id>
+    <link href="https://github.com/Noob-stupid/dsh-plugin-hub"/>
+    <updated>2026-08-20T00:00:00Z</updated>
+    <summary>DSH plugin manager panel: one-click enable/disable of installed plugins, multi-source market (GitHub/Gitee/custom), static-index market (500+ plugins / 300 skills), skill install/disable, one-click bundle assembly, and framework upgrade adaptation.</summary>
+  </entry>
+  <entry>
     <title>JxaMe/dsh-condense</title>
     <id>https://github.com/JxaMe/dsh-condense</id>
     <link href="https://github.com/JxaMe/dsh-condense"/>
@@ -207,12 +214,5 @@
     <link href="https://github.com/PerryLink/dsh-translate"/>
     <updated>2026-08-19T00:00:00Z</updated>
     <summary>Parameter translation across 11 providers (temperature, top_p, etc.) plus deterministic JSON repair; never fabricates data.</summary>
-  </entry>
-  <entry>
-    <title>PerryLink/dsh-fast</title>
-    <id>https://github.com/PerryLink/dsh-fast</id>
-    <link href="https://github.com/PerryLink/dsh-fast"/>
-    <updated>2026-08-19T00:00:00Z</updated>
-    <summary>Read-only performance diagnostics: session load time, spill hits, compaction stats, context injection volume, and LLM cache hit rate via /fast and fast_report.</summary>
   </entry>
 </feed>
