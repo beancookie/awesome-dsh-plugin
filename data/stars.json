@@ -1923,6 +1923,12 @@
   "etag": "W/\"604642eea4b4a0dd6338b380aad56df2a36367761277a5d1b84169626c04df75\"",
   "checkedAt": "2026-08-17"
  },
+ "https://github.com/sandbaseai/dsh-plugin-store": {
+  "stars": 0,
+  "createdAt": "2026-08-17",
+  "etag": "W/\"c4110a54d05248f1d6565d9749bab2a9f7266eac4942119417073d77113e16ba\"",
+  "checkedAt": "2026-08-20"
+ },
  "https://github.com/sandbaseai/sandbase-skills": {
   "stars": 21,
   "createdAt": "2026-07-29",

@@ -2,8 +2,8 @@
  "name": "awesome-dsh-plugin",
  "url": "https://beancookie.github.io/awesome-dsh-plugin",
  "source": "https://github.com/beancookie/awesome-dsh-plugin",
- "updated": "2026-08-19",
- "count": 405,
+ "updated": "2026-08-20",
+ "count": 406,
  "categories": {
   "ui": {
    "zh": "UI 增强",
@@ -5585,6 +5585,21 @@
    "createdAt": "2026-08-16",
    "install": "dsh plugin --profile web add github:ruimin251204/dsh-plugin-surgery",
    "added": "2026-08-16"
+  },
+  {
+   "name": "dsh-plugin-store",
+   "owner": "sandbaseai",
+   "url": "https://github.com/sandbaseai/dsh-plugin-store",
+   "category": "dev",
+   "description": {
+    "zh": "DSH 设置页原生插件市场，支持社区目录搜索、标签筛选、插件安装和已安装包查看。",
+    "en": "Native DSH Settings marketplace for community catalog search, tag filtering, plugin installation, and installed-package review."
+   },
+   "npm": null,
+   "stars": 0,
+   "createdAt": "2026-08-17",
+   "install": "dsh plugin --profile web add github:sandbaseai/dsh-plugin-store",
+   "added": "2026-08-20"
   },
   {
    "name": "dsh-passwords",
