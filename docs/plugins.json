@@ -3,7 +3,7 @@
  "url": "https://beancookie.github.io/awesome-dsh-plugin",
  "source": "https://github.com/beancookie/awesome-dsh-plugin",
  "updated": "2026-08-21",
- "count": 410,
+ "count": 412,
  "categories": {
   "ui": {
    "zh": "UI 增强",
@@ -215,6 +215,21 @@
    "createdAt": "2026-08-14",
    "install": "dsh plugin --profile web add github:bpc-oss/dsh-web-billing",
    "added": "2026-08-14"
+  },
+  {
+   "name": "dsh-fare-meter",
+   "owner": "bunipai",
+   "url": "https://github.com/bunipai/dsh-fare-meter",
+   "category": "ui",
+   "description": {
+    "zh": "出租车计价器式实时计费：生成时逐秒跳动、空闲归零，内置官方峰谷时段与价格表。",
+    "en": "Taxi-meter style real-time cost: ticks every half second while generating, resets when idle, with official peak/valley pricing built in."
+   },
+   "npm": null,
+   "stars": 0,
+   "createdAt": "2026-08-21",
+   "install": "dsh plugin --profile web add github:bunipai/dsh-fare-meter",
+   "added": "2026-08-21"
   },
   {
    "name": "dsh-web-review",
@@ -4580,6 +4595,21 @@
    "createdAt": "2026-08-13",
    "install": "dsh plugin --profile web add github:bobleer/dsh-acp-for-bitfun",
    "added": "2026-08-13"
+  },
+  {
+   "name": "dsh-balance-guard",
+   "owner": "bunipai",
+   "url": "https://github.com/bunipai/dsh-balance-guard",
+   "category": "notify",
+   "description": {
+    "zh": "实时余额胶囊：余额不足自动变橙并触发标题与系统通知。",
+    "en": "Live balance pill that turns orange and raises title and system alerts when the balance runs low."
+   },
+   "npm": null,
+   "stars": 0,
+   "createdAt": "2026-08-21",
+   "install": "dsh plugin --profile web add github:bunipai/dsh-balance-guard",
+   "added": "2026-08-21"
   },
   {
    "name": "dsh-island",

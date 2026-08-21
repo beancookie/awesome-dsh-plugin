@@ -6,11 +6,25 @@
   <link rel="self" href="https://beancookie.github.io/awesome-dsh-plugin/en/feed.xml"/>
   <updated>2026-08-21T00:00:00Z</updated>
   <entry>
+    <title>bunipai/dsh-fare-meter</title>
+    <id>https://github.com/bunipai/dsh-fare-meter</id>
+    <link href="https://github.com/bunipai/dsh-fare-meter"/>
+    <updated>2026-08-21T00:00:00Z</updated>
+    <summary>Taxi-meter style real-time cost: ticks every half second while generating, resets when idle, with official peak/valley pricing built in.</summary>
+  </entry>
+  <entry>
     <title>whateverboy2333/dsh-flat-teams</title>
     <id>https://github.com/whateverboy2333/dsh-flat-teams</id>
     <link href="https://github.com/whateverboy2333/dsh-flat-teams"/>
     <updated>2026-08-21T00:00:00Z</updated>
     <summary>Leaderless flat agent teams: cross-window structured task dispatch (state machine + event stream + offline resume), a read-only progress recorder, and a two-level web dashboard.</summary>
+  </entry>
+  <entry>
+    <title>bunipai/dsh-balance-guard</title>
+    <id>https://github.com/bunipai/dsh-balance-guard</id>
+    <link href="https://github.com/bunipai/dsh-balance-guard"/>
+    <updated>2026-08-21T00:00:00Z</updated>
+    <summary>Live balance pill that turns orange and raises title and system alerts when the balance runs low.</summary>
   </entry>
   <entry>
     <title>dsh-plugin-hub</title>
@@ -200,19 +214,5 @@
     <link href="https://github.com/sandbaseai/sandbase-skills"/>
     <updated>2026-08-19T00:00:00Z</updated>
     <summary>88 Agent Skills for research, social intelligence, marketing, and business workflows, mounted through a native DSH bundle with optional project-scoped installation of multi-source-search.</summary>
-  </entry>
-  <entry>
-    <title>huchunlinnk/deepseek-desk-rsi</title>
-    <id>https://github.com/huchunlinnk/deepseek-desk-rsi</id>
-    <link href="https://github.com/huchunlinnk/deepseek-desk-rsi"/>
-    <updated>2026-08-19T00:00:00Z</updated>
-    <summary>Recursive Self-Improvement engine: bounded perceive→integrate→verify→parity→repair→propose loop + 128-plugin 1:1 parity gate — DSH maintains DSH.</summary>
-  </entry>
-  <entry>
-    <title>PerryLink/dsh-github</title>
-    <id>https://github.com/PerryLink/dsh-github</id>
-    <link href="https://github.com/PerryLink/dsh-github"/>
-    <updated>2026-08-19T00:00:00Z</updated>
-    <summary>Production-grade GitHub CI integration: a composite action, a polling PR review bot (idempotent inline comments), and a status-check gate; all writes pass through approval.</summary>
   </entry>
 </feed>

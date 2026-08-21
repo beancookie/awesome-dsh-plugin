@@ -329,6 +329,18 @@
   "etag": "W/\"90423d222416199cd61695c6bdcb1cb92e3ca6d0a293064cc38b1da8afc66c35\"",
   "checkedAt": "2026-08-17"
  },
+ "https://github.com/bunipai/dsh-balance-guard": {
+  "stars": 0,
+  "createdAt": "2026-08-21",
+  "etag": "W/\"d5c3311bd54951f767318cfca60a7600647ccde233d97dc50fbc914841cd594f\"",
+  "checkedAt": "2026-08-21"
+ },
+ "https://github.com/bunipai/dsh-fare-meter": {
+  "stars": 0,
+  "createdAt": "2026-08-21",
+  "etag": "W/\"44c950072b99bcb0a4bd5c45cd0d7a02527000a37b905aad6aa0c649b4ac6074\"",
+  "checkedAt": "2026-08-21"
+ },
  "https://github.com/Buyi-wsgzg/dsh-sidechain": {
   "stars": 9,
   "createdAt": "2026-08-07",
