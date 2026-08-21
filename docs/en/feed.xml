@@ -4,7 +4,14 @@
   <id>https://beancookie.github.io/awesome-dsh-plugin/en/</id>
   <link href="https://beancookie.github.io/awesome-dsh-plugin/en/"/>
   <link rel="self" href="https://beancookie.github.io/awesome-dsh-plugin/en/feed.xml"/>
-  <updated>2026-08-20T00:00:00Z</updated>
+  <updated>2026-08-21T00:00:00Z</updated>
+  <entry>
+    <title>whateverboy2333/dsh-flat-teams</title>
+    <id>https://github.com/whateverboy2333/dsh-flat-teams</id>
+    <link href="https://github.com/whateverboy2333/dsh-flat-teams"/>
+    <updated>2026-08-21T00:00:00Z</updated>
+    <summary>Leaderless flat agent teams: cross-window structured task dispatch (state machine + event stream + offline resume), a read-only progress recorder, and a two-level web dashboard.</summary>
+  </entry>
   <entry>
     <title>dsh-plugin-hub</title>
     <id>https://github.com/Noob-stupid/dsh-plugin-hub</id>
@@ -207,12 +214,5 @@
     <link href="https://github.com/PerryLink/dsh-github"/>
     <updated>2026-08-19T00:00:00Z</updated>
     <summary>Production-grade GitHub CI integration: a composite action, a polling PR review bot (idempotent inline comments), and a status-check gate; all writes pass through approval.</summary>
-  </entry>
-  <entry>
-    <title>PerryLink/dsh-local-ai</title>
-    <id>https://github.com/PerryLink/dsh-local-ai</id>
-    <link href="https://github.com/PerryLink/dsh-local-ai"/>
-    <updated>2026-08-19T00:00:00Z</updated>
-    <summary>Local Ollama model integration: discover/pull/remove/inspect, route by task type or keyword with automatic cloud fallback, and a /ollama overview.</summary>
   </entry>
 </feed>

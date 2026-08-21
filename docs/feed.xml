@@ -4,7 +4,14 @@
   <id>https://beancookie.github.io/awesome-dsh-plugin/</id>
   <link href="https://beancookie.github.io/awesome-dsh-plugin/"/>
   <link rel="self" href="https://beancookie.github.io/awesome-dsh-plugin/feed.xml"/>
-  <updated>2026-08-20T00:00:00Z</updated>
+  <updated>2026-08-21T00:00:00Z</updated>
+  <entry>
+    <title>whateverboy2333/dsh-flat-teams</title>
+    <id>https://github.com/whateverboy2333/dsh-flat-teams</id>
+    <link href="https://github.com/whateverboy2333/dsh-flat-teams"/>
+    <updated>2026-08-21T00:00:00Z</updated>
+    <summary>无队长扁平 Agent 团队：跨窗口结构化任务派发（状态机 + 事件流 + 离线唤醒）、记录员进展服务与 Web 两级看板。</summary>
+  </entry>
   <entry>
     <title>dsh-plugin-hub</title>
     <id>https://github.com/Noob-stupid/dsh-plugin-hub</id>
@@ -207,12 +214,5 @@
     <link href="https://github.com/PerryLink/dsh-github"/>
     <updated>2026-08-19T00:00:00Z</updated>
     <summary>官方级 GitHub CI 集成：composite action、轮询 PR 审查机器人（幂等行内评论）、状态检查门，写操作全过审批。</summary>
-  </entry>
-  <entry>
-    <title>PerryLink/dsh-local-ai</title>
-    <id>https://github.com/PerryLink/dsh-local-ai</id>
-    <link href="https://github.com/PerryLink/dsh-local-ai"/>
-    <updated>2026-08-19T00:00:00Z</updated>
-    <summary>Ollama 本地模型集成：发现/拉取/移除/查看，按任务类型或关键词路由并自动回退云端，/ollama 总览。</summary>
   </entry>
 </feed>
