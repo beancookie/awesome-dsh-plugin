@@ -4,7 +4,14 @@
   <id>https://beancookie.github.io/awesome-dsh-plugin/en/</id>
   <link href="https://beancookie.github.io/awesome-dsh-plugin/en/"/>
   <link rel="self" href="https://beancookie.github.io/awesome-dsh-plugin/en/feed.xml"/>
-  <updated>2026-08-21T00:00:00Z</updated>
+  <updated>2026-08-22T00:00:00Z</updated>
+  <entry>
+    <title>chenzhi-clude/dsh-hooks-pack</title>
+    <id>https://github.com/chenzhi-clude/dsh-hooks-pack</id>
+    <link href="https://github.com/chenzhi-clude/dsh-hooks-pack"/>
+    <updated>2026-08-22T00:00:00Z</updated>
+    <summary>One-click Claude Code &amp; Codex hooks: auto-discovers your existing ~/.claude / ~/.codex hook config and runs it on the official bridge plugins, with an explicit sandbox-policy shim so hook commands never die silently.</summary>
+  </entry>
   <entry>
     <title>bunipai/dsh-fare-meter</title>
     <id>https://github.com/bunipai/dsh-fare-meter</id>
@@ -207,12 +214,5 @@
     <link href="https://github.com/PerryLink/dsh-skill-pack-security"/>
     <updated>2026-08-19T00:00:00Z</updated>
     <summary>Security-audit skill pack plus a plugin_vet supply-chain gate: eight bilingual skills and an automated pre-install scanner.</summary>
-  </entry>
-  <entry>
-    <title>sandbaseai/sandbase-skills</title>
-    <id>https://github.com/sandbaseai/sandbase-skills</id>
-    <link href="https://github.com/sandbaseai/sandbase-skills"/>
-    <updated>2026-08-19T00:00:00Z</updated>
-    <summary>88 Agent Skills for research, social intelligence, marketing, and business workflows, mounted through a native DSH bundle with optional project-scoped installation of multi-source-search.</summary>
   </entry>
 </feed>

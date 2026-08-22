@@ -2,8 +2,8 @@
  "name": "awesome-dsh-plugin",
  "url": "https://beancookie.github.io/awesome-dsh-plugin",
  "source": "https://github.com/beancookie/awesome-dsh-plugin",
- "updated": "2026-08-21",
- "count": 412,
+ "updated": "2026-08-22",
+ "count": 413,
  "categories": {
   "ui": {
    "zh": "UI 增强",
@@ -4130,6 +4130,21 @@
    "createdAt": "2026-03-06",
    "install": "dsh plugin --profile web add github:btspoony/mstar-harness",
    "added": "2026-08-14"
+  },
+  {
+   "name": "dsh-hooks-pack",
+   "owner": "chenzhi-clude",
+   "url": "https://github.com/chenzhi-clude/dsh-hooks-pack",
+   "category": "workflow",
+   "description": {
+    "zh": "一键启用 Claude Code / Codex hooks：自动发现已有 ~/.claude、~/.codex hook 配置并跑在官方桥接插件上，显式注入沙箱策略，hook 命令不再静默失效。",
+    "en": "One-click Claude Code & Codex hooks: auto-discovers your existing ~/.claude / ~/.codex hook config and runs it on the official bridge plugins, with an explicit sandbox-policy shim so hook commands never die silently."
+   },
+   "npm": "dsh-hooks-pack",
+   "stars": 0,
+   "createdAt": "2026-08-21",
+   "install": "dsh plugin --profile web add dsh-hooks-pack",
+   "added": "2026-08-22"
   },
   {
    "name": "dsh-plan-execute",

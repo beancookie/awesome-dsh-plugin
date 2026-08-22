@@ -4,7 +4,14 @@
   <id>https://beancookie.github.io/awesome-dsh-plugin/</id>
   <link href="https://beancookie.github.io/awesome-dsh-plugin/"/>
   <link rel="self" href="https://beancookie.github.io/awesome-dsh-plugin/feed.xml"/>
-  <updated>2026-08-21T00:00:00Z</updated>
+  <updated>2026-08-22T00:00:00Z</updated>
+  <entry>
+    <title>chenzhi-clude/dsh-hooks-pack</title>
+    <id>https://github.com/chenzhi-clude/dsh-hooks-pack</id>
+    <link href="https://github.com/chenzhi-clude/dsh-hooks-pack"/>
+    <updated>2026-08-22T00:00:00Z</updated>
+    <summary>一键启用 Claude Code / Codex hooks：自动发现已有 ~/.claude、~/.codex hook 配置并跑在官方桥接插件上，显式注入沙箱策略，hook 命令不再静默失效。</summary>
+  </entry>
   <entry>
     <title>bunipai/dsh-fare-meter</title>
     <id>https://github.com/bunipai/dsh-fare-meter</id>
@@ -207,12 +214,5 @@
     <link href="https://github.com/PerryLink/dsh-skill-pack-security"/>
     <updated>2026-08-19T00:00:00Z</updated>
     <summary>安全审计技能包 + plugin_vet 供应链门禁：八个双语技能 + 自动化预安装扫描器。</summary>
-  </entry>
-  <entry>
-    <title>sandbaseai/sandbase-skills</title>
-    <id>https://github.com/sandbaseai/sandbase-skills</id>
-    <link href="https://github.com/sandbaseai/sandbase-skills"/>
-    <updated>2026-08-19T00:00:00Z</updated>
-    <summary>88 个面向研究、社交情报、营销与商业工作流的 Agent Skills，通过原生 DSH bundle 挂载技能目录，也可按项目单独安装 multi-source-search。</summary>
   </entry>
 </feed>
