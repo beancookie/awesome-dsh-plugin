@@ -73,6 +73,7 @@ DeepSeek Harness 是 DeepSeek 开源的 agent harness——既是可直接运行
 - [ccq1/dsh-side-panel](https://github.com/ccq1/dsh-side-panel) — 侧边栏集成文件浏览器、终端和 Git 审查，方便预览文件。
 - [daetz-coder/dsh-multi-chat](https://github.com/daetz-coder/dsh-multi-chat) — 在 DSH Web 界面里并排运行、监控多个对话实例的插件：多窗口墙 + 自动发现 + 单窗控制，内置带口令认证的局域网网关，手机/平板也能看。
 - [dingyi222666/dsh-focus-chat](https://github.com/dingyi222666/dsh-focus-chat) — 「聚焦会话」精简视图，只关注最终产出结果。
+- [dsh-blue/blue](https://github.com/dsh-blue/blue) — DeepSeek Harness 的交互式全屏终端 UI：流式 Markdown 转录、工具调用卡片、审批面板、会话管理、主题热切换——全部组件皆为可热插拔的插件树。
 - [dsh-paste-input](https://github.com/dsh-external/dsh-paste-input) — Ctrl+V 粘贴文件 / 拖拽 / 选择。
 - [dsh-web-panel](https://github.com/dsh-external/dsh-web-panel) — 内嵌终端 dock + Git Review + 文件视图。
 - [fishxcode/dsh-plugin-deepseek-balance](https://github.com/fishxcode/dsh-plugin-deepseek-balance) — 在 DSH Web 设置中展示 DeepSeek API 余额、余额趋势与每日用量图表。
