@@ -6,6 +6,13 @@
   <link rel="self" href="https://beancookie.github.io/awesome-dsh-plugin/en/feed.xml"/>
   <updated>2026-08-23T00:00:00Z</updated>
   <entry>
+    <title>beijingwahw/dsh-nuke-plugin</title>
+    <id>https://github.com/beijingwahw/dsh-nuke-plugin</id>
+    <link href="https://github.com/beijingwahw/dsh-nuke-plugin"/>
+    <updated>2026-08-23T00:00:00Z</updated>
+    <summary>Transactional uninstall engine: every destructive action runs a validate/preview/execute/undo four-phase pipeline with Saga rollback, WAL crash self-recovery, hash-chain audit trail, hard-link dedup, and a Bayesian oracle that predicts success probability before committing.</summary>
+  </entry>
+  <entry>
     <title>exoticknight/dsh-labnana</title>
     <id>https://github.com/exoticknight/dsh-labnana</id>
     <link href="https://github.com/exoticknight/dsh-labnana"/>
@@ -20,11 +27,25 @@
     <summary>One-click migration of skills from other agents into DeepSeek Harness: 14 platform detectors plus shared-layer recognition, same-name skill merging, no re-copying of existing skills, and rollback support.</summary>
   </entry>
   <entry>
+    <title>Nicholas023/vision-exp-tile</title>
+    <id>https://github.com/Nicholas023/vision-exp-tile</id>
+    <link href="https://github.com/Nicholas023/vision-exp-tile"/>
+    <updated>2026-08-23T00:00:00Z</updated>
+    <summary>Large-image recognition for vision models: 800×800 lossless tiling (smart/pipeline/full strategies) plus local OCR (auto inversion/binarization/handwriting split) and optional multi-vendor GPU acceleration (DirectML covering NVIDIA/AMD/Intel, CUDA/OpenVINO) with automatic CPU fallback; MIT licensed (111 unit tests).</summary>
+  </entry>
+  <entry>
     <title>Abel-86/task-chime</title>
     <id>https://github.com/Abel-86/task-chime</id>
     <link href="https://github.com/Abel-86/task-chime"/>
     <updated>2026-08-23T00:00:00Z</updated>
     <summary>Plays local sounds for approval/permission requests and task completion, configurable from the Web GUI settings.</summary>
+  </entry>
+  <entry>
+    <title>AgentsDanceAI/dsh-plugin-cloud</title>
+    <id>https://github.com/AgentsDanceAI/deepseek-harness-cloud/tree/main/packages/dsh-plugin-cloud</id>
+    <link href="https://github.com/AgentsDanceAI/deepseek-harness-cloud/tree/main/packages/dsh-plugin-cloud"/>
+    <updated>2026-08-23T00:00:00Z</updated>
+    <summary>Connect to the DSH Cloud gateway (hosted or self-hosted): device-authorization login, and one command writes multi-provider models (DeepSeek / GPT / Claude / Gemini and 20 more) into the user config layer.</summary>
   </entry>
   <entry>
     <title>chenzhi-clude/dsh-hooks-pack</title>
@@ -193,26 +214,5 @@
     <link href="https://github.com/PerryLink/dsh-score"/>
     <updated>2026-08-19T00:00:00Z</updated>
     <summary>Multi-dimensional plugin quality scoring across five axes (install success, maintenance, docs, security, protocol compliance) with real CLI evidence, audit timestamps, and JSON/Markdown leaderboards.</summary>
-  </entry>
-  <entry>
-    <title>PerryLink/dsh-test-drive</title>
-    <id>https://github.com/PerryLink/dsh-test-drive</id>
-    <link href="https://github.com/PerryLink/dsh-test-drive"/>
-    <updated>2026-08-19T00:00:00Z</updated>
-    <summary>Isolated install-and-smoke-test for plugins: install, validate, and boot inside a throwaway DSH_HOME profile, producing a structured pass/fail matrix.</summary>
-  </entry>
-  <entry>
-    <title>dream-num/dsh-univer-office</title>
-    <id>https://github.com/dream-num/dsh-univer-office</id>
-    <link href="https://github.com/dream-num/dsh-univer-office"/>
-    <updated>2026-08-19T00:00:00Z</updated>
-    <summary>Create, edit, inspect, and deliver spreadsheets, documents, presentations, databases, and canvases in DeepSeek Harness, with live preview and worktree review.</summary>
-  </entry>
-  <entry>
-    <title>maddogfinance/dsh-trading</title>
-    <id>https://github.com/maddogfinance/dsh-trading</id>
-    <link href="https://github.com/maddogfinance/dsh-trading"/>
-    <updated>2026-08-19T00:00:00Z</updated>
-    <summary>Read-only trading research workbench: a typed market-data seam (bring your own data source), multi-timeframe indicator regime snapshots, interactive candlestick cards in the dsh web UI (AI annotations require cited sources verified against real candle ranges), and a structurally order-blocking risk-guard.</summary>
   </entry>
 </feed>

@@ -3,7 +3,7 @@
  "url": "https://beancookie.github.io/awesome-dsh-plugin",
  "source": "https://github.com/beancookie/awesome-dsh-plugin",
  "updated": "2026-08-23",
- "count": 416,
+ "count": 419,
  "categories": {
   "ui": {
    "zh": "UI 增强",
@@ -2287,6 +2287,21 @@
    "added": "2026-08-15"
   },
   {
+   "name": "dsh-nuke-plugin",
+   "owner": "beijingwahw",
+   "url": "https://github.com/beijingwahw/dsh-nuke-plugin",
+   "category": "tools",
+   "description": {
+    "zh": "事务化强力卸载引擎：每个破坏性动作走 validate/preview/execute/undo 四段式并带 Saga 回滚，WAL 崩溃自恢复、hash chain 审计链、硬链接去重，提交前贝叶斯先知推演成功率。",
+    "en": "Transactional uninstall engine: every destructive action runs a validate/preview/execute/undo four-phase pipeline with Saga rollback, WAL crash self-recovery, hash-chain audit trail, hard-link dedup, and a Bayesian oracle that predicts success probability before committing."
+   },
+   "npm": null,
+   "stars": 0,
+   "createdAt": "2026-08-17",
+   "install": "dsh plugin --profile web add github:beijingwahw/dsh-nuke-plugin",
+   "added": "2026-08-23"
+  },
+  {
    "name": "dsh-news-plugin",
    "owner": "canghai666x",
    "url": "https://github.com/canghai666x/dsh-news-plugin",
@@ -3215,6 +3230,21 @@
    "createdAt": "2026-08-14",
    "install": "dsh plugin --profile web add dsh-vision-tools",
    "added": "2026-08-17"
+  },
+  {
+   "name": "vision-exp-tile",
+   "owner": "Nicholas023",
+   "url": "https://github.com/Nicholas023/vision-exp-tile",
+   "category": "tools",
+   "description": {
+    "zh": "面向视觉大模型的大图智能识图：800×800 无损切块识别（smart/pipeline/full 三策略）+ 本地 OCR（自动反色/二值化/手写分流）+ 可选多厂商 GPU 加速（DirectML 覆盖 NVIDIA/AMD/Intel，CUDA/OpenVINO），失败自动回退 CPU；MIT 开源（111 项单元测试）。",
+    "en": "Large-image recognition for vision models: 800×800 lossless tiling (smart/pipeline/full strategies) plus local OCR (auto inversion/binarization/handwriting split) and optional multi-vendor GPU acceleration (DirectML covering NVIDIA/AMD/Intel, CUDA/OpenVINO) with automatic CPU fallback; MIT licensed (111 unit tests)."
+   },
+   "npm": null,
+   "stars": 3,
+   "createdAt": "2026-08-22",
+   "install": "dsh plugin --profile web add github:Nicholas023/vision-exp-tile",
+   "added": "2026-08-23"
   },
   {
    "name": "dsh-custom-tool",
@@ -4925,6 +4955,21 @@
    "createdAt": "2026-08-13",
    "install": "dsh plugin --profile web add dsh-notify-windows",
    "added": "2026-08-14"
+  },
+  {
+   "name": "dsh-plugin-cloud",
+   "owner": "AgentsDanceAI",
+   "url": "https://github.com/AgentsDanceAI/deepseek-harness-cloud/tree/main/packages/dsh-plugin-cloud",
+   "category": "model",
+   "description": {
+    "zh": "接入 DSH Cloud 网关（托管或自部署）：设备授权登录，一条命令在用户配置层写入多模型 provider（DeepSeek / GPT / Claude / Gemini 等 20 个模型）。",
+    "en": "Connect to the DSH Cloud gateway (hosted or self-hosted): device-authorization login, and one command writes multi-provider models (DeepSeek / GPT / Claude / Gemini and 20 more) into the user config layer."
+   },
+   "npm": null,
+   "stars": null,
+   "createdAt": null,
+   "install": "dsh plugin --profile web add github:AgentsDanceAI/deepseek-harness-cloud/tree/main/packages/dsh-plugin-cloud",
+   "added": "2026-08-23"
   },
   {
    "name": "dsh-llm-fallbacks",

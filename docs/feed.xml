@@ -6,6 +6,13 @@
   <link rel="self" href="https://beancookie.github.io/awesome-dsh-plugin/feed.xml"/>
   <updated>2026-08-23T00:00:00Z</updated>
   <entry>
+    <title>beijingwahw/dsh-nuke-plugin</title>
+    <id>https://github.com/beijingwahw/dsh-nuke-plugin</id>
+    <link href="https://github.com/beijingwahw/dsh-nuke-plugin"/>
+    <updated>2026-08-23T00:00:00Z</updated>
+    <summary>事务化强力卸载引擎：每个破坏性动作走 validate/preview/execute/undo 四段式并带 Saga 回滚，WAL 崩溃自恢复、hash chain 审计链、硬链接去重，提交前贝叶斯先知推演成功率。</summary>
+  </entry>
+  <entry>
     <title>exoticknight/dsh-labnana</title>
     <id>https://github.com/exoticknight/dsh-labnana</id>
     <link href="https://github.com/exoticknight/dsh-labnana"/>
@@ -20,11 +27,25 @@
     <summary>把其他 Agent 的技能一键搬进 DeepSeek Harness：支持 14 个平台 + 共享层识别、同名技能合并、不重复搬运、可回滚。</summary>
   </entry>
   <entry>
+    <title>Nicholas023/vision-exp-tile</title>
+    <id>https://github.com/Nicholas023/vision-exp-tile</id>
+    <link href="https://github.com/Nicholas023/vision-exp-tile"/>
+    <updated>2026-08-23T00:00:00Z</updated>
+    <summary>面向视觉大模型的大图智能识图：800×800 无损切块识别（smart/pipeline/full 三策略）+ 本地 OCR（自动反色/二值化/手写分流）+ 可选多厂商 GPU 加速（DirectML 覆盖 NVIDIA/AMD/Intel，CUDA/OpenVINO），失败自动回退 CPU；MIT 开源（111 项单元测试）。</summary>
+  </entry>
+  <entry>
     <title>Abel-86/task-chime</title>
     <id>https://github.com/Abel-86/task-chime</id>
     <link href="https://github.com/Abel-86/task-chime"/>
     <updated>2026-08-23T00:00:00Z</updated>
     <summary>审批/权限请求与任务完成提示音，可在 GUI 设置中自定义声音、音量与冷却时间。</summary>
+  </entry>
+  <entry>
+    <title>AgentsDanceAI/dsh-plugin-cloud</title>
+    <id>https://github.com/AgentsDanceAI/deepseek-harness-cloud/tree/main/packages/dsh-plugin-cloud</id>
+    <link href="https://github.com/AgentsDanceAI/deepseek-harness-cloud/tree/main/packages/dsh-plugin-cloud"/>
+    <updated>2026-08-23T00:00:00Z</updated>
+    <summary>接入 DSH Cloud 网关（托管或自部署）：设备授权登录，一条命令在用户配置层写入多模型 provider（DeepSeek / GPT / Claude / Gemini 等 20 个模型）。</summary>
   </entry>
   <entry>
     <title>chenzhi-clude/dsh-hooks-pack</title>
@@ -193,26 +214,5 @@
     <link href="https://github.com/PerryLink/dsh-score"/>
     <updated>2026-08-19T00:00:00Z</updated>
     <summary>插件多维质量评分：安装成功/维护/文档/安全/协议合规五维，真实 CLI 证据 + 审计时间戳，产出 JSON/Markdown 榜单。</summary>
-  </entry>
-  <entry>
-    <title>PerryLink/dsh-test-drive</title>
-    <id>https://github.com/PerryLink/dsh-test-drive</id>
-    <link href="https://github.com/PerryLink/dsh-test-drive"/>
-    <updated>2026-08-19T00:00:00Z</updated>
-    <summary>插件隔离安装冒烟试驾：一次性 DSH_HOME profile 内安装+校验+启动，产出结构化通过/失败矩阵。</summary>
-  </entry>
-  <entry>
-    <title>dream-num/dsh-univer-office</title>
-    <id>https://github.com/dream-num/dsh-univer-office</id>
-    <link href="https://github.com/dream-num/dsh-univer-office"/>
-    <updated>2026-08-19T00:00:00Z</updated>
-    <summary>在 DeepSeek Harness 中创建、编辑、检查和交付表格、文档、演示文稿、多维表格和画布，支持实时预览与 worktree 审阅。</summary>
-  </entry>
-  <entry>
-    <title>maddogfinance/dsh-trading</title>
-    <id>https://github.com/maddogfinance/dsh-trading</id>
-    <link href="https://github.com/maddogfinance/dsh-trading"/>
-    <updated>2026-08-19T00:00:00Z</updated>
-    <summary>只读交易研究工作台：类型化行情数据接缝（可自带数据源）、多周期指标 regime 快照、dsh web 交互式 K 线卡（AI 标注需引用依据并经真实 K 线区间校验）、结构性禁止下单的 risk-guard。</summary>
   </entry>
 </feed>

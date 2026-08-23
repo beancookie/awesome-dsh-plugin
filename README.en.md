@@ -32,7 +32,7 @@ DeepSeek Harness is DeepSeek's open-source agent harness — a runnable coding a
 
 </details>
 
-**416** plugins · [PRs welcome](#contributing)
+**419** plugins · [PRs welcome](#contributing)
 
 ## Contents
 
@@ -213,6 +213,7 @@ DeepSeek Harness is DeepSeek's open-source agent harness — a runnable coding a
 - [Anlushu/hkinsure](https://github.com/Anlushu/hkinsure) — Hong Kong insurance data MCP: 260+ real products, 17 insurers, dividend fulfillment rates. Query/compare/calculate for any AI tool (Hermes / dsh / Claude Code).
 - [awesome-dsh-plugin/dsh-find-plugin](https://github.com/awesome-dsh-plugin/dsh-find-plugin) - Find plugins without leaving the agent: search this curated registry by keyword or category, with ready-to-run install commands.
 - [beancookie/dsh-plugin-anydoc](https://github.com/beancookie/dsh-plugin-anydoc) - Registers @firecrawl/anydoc as an `anydoc` tool for the Agent, converting Word/PPT/Excel/PDF/EPUB and other document formats into GitHub-Flavored Markdown.
+- [beijingwahw/dsh-nuke-plugin](https://github.com/beijingwahw/dsh-nuke-plugin) - Transactional uninstall engine: every destructive action runs a validate/preview/execute/undo four-phase pipeline with Saga rollback, WAL crash self-recovery, hash-chain audit trail, hard-link dedup, and a Bayesian oracle that predicts success probability before committing.
 - [dsh-news-plugin](https://github.com/canghai666x/dsh-news-plugin) - RSS news fetch tool that grabs 10+ CN/EN feeds into structured items.
 - [cdxiaodong/dsh-llm-inspector](https://github.com/cdxiaodong/dsh-llm-inspector) - Unified LLM request/response inspector: reasoning-effort tuning, external-think export, traffic & bundle analysis.
 - [dsh-learn-everything](https://github.com/cendaifeng/dsh-learn-everything) - Feynman learning-mode loop rendered as rich HTML lesson cards.
@@ -275,6 +276,7 @@ DeepSeek Harness is DeepSeek's open-source agent harness — a runnable coding a
 - [mjylfz/dsh-skill-mover](https://github.com/mjylfz/dsh-skill-mover) - One-click migration of skills from other agents into DeepSeek Harness: 14 platform detectors plus shared-layer recognition, same-name skill merging, no re-copying of existing skills, and rollback support.
 - [moon09300731/dsh-approval-gate](https://github.com/moon09300731/dsh-approval-gate) — Risk-gated approval automation: flash pre-classifies whether a write/command is irreversible — safe operations are auto-approved, dangerous ones are escalated to human approval (fail-safe).
 - [moon09300731/dsh-vision-tools](https://github.com/moon09300731/dsh-vision-tools) — Full vision-capability bundle for DeepSeek Harness: a `vision_understand` tool (OpenAI-compatible vision APIs, free Zhipu GLM-4V-Flash by default) plus paste/drag-and-drop/button entry points for image recognition.
+- [Nicholas023/vision-exp-tile](https://github.com/Nicholas023/vision-exp-tile) - Large-image recognition for vision models: 800×800 lossless tiling (smart/pipeline/full strategies) plus local OCR (auto inversion/binarization/handwriting split) and optional multi-vendor GPU acceleration (DirectML covering NVIDIA/AMD/Intel, CUDA/OpenVINO) with automatic CPU fallback; MIT licensed (111 unit tests).
 - [omdsh-dev/dsh-custom-tool](https://github.com/omdsh-dev/dsh-custom-tool) - Create and manage sandboxed JavaScript tools with a Monaco editor.
 - [omdsh-dev/dsh-data-agent](https://github.com/omdsh-dev/dsh-data-agent) - Let the AI connect to databases and write SQL for you.
 - [omdsh-dev/dsh-kb-sieve](https://github.com/omdsh-dev/dsh-kb-sieve) - Build auditable KB packs (SQLite FTS5) from md/txt/docx/pdf with deterministic retrieval and original-text reading.
@@ -397,6 +399,7 @@ DeepSeek Harness is DeepSeek's open-source agent harness — a runnable coding a
 - [dsh-notify-windows](https://github.com/SeverusZh/dsh-notify-windows) - Windows notifications, zero dependencies.
 
 ### Models & Providers
+- [AgentsDanceAI/dsh-plugin-cloud](https://github.com/AgentsDanceAI/deepseek-harness-cloud/tree/main/packages/dsh-plugin-cloud) - Connect to the DSH Cloud gateway (hosted or self-hosted): device-authorization login, and one command writes multi-provider models (DeepSeek / GPT / Claude / Gemini and 20 more) into the user config layer.
 - [btspoony/dsh-llm-fallbacks](https://github.com/btspoony/dsh-llm-fallbacks) - Role-based LLM retry & fallback strategies.
 - [dsh-vision](https://github.com/dsh-external/dsh-vision) - Vision bridge: view_image tool over any OpenAI-compatible VLM.
 - [dylan121322/llm-adaptive](https://github.com/dylan121322/llm-adaptive) - Adaptive model routing: per-request complexity classification with automatic provider routing.
