@@ -87,6 +87,7 @@ DeepSeek Harness 是 DeepSeek 开源的 agent harness——既是可直接运行
 - [lak321/dsh-filetree](https://github.com/lak321/dsh-filetree) - 工程文件浏览器：会话视图文件页签，目录树 + VSCode 风格编辑器（C 语法高亮/行号/自动缩进/状态栏），跟随当前工作区。
 - [lancecheney/dsh-deepseek-balance](https://github.com/lancecheney/dsh-plugins/tree/main/packages/dsh-deepseek-balance) — Session log 按钮左侧的实时计费徽章：余额、每会话消耗、峰谷/平价价格，按模型/货币/思考强度自动切换，每天抓官方定价。
 - [Lanxing6480/dsh-galgame](https://github.com/Lanxing6480/dsh-galgame) — DSH Web 聊天界面 GalGame 演出层：立绘差分、流式思考气泡、打字机对话框与 GalGame 式提问/审批选项框，可随时切回普通聊天。
+- [qwert702/dsh-token-viewer](https://github.com/qwert702/dsh-token-viewer) —— CC Switch 风格的 Token 消耗统计插件：按请求记录逐条统计、真实消耗英雄卡（含缓存命中率）、按请求时间分桶趋势图、从官网实时拉取并显示按模型的峰谷定价列表、按项目和模型汇总统计，以及账户余额。
 - [Laplace-bit/dsh-smooth-stream](https://github.com/Laplace-bit/dsh-smooth-stream) — 丝滑流式渲染：字跟着模型到达走、换行滑入、不闪，滚动归用户，尊重 `prefers-reduced-motion`。
 - [lehhair/dsh-diff-viewer](https://github.com/lehhair/dsh-diff-viewer) — PiUI 风格 diff 查看器，替换 write/edit 工具调用的默认 DiffBlock。
 - [lqhl/dsh-pi-tui](https://github.com/lqhl/dsh-pi-tui) — 差分渲染 TUI 前端：流式 Markdown 与工具卡片。
@@ -106,9 +107,11 @@ DeepSeek Harness 是 DeepSeek 开源的 agent harness——既是可直接运行
 - [PerryLink/dsh-composer-history](https://github.com/PerryLink/dsh-composer-history) — 网页输入区的终端式输入历史：方向键精确还原草稿/光标，Ctrl+R 反搜，工作区级回忆，感知滑动上下文。
 - [PerryLink/dsh-output-styles](https://github.com/PerryLink/dsh-output-styles) — 运行时切换模型输出风格（对齐 Claude Code outputStyles），含 output.render.* 呈现协议与 /style 命令。
 - [PerryLink/dsh-session-pin](https://github.com/PerryLink/dsh-session-pin) — 置顶会话与工作区到侧边栏：逐置顶行配色、看板/标签/已存视图、健康摘要与 /goto。
+- [qwert702/dsh-auto-translate](https://github.com/qwert702/dsh-auto-translate) —— 英文回复自动翻译插件：在原文下方内联显示中文翻译，工具调用附一行中文注释（内置词汇表覆盖常用 harness 工具）；翻译通过独立请求完成，不进入会话上下文。
 - [PerryLink/dsh-talk](https://github.com/PerryLink/dsh-talk) — 语音优先会话回路：输入区麦克风（浏览器/本地语音识别），speak 工具语音播报，事件播报与说话打断。
 - [pk7j7sqryy-ops/dsh-token-pet](https://github.com/pk7j7sqryy-ops/dsh-token-pet) — 会话头部卡通用量小部件：布布玩偶 + 上下文占用/会话累计/构成，附日期周几、天气、3 天预报与极端天气预警（雨滴/雪花动画），跟随主题色。
 - [qyw233/dsh-deeplink](https://github.com/qyw233/dsh-deeplink) — `?session=` / `?workspace=` 深链直达指定项目对话。
+- [qwert702/dsh-commander](https://github.com/qwert702/dsh-commander) —— DSH 网页端指挥官模式插件：会话标题栏一键注入协议简报，解析模型回复中的任务块并自动执行，让策略层与执行层分离；通过徽章按钮激活/停用。
 - [renat3u/dsh-web-archive](https://github.com/renat3u/dsh-web-archive) — 折叠对话中的 Think、Bash 等「无用消息」。
 - [Sev7een/ds-api-usage](https://github.com/Sev7een/ds-api-usage) — 在设置页展示 DeepSeek API 余额与最近 24 小时用量，包括估算消费、Token、请求次数和按小时时间线。
 - [Simon314620/dsh-turn-index](https://github.com/Simon314620/dsh-turn-index) — 轮次索引侧边栏，滚动时自动高亮当前轮次。
@@ -176,10 +179,13 @@ DeepSeek Harness 是 DeepSeek 开源的 agent harness——既是可直接运行
 - [bowenliang123/dsh-context](https://github.com/bowenliang123/dsh-context) — 上下文洞察面板：一眼看清模型上下文窗口的组成与变化——构成对照窗口大小、按请求历史趋势、压缩/注入事件、消息级 token 统计。
 - [Breeze136/dsh-kb-rag](https://github.com/Breeze136/dsh-kb-rag) — 本地文献知识库 RAG：8 个工具（PDF/文件夹/Zotero 入库、BM25+向量+重排混合检索、DOI 可点击溯源问答、范围/严格模式、去重/清空/统计），全本地 bge 嵌入 + 单文件 SQLite，实测 242 篇 86s 入库、2 万块亚秒热查询。
 - [flymysql/dsh-memory](https://github.com/flymysql/dsh-memory) — 跨会话记忆库：remember / recall / forget 工具、每轮提示注入与设置页条目浏览。
+- [qwert702/dsh-context-compressor](https://github.com/qwert702/dsh-context-compressor) —— 面向小模型的上下文压缩插件：将工具输出和对话历史压缩为几句话，为实际任务腾出上下文空间；自动在新生成的会话中继续工作。
+- [qwert702/dsh-memory](https://github.com/qwert702/dsh-memory) —— DSH 网页端项目级+全局长期记忆插件：分拆 POST /items 路由避免路径冲突，多轮工具调用上下文压缩后存入记忆项，去重与会话级持久化。
 - [freehul/sgme](https://github.com/freehul/sgme) — 拾光记忆引擎（SGME）桥接：多智能体共享长期记忆（HTTP）—— L0/L1/L1.5/L2 分层提炼、按场景注入、统一检索、主动关怀信号（memory_search / wiki_search / signal_pull / signal_claim / signal_ack），npm 包名 `dsh-sgme`。
 - [futongxu9-maker/dsh-shared-memory](https://github.com/futongxu9-maker/dsh-shared-memory) — 跨对话共享记忆：MEMORY.md + USER.md 注入每个会话系统提示词，memory 工具 + 可视化记忆面板，Hermes 式实现。
 - [ICCuse/dsh-file-memory](https://github.com/ICCuse/dsh-file-memory) — 文件型工作记忆：memorize/recall 把关键前提逐字保存在会话笔记文件，无损挺过上下文压缩。
 - [ICCuse/dsh-knowledge](https://github.com/ICCuse/dsh-knowledge) — 全局 Markdown 知识库桥：kb_add/kb_search/kb_show/kb_timeline 读写与 Codex kb.cmd CLI 共享的知识库（格式逐字节兼容）。
+- [qwert702/dsh-continue-on-limit](https://github.com/qwert702/dsh-continue-on-limit) —— 本地小模型输出上限自动继续插件：双源检测已达到输出 token 上限提示（turn-max-tokens 节点 + provider 响应），maxConsecutive（默认 3）防死循环，完全无 UI。
 - [ICCuse/dsh-premise-guard](https://github.com/ICCuse/dsh-premise-guard) — 压缩后前提漂移守卫：摘要丢失关键字面锚点时注入一次性提醒。
 - [Jesse-njx/dsh-memory](https://github.com/Jesse-njx/dsh-memory) — 基于 DSH 无损会话日志的引用式记忆：蒸馏出的事实带 `(sessionId, eventRange)` 引用，可随时展开回原始日志片段。
 - [memory-vault](https://github.com/JohnXu22786/memory-vault) — 跨会话持久记忆插件：SQLite 本地存储 + 关键词/语义混合检索 + Web/MCP 界面，供编码代理存取经验与决策。
