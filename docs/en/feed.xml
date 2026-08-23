@@ -13,6 +13,13 @@
     <summary>Labnana image generation for DeepSeek Harness: text-to-image / image-to-image / precise editing, with credits estimation and web settings UI.</summary>
   </entry>
   <entry>
+    <title>mjylfz/dsh-skill-mover</title>
+    <id>https://github.com/mjylfz/dsh-skill-mover</id>
+    <link href="https://github.com/mjylfz/dsh-skill-mover"/>
+    <updated>2026-08-23T00:00:00Z</updated>
+    <summary>One-click migration of skills from other agents into DeepSeek Harness: 14 platform detectors plus shared-layer recognition, same-name skill merging, no re-copying of existing skills, and rollback support.</summary>
+  </entry>
+  <entry>
     <title>Abel-86/task-chime</title>
     <id>https://github.com/Abel-86/task-chime</id>
     <link href="https://github.com/Abel-86/task-chime"/>
@@ -207,12 +214,5 @@
     <link href="https://github.com/maddogfinance/dsh-trading"/>
     <updated>2026-08-19T00:00:00Z</updated>
     <summary>Read-only trading research workbench: a typed market-data seam (bring your own data source), multi-timeframe indicator regime snapshots, interactive candlestick cards in the dsh web UI (AI annotations require cited sources verified against real candle ranges), and a structurally order-blocking risk-guard.</summary>
-  </entry>
-  <entry>
-    <title>PerryLink/dsh-background-agents</title>
-    <id>https://github.com/PerryLink/dsh-background-agents</id>
-    <link href="https://github.com/PerryLink/dsh-background-agents"/>
-    <updated>2026-08-19T00:00:00Z</updated>
-    <summary>Resumable background subagents plus persistent multi-agent team rooms: a message bus, shared task boards, and approval-gated handoffs that survive restarts.</summary>
   </entry>
 </feed>

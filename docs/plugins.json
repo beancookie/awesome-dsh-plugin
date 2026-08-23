@@ -3,7 +3,7 @@
  "url": "https://beancookie.github.io/awesome-dsh-plugin",
  "source": "https://github.com/beancookie/awesome-dsh-plugin",
  "updated": "2026-08-23",
- "count": 415,
+ "count": 416,
  "categories": {
   "ui": {
    "zh": "UI 增强",
@@ -3170,6 +3170,21 @@
    "createdAt": "2026-08-13",
    "install": "dsh plugin --profile web add github:MAXeaglet/dsh-bash-terminal",
    "added": "2026-08-14"
+  },
+  {
+   "name": "dsh-skill-mover",
+   "owner": "mjylfz",
+   "url": "https://github.com/mjylfz/dsh-skill-mover",
+   "category": "tools",
+   "description": {
+    "zh": "把其他 Agent 的技能一键搬进 DeepSeek Harness：支持 14 个平台 + 共享层识别、同名技能合并、不重复搬运、可回滚。",
+    "en": "One-click migration of skills from other agents into DeepSeek Harness: 14 platform detectors plus shared-layer recognition, same-name skill merging, no re-copying of existing skills, and rollback support."
+   },
+   "npm": null,
+   "stars": 1,
+   "createdAt": "2026-08-20",
+   "install": "dsh plugin --profile web add github:mjylfz/dsh-skill-mover",
+   "added": "2026-08-23"
   },
   {
    "name": "dsh-approval-gate",

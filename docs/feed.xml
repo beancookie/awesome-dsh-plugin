@@ -13,6 +13,13 @@
     <summary>为 DeepSeek Harness 接入 Labnana 图片生成：文生图 / 图生图 / 精准编辑，含积分预估与网页设置界面。</summary>
   </entry>
   <entry>
+    <title>mjylfz/dsh-skill-mover</title>
+    <id>https://github.com/mjylfz/dsh-skill-mover</id>
+    <link href="https://github.com/mjylfz/dsh-skill-mover"/>
+    <updated>2026-08-23T00:00:00Z</updated>
+    <summary>把其他 Agent 的技能一键搬进 DeepSeek Harness：支持 14 个平台 + 共享层识别、同名技能合并、不重复搬运、可回滚。</summary>
+  </entry>
+  <entry>
     <title>Abel-86/task-chime</title>
     <id>https://github.com/Abel-86/task-chime</id>
     <link href="https://github.com/Abel-86/task-chime"/>
@@ -207,12 +214,5 @@
     <link href="https://github.com/maddogfinance/dsh-trading"/>
     <updated>2026-08-19T00:00:00Z</updated>
     <summary>只读交易研究工作台：类型化行情数据接缝（可自带数据源）、多周期指标 regime 快照、dsh web 交互式 K 线卡（AI 标注需引用依据并经真实 K 线区间校验）、结构性禁止下单的 risk-guard。</summary>
-  </entry>
-  <entry>
-    <title>PerryLink/dsh-background-agents</title>
-    <id>https://github.com/PerryLink/dsh-background-agents</id>
-    <link href="https://github.com/PerryLink/dsh-background-agents"/>
-    <updated>2026-08-19T00:00:00Z</updated>
-    <summary>可续跑的后台子代理 + 持久多代理团队房间：消息总线、共享任务板、审批门交接，跨重启存活。</summary>
   </entry>
 </feed>
