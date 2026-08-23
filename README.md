@@ -395,6 +395,7 @@ DeepSeek Harness 是 DeepSeek 开源的 agent harness——既是可直接运行
 - [SeverusZh/dsh-notify-windows](https://github.com/SeverusZh/dsh-notify-windows) — Windows 通知，零依赖。
 
 ### 🔌 模型与账号接入
+- [AgentsDanceAI/dsh-plugin-cloud](https://github.com/AgentsDanceAI/deepseek-harness-cloud/tree/main/packages/dsh-plugin-cloud) — 接入 DSH Cloud 网关（托管或自部署）：设备授权登录，一条命令在用户配置层写入多模型 provider（DeepSeek / GPT / Claude / Gemini 等 20 个模型）。
 - [btspoony/dsh-llm-fallbacks](https://github.com/btspoony/dsh-llm-fallbacks) — 基于角色的模型重试与备用策略。
 - [dsh-vision](https://github.com/dsh-external/dsh-vision) — 视觉桥接：view_image 工具接任意 OpenAI 兼容 VLM。
 - [dylan121322/llm-adaptive](https://github.com/dylan121322/llm-adaptive) — 自适应模型路由：请求级复杂度分类，按配置链自动选择后端 provider。
