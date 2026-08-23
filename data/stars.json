@@ -519,6 +519,12 @@
   "etag": "W/\"a6d8343a93a83f5e3355611a8f06af4cc6660684bb00502c74b709b322978020\"",
   "checkedAt": "2026-08-19"
  },
+ "https://github.com/dsh-blue/blue": {
+  "stars": 3,
+  "createdAt": "2026-08-18",
+  "etag": "W/\"d19fadab866b0dd1dbb6c78ecd0ad09cd68f380055402dc141b936a959e1cb15\"",
+  "checkedAt": "2026-08-23"
+ },
  "https://github.com/dsh-external/browser4-dsh": {
   "stars": null,
   "checkedAt": "2026-08-17"

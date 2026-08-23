@@ -347,6 +347,10 @@
   "npm": "dsh-univer-office",
   "checkedAt": "2026-08-19"
  },
+ "https://github.com/dsh-blue/blue": {
+  "npm": null,
+  "checkedAt": "2026-08-23"
+ },
  "https://github.com/dsh-external/browser4-dsh": {
   "npm": null,
   "checkedAt": "2026-08-14"
