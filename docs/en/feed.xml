@@ -13,6 +13,13 @@
     <summary>Labnana image generation for DeepSeek Harness: text-to-image / image-to-image / precise editing, with credits estimation and web settings UI.</summary>
   </entry>
   <entry>
+    <title>Abel-86/task-chime</title>
+    <id>https://github.com/Abel-86/task-chime</id>
+    <link href="https://github.com/Abel-86/task-chime"/>
+    <updated>2026-08-23T00:00:00Z</updated>
+    <summary>Plays local sounds for approval/permission requests and task completion, configurable from the Web GUI settings.</summary>
+  </entry>
+  <entry>
     <title>chenzhi-clude/dsh-hooks-pack</title>
     <id>https://github.com/chenzhi-clude/dsh-hooks-pack</id>
     <link href="https://github.com/chenzhi-clude/dsh-hooks-pack"/>
@@ -207,12 +214,5 @@
     <link href="https://github.com/PerryLink/dsh-background-agents"/>
     <updated>2026-08-19T00:00:00Z</updated>
     <summary>Resumable background subagents plus persistent multi-agent team rooms: a message bus, shared task boards, and approval-gated handoffs that survive restarts.</summary>
-  </entry>
-  <entry>
-    <title>PerryLink/dsh-plugin-guide</title>
-    <id>https://github.com/PerryLink/dsh-plugin-guide</id>
-    <link href="https://github.com/PerryLink/dsh-plugin-guide"/>
-    <updated>2026-08-19T00:00:00Z</updated>
-    <summary>A plugin-development knowledge base packaged as on-demand agent skills: official constraints, task workflows, API references, and community gotchas.</summary>
   </entry>
 </feed>

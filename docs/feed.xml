@@ -13,6 +13,13 @@
     <summary>为 DeepSeek Harness 接入 Labnana 图片生成：文生图 / 图生图 / 精准编辑，含积分预估与网页设置界面。</summary>
   </entry>
   <entry>
+    <title>Abel-86/task-chime</title>
+    <id>https://github.com/Abel-86/task-chime</id>
+    <link href="https://github.com/Abel-86/task-chime"/>
+    <updated>2026-08-23T00:00:00Z</updated>
+    <summary>审批/权限请求与任务完成提示音，可在 GUI 设置中自定义声音、音量与冷却时间。</summary>
+  </entry>
+  <entry>
     <title>chenzhi-clude/dsh-hooks-pack</title>
     <id>https://github.com/chenzhi-clude/dsh-hooks-pack</id>
     <link href="https://github.com/chenzhi-clude/dsh-hooks-pack"/>
@@ -207,12 +214,5 @@
     <link href="https://github.com/PerryLink/dsh-background-agents"/>
     <updated>2026-08-19T00:00:00Z</updated>
     <summary>可续跑的后台子代理 + 持久多代理团队房间：消息总线、共享任务板、审批门交接，跨重启存活。</summary>
-  </entry>
-  <entry>
-    <title>PerryLink/dsh-plugin-guide</title>
-    <id>https://github.com/PerryLink/dsh-plugin-guide</id>
-    <link href="https://github.com/PerryLink/dsh-plugin-guide"/>
-    <updated>2026-08-19T00:00:00Z</updated>
-    <summary>插件开发知识库打包为按需加载的 agent 技能：官方约束、任务工作流、API 参考与社区踩坑。</summary>
   </entry>
 </feed>

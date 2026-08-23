@@ -3,7 +3,7 @@
  "url": "https://beancookie.github.io/awesome-dsh-plugin",
  "source": "https://github.com/beancookie/awesome-dsh-plugin",
  "updated": "2026-08-23",
- "count": 414,
+ "count": 415,
  "categories": {
   "ui": {
    "zh": "UI 增强",
@@ -4550,6 +4550,21 @@
    "createdAt": "2026-08-21",
    "install": "dsh plugin --profile web add github:whateverboy2333/dsh-flat-teams",
    "added": "2026-08-21"
+  },
+  {
+   "name": "task-chime",
+   "owner": "Abel-86",
+   "url": "https://github.com/Abel-86/task-chime",
+   "category": "notify",
+   "description": {
+    "zh": "审批/权限请求与任务完成提示音，可在 GUI 设置中自定义声音、音量与冷却时间。",
+    "en": "Plays local sounds for approval/permission requests and task completion, configurable from the Web GUI settings."
+   },
+   "npm": "task-chime",
+   "stars": 0,
+   "createdAt": "2026-08-22",
+   "install": "dsh plugin --profile web add task-chime",
+   "added": "2026-08-23"
   },
   {
    "name": "dsh-notify-win",
