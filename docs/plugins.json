@@ -3,7 +3,7 @@
  "url": "https://beancookie.github.io/awesome-dsh-plugin",
  "source": "https://github.com/beancookie/awesome-dsh-plugin",
  "updated": "2026-08-23",
- "count": 419,
+ "count": 420,
  "categories": {
   "ui": {
    "zh": "UI 增强",
@@ -3665,6 +3665,21 @@
    "createdAt": "2026-08-11",
    "install": "dsh plugin --profile web add github:vibeinging/dsh-tool-search",
    "added": "2026-08-13"
+  },
+  {
+   "name": "dsh-config-manager",
+   "owner": "xiajiajun516",
+   "url": "https://github.com/xiajiajun516/dsh-config-manager",
+   "category": "tools",
+   "description": {
+    "zh": "DSH 配置备份、恢复、导出、导入、迁移与同步一体化：settings、providers、plugins、MCP servers、skills、agent presets 与 workspaces 打包为一个 ZIP，支持加密备份、Git/WebDAV 同步与配置市场。",
+    "en": "Full DSH configuration backup, restore, export, import, migrate and sync: settings, providers, plugins, MCP servers, skills, agent presets and workspaces in one ZIP, with encrypted backups, Git/WebDAV sync and a configuration marketplace."
+   },
+   "npm": "dsh-config-manager",
+   "stars": 14,
+   "createdAt": "2026-08-14",
+   "install": "dsh plugin --profile web add dsh-config-manager",
+   "added": "2026-08-23"
   },
   {
    "name": "dsh-backup",

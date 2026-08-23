@@ -34,6 +34,13 @@
     <summary>Large-image recognition for vision models: 800×800 lossless tiling (smart/pipeline/full strategies) plus local OCR (auto inversion/binarization/handwriting split) and optional multi-vendor GPU acceleration (DirectML covering NVIDIA/AMD/Intel, CUDA/OpenVINO) with automatic CPU fallback; MIT licensed (111 unit tests).</summary>
   </entry>
   <entry>
+    <title>xiajiajun516/dsh-config-manager</title>
+    <id>https://github.com/xiajiajun516/dsh-config-manager</id>
+    <link href="https://github.com/xiajiajun516/dsh-config-manager"/>
+    <updated>2026-08-23T00:00:00Z</updated>
+    <summary>Full DSH configuration backup, restore, export, import, migrate and sync: settings, providers, plugins, MCP servers, skills, agent presets and workspaces in one ZIP, with encrypted backups, Git/WebDAV sync and a configuration marketplace.</summary>
+  </entry>
+  <entry>
     <title>Abel-86/task-chime</title>
     <id>https://github.com/Abel-86/task-chime</id>
     <link href="https://github.com/Abel-86/task-chime"/>
@@ -207,12 +214,5 @@
     <link href="https://github.com/PerryLink/dsh-permission-rules"/>
     <updated>2026-08-19T00:00:00Z</updated>
     <summary>Declarative allow/deny/ask permission rules plus Codex-style per-process network policy (with a built-in local HTTP/CONNECT proxy), full audit logging and hot rule reload.</summary>
-  </entry>
-  <entry>
-    <title>PerryLink/dsh-score</title>
-    <id>https://github.com/PerryLink/dsh-score</id>
-    <link href="https://github.com/PerryLink/dsh-score"/>
-    <updated>2026-08-19T00:00:00Z</updated>
-    <summary>Multi-dimensional plugin quality scoring across five axes (install success, maintenance, docs, security, protocol compliance) with real CLI evidence, audit timestamps, and JSON/Markdown leaderboards.</summary>
   </entry>
 </feed>

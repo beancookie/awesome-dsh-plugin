@@ -34,6 +34,13 @@
     <summary>面向视觉大模型的大图智能识图：800×800 无损切块识别（smart/pipeline/full 三策略）+ 本地 OCR（自动反色/二值化/手写分流）+ 可选多厂商 GPU 加速（DirectML 覆盖 NVIDIA/AMD/Intel，CUDA/OpenVINO），失败自动回退 CPU；MIT 开源（111 项单元测试）。</summary>
   </entry>
   <entry>
+    <title>xiajiajun516/dsh-config-manager</title>
+    <id>https://github.com/xiajiajun516/dsh-config-manager</id>
+    <link href="https://github.com/xiajiajun516/dsh-config-manager"/>
+    <updated>2026-08-23T00:00:00Z</updated>
+    <summary>DSH 配置备份、恢复、导出、导入、迁移与同步一体化：settings、providers、plugins、MCP servers、skills、agent presets 与 workspaces 打包为一个 ZIP，支持加密备份、Git/WebDAV 同步与配置市场。</summary>
+  </entry>
+  <entry>
     <title>Abel-86/task-chime</title>
     <id>https://github.com/Abel-86/task-chime</id>
     <link href="https://github.com/Abel-86/task-chime"/>
@@ -207,12 +214,5 @@
     <link href="https://github.com/PerryLink/dsh-permission-rules"/>
     <updated>2026-08-19T00:00:00Z</updated>
     <summary>声明式 allow/deny/ask 权限规则 + Codex 式进程级网络策略（内置本地 HTTP/CONNECT 代理），全量审计 + 规则热重载。</summary>
-  </entry>
-  <entry>
-    <title>PerryLink/dsh-score</title>
-    <id>https://github.com/PerryLink/dsh-score</id>
-    <link href="https://github.com/PerryLink/dsh-score"/>
-    <updated>2026-08-19T00:00:00Z</updated>
-    <summary>插件多维质量评分：安装成功/维护/文档/安全/协议合规五维，真实 CLI 证据 + 审计时间戳，产出 JSON/Markdown 榜单。</summary>
   </entry>
 </feed>
