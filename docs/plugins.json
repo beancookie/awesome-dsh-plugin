@@ -2,8 +2,8 @@
  "name": "awesome-dsh-plugin",
  "url": "https://beancookie.github.io/awesome-dsh-plugin",
  "source": "https://github.com/beancookie/awesome-dsh-plugin",
- "updated": "2026-08-22",
- "count": 413,
+ "updated": "2026-08-23",
+ "count": 414,
  "categories": {
   "ui": {
    "zh": "UI 增强",
@@ -2450,6 +2450,21 @@
    "createdAt": "2026-08-14",
    "install": "dsh plugin --profile web add github:EvilIrving/dsh-context-proxy",
    "added": "2026-08-14"
+  },
+  {
+   "name": "dsh-labnana",
+   "owner": "exoticknight",
+   "url": "https://github.com/exoticknight/dsh-labnana",
+   "category": "tools",
+   "description": {
+    "zh": "为 DeepSeek Harness 接入 Labnana 图片生成：文生图 / 图生图 / 精准编辑，含积分预估与网页设置界面。",
+    "en": "Labnana image generation for DeepSeek Harness: text-to-image / image-to-image / precise editing, with credits estimation and web settings UI."
+   },
+   "npm": null,
+   "stars": 0,
+   "createdAt": "2026-08-22",
+   "install": "dsh plugin --profile web add github:exoticknight/dsh-labnana",
+   "added": "2026-08-23"
   },
   {
    "name": "dsh-remote",

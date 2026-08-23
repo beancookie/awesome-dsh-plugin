@@ -4,7 +4,14 @@
   <id>https://beancookie.github.io/awesome-dsh-plugin/</id>
   <link href="https://beancookie.github.io/awesome-dsh-plugin/"/>
   <link rel="self" href="https://beancookie.github.io/awesome-dsh-plugin/feed.xml"/>
-  <updated>2026-08-22T00:00:00Z</updated>
+  <updated>2026-08-23T00:00:00Z</updated>
+  <entry>
+    <title>exoticknight/dsh-labnana</title>
+    <id>https://github.com/exoticknight/dsh-labnana</id>
+    <link href="https://github.com/exoticknight/dsh-labnana"/>
+    <updated>2026-08-23T00:00:00Z</updated>
+    <summary>为 DeepSeek Harness 接入 Labnana 图片生成：文生图 / 图生图 / 精准编辑，含积分预估与网页设置界面。</summary>
+  </entry>
   <entry>
     <title>chenzhi-clude/dsh-hooks-pack</title>
     <id>https://github.com/chenzhi-clude/dsh-hooks-pack</id>
@@ -207,12 +214,5 @@
     <link href="https://github.com/PerryLink/dsh-plugin-guide"/>
     <updated>2026-08-19T00:00:00Z</updated>
     <summary>插件开发知识库打包为按需加载的 agent 技能：官方约束、任务工作流、API 参考与社区踩坑。</summary>
-  </entry>
-  <entry>
-    <title>PerryLink/dsh-skill-pack-security</title>
-    <id>https://github.com/PerryLink/dsh-skill-pack-security</id>
-    <link href="https://github.com/PerryLink/dsh-skill-pack-security"/>
-    <updated>2026-08-19T00:00:00Z</updated>
-    <summary>安全审计技能包 + plugin_vet 供应链门禁：八个双语技能 + 自动化预安装扫描器。</summary>
   </entry>
 </feed>

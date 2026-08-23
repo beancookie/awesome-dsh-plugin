@@ -4,7 +4,14 @@
   <id>https://beancookie.github.io/awesome-dsh-plugin/en/</id>
   <link href="https://beancookie.github.io/awesome-dsh-plugin/en/"/>
   <link rel="self" href="https://beancookie.github.io/awesome-dsh-plugin/en/feed.xml"/>
-  <updated>2026-08-22T00:00:00Z</updated>
+  <updated>2026-08-23T00:00:00Z</updated>
+  <entry>
+    <title>exoticknight/dsh-labnana</title>
+    <id>https://github.com/exoticknight/dsh-labnana</id>
+    <link href="https://github.com/exoticknight/dsh-labnana"/>
+    <updated>2026-08-23T00:00:00Z</updated>
+    <summary>Labnana image generation for DeepSeek Harness: text-to-image / image-to-image / precise editing, with credits estimation and web settings UI.</summary>
+  </entry>
   <entry>
     <title>chenzhi-clude/dsh-hooks-pack</title>
     <id>https://github.com/chenzhi-clude/dsh-hooks-pack</id>
@@ -207,12 +214,5 @@
     <link href="https://github.com/PerryLink/dsh-plugin-guide"/>
     <updated>2026-08-19T00:00:00Z</updated>
     <summary>A plugin-development knowledge base packaged as on-demand agent skills: official constraints, task workflows, API references, and community gotchas.</summary>
-  </entry>
-  <entry>
-    <title>PerryLink/dsh-skill-pack-security</title>
-    <id>https://github.com/PerryLink/dsh-skill-pack-security</id>
-    <link href="https://github.com/PerryLink/dsh-skill-pack-security"/>
-    <updated>2026-08-19T00:00:00Z</updated>
-    <summary>Security-audit skill pack plus a plugin_vet supply-chain gate: eight bilingual skills and an automated pre-install scanner.</summary>
   </entry>
 </feed>
