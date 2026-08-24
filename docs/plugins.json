@@ -3,7 +3,7 @@
  "url": "https://beancookie.github.io/awesome-dsh-plugin",
  "source": "https://github.com/beancookie/awesome-dsh-plugin",
  "updated": "2026-08-24",
- "count": 435,
+ "count": 437,
  "categories": {
   "ui": {
    "zh": "UI 增强",
@@ -2302,6 +2302,21 @@
    "added": "2026-08-14"
   },
   {
+   "name": "memsearch",
+   "owner": "zilliztech",
+   "url": "https://github.com/zilliztech/memsearch",
+   "category": "memory",
+   "description": {
+    "zh": "供 DSH 与其他编程 Agent 共享的 Markdown 记忆，支持自动捕获、步骤前上下文注入、搜索召回与审阅面板。",
+    "en": "Shared Markdown memory for DSH and other coding agents, with automatic capture, pre-step context injection, searchable recall, and a review panel."
+   },
+   "npm": null,
+   "stars": 2496,
+   "createdAt": "2026-02-09",
+   "install": "dsh plugin --profile web add github:zilliztech/memsearch",
+   "added": "2026-08-24"
+  },
+  {
    "name": "dsh-hdc-bridge",
    "owner": "1na-ko",
    "url": "https://github.com/1na-ko/dsh-hdc-bridge",
@@ -4025,6 +4040,21 @@
    "createdAt": "2026-03-15",
    "install": "dsh plugin --profile web add github:zhaoolee/notes",
    "added": "2026-08-14"
+  },
+  {
+   "name": "dsh-milvus",
+   "owner": "zilliztech",
+   "url": "https://github.com/zilliztech/dsh-milvus",
+   "category": "tools",
+   "description": {
+    "zh": "只读 DSH Web 插件，可在对话中检查和搜索 Milvus 或 Zilliz Cloud Collection，支持标量、BM25、稠密向量与混合查询。",
+    "en": "Read-only DSH Web plugin for inspecting and searching Milvus or Zilliz Cloud collections from chat, including scalar, BM25, dense, and hybrid queries."
+   },
+   "npm": "@zilliz/dsh-milvus",
+   "stars": 2,
+   "createdAt": "2026-08-18",
+   "install": "dsh plugin --profile web add @zilliz/dsh-milvus",
+   "added": "2026-08-24"
   },
   {
    "name": "dsh-adhd-copilot",

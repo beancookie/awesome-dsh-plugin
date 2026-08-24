@@ -76,6 +76,13 @@
     <summary>Project-level and global long-term memory for DSH Web: isolated POST /items route to avoid path conflicts, multi-turn tool-call context compression before storing entries, deduplication and session-persistent storage.</summary>
   </entry>
   <entry>
+    <title>zilliztech/memsearch</title>
+    <id>https://github.com/zilliztech/memsearch</id>
+    <link href="https://github.com/zilliztech/memsearch"/>
+    <updated>2026-08-24T00:00:00Z</updated>
+    <summary>Shared Markdown memory for DSH and other coding agents, with automatic capture, pre-step context injection, searchable recall, and a review panel.</summary>
+  </entry>
+  <entry>
     <title>nousag/dsh-writing-desk</title>
     <id>https://github.com/nousag/dsh-writing-desk</id>
     <link href="https://github.com/nousag/dsh-writing-desk"/>
@@ -102,6 +109,13 @@
     <link href="https://github.com/taxueseek/taxue-dsh-artisan"/>
     <updated>2026-08-24T00:00:00Z</updated>
     <summary>Integrated visual creation toolchain for DSH: prompt reverse-engineering and audit optimization plus multi-provider image generation with async background rendering.</summary>
+  </entry>
+  <entry>
+    <title>zilliztech/dsh-milvus</title>
+    <id>https://github.com/zilliztech/dsh-milvus</id>
+    <link href="https://github.com/zilliztech/dsh-milvus"/>
+    <updated>2026-08-24T00:00:00Z</updated>
+    <summary>Read-only DSH Web plugin for inspecting and searching Milvus or Zilliz Cloud collections from chat, including scalar, BM25, dense, and hybrid queries.</summary>
   </entry>
   <entry>
     <title>taxueseek/dsh-healthcheck</title>
@@ -200,19 +214,5 @@
     <link href="https://github.com/Renzic-Stone/DSH-EasyRewrite"/>
     <updated>2026-08-20T00:00:00Z</updated>
     <summary>In-bubble inline edit and recall for user messages in DSH Web: lazy commit, seamless replacement, a version pager, draft auto-backup, and trilingual i18n.</summary>
-  </entry>
-  <entry>
-    <title>JxaMe/dsh-condense</title>
-    <id>https://github.com/JxaMe/dsh-condense</id>
-    <link href="https://github.com/JxaMe/dsh-condense"/>
-    <updated>2026-08-20T00:00:00Z</updated>
-    <summary>Token optimizer for DSH: blocks low-signal reads, compresses oversized outputs, hash-dedupes repeated calls, smart_read skeletonization (tree-sitter), BM25 retrieval; real usage metering + persistence. Pre-history pruning keeps prompt-cache hits.</summary>
-  </entry>
-  <entry>
-    <title>sandbaseai/dsh-plugin-store</title>
-    <id>https://github.com/sandbaseai/dsh-plugin-store</id>
-    <link href="https://github.com/sandbaseai/dsh-plugin-store"/>
-    <updated>2026-08-20T00:00:00Z</updated>
-    <summary>Native DSH Settings marketplace for community catalog search, tag filtering, plugin installation, and installed-package review.</summary>
   </entry>
 </feed>

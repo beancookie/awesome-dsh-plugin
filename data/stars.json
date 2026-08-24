@@ -2535,6 +2535,18 @@
   "etag": "W/\"2742b5ea8076cf00434e2681e399cf6c43cdfe8f9ed302cf96d1c618790305e0\"",
   "checkedAt": "2026-08-24"
  },
+ "https://github.com/zilliztech/dsh-milvus": {
+  "stars": 2,
+  "createdAt": "2026-08-18",
+  "etag": "W/\"496cd0f8c2eb5b7c35994995c028b636af7791ec03935a80364384deb6b36e2a\"",
+  "checkedAt": "2026-08-24"
+ },
+ "https://github.com/zilliztech/memsearch": {
+  "stars": 2496,
+  "createdAt": "2026-02-09",
+  "etag": "W/\"233b8013de2afd9cb040c767f0a4219ac97c8aa9cffeecebc517155a2c775cb0\"",
+  "checkedAt": "2026-08-24"
+ },
  "https://github.com/zimai233/dsh-adhd-copilot": {
   "stars": 3,
   "createdAt": "2026-08-14",

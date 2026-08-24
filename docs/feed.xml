@@ -76,6 +76,13 @@
     <summary>DSH Web 的项目级与全局长期记忆：独立的 POST /items 路由避免路径冲突，存储前对多轮工具调用上下文压缩，去重与会话持久化存储。</summary>
   </entry>
   <entry>
+    <title>zilliztech/memsearch</title>
+    <id>https://github.com/zilliztech/memsearch</id>
+    <link href="https://github.com/zilliztech/memsearch"/>
+    <updated>2026-08-24T00:00:00Z</updated>
+    <summary>供 DSH 与其他编程 Agent 共享的 Markdown 记忆，支持自动捕获、步骤前上下文注入、搜索召回与审阅面板。</summary>
+  </entry>
+  <entry>
     <title>nousag/dsh-writing-desk</title>
     <id>https://github.com/nousag/dsh-writing-desk</id>
     <link href="https://github.com/nousag/dsh-writing-desk"/>
@@ -102,6 +109,13 @@
     <link href="https://github.com/taxueseek/taxue-dsh-artisan"/>
     <updated>2026-08-24T00:00:00Z</updated>
     <summary>DSH 一体化视觉创作工具链：提示词反推与审计优化，多供应商生图，支持异步后台出图。</summary>
+  </entry>
+  <entry>
+    <title>zilliztech/dsh-milvus</title>
+    <id>https://github.com/zilliztech/dsh-milvus</id>
+    <link href="https://github.com/zilliztech/dsh-milvus"/>
+    <updated>2026-08-24T00:00:00Z</updated>
+    <summary>只读 DSH Web 插件，可在对话中检查和搜索 Milvus 或 Zilliz Cloud Collection，支持标量、BM25、稠密向量与混合查询。</summary>
   </entry>
   <entry>
     <title>taxueseek/dsh-healthcheck</title>
@@ -200,19 +214,5 @@
     <link href="https://github.com/Renzic-Stone/DSH-EasyRewrite"/>
     <updated>2026-08-20T00:00:00Z</updated>
     <summary>DSH Web 用户消息气泡内联编辑与撤回：惰性提交、无痕替换、版本翻页器、草稿自动备份、三语 i18n。</summary>
-  </entry>
-  <entry>
-    <title>JxaMe/dsh-condense</title>
-    <id>https://github.com/JxaMe/dsh-condense</id>
-    <link href="https://github.com/JxaMe/dsh-condense"/>
-    <updated>2026-08-20T00:00:00Z</updated>
-    <summary>token 优化插件：屏蔽低信号读取、压缩大输出、哈希去重、smart_read 骨架化（tree-sitter）、BM25 检索，真实用量统计 + 持久化；入历史前削减，不破坏缓存命中。</summary>
-  </entry>
-  <entry>
-    <title>sandbaseai/dsh-plugin-store</title>
-    <id>https://github.com/sandbaseai/dsh-plugin-store</id>
-    <link href="https://github.com/sandbaseai/dsh-plugin-store"/>
-    <updated>2026-08-20T00:00:00Z</updated>
-    <summary>DSH 设置页原生插件市场，支持社区目录搜索、标签筛选、插件安装和已安装包查看。</summary>
   </entry>
 </feed>
