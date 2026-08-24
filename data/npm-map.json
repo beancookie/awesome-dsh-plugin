@@ -1339,6 +1339,30 @@
   "npm": null,
   "checkedAt": "2026-08-18"
  },
+ "https://github.com/qwert702/dsh-auto-translate": {
+  "npm": null,
+  "checkedAt": "2026-08-24"
+ },
+ "https://github.com/qwert702/dsh-commander": {
+  "npm": null,
+  "checkedAt": "2026-08-24"
+ },
+ "https://github.com/qwert702/dsh-context-compressor": {
+  "npm": null,
+  "checkedAt": "2026-08-24"
+ },
+ "https://github.com/qwert702/dsh-continue-on-limit": {
+  "npm": null,
+  "checkedAt": "2026-08-24"
+ },
+ "https://github.com/qwert702/dsh-memory": {
+  "npm": null,
+  "checkedAt": "2026-08-24"
+ },
+ "https://github.com/qwert702/dsh-token-viewer": {
+  "npm": null,
+  "checkedAt": "2026-08-24"
+ },
  "https://github.com/qyw233/dsh-deeplink": {
   "npm": null,
   "checkedAt": "2026-08-14"

@@ -1969,6 +1969,42 @@
   "etag": "W/\"8cd87921d0fb1117a4416dcb56953da08fe1489af51b8643357308e09e289e33\"",
   "checkedAt": "2026-08-18"
  },
+ "https://github.com/qwert702/dsh-auto-translate": {
+  "stars": 1,
+  "createdAt": "2026-08-19",
+  "etag": "W/\"306d725fe5b634728c5a99ad9a945d952626975da35c740fa9520e2e1476d18f\"",
+  "checkedAt": "2026-08-24"
+ },
+ "https://github.com/qwert702/dsh-commander": {
+  "stars": 1,
+  "createdAt": "2026-08-22",
+  "etag": "W/\"4dbf65131441e32486f6531f3de37f3deb4b02e4012685c21a2dad9a0a10428c\"",
+  "checkedAt": "2026-08-24"
+ },
+ "https://github.com/qwert702/dsh-context-compressor": {
+  "stars": 0,
+  "createdAt": "2026-08-20",
+  "etag": "W/\"bd478019d9a651a1ba646066dbe6e0ae7ac0efe63089421b28251d0112647353\"",
+  "checkedAt": "2026-08-24"
+ },
+ "https://github.com/qwert702/dsh-continue-on-limit": {
+  "stars": 0,
+  "createdAt": "2026-08-20",
+  "etag": "W/\"a36af48149180662fc3218da42f7dafc03a566a6ed697a2a981e1229e336e507\"",
+  "checkedAt": "2026-08-24"
+ },
+ "https://github.com/qwert702/dsh-memory": {
+  "stars": 0,
+  "createdAt": "2026-08-22",
+  "etag": "W/\"15b2ca839957890d37cfa211b9c6adb8e782f054137a745202f012bcc38fce0b\"",
+  "checkedAt": "2026-08-24"
+ },
+ "https://github.com/qwert702/dsh-token-viewer": {
+  "stars": 6,
+  "createdAt": "2026-08-14",
+  "etag": "W/\"e0104e16c8e71ad660fa6ae489c20786f5009ab6a898eb11dffdf945655d9af0\"",
+  "checkedAt": "2026-08-24"
+ },
  "https://github.com/qyw233/dsh-deeplink": {
   "stars": 4,
   "createdAt": "2026-08-13",

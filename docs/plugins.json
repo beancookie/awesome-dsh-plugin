@@ -871,8 +871,8 @@
     "en": "Auto-translates English replies inline below the original text, with Chinese annotations for tool calls; translation goes through an independent provider request and never enters the session context."
    },
    "npm": null,
-   "stars": null,
-   "createdAt": null,
+   "stars": 1,
+   "createdAt": "2026-08-19",
    "install": "dsh plugin --profile web add github:qwert702/dsh-auto-translate",
    "added": "2026-08-24"
   },
@@ -886,8 +886,8 @@
     "en": "Commander mode for DSH Web: inject protocol briefs into the session title bar, parse task blocks from model replies and auto-execute them, separating strategy from execution; activated via a badge button."
    },
    "npm": null,
-   "stars": null,
-   "createdAt": null,
+   "stars": 1,
+   "createdAt": "2026-08-22",
    "install": "dsh plugin --profile web add github:qwert702/dsh-commander",
    "added": "2026-08-24"
   },
@@ -901,8 +901,8 @@
     "en": "CC Switch-style token consumption statistics: per-request usage log, real-consumption hero with cache-hit rate, trend chart, per-model peak/off-peak pricing, per-project stats, and account balance."
    },
    "npm": null,
-   "stars": null,
-   "createdAt": null,
+   "stars": 6,
+   "createdAt": "2026-08-14",
    "install": "dsh plugin --profile web add github:qwert702/dsh-token-viewer",
    "added": "2026-08-24"
   },
@@ -2191,8 +2191,8 @@
     "en": "Context compression for small models: compresses tool output and conversation history to a few sentences, freeing context for the actual task; continues in a fresh session automatically."
    },
    "npm": null,
-   "stars": null,
-   "createdAt": null,
+   "stars": 0,
+   "createdAt": "2026-08-20",
    "install": "dsh plugin --profile web add github:qwert702/dsh-context-compressor",
    "added": "2026-08-24"
   },
@@ -2206,8 +2206,8 @@
     "en": "Auto-sends continue when a local model hits its output-token cap: dual-source detection (turn-max-tokens node + provider response), maxConsecutive guard (default 3) prevents infinite loops."
    },
    "npm": null,
-   "stars": null,
-   "createdAt": null,
+   "stars": 0,
+   "createdAt": "2026-08-20",
    "install": "dsh plugin --profile web add github:qwert702/dsh-continue-on-limit",
    "added": "2026-08-24"
   },
@@ -2221,8 +2221,8 @@
     "en": "Project-level and global long-term memory for DSH Web: isolated POST /items route to avoid path conflicts, multi-turn tool-call context compression before storing entries, deduplication and session-persistent storage."
    },
    "npm": null,
-   "stars": null,
-   "createdAt": null,
+   "stars": 0,
+   "createdAt": "2026-08-22",
    "install": "dsh plugin --profile web add github:qwert702/dsh-memory",
    "added": "2026-08-24"
   },
