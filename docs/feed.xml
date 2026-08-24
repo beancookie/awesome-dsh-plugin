@@ -4,7 +4,14 @@
   <id>https://beancookie.github.io/awesome-dsh-plugin/</id>
   <link href="https://beancookie.github.io/awesome-dsh-plugin/"/>
   <link rel="self" href="https://beancookie.github.io/awesome-dsh-plugin/feed.xml"/>
-  <updated>2026-08-23T00:00:00Z</updated>
+  <updated>2026-08-24T00:00:00Z</updated>
+  <entry>
+    <title>FuqiangCraft/dsh-desktop</title>
+    <id>https://github.com/FuqiangCraft/dsh-desktop</id>
+    <link href="https://github.com/FuqiangCraft/dsh-desktop"/>
+    <updated>2026-08-24T00:00:00Z</updated>
+    <summary>为 DSH 提供桌面通知、多 Agent 可视化画布和可选的屏幕截图工具。</summary>
+  </entry>
   <entry>
     <title>beijingwahw/dsh-nuke-plugin</title>
     <id>https://github.com/beijingwahw/dsh-nuke-plugin</id>
@@ -207,12 +214,5 @@
     <link href="https://github.com/PerryLink/dsh-mask"/>
     <updated>2026-08-19T00:00:00Z</updated>
     <summary>PII 脱敏中间件：姓名/电话/身份证/银行卡等在到达模型前匿名化为占位符，展示层还原，绝不记录明文。</summary>
-  </entry>
-  <entry>
-    <title>PerryLink/dsh-permission-rules</title>
-    <id>https://github.com/PerryLink/dsh-permission-rules</id>
-    <link href="https://github.com/PerryLink/dsh-permission-rules"/>
-    <updated>2026-08-19T00:00:00Z</updated>
-    <summary>声明式 allow/deny/ask 权限规则 + Codex 式进程级网络策略（内置本地 HTTP/CONNECT 代理），全量审计 + 规则热重载。</summary>
   </entry>
 </feed>

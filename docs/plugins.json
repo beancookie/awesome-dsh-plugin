@@ -2,8 +2,8 @@
  "name": "awesome-dsh-plugin",
  "url": "https://beancookie.github.io/awesome-dsh-plugin",
  "source": "https://github.com/beancookie/awesome-dsh-plugin",
- "updated": "2026-08-23",
- "count": 420,
+ "updated": "2026-08-24",
+ "count": 421,
  "categories": {
   "ui": {
    "zh": "UI 增强",
@@ -350,6 +350,21 @@
    "createdAt": "2026-08-14",
    "install": "dsh plugin --profile web add github:fishxcode/dsh-plugin-deepseek-balance",
    "added": "2026-08-14"
+  },
+  {
+   "name": "dsh-desktop",
+   "owner": "FuqiangCraft",
+   "url": "https://github.com/FuqiangCraft/dsh-desktop",
+   "category": "ui",
+   "description": {
+    "zh": "为 DSH 提供桌面通知、多 Agent 可视化画布和可选的屏幕截图工具。",
+    "en": "Adds desktop notifications, a multi-agent visualization canvas, and an optional screen-capture tool to DSH."
+   },
+   "npm": null,
+   "stars": 0,
+   "createdAt": "2026-08-24",
+   "install": "dsh plugin --profile web add github:FuqiangCraft/dsh-desktop",
+   "added": "2026-08-24"
   },
   {
    "name": "dsh-balance-meter",

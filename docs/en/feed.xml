@@ -4,7 +4,14 @@
   <id>https://beancookie.github.io/awesome-dsh-plugin/en/</id>
   <link href="https://beancookie.github.io/awesome-dsh-plugin/en/"/>
   <link rel="self" href="https://beancookie.github.io/awesome-dsh-plugin/en/feed.xml"/>
-  <updated>2026-08-23T00:00:00Z</updated>
+  <updated>2026-08-24T00:00:00Z</updated>
+  <entry>
+    <title>FuqiangCraft/dsh-desktop</title>
+    <id>https://github.com/FuqiangCraft/dsh-desktop</id>
+    <link href="https://github.com/FuqiangCraft/dsh-desktop"/>
+    <updated>2026-08-24T00:00:00Z</updated>
+    <summary>Adds desktop notifications, a multi-agent visualization canvas, and an optional screen-capture tool to DSH.</summary>
+  </entry>
   <entry>
     <title>beijingwahw/dsh-nuke-plugin</title>
     <id>https://github.com/beijingwahw/dsh-nuke-plugin</id>
@@ -207,12 +214,5 @@
     <link href="https://github.com/PerryLink/dsh-mask"/>
     <updated>2026-08-19T00:00:00Z</updated>
     <summary>PII redaction middleware: names, phone numbers, ID cards, and bank cards are anonymized to placeholders before reaching the model and restored at the display layer; plaintext is never logged.</summary>
-  </entry>
-  <entry>
-    <title>PerryLink/dsh-permission-rules</title>
-    <id>https://github.com/PerryLink/dsh-permission-rules</id>
-    <link href="https://github.com/PerryLink/dsh-permission-rules"/>
-    <updated>2026-08-19T00:00:00Z</updated>
-    <summary>Declarative allow/deny/ask permission rules plus Codex-style per-process network policy (with a built-in local HTTP/CONNECT proxy), full audit logging and hot rule reload.</summary>
   </entry>
 </feed>
