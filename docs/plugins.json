@@ -3,7 +3,7 @@
  "url": "https://beancookie.github.io/awesome-dsh-plugin",
  "source": "https://github.com/beancookie/awesome-dsh-plugin",
  "updated": "2026-08-24",
- "count": 428,
+ "count": 429,
  "categories": {
   "ui": {
    "zh": "UI 增强",
@@ -3365,6 +3365,21 @@
    "createdAt": "2026-08-22",
    "install": "dsh plugin --profile web add github:Nicholas023/vision-exp-tile",
    "added": "2026-08-23"
+  },
+  {
+   "name": "dsh-writing-desk",
+   "owner": "nousag",
+   "url": "https://github.com/nousag/dsh-writing-desk",
+   "category": "tools",
+   "description": {
+    "zh": "本地优先写作工作台：书籍/卷/章管理、正文编辑、笔记资料调用、字数统计与导出。",
+    "en": "Local-first writing workbench: book/volume/chapter management, draft editor, note reference, word count and export."
+   },
+   "npm": "dsh-writing-desk",
+   "stars": 0,
+   "createdAt": "2026-08-24",
+   "install": "dsh plugin --profile web add dsh-writing-desk",
+   "added": "2026-08-24"
   },
   {
    "name": "dsh-custom-tool",

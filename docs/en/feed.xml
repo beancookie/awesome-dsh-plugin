@@ -62,6 +62,13 @@
     <summary>Project-level and global long-term memory for DSH Web: isolated POST /items route to avoid path conflicts, multi-turn tool-call context compression before storing entries, deduplication and session-persistent storage.</summary>
   </entry>
   <entry>
+    <title>nousag/dsh-writing-desk</title>
+    <id>https://github.com/nousag/dsh-writing-desk</id>
+    <link href="https://github.com/nousag/dsh-writing-desk"/>
+    <updated>2026-08-24T00:00:00Z</updated>
+    <summary>Local-first writing workbench: book/volume/chapter management, draft editor, note reference, word count and export.</summary>
+  </entry>
+  <entry>
     <title>beijingwahw/dsh-nuke-plugin</title>
     <id>https://github.com/beijingwahw/dsh-nuke-plugin</id>
     <link href="https://github.com/beijingwahw/dsh-nuke-plugin"/>
@@ -207,12 +214,5 @@
     <link href="https://github.com/PerryLink/dsh-claude-move"/>
     <updated>2026-08-19T00:00:00Z</updated>
     <summary>Four-source migration wizard: move sessions, memory, skills, and slash commands from Claude Code, Codex, OpenCode, and Hermes into DSH and keep working.</summary>
-  </entry>
-  <entry>
-    <title>PerryLink/dsh-session-sync</title>
-    <id>https://github.com/PerryLink/dsh-session-sync</id>
-    <link href="https://github.com/PerryLink/dsh-session-sync"/>
-    <updated>2026-08-19T00:00:00Z</updated>
-    <summary>Cross-device session sync: a dedicated git mirror with append-only three-way merging (keep-both + fork conflict resolution), a /sync command, and automatic push/pull.</summary>
   </entry>
 </feed>

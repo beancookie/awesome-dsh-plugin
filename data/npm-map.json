@@ -1031,6 +1031,10 @@
   "npm": null,
   "checkedAt": "2026-08-20"
  },
+ "https://github.com/nousag/dsh-writing-desk": {
+  "npm": "dsh-writing-desk",
+  "checkedAt": "2026-08-24"
+ },
  "https://github.com/nowledge-co/nowledge-mem-deepseek-harness": {
   "npm": null,
   "checkedAt": "2026-08-14"

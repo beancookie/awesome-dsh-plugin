@@ -62,6 +62,13 @@
     <summary>DSH Web 的项目级与全局长期记忆：独立的 POST /items 路由避免路径冲突，存储前对多轮工具调用上下文压缩，去重与会话持久化存储。</summary>
   </entry>
   <entry>
+    <title>nousag/dsh-writing-desk</title>
+    <id>https://github.com/nousag/dsh-writing-desk</id>
+    <link href="https://github.com/nousag/dsh-writing-desk"/>
+    <updated>2026-08-24T00:00:00Z</updated>
+    <summary>本地优先写作工作台：书籍/卷/章管理、正文编辑、笔记资料调用、字数统计与导出。</summary>
+  </entry>
+  <entry>
     <title>beijingwahw/dsh-nuke-plugin</title>
     <id>https://github.com/beijingwahw/dsh-nuke-plugin</id>
     <link href="https://github.com/beijingwahw/dsh-nuke-plugin"/>
@@ -207,12 +214,5 @@
     <link href="https://github.com/PerryLink/dsh-claude-move"/>
     <updated>2026-08-19T00:00:00Z</updated>
     <summary>四源迁移向导：把 Claude Code、Codex、OpenCode、Hermes 的会话、记忆、技能、斜杠命令搬进 DSH 并可续跑。</summary>
-  </entry>
-  <entry>
-    <title>PerryLink/dsh-session-sync</title>
-    <id>https://github.com/PerryLink/dsh-session-sync</id>
-    <link href="https://github.com/PerryLink/dsh-session-sync"/>
-    <updated>2026-08-19T00:00:00Z</updated>
-    <summary>会话跨设备同步：专用 git 镜像 + append-only 三方合并（keep-both + fork 冲突解决），/sync 命令与自动推拉。</summary>
   </entry>
 </feed>
