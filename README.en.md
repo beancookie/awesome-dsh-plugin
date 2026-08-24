@@ -32,7 +32,7 @@ DeepSeek Harness is DeepSeek's open-source agent harness — a runnable coding a
 
 </details>
 
-**429** plugins · [PRs welcome](#contributing)
+**430** plugins · [PRs welcome](#contributing)
 
 ## Contents
 
@@ -186,6 +186,7 @@ DeepSeek Harness is DeepSeek's open-source agent harness — a runnable coding a
 - [ICCuse/dsh-file-memory](https://github.com/ICCuse/dsh-file-memory) - File-backed working memory: memorize/recall key premises verbatim in a session notes file so they survive context compaction losslessly.
 - [ICCuse/dsh-knowledge](https://github.com/ICCuse/dsh-knowledge) - Bridge into a global Markdown knowledge base shared with the Codex kb.cmd CLI: kb_add/kb_search/kb_show/kb_timeline tools with byte-compatible frontmatter.
 - [ICCuse/dsh-premise-guard](https://github.com/ICCuse/dsh-premise-guard) - Post-compaction premise-drift guard: injects a one-shot notice when a compaction summary drops a critical literal anchor.
+- [imkelt/DSH-RAG](https://github.com/imkelt/DSH-RAG) - Local knowledge bases for DSH Web with multi-directory incremental indexing, BM25 and SiliconFlow hybrid retrieval, and source cards that locate and open original files.
 - [Jesse-njx/dsh-memory](https://github.com/Jesse-njx/dsh-memory) - Cited memory over DSH's lossless session log: distilled facts carry `(sessionId, eventRange)` citations that expand back to the exact original log excerpt.
 - [memory-vault](https://github.com/JohnXu22786/memory-vault) - Cross-session persistent memory for coding agents: SQLite local storage, hybrid keyword/semantic retrieval, Web and MCP interfaces.
 - [LoserFox/distill](https://github.com/LoserFox/distill) - Automatic conversation distillation: background subagent reflection + skill create/update.
