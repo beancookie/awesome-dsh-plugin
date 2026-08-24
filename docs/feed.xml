@@ -41,6 +41,13 @@
     <summary>CC Switch 风格 token 用量统计：逐请求用量日志、带缓存命中率的真实消耗概览、趋势图、按模型的峰谷计价、按项目统计与账户余额。</summary>
   </entry>
   <entry>
+    <title>stephenlzc/dsh-swarm-panel#dsh-swarm-plugin</title>
+    <id>https://github.com/stephenlzc/dsh-swarm-panel/tree/main/dsh-swarm-plugin</id>
+    <link href="https://github.com/stephenlzc/dsh-swarm-panel/tree/main/dsh-swarm-plugin"/>
+    <updated>2026-08-24T00:00:00Z</updated>
+    <summary>DeepSeek Harness swarm 的 Conversation Flow 可观测性，支持查看拓扑、检查路由消息、HITL 暂停、Live 跟随和子会话导航。</summary>
+  </entry>
+  <entry>
     <title>taxueseek/dsh-files</title>
     <id>https://github.com/taxueseek/dsh-files</id>
     <link href="https://github.com/taxueseek/dsh-files"/>
@@ -207,12 +214,5 @@
     <link href="https://github.com/Noob-stupid/dsh-plugin-hub"/>
     <updated>2026-08-20T00:00:00Z</updated>
     <summary>DSH 插件管理面板：一键启停 + 多源市场（GitHub/Gitee/自定义）+ 静态索引市场（500+ 插件 / 300 技能）+ 技能安装/停用 + 套装一键装配 + 框架升级适配。</summary>
-  </entry>
-  <entry>
-    <title>Renzic-Stone/DSH-EasyRewrite</title>
-    <id>https://github.com/Renzic-Stone/DSH-EasyRewrite</id>
-    <link href="https://github.com/Renzic-Stone/DSH-EasyRewrite"/>
-    <updated>2026-08-20T00:00:00Z</updated>
-    <summary>DSH Web 用户消息气泡内联编辑与撤回：惰性提交、无痕替换、版本翻页器、草稿自动备份、三语 i18n。</summary>
   </entry>
 </feed>
