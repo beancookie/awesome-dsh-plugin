@@ -3,7 +3,7 @@
  "url": "https://beancookie.github.io/awesome-dsh-plugin",
  "source": "https://github.com/beancookie/awesome-dsh-plugin",
  "updated": "2026-08-24",
- "count": 430,
+ "count": 435,
  "categories": {
   "ui": {
    "zh": "UI 增强",
@@ -1025,6 +1025,21 @@
    "createdAt": "2026-08-14",
    "install": "dsh plugin --profile web add @steven-wu/dsh-cost-meter",
    "added": "2026-08-14"
+  },
+  {
+   "name": "dsh-files",
+   "owner": "taxueseek",
+   "url": "https://github.com/taxueseek/dsh-files",
+   "category": "ui",
+   "description": {
+    "zh": "文件上传（彩色附件卡片、会话隔离存储、sha256 去重、TTL 清扫）+ 内容嗅探的 read_document 文档读取（PDF/DOCX/XLSX/TXT）。",
+    "en": "File upload with color-coded attachment cards (session-isolated storage, sha256 dedup, TTL sweep) plus a content-sniffing read_document tool for PDF/DOCX/XLSX/TXT."
+   },
+   "npm": null,
+   "stars": 21,
+   "createdAt": "2026-08-14",
+   "install": "dsh plugin --profile web add github:taxueseek/dsh-files",
+   "added": "2026-08-24"
   },
   {
    "name": "dsh-opencode-go-usage",
@@ -3772,6 +3787,51 @@
    "added": "2026-08-14"
   },
   {
+   "name": "dsh-plugin-guard",
+   "owner": "taxueseek",
+   "url": "https://github.com/taxueseek/dsh-plugin-guard",
+   "category": "tools",
+   "description": {
+    "zh": "DSH 插件的静态安全闸门与诊所：安装前静态审计、安装后哈希与能力锁定、本机指纹库与 GitHub dsh-plugin 主题的同类搜索、机械式剥离清理；永不执行目标插件。",
+    "en": "Static-only plugin gate and clinic for DSH: audit before install, hash-and-capability lock after install, local fingerprint peer search over GitHub topic:dsh-plugin, and mechanical detox. Never executes the target plugin."
+   },
+   "npm": null,
+   "stars": 0,
+   "createdAt": "2026-08-16",
+   "install": "dsh plugin --profile web add github:taxueseek/dsh-plugin-guard",
+   "added": "2026-08-24"
+  },
+  {
+   "name": "dsh-snippets",
+   "owner": "taxueseek",
+   "url": "https://github.com/taxueseek/dsh-snippets",
+   "category": "tools",
+   "description": {
+    "zh": "DSH 极简片段/命令工具箱：5 个工具，一个可手工编辑的 JSONL 文件，零 UI、零数据库、零网络，只有明确说存才存。",
+    "en": "Minimal snippet and command toolbox for DSH: five tools over a single human-editable JSONL file, zero UI, zero database, zero network, explicit save-only memory."
+   },
+   "npm": null,
+   "stars": 0,
+   "createdAt": "2026-08-15",
+   "install": "dsh plugin --profile web add github:taxueseek/dsh-snippets",
+   "added": "2026-08-24"
+  },
+  {
+   "name": "taxue-dsh-artisan",
+   "owner": "taxueseek",
+   "url": "https://github.com/taxueseek/taxue-dsh-artisan",
+   "category": "tools",
+   "description": {
+    "zh": "DSH 一体化视觉创作工具链：提示词反推与审计优化，多供应商生图，支持异步后台出图。",
+    "en": "Integrated visual creation toolchain for DSH: prompt reverse-engineering and audit optimization plus multi-provider image generation with async background rendering."
+   },
+   "npm": null,
+   "stars": 0,
+   "createdAt": "2026-08-19",
+   "install": "dsh plugin --profile web add github:taxueseek/taxue-dsh-artisan",
+   "added": "2026-08-24"
+  },
+  {
    "name": "dsh-openmaic",
    "owner": "THU-MAIC",
    "url": "https://github.com/THU-MAIC/dsh-openmaic",
@@ -6020,6 +6080,21 @@
    "createdAt": "2026-08-17",
    "install": "dsh plugin --profile web add @galactus/kabutack",
    "added": "2026-08-19"
+  },
+  {
+   "name": "dsh-healthcheck",
+   "owner": "taxueseek",
+   "url": "https://github.com/taxueseek/dsh-healthcheck",
+   "category": "dev",
+   "description": {
+    "zh": "DSH 环境只读体检：磁盘/内存/延迟/缓存膨胀/插件版本落后检测，分级报告并对比历史基线趋势。只读，不删任何东西。",
+    "en": "Read-only DSH environment health check: disk, memory, latency, ~/.dsh bloat and outdated-plugin detection with graded reports and baseline trend comparison. Deletes nothing."
+   },
+   "npm": null,
+   "stars": 0,
+   "createdAt": "2026-08-15",
+   "install": "dsh plugin --profile web add github:taxueseek/dsh-healthcheck",
+   "added": "2026-08-24"
   },
   {
    "name": "dsh-agent-budget",

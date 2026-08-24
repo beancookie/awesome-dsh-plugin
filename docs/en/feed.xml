@@ -41,6 +41,13 @@
     <summary>CC Switch-style token consumption statistics: per-request usage log, real-consumption hero with cache-hit rate, trend chart, per-model peak/off-peak pricing, per-project stats, and account balance.</summary>
   </entry>
   <entry>
+    <title>taxueseek/dsh-files</title>
+    <id>https://github.com/taxueseek/dsh-files</id>
+    <link href="https://github.com/taxueseek/dsh-files"/>
+    <updated>2026-08-24T00:00:00Z</updated>
+    <summary>File upload with color-coded attachment cards (session-isolated storage, sha256 dedup, TTL sweep) plus a content-sniffing read_document tool for PDF/DOCX/XLSX/TXT.</summary>
+  </entry>
+  <entry>
     <title>imkelt/DSH-RAG</title>
     <id>https://github.com/imkelt/DSH-RAG</id>
     <link href="https://github.com/imkelt/DSH-RAG"/>
@@ -74,6 +81,34 @@
     <link href="https://github.com/nousag/dsh-writing-desk"/>
     <updated>2026-08-24T00:00:00Z</updated>
     <summary>Local-first writing workbench: book/volume/chapter management, draft editor, note reference, word count and export.</summary>
+  </entry>
+  <entry>
+    <title>taxueseek/dsh-plugin-guard</title>
+    <id>https://github.com/taxueseek/dsh-plugin-guard</id>
+    <link href="https://github.com/taxueseek/dsh-plugin-guard"/>
+    <updated>2026-08-24T00:00:00Z</updated>
+    <summary>Static-only plugin gate and clinic for DSH: audit before install, hash-and-capability lock after install, local fingerprint peer search over GitHub topic:dsh-plugin, and mechanical detox. Never executes the target plugin.</summary>
+  </entry>
+  <entry>
+    <title>taxueseek/dsh-snippets</title>
+    <id>https://github.com/taxueseek/dsh-snippets</id>
+    <link href="https://github.com/taxueseek/dsh-snippets"/>
+    <updated>2026-08-24T00:00:00Z</updated>
+    <summary>Minimal snippet and command toolbox for DSH: five tools over a single human-editable JSONL file, zero UI, zero database, zero network, explicit save-only memory.</summary>
+  </entry>
+  <entry>
+    <title>taxue-dsh-artisan</title>
+    <id>https://github.com/taxueseek/taxue-dsh-artisan</id>
+    <link href="https://github.com/taxueseek/taxue-dsh-artisan"/>
+    <updated>2026-08-24T00:00:00Z</updated>
+    <summary>Integrated visual creation toolchain for DSH: prompt reverse-engineering and audit optimization plus multi-provider image generation with async background rendering.</summary>
+  </entry>
+  <entry>
+    <title>taxueseek/dsh-healthcheck</title>
+    <id>https://github.com/taxueseek/dsh-healthcheck</id>
+    <link href="https://github.com/taxueseek/dsh-healthcheck"/>
+    <updated>2026-08-24T00:00:00Z</updated>
+    <summary>Read-only DSH environment health check: disk, memory, latency, ~/.dsh bloat and outdated-plugin detection with graded reports and baseline trend comparison. Deletes nothing.</summary>
   </entry>
   <entry>
     <title>beijingwahw/dsh-nuke-plugin</title>
@@ -179,40 +214,5 @@
     <link href="https://github.com/sandbaseai/dsh-plugin-store"/>
     <updated>2026-08-20T00:00:00Z</updated>
     <summary>Native DSH Settings marketplace for community catalog search, tag filtering, plugin installation, and installed-package review.</summary>
-  </entry>
-  <entry>
-    <title>PerryLink/dsh-composer-history</title>
-    <id>https://github.com/PerryLink/dsh-composer-history</id>
-    <link href="https://github.com/PerryLink/dsh-composer-history"/>
-    <updated>2026-08-19T00:00:00Z</updated>
-    <summary>Terminal-style input history for the Web composer: arrow keys restore drafts/cursor position exactly, Ctrl+R reverse search, workspace-scoped recall with sliding-context awareness.</summary>
-  </entry>
-  <entry>
-    <title>PerryLink/dsh-output-styles</title>
-    <id>https://github.com/PerryLink/dsh-output-styles</id>
-    <link href="https://github.com/PerryLink/dsh-output-styles"/>
-    <updated>2026-08-19T00:00:00Z</updated>
-    <summary>Runtime-switchable model output styles (aligned with Claude Code outputStyles), with the output.render.* presentation protocol and a /style command.</summary>
-  </entry>
-  <entry>
-    <title>PerryLink/dsh-session-pin</title>
-    <id>https://github.com/PerryLink/dsh-session-pin</id>
-    <link href="https://github.com/PerryLink/dsh-session-pin"/>
-    <updated>2026-08-19T00:00:00Z</updated>
-    <summary>Pin sessions and workspaces to the sidebar: per-pin row colors, board/tag/saved views, health summaries, and /goto.</summary>
-  </entry>
-  <entry>
-    <title>PerryLink/dsh-talk</title>
-    <id>https://github.com/PerryLink/dsh-talk</id>
-    <link href="https://github.com/PerryLink/dsh-talk"/>
-    <updated>2026-08-19T00:00:00Z</updated>
-    <summary>Voice-first conversation loop: a composer microphone (browser/local speech recognition), a speak tool for spoken replies, event announcements, and barge-in.</summary>
-  </entry>
-  <entry>
-    <title>PerryLink/dsh-checkpoint-rewind</title>
-    <id>https://github.com/PerryLink/dsh-checkpoint-rewind</id>
-    <link href="https://github.com/PerryLink/dsh-checkpoint-rewind"/>
-    <updated>2026-08-19T00:00:00Z</updated>
-    <summary>Claude Code /rewind for DSH: git-first workspace snapshots plus per-turn session forks, with one-click restore via /checkpoint and /rewind.</summary>
   </entry>
 </feed>
