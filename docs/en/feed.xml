@@ -6,11 +6,60 @@
   <link rel="self" href="https://beancookie.github.io/awesome-dsh-plugin/en/feed.xml"/>
   <updated>2026-08-24T00:00:00Z</updated>
   <entry>
+    <title>dsh-blue/blue</title>
+    <id>https://github.com/dsh-blue/blue</id>
+    <link href="https://github.com/dsh-blue/blue"/>
+    <updated>2026-08-24T00:00:00Z</updated>
+    <summary>An interactive full-screen terminal UI for DeepSeek Harness: streaming Markdown transcripts, tool-call cards, an approval panel, session management, and hot theme switching — every component is a hot-pluggable plugin tree.</summary>
+  </entry>
+  <entry>
     <title>FuqiangCraft/dsh-desktop</title>
     <id>https://github.com/FuqiangCraft/dsh-desktop</id>
     <link href="https://github.com/FuqiangCraft/dsh-desktop"/>
     <updated>2026-08-24T00:00:00Z</updated>
     <summary>Adds desktop notifications, a multi-agent visualization canvas, and an optional screen-capture tool to DSH.</summary>
+  </entry>
+  <entry>
+    <title>qwert702/dsh-auto-translate</title>
+    <id>https://github.com/qwert702/dsh-auto-translate</id>
+    <link href="https://github.com/qwert702/dsh-auto-translate"/>
+    <updated>2026-08-24T00:00:00Z</updated>
+    <summary>Auto-translates English replies inline below the original text, with Chinese annotations for tool calls; translation goes through an independent provider request and never enters the session context.</summary>
+  </entry>
+  <entry>
+    <title>qwert702/dsh-commander</title>
+    <id>https://github.com/qwert702/dsh-commander</id>
+    <link href="https://github.com/qwert702/dsh-commander"/>
+    <updated>2026-08-24T00:00:00Z</updated>
+    <summary>Commander mode for DSH Web: inject protocol briefs into the session title bar, parse task blocks from model replies and auto-execute them, separating strategy from execution; activated via a badge button.</summary>
+  </entry>
+  <entry>
+    <title>qwert702/dsh-token-viewer</title>
+    <id>https://github.com/qwert702/dsh-token-viewer</id>
+    <link href="https://github.com/qwert702/dsh-token-viewer"/>
+    <updated>2026-08-24T00:00:00Z</updated>
+    <summary>CC Switch-style token consumption statistics: per-request usage log, real-consumption hero with cache-hit rate, trend chart, per-model peak/off-peak pricing, per-project stats, and account balance.</summary>
+  </entry>
+  <entry>
+    <title>qwert702/dsh-context-compressor</title>
+    <id>https://github.com/qwert702/dsh-context-compressor</id>
+    <link href="https://github.com/qwert702/dsh-context-compressor"/>
+    <updated>2026-08-24T00:00:00Z</updated>
+    <summary>Context compression for small models: compresses tool output and conversation history to a few sentences, freeing context for the actual task; continues in a fresh session automatically.</summary>
+  </entry>
+  <entry>
+    <title>qwert702/dsh-continue-on-limit</title>
+    <id>https://github.com/qwert702/dsh-continue-on-limit</id>
+    <link href="https://github.com/qwert702/dsh-continue-on-limit"/>
+    <updated>2026-08-24T00:00:00Z</updated>
+    <summary>Auto-sends continue when a local model hits its output-token cap: dual-source detection (turn-max-tokens node + provider response), maxConsecutive guard (default 3) prevents infinite loops.</summary>
+  </entry>
+  <entry>
+    <title>qwert702/dsh-memory</title>
+    <id>https://github.com/qwert702/dsh-memory</id>
+    <link href="https://github.com/qwert702/dsh-memory"/>
+    <updated>2026-08-24T00:00:00Z</updated>
+    <summary>Project-level and global long-term memory for DSH Web: isolated POST /items route to avoid path conflicts, multi-turn tool-call context compression before storing entries, deduplication and session-persistent storage.</summary>
   </entry>
   <entry>
     <title>beijingwahw/dsh-nuke-plugin</title>
@@ -165,54 +214,5 @@
     <link href="https://github.com/PerryLink/dsh-session-sync"/>
     <updated>2026-08-19T00:00:00Z</updated>
     <summary>Cross-device session sync: a dedicated git mirror with append-only three-way merging (keep-both + fork conflict resolution), a /sync command, and automatic push/pull.</summary>
-  </entry>
-  <entry>
-    <title>PerryLink/dsh-auto-review</title>
-    <id>https://github.com/PerryLink/dsh-auto-review</id>
-    <link href="https://github.com/PerryLink/dsh-auto-review"/>
-    <updated>2026-08-19T00:00:00Z</updated>
-    <summary>Second-model auto-review on the approval chain: a read-only reviewer subagent returns structured allow/deny verdicts with reasons, fail-closed by default.</summary>
-  </entry>
-  <entry>
-    <title>PerryLink/dsh-budget</title>
-    <id>https://github.com/PerryLink/dsh-budget</id>
-    <link href="https://github.com/PerryLink/dsh-budget"/>
-    <updated>2026-08-19T00:00:00Z</updated>
-    <summary>Cost governance: token and cost metering aggregated by model/session/day, with budget caps, threshold alerts, and alert/block/degrade over-limit policies via the /budget command.</summary>
-  </entry>
-  <entry>
-    <title>PerryLink/dsh-click</title>
-    <id>https://github.com/PerryLink/dsh-click</id>
-    <link href="https://github.com/PerryLink/dsh-click"/>
-    <updated>2026-08-19T00:00:00Z</updated>
-    <summary>Cross-platform native desktop control (Windows-first): screenshots, screen reading, click, input, scroll, keys, and app launching — every mutating action goes through an approval gate.</summary>
-  </entry>
-  <entry>
-    <title>PerryLink/dsh-defend</title>
-    <id>https://github.com/PerryLink/dsh-defend</id>
-    <link href="https://github.com/PerryLink/dsh-defend"/>
-    <updated>2026-08-19T00:00:00Z</updated>
-    <summary>Prompt-injection, jailbreak, and secret-leak detection: an Aho-Corasick engine interposes allow/ask/block at three seams — user messages, tool arguments, and tool results.</summary>
-  </entry>
-  <entry>
-    <title>PerryLink/dsh-draw</title>
-    <id>https://github.com/PerryLink/dsh-draw</id>
-    <link href="https://github.com/PerryLink/dsh-draw"/>
-    <updated>2026-08-19T00:00:00Z</updated>
-    <summary>Unified static-image generation routing: one image_generate tool over OpenAI-compatible engines (OpenAI Images, Zhipu CogView, etc.) with health-aware fallback and per-session quotas.</summary>
-  </entry>
-  <entry>
-    <title>PerryLink/dsh-library</title>
-    <id>https://github.com/PerryLink/dsh-library</id>
-    <link href="https://github.com/PerryLink/dsh-library"/>
-    <updated>2026-08-19T00:00:00Z</updated>
-    <summary>Local document knowledge base: hybrid semantic + keyword retrieval, diversity reranking, citation-aware injection, SQLite index, zero model downloads.</summary>
-  </entry>
-  <entry>
-    <title>PerryLink/dsh-mask</title>
-    <id>https://github.com/PerryLink/dsh-mask</id>
-    <link href="https://github.com/PerryLink/dsh-mask"/>
-    <updated>2026-08-19T00:00:00Z</updated>
-    <summary>PII redaction middleware: names, phone numbers, ID cards, and bank cards are anonymized to placeholders before reaching the model and restored at the display layer; plaintext is never logged.</summary>
   </entry>
 </feed>

@@ -3,7 +3,7 @@
  "url": "https://beancookie.github.io/awesome-dsh-plugin",
  "source": "https://github.com/beancookie/awesome-dsh-plugin",
  "updated": "2026-08-24",
- "count": 421,
+ "count": 428,
  "categories": {
   "ui": {
    "zh": "UI 增强",
@@ -305,6 +305,21 @@
    "createdAt": "2026-08-10",
    "install": "dsh plugin --profile web add github:dingyi222666/dsh-focus-chat",
    "added": "2026-08-13"
+  },
+  {
+   "name": "blue",
+   "owner": "dsh-blue",
+   "url": "https://github.com/dsh-blue/blue",
+   "category": "ui",
+   "description": {
+    "zh": "DeepSeek Harness 的交互式全屏终端 UI：流式 Markdown 转录、工具调用卡片、审批面板、会话管理、主题热切换——全部组件皆为可热插拔的插件树。",
+    "en": "An interactive full-screen terminal UI for DeepSeek Harness: streaming Markdown transcripts, tool-call cards, an approval panel, session management, and hot theme switching — every component is a hot-pluggable plugin tree."
+   },
+   "npm": null,
+   "stars": 3,
+   "createdAt": "2026-08-18",
+   "install": "dsh plugin --profile web add github:dsh-blue/blue",
+   "added": "2026-08-24"
   },
   {
    "name": "dsh-paste-input",
@@ -845,6 +860,51 @@
    "createdAt": "2026-08-15",
    "install": "dsh plugin --profile web add github:pk7j7sqryy-ops/dsh-token-pet",
    "added": "2026-08-15"
+  },
+  {
+   "name": "dsh-auto-translate",
+   "owner": "qwert702",
+   "url": "https://github.com/qwert702/dsh-auto-translate",
+   "category": "ui",
+   "description": {
+    "zh": "在原回复下方行内自动翻译英文回复，工具调用附中文批注；翻译走独立的 provider 请求，绝不进入会话上下文。",
+    "en": "Auto-translates English replies inline below the original text, with Chinese annotations for tool calls; translation goes through an independent provider request and never enters the session context."
+   },
+   "npm": null,
+   "stars": null,
+   "createdAt": null,
+   "install": "dsh plugin --profile web add github:qwert702/dsh-auto-translate",
+   "added": "2026-08-24"
+  },
+  {
+   "name": "dsh-commander",
+   "owner": "qwert702",
+   "url": "https://github.com/qwert702/dsh-commander",
+   "category": "ui",
+   "description": {
+    "zh": "DSH Web 的指挥官模式：在会话标题栏注入协议简报，解析模型回复中的任务块并自动执行，策略与执行分离；通过徽章按钮激活。",
+    "en": "Commander mode for DSH Web: inject protocol briefs into the session title bar, parse task blocks from model replies and auto-execute them, separating strategy from execution; activated via a badge button."
+   },
+   "npm": null,
+   "stars": null,
+   "createdAt": null,
+   "install": "dsh plugin --profile web add github:qwert702/dsh-commander",
+   "added": "2026-08-24"
+  },
+  {
+   "name": "dsh-token-viewer",
+   "owner": "qwert702",
+   "url": "https://github.com/qwert702/dsh-token-viewer",
+   "category": "ui",
+   "description": {
+    "zh": "CC Switch 风格 token 用量统计：逐请求用量日志、带缓存命中率的真实消耗概览、趋势图、按模型的峰谷计价、按项目统计与账户余额。",
+    "en": "CC Switch-style token consumption statistics: per-request usage log, real-consumption hero with cache-hit rate, trend chart, per-model peak/off-peak pricing, per-project stats, and account balance."
+   },
+   "npm": null,
+   "stars": null,
+   "createdAt": null,
+   "install": "dsh plugin --profile web add github:qwert702/dsh-token-viewer",
+   "added": "2026-08-24"
   },
   {
    "name": "dsh-deeplink",
@@ -2120,6 +2180,51 @@
    "createdAt": "2026-08-14",
    "install": "dsh plugin --profile web add github:Phant0Meow/dsh-memory-meow",
    "added": "2026-08-14"
+  },
+  {
+   "name": "dsh-context-compressor",
+   "owner": "qwert702",
+   "url": "https://github.com/qwert702/dsh-context-compressor",
+   "category": "memory",
+   "description": {
+    "zh": "面向小模型的上下文压缩：把工具输出与对话历史压缩成几句话，为真正的任务腾出上下文；自动在新会话中继续。",
+    "en": "Context compression for small models: compresses tool output and conversation history to a few sentences, freeing context for the actual task; continues in a fresh session automatically."
+   },
+   "npm": null,
+   "stars": null,
+   "createdAt": null,
+   "install": "dsh plugin --profile web add github:qwert702/dsh-context-compressor",
+   "added": "2026-08-24"
+  },
+  {
+   "name": "dsh-continue-on-limit",
+   "owner": "qwert702",
+   "url": "https://github.com/qwert702/dsh-continue-on-limit",
+   "category": "memory",
+   "description": {
+    "zh": "本地模型触顶输出 token 上限时自动补发 continue：双源检测（turn-max-tokens 节点 + provider 响应），maxConsecutive 护栏（默认 3）防止死循环。",
+    "en": "Auto-sends continue when a local model hits its output-token cap: dual-source detection (turn-max-tokens node + provider response), maxConsecutive guard (default 3) prevents infinite loops."
+   },
+   "npm": null,
+   "stars": null,
+   "createdAt": null,
+   "install": "dsh plugin --profile web add github:qwert702/dsh-continue-on-limit",
+   "added": "2026-08-24"
+  },
+  {
+   "name": "dsh-memory",
+   "owner": "qwert702",
+   "url": "https://github.com/qwert702/dsh-memory",
+   "category": "memory",
+   "description": {
+    "zh": "DSH Web 的项目级与全局长期记忆：独立的 POST /items 路由避免路径冲突，存储前对多轮工具调用上下文压缩，去重与会话持久化存储。",
+    "en": "Project-level and global long-term memory for DSH Web: isolated POST /items route to avoid path conflicts, multi-turn tool-call context compression before storing entries, deduplication and session-persistent storage."
+   },
+   "npm": null,
+   "stars": null,
+   "createdAt": null,
+   "install": "dsh plugin --profile web add github:qwert702/dsh-memory",
+   "added": "2026-08-24"
   },
   {
    "name": "billion-context-dsh",

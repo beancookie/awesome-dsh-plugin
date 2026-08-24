@@ -6,11 +6,60 @@
   <link rel="self" href="https://beancookie.github.io/awesome-dsh-plugin/feed.xml"/>
   <updated>2026-08-24T00:00:00Z</updated>
   <entry>
+    <title>dsh-blue/blue</title>
+    <id>https://github.com/dsh-blue/blue</id>
+    <link href="https://github.com/dsh-blue/blue"/>
+    <updated>2026-08-24T00:00:00Z</updated>
+    <summary>DeepSeek Harness 的交互式全屏终端 UI：流式 Markdown 转录、工具调用卡片、审批面板、会话管理、主题热切换——全部组件皆为可热插拔的插件树。</summary>
+  </entry>
+  <entry>
     <title>FuqiangCraft/dsh-desktop</title>
     <id>https://github.com/FuqiangCraft/dsh-desktop</id>
     <link href="https://github.com/FuqiangCraft/dsh-desktop"/>
     <updated>2026-08-24T00:00:00Z</updated>
     <summary>为 DSH 提供桌面通知、多 Agent 可视化画布和可选的屏幕截图工具。</summary>
+  </entry>
+  <entry>
+    <title>qwert702/dsh-auto-translate</title>
+    <id>https://github.com/qwert702/dsh-auto-translate</id>
+    <link href="https://github.com/qwert702/dsh-auto-translate"/>
+    <updated>2026-08-24T00:00:00Z</updated>
+    <summary>在原回复下方行内自动翻译英文回复，工具调用附中文批注；翻译走独立的 provider 请求，绝不进入会话上下文。</summary>
+  </entry>
+  <entry>
+    <title>qwert702/dsh-commander</title>
+    <id>https://github.com/qwert702/dsh-commander</id>
+    <link href="https://github.com/qwert702/dsh-commander"/>
+    <updated>2026-08-24T00:00:00Z</updated>
+    <summary>DSH Web 的指挥官模式：在会话标题栏注入协议简报，解析模型回复中的任务块并自动执行，策略与执行分离；通过徽章按钮激活。</summary>
+  </entry>
+  <entry>
+    <title>qwert702/dsh-token-viewer</title>
+    <id>https://github.com/qwert702/dsh-token-viewer</id>
+    <link href="https://github.com/qwert702/dsh-token-viewer"/>
+    <updated>2026-08-24T00:00:00Z</updated>
+    <summary>CC Switch 风格 token 用量统计：逐请求用量日志、带缓存命中率的真实消耗概览、趋势图、按模型的峰谷计价、按项目统计与账户余额。</summary>
+  </entry>
+  <entry>
+    <title>qwert702/dsh-context-compressor</title>
+    <id>https://github.com/qwert702/dsh-context-compressor</id>
+    <link href="https://github.com/qwert702/dsh-context-compressor"/>
+    <updated>2026-08-24T00:00:00Z</updated>
+    <summary>面向小模型的上下文压缩：把工具输出与对话历史压缩成几句话，为真正的任务腾出上下文；自动在新会话中继续。</summary>
+  </entry>
+  <entry>
+    <title>qwert702/dsh-continue-on-limit</title>
+    <id>https://github.com/qwert702/dsh-continue-on-limit</id>
+    <link href="https://github.com/qwert702/dsh-continue-on-limit"/>
+    <updated>2026-08-24T00:00:00Z</updated>
+    <summary>本地模型触顶输出 token 上限时自动补发 continue：双源检测（turn-max-tokens 节点 + provider 响应），maxConsecutive 护栏（默认 3）防止死循环。</summary>
+  </entry>
+  <entry>
+    <title>qwert702/dsh-memory</title>
+    <id>https://github.com/qwert702/dsh-memory</id>
+    <link href="https://github.com/qwert702/dsh-memory"/>
+    <updated>2026-08-24T00:00:00Z</updated>
+    <summary>DSH Web 的项目级与全局长期记忆：独立的 POST /items 路由避免路径冲突，存储前对多轮工具调用上下文压缩，去重与会话持久化存储。</summary>
   </entry>
   <entry>
     <title>beijingwahw/dsh-nuke-plugin</title>
@@ -165,54 +214,5 @@
     <link href="https://github.com/PerryLink/dsh-session-sync"/>
     <updated>2026-08-19T00:00:00Z</updated>
     <summary>会话跨设备同步：专用 git 镜像 + append-only 三方合并（keep-both + fork 冲突解决），/sync 命令与自动推拉。</summary>
-  </entry>
-  <entry>
-    <title>PerryLink/dsh-auto-review</title>
-    <id>https://github.com/PerryLink/dsh-auto-review</id>
-    <link href="https://github.com/PerryLink/dsh-auto-review"/>
-    <updated>2026-08-19T00:00:00Z</updated>
-    <summary>审批链上的第二模型自动审查：只读审查子代理返回带理由的 allow/deny 结构化裁决，fail-closed 兜底。</summary>
-  </entry>
-  <entry>
-    <title>PerryLink/dsh-budget</title>
-    <id>https://github.com/PerryLink/dsh-budget</id>
-    <link href="https://github.com/PerryLink/dsh-budget"/>
-    <updated>2026-08-19T00:00:00Z</updated>
-    <summary>成本治理：按模型/会话/日聚合 token 与成本计量，预算上限 + 阈值告警 + alert/block/degrade 超限策略，/budget 命令。</summary>
-  </entry>
-  <entry>
-    <title>PerryLink/dsh-click</title>
-    <id>https://github.com/PerryLink/dsh-click</id>
-    <link href="https://github.com/PerryLink/dsh-click"/>
-    <updated>2026-08-19T00:00:00Z</updated>
-    <summary>跨平台原生桌面控制（Windows 优先）：截图/读屏/点击/输入/滚轮/按键/应用启动，变更动作全过审批门。</summary>
-  </entry>
-  <entry>
-    <title>PerryLink/dsh-defend</title>
-    <id>https://github.com/PerryLink/dsh-defend</id>
-    <link href="https://github.com/PerryLink/dsh-defend"/>
-    <updated>2026-08-19T00:00:00Z</updated>
-    <summary>提示注入/越狱/密钥泄露检测：Aho-Corasick 引擎在用户消息、工具参数、工具结果三道缝上 allow/ask/block 拦截。</summary>
-  </entry>
-  <entry>
-    <title>PerryLink/dsh-draw</title>
-    <id>https://github.com/PerryLink/dsh-draw</id>
-    <link href="https://github.com/PerryLink/dsh-draw"/>
-    <updated>2026-08-19T00:00:00Z</updated>
-    <summary>统一静态图像生成路由：一个 image_generate 工具接 OpenAI 兼容引擎（OpenAI Images、智谱 CogView 等），健康感知回退 + 会话配额。</summary>
-  </entry>
-  <entry>
-    <title>PerryLink/dsh-library</title>
-    <id>https://github.com/PerryLink/dsh-library</id>
-    <link href="https://github.com/PerryLink/dsh-library"/>
-    <updated>2026-08-19T00:00:00Z</updated>
-    <summary>本地文档知识库：语义+关键词混合检索、多样性重排、引用感知注入，SQLite 索引，零模型下载。</summary>
-  </entry>
-  <entry>
-    <title>PerryLink/dsh-mask</title>
-    <id>https://github.com/PerryLink/dsh-mask</id>
-    <link href="https://github.com/PerryLink/dsh-mask"/>
-    <updated>2026-08-19T00:00:00Z</updated>
-    <summary>PII 脱敏中间件：姓名/电话/身份证/银行卡等在到达模型前匿名化为占位符，展示层还原，绝不记录明文。</summary>
   </entry>
 </feed>
