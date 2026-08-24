@@ -889,6 +889,12 @@
   "etag": "W/\"f354ff29f0973e7a25121039b34564bb3655bccd70d16d0b564e149517bd768f\"",
   "checkedAt": "2026-08-24"
  },
+ "https://github.com/imkelt/DSH-RAG": {
+  "stars": 1,
+  "createdAt": "2026-08-22",
+  "etag": "W/\"6c18e8e17ad5bf4fb09951013f94184abd354809c51e18c116e108430f8537b7\"",
+  "checkedAt": "2026-08-24"
+ },
  "https://github.com/ink5897/dsh-theme-kit": {
   "stars": 2,
   "createdAt": "2026-08-15",
@@ -2183,6 +2189,36 @@
   "stars": 107,
   "createdAt": "2026-07-18",
   "etag": "W/\"527bb62d79e29ff7c4cf698be324ea988b5087b7ec134ff0b3ae374a4d4a6199\"",
+  "checkedAt": "2026-08-24"
+ },
+ "https://github.com/taxueseek/dsh-files": {
+  "stars": 21,
+  "createdAt": "2026-08-14",
+  "etag": "W/\"8cad7aa41f220c86a3bc575a8d982da7698a83d9e2bb891ca5a20884368c1606\"",
+  "checkedAt": "2026-08-24"
+ },
+ "https://github.com/taxueseek/dsh-healthcheck": {
+  "stars": 0,
+  "createdAt": "2026-08-15",
+  "etag": "W/\"6609bc0138d00a56407f2983ce9ce1ee430d4db9451f916fb2f2508068c747c7\"",
+  "checkedAt": "2026-08-24"
+ },
+ "https://github.com/taxueseek/dsh-plugin-guard": {
+  "stars": 0,
+  "createdAt": "2026-08-16",
+  "etag": "W/\"a41a9fd2aa8d60907981f49988135dca42cd666bad1ca9876d7fba441e7f38bc\"",
+  "checkedAt": "2026-08-24"
+ },
+ "https://github.com/taxueseek/dsh-snippets": {
+  "stars": 0,
+  "createdAt": "2026-08-15",
+  "etag": "W/\"554b8caffe7601816d2c17a929b6abc77786f26b72fe1492923fdace421a5dca\"",
+  "checkedAt": "2026-08-24"
+ },
+ "https://github.com/taxueseek/taxue-dsh-artisan": {
+  "stars": 0,
+  "createdAt": "2026-08-19",
+  "etag": "W/\"269cb4460a873dddb2ab495174e0c3b8a8c14354aba4bc0c7b2f83e572f04e97\"",
   "checkedAt": "2026-08-24"
  },
  "https://github.com/THU-MAIC/dsh-openmaic": {

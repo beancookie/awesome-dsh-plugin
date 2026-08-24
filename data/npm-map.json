@@ -607,6 +607,10 @@
   "npm": null,
   "checkedAt": "2026-08-14"
  },
+ "https://github.com/imkelt/DSH-RAG": {
+  "npm": "@kai232/dsh-rag",
+  "checkedAt": "2026-08-24"
+ },
  "https://github.com/ink5897/dsh-theme-kit": {
   "npm": "dsh-theme-kit",
   "checkedAt": "2026-08-16"
@@ -1482,6 +1486,26 @@
  "https://github.com/taxueseek/argo": {
   "npm": "argo-search",
   "checkedAt": "2026-08-14"
+ },
+ "https://github.com/taxueseek/dsh-files": {
+  "npm": null,
+  "checkedAt": "2026-08-24"
+ },
+ "https://github.com/taxueseek/dsh-healthcheck": {
+  "npm": null,
+  "checkedAt": "2026-08-24"
+ },
+ "https://github.com/taxueseek/dsh-plugin-guard": {
+  "npm": null,
+  "checkedAt": "2026-08-24"
+ },
+ "https://github.com/taxueseek/dsh-snippets": {
+  "npm": null,
+  "checkedAt": "2026-08-24"
+ },
+ "https://github.com/taxueseek/taxue-dsh-artisan": {
+  "npm": null,
+  "checkedAt": "2026-08-24"
  },
  "https://github.com/THU-MAIC/dsh-openmaic": {
   "npm": null,

@@ -41,6 +41,20 @@
     <summary>CC Switch 风格 token 用量统计：逐请求用量日志、带缓存命中率的真实消耗概览、趋势图、按模型的峰谷计价、按项目统计与账户余额。</summary>
   </entry>
   <entry>
+    <title>taxueseek/dsh-files</title>
+    <id>https://github.com/taxueseek/dsh-files</id>
+    <link href="https://github.com/taxueseek/dsh-files"/>
+    <updated>2026-08-24T00:00:00Z</updated>
+    <summary>文件上传（彩色附件卡片、会话隔离存储、sha256 去重、TTL 清扫）+ 内容嗅探的 read_document 文档读取（PDF/DOCX/XLSX/TXT）。</summary>
+  </entry>
+  <entry>
+    <title>imkelt/DSH-RAG</title>
+    <id>https://github.com/imkelt/DSH-RAG</id>
+    <link href="https://github.com/imkelt/DSH-RAG"/>
+    <updated>2026-08-24T00:00:00Z</updated>
+    <summary>DSH Web 本地知识库：支持多目录增量索引、BM25 与 SiliconFlow 混合检索，并在会话中展示可定位、可打开的来源。</summary>
+  </entry>
+  <entry>
     <title>qwert702/dsh-context-compressor</title>
     <id>https://github.com/qwert702/dsh-context-compressor</id>
     <link href="https://github.com/qwert702/dsh-context-compressor"/>
@@ -67,6 +81,34 @@
     <link href="https://github.com/nousag/dsh-writing-desk"/>
     <updated>2026-08-24T00:00:00Z</updated>
     <summary>本地优先写作工作台：书籍/卷/章管理、正文编辑、笔记资料调用、字数统计与导出。</summary>
+  </entry>
+  <entry>
+    <title>taxueseek/dsh-plugin-guard</title>
+    <id>https://github.com/taxueseek/dsh-plugin-guard</id>
+    <link href="https://github.com/taxueseek/dsh-plugin-guard"/>
+    <updated>2026-08-24T00:00:00Z</updated>
+    <summary>DSH 插件的静态安全闸门与诊所：安装前静态审计、安装后哈希与能力锁定、本机指纹库与 GitHub dsh-plugin 主题的同类搜索、机械式剥离清理；永不执行目标插件。</summary>
+  </entry>
+  <entry>
+    <title>taxueseek/dsh-snippets</title>
+    <id>https://github.com/taxueseek/dsh-snippets</id>
+    <link href="https://github.com/taxueseek/dsh-snippets"/>
+    <updated>2026-08-24T00:00:00Z</updated>
+    <summary>DSH 极简片段/命令工具箱：5 个工具，一个可手工编辑的 JSONL 文件，零 UI、零数据库、零网络，只有明确说存才存。</summary>
+  </entry>
+  <entry>
+    <title>taxue-dsh-artisan</title>
+    <id>https://github.com/taxueseek/taxue-dsh-artisan</id>
+    <link href="https://github.com/taxueseek/taxue-dsh-artisan"/>
+    <updated>2026-08-24T00:00:00Z</updated>
+    <summary>DSH 一体化视觉创作工具链：提示词反推与审计优化，多供应商生图，支持异步后台出图。</summary>
+  </entry>
+  <entry>
+    <title>taxueseek/dsh-healthcheck</title>
+    <id>https://github.com/taxueseek/dsh-healthcheck</id>
+    <link href="https://github.com/taxueseek/dsh-healthcheck"/>
+    <updated>2026-08-24T00:00:00Z</updated>
+    <summary>DSH 环境只读体检：磁盘/内存/延迟/缓存膨胀/插件版本落后检测，分级报告并对比历史基线趋势。只读，不删任何东西。</summary>
   </entry>
   <entry>
     <title>beijingwahw/dsh-nuke-plugin</title>
@@ -172,47 +214,5 @@
     <link href="https://github.com/sandbaseai/dsh-plugin-store"/>
     <updated>2026-08-20T00:00:00Z</updated>
     <summary>DSH 设置页原生插件市场，支持社区目录搜索、标签筛选、插件安装和已安装包查看。</summary>
-  </entry>
-  <entry>
-    <title>PerryLink/dsh-composer-history</title>
-    <id>https://github.com/PerryLink/dsh-composer-history</id>
-    <link href="https://github.com/PerryLink/dsh-composer-history"/>
-    <updated>2026-08-19T00:00:00Z</updated>
-    <summary>网页输入区的终端式输入历史：方向键精确还原草稿/光标，Ctrl+R 反搜，工作区级回忆，感知滑动上下文。</summary>
-  </entry>
-  <entry>
-    <title>PerryLink/dsh-output-styles</title>
-    <id>https://github.com/PerryLink/dsh-output-styles</id>
-    <link href="https://github.com/PerryLink/dsh-output-styles"/>
-    <updated>2026-08-19T00:00:00Z</updated>
-    <summary>运行时切换模型输出风格（对齐 Claude Code outputStyles），含 output.render.* 呈现协议与 /style 命令。</summary>
-  </entry>
-  <entry>
-    <title>PerryLink/dsh-session-pin</title>
-    <id>https://github.com/PerryLink/dsh-session-pin</id>
-    <link href="https://github.com/PerryLink/dsh-session-pin"/>
-    <updated>2026-08-19T00:00:00Z</updated>
-    <summary>置顶会话与工作区到侧边栏：逐置顶行配色、看板/标签/已存视图、健康摘要与 /goto。</summary>
-  </entry>
-  <entry>
-    <title>PerryLink/dsh-talk</title>
-    <id>https://github.com/PerryLink/dsh-talk</id>
-    <link href="https://github.com/PerryLink/dsh-talk"/>
-    <updated>2026-08-19T00:00:00Z</updated>
-    <summary>语音优先会话回路：输入区麦克风（浏览器/本地语音识别），speak 工具语音播报，事件播报与说话打断。</summary>
-  </entry>
-  <entry>
-    <title>PerryLink/dsh-checkpoint-rewind</title>
-    <id>https://github.com/PerryLink/dsh-checkpoint-rewind</id>
-    <link href="https://github.com/PerryLink/dsh-checkpoint-rewind"/>
-    <updated>2026-08-19T00:00:00Z</updated>
-    <summary>DSH 版 Claude Code /rewind：git 优先工作区快照 + 轮边界会话 fork + /checkpoint、/rewind 一键恢复。</summary>
-  </entry>
-  <entry>
-    <title>PerryLink/dsh-claude-move</title>
-    <id>https://github.com/PerryLink/dsh-claude-move</id>
-    <link href="https://github.com/PerryLink/dsh-claude-move"/>
-    <updated>2026-08-19T00:00:00Z</updated>
-    <summary>四源迁移向导：把 Claude Code、Codex、OpenCode、Hermes 的会话、记忆、技能、斜杠命令搬进 DSH 并可续跑。</summary>
   </entry>
 </feed>
