@@ -3,7 +3,7 @@
  "url": "https://beancookie.github.io/awesome-dsh-plugin",
  "source": "https://github.com/beancookie/awesome-dsh-plugin",
  "updated": "2026-08-24",
- "count": 429,
+ "count": 430,
  "categories": {
   "ui": {
    "zh": "UI 增强",
@@ -1910,6 +1910,21 @@
    "createdAt": "2026-08-14",
    "install": "dsh plugin --profile web add github:ICCuse/dsh-premise-guard",
    "added": "2026-08-14"
+  },
+  {
+   "name": "DSH-RAG",
+   "owner": "imkelt",
+   "url": "https://github.com/imkelt/DSH-RAG",
+   "category": "memory",
+   "description": {
+    "zh": "DSH Web 本地知识库：支持多目录增量索引、BM25 与 SiliconFlow 混合检索，并在会话中展示可定位、可打开的来源。",
+    "en": "Local knowledge bases for DSH Web with multi-directory incremental indexing, BM25 and SiliconFlow hybrid retrieval, and source cards that locate and open original files."
+   },
+   "npm": "@kai232/dsh-rag",
+   "stars": 1,
+   "createdAt": "2026-08-22",
+   "install": "dsh plugin --profile web add @kai232/dsh-rag",
+   "added": "2026-08-24"
   },
   {
    "name": "dsh-memory",

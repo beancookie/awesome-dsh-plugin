@@ -41,6 +41,13 @@
     <summary>CC Switch-style token consumption statistics: per-request usage log, real-consumption hero with cache-hit rate, trend chart, per-model peak/off-peak pricing, per-project stats, and account balance.</summary>
   </entry>
   <entry>
+    <title>imkelt/DSH-RAG</title>
+    <id>https://github.com/imkelt/DSH-RAG</id>
+    <link href="https://github.com/imkelt/DSH-RAG"/>
+    <updated>2026-08-24T00:00:00Z</updated>
+    <summary>Local knowledge bases for DSH Web with multi-directory incremental indexing, BM25 and SiliconFlow hybrid retrieval, and source cards that locate and open original files.</summary>
+  </entry>
+  <entry>
     <title>qwert702/dsh-context-compressor</title>
     <id>https://github.com/qwert702/dsh-context-compressor</id>
     <link href="https://github.com/qwert702/dsh-context-compressor"/>
@@ -207,12 +214,5 @@
     <link href="https://github.com/PerryLink/dsh-checkpoint-rewind"/>
     <updated>2026-08-19T00:00:00Z</updated>
     <summary>Claude Code /rewind for DSH: git-first workspace snapshots plus per-turn session forks, with one-click restore via /checkpoint and /rewind.</summary>
-  </entry>
-  <entry>
-    <title>PerryLink/dsh-claude-move</title>
-    <id>https://github.com/PerryLink/dsh-claude-move</id>
-    <link href="https://github.com/PerryLink/dsh-claude-move"/>
-    <updated>2026-08-19T00:00:00Z</updated>
-    <summary>Four-source migration wizard: move sessions, memory, skills, and slash commands from Claude Code, Codex, OpenCode, and Hermes into DSH and keep working.</summary>
   </entry>
 </feed>

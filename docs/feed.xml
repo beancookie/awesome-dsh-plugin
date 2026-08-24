@@ -41,6 +41,13 @@
     <summary>CC Switch 风格 token 用量统计：逐请求用量日志、带缓存命中率的真实消耗概览、趋势图、按模型的峰谷计价、按项目统计与账户余额。</summary>
   </entry>
   <entry>
+    <title>imkelt/DSH-RAG</title>
+    <id>https://github.com/imkelt/DSH-RAG</id>
+    <link href="https://github.com/imkelt/DSH-RAG"/>
+    <updated>2026-08-24T00:00:00Z</updated>
+    <summary>DSH Web 本地知识库：支持多目录增量索引、BM25 与 SiliconFlow 混合检索，并在会话中展示可定位、可打开的来源。</summary>
+  </entry>
+  <entry>
     <title>qwert702/dsh-context-compressor</title>
     <id>https://github.com/qwert702/dsh-context-compressor</id>
     <link href="https://github.com/qwert702/dsh-context-compressor"/>
@@ -207,12 +214,5 @@
     <link href="https://github.com/PerryLink/dsh-checkpoint-rewind"/>
     <updated>2026-08-19T00:00:00Z</updated>
     <summary>DSH 版 Claude Code /rewind：git 优先工作区快照 + 轮边界会话 fork + /checkpoint、/rewind 一键恢复。</summary>
-  </entry>
-  <entry>
-    <title>PerryLink/dsh-claude-move</title>
-    <id>https://github.com/PerryLink/dsh-claude-move</id>
-    <link href="https://github.com/PerryLink/dsh-claude-move"/>
-    <updated>2026-08-19T00:00:00Z</updated>
-    <summary>四源迁移向导：把 Claude Code、Codex、OpenCode、Hermes 的会话、记忆、技能、斜杠命令搬进 DSH 并可续跑。</summary>
   </entry>
 </feed>
