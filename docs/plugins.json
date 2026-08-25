@@ -3166,7 +3166,7 @@
     "en": "Complete task-scoped git worktrees: per-repo manifest for durable state, worktree-<name> branches, bring-back to main or direct commit, optional carry-over of uncommitted main changes (modeled on Qoder / Codex / Claude Code)."
    },
    "npm": "dsh-task-worktree",
-   "stars": 0,
+   "stars": 1,
    "createdAt": "2026-08-18",
    "install": "dsh plugin --profile web add dsh-task-worktree",
    "added": "2026-08-18"
@@ -3346,7 +3346,7 @@
     "en": "Read-only trading research workbench: a typed market-data seam (bring your own data source), multi-timeframe indicator regime snapshots, interactive candlestick cards in the dsh web UI (AI annotations require cited sources verified against real candle ranges), and a structurally order-blocking risk-guard."
    },
    "npm": null,
-   "stars": 5,
+   "stars": 18,
    "createdAt": "2026-08-17",
    "install": "dsh plugin --profile web add github:maddogfinance/dsh-trading",
    "added": "2026-08-19"
@@ -3736,7 +3736,7 @@
     "en": "In-conversation read-aloud with Doubao-quality voices: every AI reply gets a 🔊 tap-to-read / auto-read toggle (off by default, state persisted), with voices synthesized by the local Omi engine (Doubao seed-tts); BYOK — keys stay in your local Keychain, the plugin stores none."
    },
    "npm": null,
-   "stars": 0,
+   "stars": 46,
    "createdAt": "2026-08-18",
    "install": "dsh plugin --profile web add github:PolinniZhong/dsh-omi-voice",
    "added": "2026-08-18"
@@ -5011,7 +5011,7 @@
     "en": "Feishu notifications on session end / input needed."
    },
    "npm": null,
-   "stars": 0,
+   "stars": 1,
    "createdAt": "2026-08-07",
    "install": "dsh plugin --profile web add github:dsh-external/dsh-feishu-notify",
    "added": "2026-08-14"
@@ -5206,7 +5206,7 @@
     "en": "Feishu (Lark) UI for DeepSeek Harness: panel-driven control console, in-card approvals and questions, live streaming cards, one-QR setup."
    },
    "npm": null,
-   "stars": 8,
+   "stars": 25,
    "createdAt": "2026-08-14",
    "install": "dsh plugin --profile web add github:PGZXB/dsh-feishu",
    "added": "2026-08-18"
