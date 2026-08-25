@@ -147,7 +147,7 @@ DeepSeek Harness 是 DeepSeek 开源的 agent harness——既是可直接运行
 - [dsh-custom-theme-import](https://github.com/Juryorca/dsh-custom-theme-import) — DSH Web 自定义主题导入插件：支持本地路径/GitHub 集合一键导入、主题预览与实时刷新、托管主题库；格式轻量，作者可直接改 CSS/DOM 文件热加载，适合个人主题开发与分享。
 - [KinGao294/dsh-skin](https://github.com/KinGao294/dsh-skin) — Codex 风格皮肤切换器 + 自定义壁纸层，可调透明度与模糊。
 - [Liu-ZA-81/dsh-theme-firefly](https://github.com/Liu-ZA-81/dsh-theme-firefly) — 崩坏：星穹铁道「流萤」主题：立绘/动态壁纸、萤火绿霓虹配色、开屏变身动画、萤火氛围粒子、背景音乐、打字音效与按对话触发的表情包彩蛋。
-- [dsh-odette-skin](https://github.com/lkdx0220/Genshin-odette-skin-dsh) — DSH 原神「奥黛塔」主题 UI 皮肤：深/浅双模式背景图 + 13 个主题 token 毛玻璃覆盖 + 侧栏 Q 版小兽皮肤开关，npm 即装即用。
+- [dsh-odette-skin](https://github.com/lkdx0220/Genshin-odette-skin-dsh) — dsh-odette-skin — DSH 原神「奥黛塔」主题 UI 皮肤：深/浅双模式背景（官方素材）+ 13 个主题 token 毛玻璃覆盖 + 输入框装饰系统（三层冰蓝边框/天鹅顶饰/套娃应援棒组合），内置明暗切换，npm 即装即用。
 - [PerryLink/dsh-checkpoint-rewind](https://github.com/PerryLink/dsh-checkpoint-rewind) — DSH 版 Claude Code /rewind：git 优先工作区快照 + 轮边界会话 fork + /checkpoint、/rewind 一键恢复。
 - [PerryLink/dsh-claude-move](https://github.com/PerryLink/dsh-claude-move) — 四源迁移向导：把 Claude Code、Codex、OpenCode、Hermes 的会话、记忆、技能、斜杠命令搬进 DSH 并可续跑。
 - [PerryLink/dsh-session-sync](https://github.com/PerryLink/dsh-session-sync) — 会话跨设备同步：专用 git 镜像 + append-only 三方合并（keep-both + fork 冲突解决），/sync 命令与自动推拉。
