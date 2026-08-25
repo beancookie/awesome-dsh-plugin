@@ -32,7 +32,7 @@ DeepSeek Harness is DeepSeek's open-source agent harness — a runnable coding a
 
 </details>
 
-**439** plugins · [PRs welcome](#contributing)
+**440** plugins · [PRs welcome](#contributing)
 
 ## Contents
 
@@ -130,6 +130,7 @@ DeepSeek Harness is DeepSeek's open-source agent harness — a runnable coding a
 - [WFMinerva/dsh-turn-cost](https://github.com/WFMinerva/dsh-turn-cost) - Per-turn real cost under every assistant reply: CNY at official peak/off-peak rates with cache-hit ratio; reads local session logs only, zero telemetry, zero keys.
 - [wsxwj123/dsh-plugins#turn-scrubber](https://github.com/wsxwj123/dsh-plugins/tree/main/packages/turn-scrubber) - Compact right-edge turn rail with hover summaries and click-to-jump navigation.
 - [xiaogu619520/dsh-plugin-task-panel](https://github.com/xiaogu619520/dsh-plugin-task-panel) — Task & Context Summary Floating Panel (todo tracking, file/system token breakdown, 8-way resize, shortcut).
+- [YEYEYEYESHIFU/dsh-session-hotkeys](https://github.com/YEYEYEYESHIFU/dsh-session-hotkeys) - Keyboard session management for the DSH Web GUI: switch sessions like browser tabs (positional Alt+1-9, pinned slots, previous/next), keyboard model switching, alternate send, archive confirmation, and focus-search, with every binding rebindable via Windows/macOS presets.
 - [yoli-mi/dsh-client-ui-custom](https://github.com/yoli-mi/dsh-client-ui-custom) - Web theming (wallpaper, glass, accent, presets), keyboard shortcuts, usage stats, a plugin marketplace, a floating history strip, and user-message Markdown rendering.
 - [dsh-plugin-workshop](https://github.com/yyyyukari/dsh-plugin-workshop) - Steam Workshop-style in-app plugin browser with one-click install/update/uninstall.
 - [zealot00/dsh-pet](https://github.com/zealot00/dsh-pet) - Desktop pet for the DSH Web UI: sprite-sheet animation, agent state linkage, drag, alarm (daily/one-shot) and pomodoro widgets, skin picker with preview.

@@ -32,7 +32,7 @@ DeepSeek Harness 是 DeepSeek 开源的 agent harness——既是可直接运行
 
 </details>
 
-**439** 个插件 · 欢迎 [PR](#贡献)
+**440** 个插件 · 欢迎 [PR](#贡献)
 
 ## 目录
 
@@ -130,6 +130,7 @@ DeepSeek Harness 是 DeepSeek 开源的 agent harness——既是可直接运行
 - [WFMinerva/dsh-turn-cost](https://github.com/WFMinerva/dsh-turn-cost) — 每条 AI 回复下方显示该轮真实花费：人民币、官方峰谷价、缓存读占比；纯本地读会话日志，零上报零密钥。
 - [wsxwj123/dsh-plugins#turn-scrubber](https://github.com/wsxwj123/dsh-plugins/tree/main/packages/turn-scrubber) — 右侧紧凑回合刻度条，悬停显示回合摘要，点击跳转到对应用户回合。
 - [xiaogu619520/dsh-plugin-task-panel](https://github.com/xiaogu619520/dsh-plugin-task-panel) — 任务摘要与上下文用量监控浮动面板（待办事项跟踪、文件与系统 Token 占用统计、8向缩放与快捷键）。
+- [YEYEYEYESHIFU/dsh-session-hotkeys](https://github.com/YEYEYEYESHIFU/dsh-session-hotkeys) — 会话热键管理：像切浏览器标签页一样用键盘切换会话——Alt+1-9 顺序切换、固定槽位、上/下一个、新建/归档/重命名、键盘模型切换与备用发送，键位可在面板录制重绑，Windows/macOS 双预设。
 - [yoli-mi/dsh-client-ui-custom](https://github.com/yoli-mi/dsh-client-ui-custom) — Web 外观主题定制（壁纸、毛玻璃、强调色、预设）、键盘快捷键、用量统计、插件市场、浮动历史条与用户消息 Markdown 渲染。
 - [yyyyukari/dsh-plugin-workshop](https://github.com/yyyyukari/dsh-plugin-workshop) — 创意工坊式插件浏览器：一键安装/更新/卸载。
 - [zealot00/dsh-pet](https://github.com/zealot00/dsh-pet) — DSH Web UI 桌面宠物：精灵图动画、agent 状态联动、拖拽、闹钟（每天/一次）与番茄钟，皮肤下拉选择 + 预览。
