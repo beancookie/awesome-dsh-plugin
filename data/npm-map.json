@@ -839,6 +839,10 @@
   "npm": null,
   "checkedAt": "2026-08-16"
  },
+ "https://github.com/Laplace-bit/dsh-pianist": {
+  "npm": "dsh-pianist",
+  "checkedAt": "2026-08-25"
+ },
  "https://github.com/Laplace-bit/dsh-smooth-stream": {
   "npm": null,
   "checkedAt": "2026-08-16"

@@ -2,8 +2,8 @@
  "name": "awesome-dsh-plugin",
  "url": "https://beancookie.github.io/awesome-dsh-plugin",
  "source": "https://github.com/beancookie/awesome-dsh-plugin",
- "updated": "2026-08-24",
- "count": 438,
+ "updated": "2026-08-25",
+ "count": 439,
  "categories": {
   "ui": {
    "zh": "UI 增强",
@@ -6470,6 +6470,21 @@
    "createdAt": "2026-08-15",
    "install": "dsh plugin --profile web add github:JAdpp/dsh-whale-galgame",
    "added": "2026-08-16"
+  },
+  {
+   "name": "dsh-pianist",
+   "owner": "Laplace-bit",
+   "url": "https://github.com/Laplace-bit/dsh-pianist",
+   "category": "fun",
+   "description": {
+    "zh": "AI 钢琴演奏：让 Agent 弹一曲真钢琴，Canvas2D 三角钢琴 + Salamander Grand 真实采样音色，88 键可弹，附沉浸式舞台。",
+    "en": "AI piano performance: ask the agent to play a piece on a Canvas2D grand piano with real Salamander Grand samples and a playable 88-key keyboard."
+   },
+   "npm": "dsh-pianist",
+   "stars": 1,
+   "createdAt": "2026-08-17",
+   "install": "dsh plugin --profile web add dsh-pianist",
+   "added": "2026-08-25"
   },
   {
    "name": "dsh-minigames",

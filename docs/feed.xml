@@ -4,7 +4,14 @@
   <id>https://beancookie.github.io/awesome-dsh-plugin/</id>
   <link href="https://beancookie.github.io/awesome-dsh-plugin/"/>
   <link rel="self" href="https://beancookie.github.io/awesome-dsh-plugin/feed.xml"/>
-  <updated>2026-08-24T00:00:00Z</updated>
+  <updated>2026-08-25T00:00:00Z</updated>
+  <entry>
+    <title>Laplace-bit/dsh-pianist</title>
+    <id>https://github.com/Laplace-bit/dsh-pianist</id>
+    <link href="https://github.com/Laplace-bit/dsh-pianist"/>
+    <updated>2026-08-25T00:00:00Z</updated>
+    <summary>AI 钢琴演奏：让 Agent 弹一曲真钢琴，Canvas2D 三角钢琴 + Salamander Grand 真实采样音色，88 键可弹，附沉浸式舞台。</summary>
+  </entry>
   <entry>
     <title>dsh-blue/blue</title>
     <id>https://github.com/dsh-blue/blue</id>
@@ -207,12 +214,5 @@
     <link href="https://github.com/bunipai/dsh-balance-guard"/>
     <updated>2026-08-21T00:00:00Z</updated>
     <summary>实时余额胶囊：余额不足自动变橙并触发标题与系统通知。</summary>
-  </entry>
-  <entry>
-    <title>dsh-plugin-hub</title>
-    <id>https://github.com/Noob-stupid/dsh-plugin-hub</id>
-    <link href="https://github.com/Noob-stupid/dsh-plugin-hub"/>
-    <updated>2026-08-20T00:00:00Z</updated>
-    <summary>DSH 插件管理面板：一键启停 + 多源市场（GitHub/Gitee/自定义）+ 静态索引市场（500+ 插件 / 300 技能）+ 技能安装/停用 + 套装一键装配 + 框架升级适配。</summary>
   </entry>
 </feed>
