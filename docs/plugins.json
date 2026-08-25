@@ -1392,7 +1392,7 @@
    "url": "https://github.com/lkdx0220/Genshin-odette-skin-dsh",
    "category": "theme",
    "description": {
-    "zh": "DSH 原神「奥黛塔」主题 UI 皮肤：深/浅双模式背景图 + 13 个主题 token 毛玻璃覆盖 + 侧栏 Q 版小兽皮肤开关，npm 即装即用。",
+    "zh": "dsh-odette-skin — DSH 原神「奥黛塔」主题 UI 皮肤：深/浅双模式背景（官方素材）+ 13 个主题 token 毛玻璃覆盖 + 输入框装饰系统（三层冰蓝边框/天鹅顶饰/套娃应援棒组合），内置明暗切换，npm 即装即用。",
     "en": "A Genshin Impact \"Odette\" themed DSH UI skin: dark/light dual-mode background images, frosted-glass overrides for 13 theme tokens, and a chibi mascot sidebar toggle; install via npm."
    },
    "npm": null,
