@@ -6,6 +6,13 @@
   <link rel="self" href="https://beancookie.github.io/awesome-dsh-plugin/en/feed.xml"/>
   <updated>2026-08-25T00:00:00Z</updated>
   <entry>
+    <title>YEYEYEYESHIFU/dsh-session-hotkeys</title>
+    <id>https://github.com/YEYEYEYESHIFU/dsh-session-hotkeys</id>
+    <link href="https://github.com/YEYEYEYESHIFU/dsh-session-hotkeys"/>
+    <updated>2026-08-25T00:00:00Z</updated>
+    <summary>Keyboard session management for the DSH Web GUI: switch sessions like browser tabs (positional Alt+1-9, pinned slots, previous/next), keyboard model switching, alternate send, archive confirmation, and focus-search, with every binding rebindable via Windows/macOS presets.</summary>
+  </entry>
+  <entry>
     <title>Laplace-bit/dsh-pianist</title>
     <id>https://github.com/Laplace-bit/dsh-pianist</id>
     <link href="https://github.com/Laplace-bit/dsh-pianist"/>
@@ -207,12 +214,5 @@
     <link href="https://github.com/whateverboy2333/dsh-flat-teams"/>
     <updated>2026-08-21T00:00:00Z</updated>
     <summary>Leaderless flat agent teams: cross-window structured task dispatch (state machine + event stream + offline resume), a read-only progress recorder, and a two-level web dashboard.</summary>
-  </entry>
-  <entry>
-    <title>bunipai/dsh-balance-guard</title>
-    <id>https://github.com/bunipai/dsh-balance-guard</id>
-    <link href="https://github.com/bunipai/dsh-balance-guard"/>
-    <updated>2026-08-21T00:00:00Z</updated>
-    <summary>Live balance pill that turns orange and raises title and system alerts when the balance runs low.</summary>
   </entry>
 </feed>

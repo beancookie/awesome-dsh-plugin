@@ -3,7 +3,7 @@
  "url": "https://beancookie.github.io/awesome-dsh-plugin",
  "source": "https://github.com/beancookie/awesome-dsh-plugin",
  "updated": "2026-08-25",
- "count": 439,
+ "count": 440,
  "categories": {
   "ui": {
    "zh": "UI 增强",
@@ -1160,6 +1160,21 @@
    "createdAt": "2026-08-17",
    "install": "dsh plugin --profile web add github:xiaogu619520/dsh-plugin-task-panel",
    "added": "2026-08-17"
+  },
+  {
+   "name": "dsh-session-hotkeys",
+   "owner": "YEYEYEYESHIFU",
+   "url": "https://github.com/YEYEYEYESHIFU/dsh-session-hotkeys",
+   "category": "ui",
+   "description": {
+    "zh": "会话热键管理：像切浏览器标签页一样用键盘切换会话——Alt+1-9 顺序切换、固定槽位、上/下一个、新建/归档/重命名、键盘模型切换与备用发送，键位可在面板录制重绑，Windows/macOS 双预设。",
+    "en": "Keyboard session management for the DSH Web GUI: switch sessions like browser tabs (positional Alt+1-9, pinned slots, previous/next), keyboard model switching, alternate send, archive confirmation, and focus-search, with every binding rebindable via Windows/macOS presets."
+   },
+   "npm": "dsh-session-hotkeys",
+   "stars": 3,
+   "createdAt": "2026-08-15",
+   "install": "dsh plugin --profile web add dsh-session-hotkeys",
+   "added": "2026-08-25"
   },
   {
    "name": "dsh-client-ui-custom",

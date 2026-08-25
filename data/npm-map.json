@@ -1671,6 +1671,10 @@
   "npm": null,
   "checkedAt": "2026-08-16"
  },
+ "https://github.com/YEYEYEYESHIFU/dsh-session-hotkeys": {
+  "npm": "dsh-session-hotkeys",
+  "checkedAt": "2026-08-25"
+ },
  "https://github.com/yflmq001/dsh-cost-tracker": {
   "npm": null,
   "checkedAt": "2026-08-14"
