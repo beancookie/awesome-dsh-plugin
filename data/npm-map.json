@@ -1563,6 +1563,10 @@
   "npm": "@tonydua/dsh-web-search-exa",
   "checkedAt": "2026-08-14"
  },
+ "https://github.com/tsingshitao-nuke/dsh-set-workspace": {
+  "npm": null,
+  "checkedAt": "2026-08-26"
+ },
  "https://github.com/Tyan66666/billion-context-dsh": {
   "npm": null,
   "checkedAt": "2026-08-14"

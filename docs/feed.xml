@@ -41,6 +41,13 @@
     <summary>写文件/工具调用前的逐处审批门：write/edit/stream 操作显示红绿行级 diff 后再放行，bash 命令审批（默认关）+ 可配置门控。</summary>
   </entry>
   <entry>
+    <title>tsingshitao-nuke/dsh-set-workspace</title>
+    <id>https://github.com/tsingshitao-nuke/dsh-set-workspace</id>
+    <link href="https://github.com/tsingshitao-nuke/dsh-set-workspace"/>
+    <updated>2026-08-26T00:00:00Z</updated>
+    <summary>在 Windows 资源管理器中右键文件夹，将其作为 DSH 工作区打开：注册文件夹、按需启动 DSH，并把页面切换到该工作区。</summary>
+  </entry>
+  <entry>
     <title>maxmilian/dsh-sonarqube</title>
     <id>https://github.com/maxmilian/dsh-sonarqube</id>
     <link href="https://github.com/maxmilian/dsh-sonarqube"/>
@@ -207,12 +214,5 @@
     <link href="https://github.com/mjylfz/dsh-skill-mover"/>
     <updated>2026-08-23T00:00:00Z</updated>
     <summary>把其他 Agent 的技能一键搬进 DeepSeek Harness：支持 14 个平台 + 共享层识别、同名技能合并、不重复搬运、可回滚。</summary>
-  </entry>
-  <entry>
-    <title>Nicholas023/vision-exp-tile</title>
-    <id>https://github.com/Nicholas023/vision-exp-tile</id>
-    <link href="https://github.com/Nicholas023/vision-exp-tile"/>
-    <updated>2026-08-23T00:00:00Z</updated>
-    <summary>面向视觉大模型的大图智能识图：800×800 无损切块识别（smart/pipeline/full 三策略）+ 本地 OCR（自动反色/二值化/手写分流）+ 可选多厂商 GPU 加速（DirectML 覆盖 NVIDIA/AMD/Intel，CUDA/OpenVINO），失败自动回退 CPU；MIT 开源（111 项单元测试）。</summary>
   </entry>
 </feed>

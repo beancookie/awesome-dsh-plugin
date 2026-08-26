@@ -3,7 +3,7 @@
  "url": "https://beancookie.github.io/awesome-dsh-plugin",
  "source": "https://github.com/beancookie/awesome-dsh-plugin",
  "updated": "2026-08-26",
- "count": 446,
+ "count": 447,
  "categories": {
   "ui": {
    "zh": "UI 增强",
@@ -3980,6 +3980,21 @@
    "createdAt": "2026-08-14",
    "install": "dsh plugin --profile web add @tonydua/dsh-web-search-exa",
    "added": "2026-08-14"
+  },
+  {
+   "name": "dsh-set-workspace",
+   "owner": "tsingshitao-nuke",
+   "url": "https://github.com/tsingshitao-nuke/dsh-set-workspace",
+   "category": "tools",
+   "description": {
+    "zh": "在 Windows 资源管理器中右键文件夹，将其作为 DSH 工作区打开：注册文件夹、按需启动 DSH，并把页面切换到该工作区。",
+    "en": "Right-click a folder in Windows File Explorer to open it as a DSH workspace: registers the folder, launches DSH if needed, and switches the page to it."
+   },
+   "npm": null,
+   "stars": 2,
+   "createdAt": "2026-08-16",
+   "install": "dsh plugin --profile web add github:tsingshitao-nuke/dsh-set-workspace",
+   "added": "2026-08-26"
   },
   {
    "name": "dsh-tool-search",

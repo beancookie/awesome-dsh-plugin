@@ -32,7 +32,7 @@ DeepSeek Harness is DeepSeek's open-source agent harness — a runnable coding a
 
 </details>
 
-**446** plugins · [PRs welcome](#contributing)
+**447** plugins · [PRs welcome](#contributing)
 
 ## Contents
 
@@ -270,7 +270,6 @@ DeepSeek Harness is DeepSeek's open-source agent harness — a runnable coding a
 - [secret-guard](https://github.com/JohnXu22786/secret-guard) - Blocks agents from reading/writing sensitive files, masks leaked secrets in tool results, with an audit journal and safe sg_* inspection tools.
 - [snippet-expander](https://github.com/JohnXu22786/snippet-expander) - Steno: inline #tag shorthand expansion before send — multi-library, aliases, {{variables}}, recursion guards.
 - [statusline](https://github.com/JohnXu22786/statusline) - Real-time terminal statusline: model, context usage, sub-agents, rate limits and session time in one line.
-- [tsingshitao-nuke/dsh-set-workspace](https://github.com/tsingshitao-nuke/dsh-set-workspace) - Right-click a folder in Windows File Explorer to open it as a DSH workspace: registers the folder, launches DSH if needed, and switches the page to it.
 - [worktree-mgr](https://github.com/JohnXu22786/worktree-mgr) - Task-isolated git worktrees: auto-create, sync and tear down isolated workspaces per task.
 - [JxaMe/dsh-condense](https://github.com/JxaMe/dsh-condense) - Token optimizer for DSH: blocks low-signal reads, compresses oversized outputs, hash-dedupes repeated calls, smart_read skeletonization (tree-sitter), BM25 retrieval; real usage metering + persistence. Pre-history pruning keeps prompt-cache hits.
 - [kunjinkao-os/dsh-mobile-gui-agent](https://github.com/kunjinkao-os/dsh-mobile-gui-agent) - Android GUI Agent with ADB screenshots, compact UI hierarchy grounding, verified iterative actions, approvals, and a Mobile Web view.
@@ -327,6 +326,7 @@ DeepSeek Harness is DeepSeek's open-source agent harness — a runnable coding a
 - [taxue-dsh-artisan](https://github.com/taxueseek/taxue-dsh-artisan) - Integrated visual creation toolchain for DSH: prompt reverse-engineering and audit optimization plus multi-provider image generation with async background rendering.
 - [THU-MAIC/dsh-openmaic](https://github.com/THU-MAIC/dsh-openmaic) - OpenMAIC: classrooms, slides, interactive widgets, and Socratic teaching.
 - [TonyDua/dsh-web-search-exa](https://github.com/TonyDua/dsh-web-search-exa) - Zero-config Exa web search provider for the ctx.web seam: anonymous MCP fallback without an API key, plus keyed REST search.
+- [tsingshitao-nuke/dsh-set-workspace](https://github.com/tsingshitao-nuke/dsh-set-workspace) - Right-click a folder in Windows File Explorer to open it as a DSH workspace: registers the folder, launches DSH if needed, and switches the page to it.
 - [vibeinging/dsh-tool-search](https://github.com/vibeinging/dsh-tool-search) - Per-agent on-demand tool discovery and progressive schema disclosure.
 - [xiajiajun516/dsh-config-manager](https://github.com/xiajiajun516/dsh-config-manager) - Full DSH configuration backup, restore, export, import, migrate and sync: settings, providers, plugins, MCP servers, skills, agent presets and workspaces in one ZIP, with encrypted backups, Git/WebDAV sync and a configuration marketplace.
 - [xiaoyuyu6420/dsh-backup](https://github.com/xiaoyuyu6420/dsh-backup) - One-command backup of DSH user data: /backup, scheduled auto-backup, sha256 checksums and rotation.

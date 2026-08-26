@@ -41,6 +41,13 @@
     <summary>Per-change approval gate before file writes and tool calls: write/edit/stream operations show red/green line-level diffs before release, with bash command approval (off by default) and configurable gating.</summary>
   </entry>
   <entry>
+    <title>tsingshitao-nuke/dsh-set-workspace</title>
+    <id>https://github.com/tsingshitao-nuke/dsh-set-workspace</id>
+    <link href="https://github.com/tsingshitao-nuke/dsh-set-workspace"/>
+    <updated>2026-08-26T00:00:00Z</updated>
+    <summary>Right-click a folder in Windows File Explorer to open it as a DSH workspace: registers the folder, launches DSH if needed, and switches the page to it.</summary>
+  </entry>
+  <entry>
     <title>maxmilian/dsh-sonarqube</title>
     <id>https://github.com/maxmilian/dsh-sonarqube</id>
     <link href="https://github.com/maxmilian/dsh-sonarqube"/>
@@ -207,12 +214,5 @@
     <link href="https://github.com/mjylfz/dsh-skill-mover"/>
     <updated>2026-08-23T00:00:00Z</updated>
     <summary>One-click migration of skills from other agents into DeepSeek Harness: 14 platform detectors plus shared-layer recognition, same-name skill merging, no re-copying of existing skills, and rollback support.</summary>
-  </entry>
-  <entry>
-    <title>Nicholas023/vision-exp-tile</title>
-    <id>https://github.com/Nicholas023/vision-exp-tile</id>
-    <link href="https://github.com/Nicholas023/vision-exp-tile"/>
-    <updated>2026-08-23T00:00:00Z</updated>
-    <summary>Large-image recognition for vision models: 800×800 lossless tiling (smart/pipeline/full strategies) plus local OCR (auto inversion/binarization/handwriting split) and optional multi-vendor GPU acceleration (DirectML covering NVIDIA/AMD/Intel, CUDA/OpenVINO) with automatic CPU fallback; MIT licensed (111 unit tests).</summary>
   </entry>
 </feed>
