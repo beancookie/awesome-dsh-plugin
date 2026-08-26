@@ -270,6 +270,7 @@ DeepSeek Harness 是 DeepSeek 开源的 agent harness——既是可直接运行
 - [secret-guard](https://github.com/JohnXu22786/secret-guard) — 阻止 agent 读写敏感文件（.env、凭据），掩码工具结果中泄露的密钥，附审计日志与安全的 sg_* 检查工具。
 - [snippet-expander](https://github.com/JohnXu22786/snippet-expander) — Steno：发送前的行内 #tag 快捷展开——多库、别名、{{变量}}、递归防护。
 - [statusline](https://github.com/JohnXu22786/statusline) — 实时终端状态行：一行展示模型、上下文占用、子代理、速率限制与会话时长。
+- [tsingshitao-nuke/dsh-set-workspace](https://github.com/tsingshitao-nuke/dsh-set-workspace) — 在 Windows 资源管理器中右键文件夹，将其作为 DSH 工作区打开：注册文件夹、按需启动 DSH，并把页面切换到该工作区。
 - [worktree-mgr](https://github.com/JohnXu22786/worktree-mgr) — 任务隔离的 git 工作区：按任务自动创建、同步与收尾隔离工作区。
 - [JxaMe/dsh-condense](https://github.com/JxaMe/dsh-condense) — token 优化插件：屏蔽低信号读取、压缩大输出、哈希去重、smart_read 骨架化（tree-sitter）、BM25 检索，真实用量统计 + 持久化；入历史前削减，不破坏缓存命中。
 - [kunjinkao-os/dsh-mobile-gui-agent](https://github.com/kunjinkao-os/dsh-mobile-gui-agent) — Android GUI Agent：ADB 截图、压缩 UI hierarchy 定位、逐步动作验证、审批和 Mobile Web 视图。
