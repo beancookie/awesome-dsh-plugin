@@ -3,7 +3,7 @@
  "url": "https://beancookie.github.io/awesome-dsh-plugin",
  "source": "https://github.com/beancookie/awesome-dsh-plugin",
  "updated": "2026-08-26",
- "count": 445,
+ "count": 446,
  "categories": {
   "ui": {
    "zh": "UI 增强",
@@ -785,6 +785,21 @@
    "createdAt": "2026-08-13",
    "install": "dsh plugin --profile web add github:openma-ai/deepseek-harness-tui",
    "added": "2026-08-14"
+  },
+  {
+   "name": "dsh-pr-checks",
+   "owner": "pauloapoloni",
+   "url": "https://github.com/pauloapoloni/dsh-pr-checks",
+   "category": "ui",
+   "description": {
+    "zh": "在侧边栏底部按工作区/项目分组展示当前打开 PR 的 GitHub Actions 检查状态与进度。",
+    "en": "Status and progress of GitHub Actions checks for the open pull requests, grouped by workspace/project, in the sidebar footer."
+   },
+   "npm": "dsh-pr-checks",
+   "stars": 0,
+   "createdAt": "2026-08-26",
+   "install": "dsh plugin --profile web add dsh-pr-checks",
+   "added": "2026-08-26"
   },
   {
    "name": "dsh-composer-history",

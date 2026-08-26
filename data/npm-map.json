@@ -1219,6 +1219,10 @@
   "npm": null,
   "checkedAt": "2026-08-18"
  },
+ "https://github.com/pauloapoloni/dsh-pr-checks": {
+  "npm": "dsh-pr-checks",
+  "checkedAt": "2026-08-26"
+ },
  "https://github.com/PerryLink/dsh-auto-review": {
   "npm": "dsh-auto-review",
   "checkedAt": "2026-08-19"

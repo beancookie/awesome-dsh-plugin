@@ -1789,6 +1789,12 @@
   "stars": null,
   "checkedAt": "2026-08-18"
  },
+ "https://github.com/pauloapoloni/dsh-pr-checks": {
+  "stars": 0,
+  "createdAt": "2026-08-26",
+  "etag": "W/\"4ea0c5423fe569fb5098b7185db83097d44d4258a6b2b0215b8d7700e56d3d60\"",
+  "checkedAt": "2026-08-26"
+ },
  "https://github.com/PerryLink/dsh-auto-review": {
   "stars": 108,
   "createdAt": "2026-08-13",

@@ -6,6 +6,13 @@
   <link rel="self" href="https://beancookie.github.io/awesome-dsh-plugin/en/feed.xml"/>
   <updated>2026-08-26T00:00:00Z</updated>
   <entry>
+    <title>pauloapoloni/dsh-pr-checks</title>
+    <id>https://github.com/pauloapoloni/dsh-pr-checks</id>
+    <link href="https://github.com/pauloapoloni/dsh-pr-checks"/>
+    <updated>2026-08-26T00:00:00Z</updated>
+    <summary>Status and progress of GitHub Actions checks for the open pull requests, grouped by workspace/project, in the sidebar footer.</summary>
+  </entry>
+  <entry>
     <title>SiriLee/dsh-approval-hotkeys</title>
     <id>https://github.com/SiriLee/dsh-approval-hotkeys</id>
     <link href="https://github.com/SiriLee/dsh-approval-hotkeys"/>
@@ -207,12 +214,5 @@
     <link href="https://github.com/Nicholas023/vision-exp-tile"/>
     <updated>2026-08-23T00:00:00Z</updated>
     <summary>Large-image recognition for vision models: 800×800 lossless tiling (smart/pipeline/full strategies) plus local OCR (auto inversion/binarization/handwriting split) and optional multi-vendor GPU acceleration (DirectML covering NVIDIA/AMD/Intel, CUDA/OpenVINO) with automatic CPU fallback; MIT licensed (111 unit tests).</summary>
-  </entry>
-  <entry>
-    <title>xiajiajun516/dsh-config-manager</title>
-    <id>https://github.com/xiajiajun516/dsh-config-manager</id>
-    <link href="https://github.com/xiajiajun516/dsh-config-manager"/>
-    <updated>2026-08-23T00:00:00Z</updated>
-    <summary>Full DSH configuration backup, restore, export, import, migrate and sync: settings, providers, plugins, MCP servers, skills, agent presets and workspaces in one ZIP, with encrypted backups, Git/WebDAV sync and a configuration marketplace.</summary>
   </entry>
 </feed>
