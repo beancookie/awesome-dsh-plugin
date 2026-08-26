@@ -2119,6 +2119,18 @@
   "etag": "W/\"e5257917eac18012b6ff0be16e183324fcd4b008ffe170a93c30b14f76900169\"",
   "checkedAt": "2026-08-24"
  },
+ "https://github.com/SiriLee/dsh-approval-hotkeys": {
+  "stars": 2,
+  "createdAt": "2026-08-19",
+  "etag": "W/\"6bef95e6e3d6c71c0569194af3ccf65e8e7a530243aa0660714c31cdf6679e42\"",
+  "checkedAt": "2026-08-26"
+ },
+ "https://github.com/SiriLee/dsh-edit-approval": {
+  "stars": 3,
+  "createdAt": "2026-08-17",
+  "etag": "W/\"7d9883093cbd0adb400ac9f97a30e4e3ef833366efb1c344fcefbc42d80910cd\"",
+  "checkedAt": "2026-08-26"
+ },
  "https://github.com/SiriLee/dsh-rewind": {
   "stars": 16,
   "createdAt": "2026-08-17",

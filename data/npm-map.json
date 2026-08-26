@@ -1439,6 +1439,14 @@
   "npm": null,
   "checkedAt": "2026-08-14"
  },
+ "https://github.com/SiriLee/dsh-approval-hotkeys": {
+  "npm": "dsh-approval-hotkeys",
+  "checkedAt": "2026-08-26"
+ },
+ "https://github.com/SiriLee/dsh-edit-approval": {
+  "npm": "dsh-edit-approval",
+  "checkedAt": "2026-08-26"
+ },
  "https://github.com/SiriLee/dsh-rewind": {
   "npm": "dsh-rewind-plugin",
   "checkedAt": "2026-08-26"

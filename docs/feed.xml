@@ -6,11 +6,32 @@
   <link rel="self" href="https://beancookie.github.io/awesome-dsh-plugin/feed.xml"/>
   <updated>2026-08-26T00:00:00Z</updated>
   <entry>
+    <title>SiriLee/dsh-approval-hotkeys</title>
+    <id>https://github.com/SiriLee/dsh-approval-hotkeys</id>
+    <link href="https://github.com/SiriLee/dsh-approval-hotkeys"/>
+    <updated>2026-08-26T00:00:00Z</updated>
+    <summary>审批面板键盘快捷键：Enter 批准一次、Esc 拒绝、Esc 暂停键盘驱动审阅，审批/提问面板通用。</summary>
+  </entry>
+  <entry>
+    <title>SiriLee/dsh-rewind</title>
+    <id>https://github.com/SiriLee/dsh-rewind</id>
+    <link href="https://github.com/SiriLee/dsh-rewind"/>
+    <updated>2026-08-26T00:00:00Z</updated>
+    <summary>同窗口原地回退（Claude Code /rewind 语义）：每条用户消息旁 ↶ 按钮把模型上下文截断回任意一条消息，可选 Claude Code 风格文件回滚（磁盘持久化 before 备份）。</summary>
+  </entry>
+  <entry>
     <title>maxmilian/dsh-forge</title>
     <id>https://github.com/maxmilian/dsh-forge</id>
     <link href="https://github.com/maxmilian/dsh-forge"/>
     <updated>2026-08-26T00:00:00Z</updated>
     <summary>面向自建 Gitea / Forgejo 的只读工具，走两者共用的 REST API：仓库列表、议题与 PR 搜索、PR diff 与变更文件，以及 Actions 运行、任务与任务日志。npm `@maxhsu/dsh-forge`。</summary>
+  </entry>
+  <entry>
+    <title>SiriLee/dsh-edit-approval</title>
+    <id>https://github.com/SiriLee/dsh-edit-approval</id>
+    <link href="https://github.com/SiriLee/dsh-edit-approval"/>
+    <updated>2026-08-26T00:00:00Z</updated>
+    <summary>写文件/工具调用前的逐处审批门：write/edit/stream 操作显示红绿行级 diff 后再放行，bash 命令审批（默认关）+ 可配置门控。</summary>
   </entry>
   <entry>
     <title>maxmilian/dsh-sonarqube</title>
@@ -193,26 +214,5 @@
     <link href="https://github.com/xiajiajun516/dsh-config-manager"/>
     <updated>2026-08-23T00:00:00Z</updated>
     <summary>DSH 配置备份、恢复、导出、导入、迁移与同步一体化：settings、providers、plugins、MCP servers、skills、agent presets 与 workspaces 打包为一个 ZIP，支持加密备份、Git/WebDAV 同步与配置市场。</summary>
-  </entry>
-  <entry>
-    <title>Abel-86/task-chime</title>
-    <id>https://github.com/Abel-86/task-chime</id>
-    <link href="https://github.com/Abel-86/task-chime"/>
-    <updated>2026-08-23T00:00:00Z</updated>
-    <summary>审批/权限请求与任务完成提示音，可在 GUI 设置中自定义声音、音量与冷却时间。</summary>
-  </entry>
-  <entry>
-    <title>AgentsDanceAI/dsh-plugin-cloud</title>
-    <id>https://github.com/AgentsDanceAI/deepseek-harness-cloud/tree/main/packages/dsh-plugin-cloud</id>
-    <link href="https://github.com/AgentsDanceAI/deepseek-harness-cloud/tree/main/packages/dsh-plugin-cloud"/>
-    <updated>2026-08-23T00:00:00Z</updated>
-    <summary>接入 DSH Cloud 网关（托管或自部署）：设备授权登录，一条命令在用户配置层写入多模型 provider（DeepSeek / GPT / Claude / Gemini 等 20 个模型）。</summary>
-  </entry>
-  <entry>
-    <title>chenzhi-clude/dsh-hooks-pack</title>
-    <id>https://github.com/chenzhi-clude/dsh-hooks-pack</id>
-    <link href="https://github.com/chenzhi-clude/dsh-hooks-pack"/>
-    <updated>2026-08-22T00:00:00Z</updated>
-    <summary>一键启用 Claude Code / Codex hooks：自动发现已有 ~/.claude、~/.codex hook 配置并跑在官方桥接插件上，显式注入沙箱策略，hook 命令不再静默失效。</summary>
   </entry>
 </feed>

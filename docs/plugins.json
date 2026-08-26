@@ -3,7 +3,7 @@
  "url": "https://beancookie.github.io/awesome-dsh-plugin",
  "source": "https://github.com/beancookie/awesome-dsh-plugin",
  "updated": "2026-08-26",
- "count": 442,
+ "count": 445,
  "categories": {
   "ui": {
    "zh": "UI 增强",
@@ -967,6 +967,21 @@
    "added": "2026-08-14"
   },
   {
+   "name": "dsh-approval-hotkeys",
+   "owner": "SiriLee",
+   "url": "https://github.com/SiriLee/dsh-approval-hotkeys",
+   "category": "ui",
+   "description": {
+    "zh": "审批面板键盘快捷键：Enter 批准一次、Esc 拒绝、Esc 暂停键盘驱动审阅，审批/提问面板通用。",
+    "en": "Approval-panel keyboard shortcuts: Enter approves once, Esc rejects, Esc pauses the keyboard-driven review; works across approval and ask panels."
+   },
+   "npm": "dsh-approval-hotkeys",
+   "stars": 2,
+   "createdAt": "2026-08-19",
+   "install": "dsh plugin --profile web add dsh-approval-hotkeys",
+   "added": "2026-08-26"
+  },
+  {
    "name": "dsh-milestone",
    "owner": "SnowCrescenter-tech",
    "url": "https://github.com/SnowCrescenter-tech/dsh-milestone",
@@ -1790,6 +1805,21 @@
    "createdAt": "2026-08-18",
    "install": "dsh plugin --profile web add github:Renzic-Stone/DSH-EasyRewrite",
    "added": "2026-08-20"
+  },
+  {
+   "name": "dsh-rewind",
+   "owner": "SiriLee",
+   "url": "https://github.com/SiriLee/dsh-rewind",
+   "category": "session",
+   "description": {
+    "zh": "同窗口原地回退（Claude Code /rewind 语义）：每条用户消息旁 ↶ 按钮把模型上下文截断回任意一条消息，可选 Claude Code 风格文件回滚（磁盘持久化 before 备份）。",
+    "en": "In-window in-place rewind (Claude Code /rewind semantics): a ↶ button beside each user message truncates the model context back to any message, with optional Claude Code-style file rollback (disk-persisted before backups)."
+   },
+   "npm": "dsh-rewind-plugin",
+   "stars": 16,
+   "createdAt": "2026-08-17",
+   "install": "dsh plugin --profile web add dsh-rewind-plugin",
+   "added": "2026-08-26"
   },
   {
    "name": "dsh-what-changed",
@@ -3815,6 +3845,21 @@
    "createdAt": "2026-08-13",
    "install": "dsh plugin --profile web add @sanqi-normal/dsh-webui-market-plugin",
    "added": "2026-08-14"
+  },
+  {
+   "name": "dsh-edit-approval",
+   "owner": "SiriLee",
+   "url": "https://github.com/SiriLee/dsh-edit-approval",
+   "category": "tools",
+   "description": {
+    "zh": "写文件/工具调用前的逐处审批门：write/edit/stream 操作显示红绿行级 diff 后再放行，bash 命令审批（默认关）+ 可配置门控。",
+    "en": "Per-change approval gate before file writes and tool calls: write/edit/stream operations show red/green line-level diffs before release, with bash command approval (off by default) and configurable gating."
+   },
+   "npm": "dsh-edit-approval",
+   "stars": 3,
+   "createdAt": "2026-08-17",
+   "install": "dsh plugin --profile web add dsh-edit-approval",
+   "added": "2026-08-26"
   },
   {
    "name": "dsh-novel-writer",

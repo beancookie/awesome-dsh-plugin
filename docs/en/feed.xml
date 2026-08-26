@@ -6,11 +6,32 @@
   <link rel="self" href="https://beancookie.github.io/awesome-dsh-plugin/en/feed.xml"/>
   <updated>2026-08-26T00:00:00Z</updated>
   <entry>
+    <title>SiriLee/dsh-approval-hotkeys</title>
+    <id>https://github.com/SiriLee/dsh-approval-hotkeys</id>
+    <link href="https://github.com/SiriLee/dsh-approval-hotkeys"/>
+    <updated>2026-08-26T00:00:00Z</updated>
+    <summary>Approval-panel keyboard shortcuts: Enter approves once, Esc rejects, Esc pauses the keyboard-driven review; works across approval and ask panels.</summary>
+  </entry>
+  <entry>
+    <title>SiriLee/dsh-rewind</title>
+    <id>https://github.com/SiriLee/dsh-rewind</id>
+    <link href="https://github.com/SiriLee/dsh-rewind"/>
+    <updated>2026-08-26T00:00:00Z</updated>
+    <summary>In-window in-place rewind (Claude Code /rewind semantics): a ↶ button beside each user message truncates the model context back to any message, with optional Claude Code-style file rollback (disk-persisted before backups).</summary>
+  </entry>
+  <entry>
     <title>maxmilian/dsh-forge</title>
     <id>https://github.com/maxmilian/dsh-forge</id>
     <link href="https://github.com/maxmilian/dsh-forge"/>
     <updated>2026-08-26T00:00:00Z</updated>
     <summary>Read-only Gitea and Forgejo tools over the REST API both projects share: repositories, issue and pull request search, PR diffs and changed files, and Actions runs, jobs and job logs. npm `@maxhsu/dsh-forge`.</summary>
+  </entry>
+  <entry>
+    <title>SiriLee/dsh-edit-approval</title>
+    <id>https://github.com/SiriLee/dsh-edit-approval</id>
+    <link href="https://github.com/SiriLee/dsh-edit-approval"/>
+    <updated>2026-08-26T00:00:00Z</updated>
+    <summary>Per-change approval gate before file writes and tool calls: write/edit/stream operations show red/green line-level diffs before release, with bash command approval (off by default) and configurable gating.</summary>
   </entry>
   <entry>
     <title>maxmilian/dsh-sonarqube</title>
@@ -193,26 +214,5 @@
     <link href="https://github.com/xiajiajun516/dsh-config-manager"/>
     <updated>2026-08-23T00:00:00Z</updated>
     <summary>Full DSH configuration backup, restore, export, import, migrate and sync: settings, providers, plugins, MCP servers, skills, agent presets and workspaces in one ZIP, with encrypted backups, Git/WebDAV sync and a configuration marketplace.</summary>
-  </entry>
-  <entry>
-    <title>Abel-86/task-chime</title>
-    <id>https://github.com/Abel-86/task-chime</id>
-    <link href="https://github.com/Abel-86/task-chime"/>
-    <updated>2026-08-23T00:00:00Z</updated>
-    <summary>Plays local sounds for approval/permission requests and task completion, configurable from the Web GUI settings.</summary>
-  </entry>
-  <entry>
-    <title>AgentsDanceAI/dsh-plugin-cloud</title>
-    <id>https://github.com/AgentsDanceAI/deepseek-harness-cloud/tree/main/packages/dsh-plugin-cloud</id>
-    <link href="https://github.com/AgentsDanceAI/deepseek-harness-cloud/tree/main/packages/dsh-plugin-cloud"/>
-    <updated>2026-08-23T00:00:00Z</updated>
-    <summary>Connect to the DSH Cloud gateway (hosted or self-hosted): device-authorization login, and one command writes multi-provider models (DeepSeek / GPT / Claude / Gemini and 20 more) into the user config layer.</summary>
-  </entry>
-  <entry>
-    <title>chenzhi-clude/dsh-hooks-pack</title>
-    <id>https://github.com/chenzhi-clude/dsh-hooks-pack</id>
-    <link href="https://github.com/chenzhi-clude/dsh-hooks-pack"/>
-    <updated>2026-08-22T00:00:00Z</updated>
-    <summary>One-click Claude Code &amp; Codex hooks: auto-discovers your existing ~/.claude / ~/.codex hook config and runs it on the official bridge plugins, with an explicit sandbox-policy shim so hook commands never die silently.</summary>
   </entry>
 </feed>
