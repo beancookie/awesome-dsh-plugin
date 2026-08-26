@@ -286,6 +286,7 @@ DeepSeek Harness 是 DeepSeek 开源的 agent harness——既是可直接运行
 - [lzszq/dsh-scholar](https://github.com/lzszq/dsh-scholar) — 学术助手插件。
 - [maddogfinance/dsh-trading](https://github.com/maddogfinance/dsh-trading) — 只读交易研究工作台：类型化行情数据接缝（可自带数据源）、多周期指标 regime 快照、dsh web 交互式 K 线卡（AI 标注需引用依据并经真实 K 线区间校验）、结构性禁止下单的 risk-guard。
 - [MAXeaglet/dsh-bash-terminal](https://github.com/MAXeaglet/dsh-bash-terminal) — 一个 shell 工具：Windows 上统一执行 PowerShell / Git Bash / WSL，外加交互式 PTY 终端，默认终端由用户在设置中选择。
+- [maxmilian/dsh-forge](https://github.com/maxmilian/dsh-forge) — 面向自建 Gitea / Forgejo 的只读工具，走两者共用的 REST API：仓库列表、议题与 PR 搜索、PR diff 与变更文件，以及 Actions 运行、任务与任务日志。npm `@maxhsu/dsh-forge`。
 - [mjylfz/dsh-skill-mover](https://github.com/mjylfz/dsh-skill-mover) — 把其他 Agent 的技能一键搬进 DeepSeek Harness：支持 14 个平台 + 共享层识别、同名技能合并、不重复搬运、可回滚。
 - [moon09300731/dsh-approval-gate](https://github.com/moon09300731/dsh-approval-gate) — 自动审批门控：Flash 预判写入/命令是否不可回补，安全操作自动批准、危险操作转人工（fail-safe）。
 - [moon09300731/dsh-vision-tools](https://github.com/moon09300731/dsh-vision-tools) — DeepSeek Harness 视觉能力全家桶：vision_understand 工具（OpenAI 兼容视觉 API，默认免费智谱 GLM-4V-Flash）+ 粘贴/拖拽/按钮三入口识图。
@@ -465,6 +466,7 @@ DeepSeek Harness 是 DeepSeek 开源的 agent harness——既是可直接运行
 - [lonelymoon87/dsh-gitflow](https://github.com/lonelymoon87/dsh-gitflow) — 增加需要审批的 Git 状态、diff、日志、提交、分支和可选检查点工具。
 - [lonelymoon87/dsh-guardian](https://github.com/lonelymoon87/dsh-guardian) — 增加危险操作策略检查、输出脱敏和安全审查工作流。
 - [LoserFox/dsh-git-identity](https://github.com/LoserFox/dsh-git-identity) — git 提交固定使用环境自身作者身份，环境变量注入压过一切 `git config` 设置。
+- [maxmilian/dsh-sonarqube](https://github.com/maxmilian/dsh-sonarqube) — 面向 SonarQube Community Build 的只读工具：实例状态、分支或 PR 的质量阈、议题与安全热点搜索，以及覆盖率、重复率或调用方指定的度量项。npm `dsh-sonarqube`。
 - [omdsh-dev/dsh-plugin-check](https://github.com/omdsh-dev/dsh-plugin-check) — 插件健康检查：扫描清单协议/patch 格式/构建陷阱，零依赖只读。
 - [omdsh-dev/dsh-security-audit](https://github.com/omdsh-dev/dsh-security-audit) — 本机安全审计：配置/插件来源/会话/网络暴露面，只读脱敏风险报告。
 - [omdsh-dev/dsh-session-health](https://github.com/omdsh-dev/dsh-session-health) — 会话文件帧级扫描诊断（torn/损坏/空会话检测）。
