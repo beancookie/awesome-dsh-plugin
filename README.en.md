@@ -105,6 +105,7 @@ DeepSeek Harness is DeepSeek's open-source agent harness — a runnable coding a
 - [omdsh-dev/ex-setting](https://github.com/omdsh-dev/ex-setting) - Settings extensions for DSH.
 - [omdsh-dev/web-components](https://github.com/omdsh-dev/web-components) - Web Components support.
 - [openma-ai/deepseek-harness-tui](https://github.com/openma-ai/deepseek-harness-tui) - A Rust/ratatui terminal client that speaks the DSH SDK JSON-RPC protocol directly and runs standalone or as a profile bundle.
+- [pauloapoloni/dsh-pr-checks](https://github.com/pauloapoloni/dsh-pr-checks) - Status and progress of GitHub Actions checks for the open pull requests, grouped by workspace/project, in the sidebar footer.
 - [PerryLink/dsh-composer-history](https://github.com/PerryLink/dsh-composer-history) - Terminal-style input history for the Web composer: arrow keys restore drafts/cursor position exactly, Ctrl+R reverse search, workspace-scoped recall with sliding-context awareness.
 - [PerryLink/dsh-output-styles](https://github.com/PerryLink/dsh-output-styles) - Runtime-switchable model output styles (aligned with Claude Code outputStyles), with the output.render.* presentation protocol and a /style command.
 - [PerryLink/dsh-session-pin](https://github.com/PerryLink/dsh-session-pin) - Pin sessions and workspaces to the sidebar: per-pin row colors, board/tag/saved views, health summaries, and /goto.

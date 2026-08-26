@@ -105,6 +105,7 @@ DeepSeek Harness 是 DeepSeek 开源的 agent harness——既是可直接运行
 - [omdsh-dev/ex-setting](https://github.com/omdsh-dev/ex-setting) — DSH 的设置扩展。
 - [omdsh-dev/web-components](https://github.com/omdsh-dev/web-components) — Web Components 支持。
 - [openma-ai/deepseek-harness-tui](https://github.com/openma-ai/deepseek-harness-tui) — Rust/ratatui 终端客户端，直接使用 DSH SDK JSON-RPC 协议，支持独立运行或作为 profile bundle 加载。
+- [pauloapoloni/dsh-pr-checks](https://github.com/pauloapoloni/dsh-pr-checks) — 在侧边栏底部按工作区/项目分组展示当前打开 PR 的 GitHub Actions 检查状态与进度。
 - [PerryLink/dsh-composer-history](https://github.com/PerryLink/dsh-composer-history) — 网页输入区的终端式输入历史：方向键精确还原草稿/光标，Ctrl+R 反搜，工作区级回忆，感知滑动上下文。
 - [PerryLink/dsh-output-styles](https://github.com/PerryLink/dsh-output-styles) — 运行时切换模型输出风格（对齐 Claude Code outputStyles），含 output.render.* 呈现协议与 /style 命令。
 - [PerryLink/dsh-session-pin](https://github.com/PerryLink/dsh-session-pin) — 置顶会话与工作区到侧边栏：逐置顶行配色、看板/标签/已存视图、健康摘要与 /goto。
