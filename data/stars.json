@@ -1419,6 +1419,18 @@
   "etag": "W/\"d78daa31d78f0a0d9f60f5082fa2421b8ecab34fffb425f348bc4cfff37ffa8e\"",
   "checkedAt": "2026-08-24"
  },
+ "https://github.com/maxmilian/dsh-forge": {
+  "stars": 1,
+  "createdAt": "2026-08-24",
+  "etag": "W/\"8750a38bc7b2439feebe17d2146c0e49988f2f52163c3eca3d0b23f66394684e\"",
+  "checkedAt": "2026-08-26"
+ },
+ "https://github.com/maxmilian/dsh-sonarqube": {
+  "stars": 2,
+  "createdAt": "2026-08-24",
+  "etag": "W/\"11097ce6058e50051ea1856c13cf09a7dccfee9f11d0ce045967603f72cc3dd0\"",
+  "checkedAt": "2026-08-26"
+ },
  "https://github.com/Meredith2328/dsh-sticky-note": {
   "stars": 11,
   "createdAt": "2026-08-13",

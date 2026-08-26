@@ -4,7 +4,21 @@
   <id>https://beancookie.github.io/awesome-dsh-plugin/</id>
   <link href="https://beancookie.github.io/awesome-dsh-plugin/"/>
   <link rel="self" href="https://beancookie.github.io/awesome-dsh-plugin/feed.xml"/>
-  <updated>2026-08-25T00:00:00Z</updated>
+  <updated>2026-08-26T00:00:00Z</updated>
+  <entry>
+    <title>maxmilian/dsh-forge</title>
+    <id>https://github.com/maxmilian/dsh-forge</id>
+    <link href="https://github.com/maxmilian/dsh-forge"/>
+    <updated>2026-08-26T00:00:00Z</updated>
+    <summary>面向自建 Gitea / Forgejo 的只读工具，走两者共用的 REST API：仓库列表、议题与 PR 搜索、PR diff 与变更文件，以及 Actions 运行、任务与任务日志。npm `@maxhsu/dsh-forge`。</summary>
+  </entry>
+  <entry>
+    <title>maxmilian/dsh-sonarqube</title>
+    <id>https://github.com/maxmilian/dsh-sonarqube</id>
+    <link href="https://github.com/maxmilian/dsh-sonarqube"/>
+    <updated>2026-08-26T00:00:00Z</updated>
+    <summary>面向 SonarQube Community Build 的只读工具：实例状态、分支或 PR 的质量阈、议题与安全热点搜索，以及覆盖率、重复率或调用方指定的度量项。npm `dsh-sonarqube`。</summary>
+  </entry>
   <entry>
     <title>YEYEYEYESHIFU/dsh-session-hotkeys</title>
     <id>https://github.com/YEYEYEYESHIFU/dsh-session-hotkeys</id>
@@ -200,19 +214,5 @@
     <link href="https://github.com/chenzhi-clude/dsh-hooks-pack"/>
     <updated>2026-08-22T00:00:00Z</updated>
     <summary>一键启用 Claude Code / Codex hooks：自动发现已有 ~/.claude、~/.codex hook 配置并跑在官方桥接插件上，显式注入沙箱策略，hook 命令不再静默失效。</summary>
-  </entry>
-  <entry>
-    <title>bunipai/dsh-fare-meter</title>
-    <id>https://github.com/bunipai/dsh-fare-meter</id>
-    <link href="https://github.com/bunipai/dsh-fare-meter"/>
-    <updated>2026-08-21T00:00:00Z</updated>
-    <summary>出租车计价器式实时计费：生成时逐秒跳动、空闲归零，内置官方峰谷时段与价格表。</summary>
-  </entry>
-  <entry>
-    <title>whateverboy2333/dsh-flat-teams</title>
-    <id>https://github.com/whateverboy2333/dsh-flat-teams</id>
-    <link href="https://github.com/whateverboy2333/dsh-flat-teams"/>
-    <updated>2026-08-21T00:00:00Z</updated>
-    <summary>无队长扁平 Agent 团队：跨窗口结构化任务派发（状态机 + 事件流 + 离线唤醒）、记录员进展服务与 Web 两级看板。</summary>
   </entry>
 </feed>
