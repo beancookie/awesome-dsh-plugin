@@ -13,6 +13,27 @@
     <summary>Results-only view toggle for the DSH Web GUI: folds thinking and tool-call process rows so conversations show only user messages and final replies; live summary chips for running steps, click-to-expand turn trace with hover-peek, auto/manual fold modes.</summary>
   </entry>
   <entry>
+    <title>maxmilian/dsh-grafana-query</title>
+    <id>https://github.com/maxmilian/dsh-grafana-query</id>
+    <link href="https://github.com/maxmilian/dsh-grafana-query"/>
+    <updated>2026-08-27T00:00:00Z</updated>
+    <summary>Read-only Grafana tools over the data source proxy: instance health, data sources, instant and range PromQL queries, current alert state, and provisioned alert rules. npm `dsh-grafana-query`.</summary>
+  </entry>
+  <entry>
+    <title>maxmilian/dsh-odoo</title>
+    <id>https://github.com/maxmilian/dsh-odoo</id>
+    <link href="https://github.com/maxmilian/dsh-odoo"/>
+    <updated>2026-08-27T00:00:00Z</updated>
+    <summary>Read-only Odoo tools over JSON-RPC: server info, model field introspection, and a restricted search_read on an allow list of models. A draft-create tool is registered only when allowWrite is enabled. npm `dsh-odoo`.</summary>
+  </entry>
+  <entry>
+    <title>maxmilian/dsh-sentry</title>
+    <id>https://github.com/maxmilian/dsh-sentry</id>
+    <link href="https://github.com/maxmilian/dsh-sentry"/>
+    <updated>2026-08-27T00:00:00Z</updated>
+    <summary>Read-only Sentry tools: project listing, issue search and detail, and the latest or a specific event with a trimmed stacktrace that drops local variables, request data, and secret-looking tags. npm `dsh-sentry`.</summary>
+  </entry>
+  <entry>
     <title>pauloapoloni/dsh-pr-checks</title>
     <id>https://github.com/pauloapoloni/dsh-pr-checks</id>
     <link href="https://github.com/pauloapoloni/dsh-pr-checks"/>
@@ -193,26 +214,5 @@
     <link href="https://github.com/zilliztech/dsh-milvus"/>
     <updated>2026-08-24T00:00:00Z</updated>
     <summary>Read-only DSH Web plugin for inspecting and searching Milvus or Zilliz Cloud collections from chat, including scalar, BM25, dense, and hybrid queries.</summary>
-  </entry>
-  <entry>
-    <title>taxueseek/dsh-healthcheck</title>
-    <id>https://github.com/taxueseek/dsh-healthcheck</id>
-    <link href="https://github.com/taxueseek/dsh-healthcheck"/>
-    <updated>2026-08-24T00:00:00Z</updated>
-    <summary>Read-only DSH environment health check: disk, memory, latency, ~/.dsh bloat and outdated-plugin detection with graded reports and baseline trend comparison. Deletes nothing.</summary>
-  </entry>
-  <entry>
-    <title>beijingwahw/dsh-nuke-plugin</title>
-    <id>https://github.com/beijingwahw/dsh-nuke-plugin</id>
-    <link href="https://github.com/beijingwahw/dsh-nuke-plugin"/>
-    <updated>2026-08-23T00:00:00Z</updated>
-    <summary>Transactional uninstall engine: every destructive action runs a validate/preview/execute/undo four-phase pipeline with Saga rollback, WAL crash self-recovery, hash-chain audit trail, hard-link dedup, and a Bayesian oracle that predicts success probability before committing.</summary>
-  </entry>
-  <entry>
-    <title>exoticknight/dsh-labnana</title>
-    <id>https://github.com/exoticknight/dsh-labnana</id>
-    <link href="https://github.com/exoticknight/dsh-labnana"/>
-    <updated>2026-08-23T00:00:00Z</updated>
-    <summary>Labnana image generation for DeepSeek Harness: text-to-image / image-to-image / precise editing, with credits estimation and web settings UI.</summary>
   </entry>
 </feed>

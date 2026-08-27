@@ -1425,6 +1425,24 @@
   "etag": "W/\"8750a38bc7b2439feebe17d2146c0e49988f2f52163c3eca3d0b23f66394684e\"",
   "checkedAt": "2026-08-26"
  },
+ "https://github.com/maxmilian/dsh-grafana-query": {
+  "stars": 1,
+  "createdAt": "2026-08-26",
+  "etag": "W/\"8b14224a0a3286afd1c117f3fba4e860c6e45661a8c4e0404bd2b367afaa58c1\"",
+  "checkedAt": "2026-08-27"
+ },
+ "https://github.com/maxmilian/dsh-odoo": {
+  "stars": 1,
+  "createdAt": "2026-08-26",
+  "etag": "W/\"3282b29c5a7eb20efab22e65785eaea8ee390173e26f06f18e5afd54613b58b1\"",
+  "checkedAt": "2026-08-27"
+ },
+ "https://github.com/maxmilian/dsh-sentry": {
+  "stars": 1,
+  "createdAt": "2026-08-26",
+  "etag": "W/\"eab20314b9dad6c8f56cf7282d993ade533839ed1e80e94a844e68f20a219eb5\"",
+  "checkedAt": "2026-08-27"
+ },
  "https://github.com/maxmilian/dsh-sonarqube": {
   "stars": 2,
   "createdAt": "2026-08-24",

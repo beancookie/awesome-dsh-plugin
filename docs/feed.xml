@@ -13,6 +13,27 @@
     <summary>「只看结果」开关：折叠思考与工具调用过程行，对话只留用户消息与最终回复；运行中显示实时摘要芯片，回合后可点击痕迹行展开过程（支持悬停预览与自动/手动折叠）。</summary>
   </entry>
   <entry>
+    <title>maxmilian/dsh-grafana-query</title>
+    <id>https://github.com/maxmilian/dsh-grafana-query</id>
+    <link href="https://github.com/maxmilian/dsh-grafana-query"/>
+    <updated>2026-08-27T00:00:00Z</updated>
+    <summary>面向 Grafana 的只读工具，经数据源代理：实例健康、数据源列表、instant 与 range PromQL 查询、当前告警状态与已配置的告警规则。npm `dsh-grafana-query`。</summary>
+  </entry>
+  <entry>
+    <title>maxmilian/dsh-odoo</title>
+    <id>https://github.com/maxmilian/dsh-odoo</id>
+    <link href="https://github.com/maxmilian/dsh-odoo"/>
+    <updated>2026-08-27T00:00:00Z</updated>
+    <summary>经 JSON-RPC 的 Odoo 只读工具：服务器信息、模型字段自省，以及白名单模型上的受限 search_read。草稿创建工具需显式开启 allowWrite 才会注册。npm `dsh-odoo`。</summary>
+  </entry>
+  <entry>
+    <title>maxmilian/dsh-sentry</title>
+    <id>https://github.com/maxmilian/dsh-sentry</id>
+    <link href="https://github.com/maxmilian/dsh-sentry"/>
+    <updated>2026-08-27T00:00:00Z</updated>
+    <summary>面向 Sentry 的只读工具：项目列表、议题搜索与详情，以及最新或指定 event 的裁剪堆栈——局部变量、请求数据与疑似机密的 tag 会被移除。npm `dsh-sentry`。</summary>
+  </entry>
+  <entry>
     <title>pauloapoloni/dsh-pr-checks</title>
     <id>https://github.com/pauloapoloni/dsh-pr-checks</id>
     <link href="https://github.com/pauloapoloni/dsh-pr-checks"/>
@@ -193,26 +214,5 @@
     <link href="https://github.com/zilliztech/dsh-milvus"/>
     <updated>2026-08-24T00:00:00Z</updated>
     <summary>只读 DSH Web 插件，可在对话中检查和搜索 Milvus 或 Zilliz Cloud Collection，支持标量、BM25、稠密向量与混合查询。</summary>
-  </entry>
-  <entry>
-    <title>taxueseek/dsh-healthcheck</title>
-    <id>https://github.com/taxueseek/dsh-healthcheck</id>
-    <link href="https://github.com/taxueseek/dsh-healthcheck"/>
-    <updated>2026-08-24T00:00:00Z</updated>
-    <summary>DSH 环境只读体检：磁盘/内存/延迟/缓存膨胀/插件版本落后检测，分级报告并对比历史基线趋势。只读，不删任何东西。</summary>
-  </entry>
-  <entry>
-    <title>beijingwahw/dsh-nuke-plugin</title>
-    <id>https://github.com/beijingwahw/dsh-nuke-plugin</id>
-    <link href="https://github.com/beijingwahw/dsh-nuke-plugin"/>
-    <updated>2026-08-23T00:00:00Z</updated>
-    <summary>事务化强力卸载引擎：每个破坏性动作走 validate/preview/execute/undo 四段式并带 Saga 回滚，WAL 崩溃自恢复、hash chain 审计链、硬链接去重，提交前贝叶斯先知推演成功率。</summary>
-  </entry>
-  <entry>
-    <title>exoticknight/dsh-labnana</title>
-    <id>https://github.com/exoticknight/dsh-labnana</id>
-    <link href="https://github.com/exoticknight/dsh-labnana"/>
-    <updated>2026-08-23T00:00:00Z</updated>
-    <summary>为 DeepSeek Harness 接入 Labnana 图片生成：文生图 / 图生图 / 精准编辑，含积分预估与网页设置界面。</summary>
   </entry>
 </feed>

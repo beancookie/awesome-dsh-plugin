@@ -975,6 +975,18 @@
   "npm": "@maxhsu/dsh-forge",
   "checkedAt": "2026-08-26"
  },
+ "https://github.com/maxmilian/dsh-grafana-query": {
+  "npm": "dsh-grafana-query",
+  "checkedAt": "2026-08-27"
+ },
+ "https://github.com/maxmilian/dsh-odoo": {
+  "npm": "dsh-odoo",
+  "checkedAt": "2026-08-27"
+ },
+ "https://github.com/maxmilian/dsh-sentry": {
+  "npm": "dsh-sentry",
+  "checkedAt": "2026-08-27"
+ },
  "https://github.com/maxmilian/dsh-sonarqube": {
   "npm": "dsh-sonarqube",
   "checkedAt": "2026-08-26"
