@@ -4,7 +4,14 @@
   <id>https://beancookie.github.io/awesome-dsh-plugin/</id>
   <link href="https://beancookie.github.io/awesome-dsh-plugin/"/>
   <link rel="self" href="https://beancookie.github.io/awesome-dsh-plugin/feed.xml"/>
-  <updated>2026-08-26T00:00:00Z</updated>
+  <updated>2026-08-27T00:00:00Z</updated>
+  <entry>
+    <title>YEYEYEYESHIFU/dsh-result-only-view</title>
+    <id>https://github.com/YEYEYEYESHIFU/dsh-result-only-view</id>
+    <link href="https://github.com/YEYEYEYESHIFU/dsh-result-only-view"/>
+    <updated>2026-08-27T00:00:00Z</updated>
+    <summary>「只看结果」开关：折叠思考与工具调用过程行，对话只留用户消息与最终回复；运行中显示实时摘要芯片，回合后可点击痕迹行展开过程（支持悬停预览与自动/手动折叠）。</summary>
+  </entry>
   <entry>
     <title>pauloapoloni/dsh-pr-checks</title>
     <id>https://github.com/pauloapoloni/dsh-pr-checks</id>
@@ -207,12 +214,5 @@
     <link href="https://github.com/exoticknight/dsh-labnana"/>
     <updated>2026-08-23T00:00:00Z</updated>
     <summary>为 DeepSeek Harness 接入 Labnana 图片生成：文生图 / 图生图 / 精准编辑，含积分预估与网页设置界面。</summary>
-  </entry>
-  <entry>
-    <title>mjylfz/dsh-skill-mover</title>
-    <id>https://github.com/mjylfz/dsh-skill-mover</id>
-    <link href="https://github.com/mjylfz/dsh-skill-mover"/>
-    <updated>2026-08-23T00:00:00Z</updated>
-    <summary>把其他 Agent 的技能一键搬进 DeepSeek Harness：支持 14 个平台 + 共享层识别、同名技能合并、不重复搬运、可回滚。</summary>
   </entry>
 </feed>

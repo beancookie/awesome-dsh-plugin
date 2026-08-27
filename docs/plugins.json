@@ -2,8 +2,8 @@
  "name": "awesome-dsh-plugin",
  "url": "https://beancookie.github.io/awesome-dsh-plugin",
  "source": "https://github.com/beancookie/awesome-dsh-plugin",
- "updated": "2026-08-26",
- "count": 447,
+ "updated": "2026-08-27",
+ "count": 448,
  "categories": {
   "ui": {
    "zh": "UI 增强",
@@ -676,7 +676,7 @@
     "en": "DSH plugin manager panel: one-click enable/disable of installed plugins, multi-source market (GitHub/Gitee/custom), static-index market (500+ plugins / 300 skills), skill install/disable, one-click bundle assembly, and framework upgrade adaptation."
    },
    "npm": null,
-   "stars": 62,
+   "stars": 72,
    "createdAt": "2026-08-14",
    "install": "dsh plugin --profile web add github:Noob-stupid/dsh-plugin-hub",
    "added": "2026-08-20"
@@ -1190,6 +1190,21 @@
    "createdAt": "2026-08-17",
    "install": "dsh plugin --profile web add github:xiaogu619520/dsh-plugin-task-panel",
    "added": "2026-08-17"
+  },
+  {
+   "name": "dsh-result-only-view",
+   "owner": "YEYEYEYESHIFU",
+   "url": "https://github.com/YEYEYEYESHIFU/dsh-result-only-view",
+   "category": "ui",
+   "description": {
+    "zh": "「只看结果」开关：折叠思考与工具调用过程行，对话只留用户消息与最终回复；运行中显示实时摘要芯片，回合后可点击痕迹行展开过程（支持悬停预览与自动/手动折叠）。",
+    "en": "Results-only view toggle for the DSH Web GUI: folds thinking and tool-call process rows so conversations show only user messages and final replies; live summary chips for running steps, click-to-expand turn trace with hover-peek, auto/manual fold modes."
+   },
+   "npm": "dsh-result-only-view",
+   "stars": 2,
+   "createdAt": "2026-08-15",
+   "install": "dsh plugin --profile web add dsh-result-only-view",
+   "added": "2026-08-27"
   },
   {
    "name": "dsh-session-hotkeys",
@@ -1816,7 +1831,7 @@
     "en": "In-bubble inline edit and recall for user messages in DSH Web: lazy commit, seamless replacement, a version pager, draft auto-backup, and trilingual i18n."
    },
    "npm": null,
-   "stars": 16,
+   "stars": 90,
    "createdAt": "2026-08-18",
    "install": "dsh plugin --profile web add github:Renzic-Stone/DSH-EasyRewrite",
    "added": "2026-08-20"
@@ -6181,7 +6196,7 @@
     "en": "Native DSH Settings marketplace for community catalog search, tag filtering, plugin installation, and installed-package review."
    },
    "npm": null,
-   "stars": 0,
+   "stars": 3,
    "createdAt": "2026-08-17",
    "install": "dsh plugin --profile web add github:sandbaseai/dsh-plugin-store",
    "added": "2026-08-20"

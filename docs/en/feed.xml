@@ -4,7 +4,14 @@
   <id>https://beancookie.github.io/awesome-dsh-plugin/en/</id>
   <link href="https://beancookie.github.io/awesome-dsh-plugin/en/"/>
   <link rel="self" href="https://beancookie.github.io/awesome-dsh-plugin/en/feed.xml"/>
-  <updated>2026-08-26T00:00:00Z</updated>
+  <updated>2026-08-27T00:00:00Z</updated>
+  <entry>
+    <title>YEYEYEYESHIFU/dsh-result-only-view</title>
+    <id>https://github.com/YEYEYEYESHIFU/dsh-result-only-view</id>
+    <link href="https://github.com/YEYEYEYESHIFU/dsh-result-only-view"/>
+    <updated>2026-08-27T00:00:00Z</updated>
+    <summary>Results-only view toggle for the DSH Web GUI: folds thinking and tool-call process rows so conversations show only user messages and final replies; live summary chips for running steps, click-to-expand turn trace with hover-peek, auto/manual fold modes.</summary>
+  </entry>
   <entry>
     <title>pauloapoloni/dsh-pr-checks</title>
     <id>https://github.com/pauloapoloni/dsh-pr-checks</id>
@@ -207,12 +214,5 @@
     <link href="https://github.com/exoticknight/dsh-labnana"/>
     <updated>2026-08-23T00:00:00Z</updated>
     <summary>Labnana image generation for DeepSeek Harness: text-to-image / image-to-image / precise editing, with credits estimation and web settings UI.</summary>
-  </entry>
-  <entry>
-    <title>mjylfz/dsh-skill-mover</title>
-    <id>https://github.com/mjylfz/dsh-skill-mover</id>
-    <link href="https://github.com/mjylfz/dsh-skill-mover"/>
-    <updated>2026-08-23T00:00:00Z</updated>
-    <summary>One-click migration of skills from other agents into DeepSeek Harness: 14 platform detectors plus shared-layer recognition, same-name skill merging, no re-copying of existing skills, and rollback support.</summary>
   </entry>
 </feed>

@@ -1699,6 +1699,10 @@
   "npm": null,
   "checkedAt": "2026-08-16"
  },
+ "https://github.com/YEYEYEYESHIFU/dsh-result-only-view": {
+  "npm": "dsh-result-only-view",
+  "checkedAt": "2026-08-27"
+ },
  "https://github.com/YEYEYEYESHIFU/dsh-session-hotkeys": {
   "npm": "dsh-session-hotkeys",
   "checkedAt": "2026-08-25"
