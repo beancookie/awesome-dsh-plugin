@@ -63,6 +63,19 @@ DeepSeek Harness（`dsh`）插件的精选列表（awesome list）。两个 READ
 - 站点里的分类计数、`docs/plugins.json` 的 `count`、JSON-LD 的 `numberOfItems` 均由构建脚本按解析到的条目自动计算，无需维护。
 - 整理完成后依次运行 `node scripts/probe-npm.mjs`（需联网探测 npm 映射）与 `node scripts/build-site.mjs`，确认两个 README 计数与新增/移除插件数一致、`docs/` 重新生成。
 
+## 需求（两条硬性要求）
+
+### 1. 中英文翻译无缺失（双 README 逐条同步）
+
+- 两个 README 必须逐条对齐：插件集合相同、分类相同、数量一致。任何插件都不得只出现在其中一个 README（即不允许存在「翻译缺失」）。
+- 新增/删除/修改插件时，必须同步更新两个 README 的对应行；补翻译时中英文描述应一一对应。
+- 校验：`scripts/readme.mjs` 的 `parseReadme` 可对比两 README 的 URL 集合（zh 与 en 各解析一次，取差集），`build-site.mjs` 在单侧缺失时也会报 `missing: <url>` 失败。
+
+### 2. 插件按项目（owner/repo）字母序排序
+
+- 分类内插件按项目标识排序：URL 去掉 `https://github.com/` 前缀与 `/tree/...` 后缀后的大小写不敏感字母序（即 owner/repo）。
+- `scripts/build-site.mjs` 每次构建自动重排并回写两个 README，PR 由 `scripts/check-order.mjs` 离线校验；新行放分类内任意位置即可，构建会自动排好。
+
 ## 构建 / 验证
 
 没有 npm scripts、测试或 lint。需要 Node 22（脚本使用 ESM、`fetch`、顶层 await）：
