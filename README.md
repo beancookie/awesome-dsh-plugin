@@ -531,6 +531,7 @@ DeepSeek Harness 是 DeepSeek 开源的 agent harness——既是可直接运行
 ## 相关
 
 - [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness) - 官方运行时与核心文档。
+- [DeepSeek Harness Handbook](https://github.com/sandbaseai/deepseek-harness-handbook) - Agent-first 多语言操作手册：源码关联指南、MCP/Skills/Subagents、沙箱与故障排查。
 - [DeepSeek](https://deepseek.com) - 官方入口。
 - [dsh-ops](https://github.com/MiraculousGarfield/dsh-ops) - dsh 运维工具箱：一键健康检查、配置快照/还原、服务看门狗与事故运维手册（纯本地脚本，无需 AI）。
 - [DSH Agent Market](https://github.com/chenzhi-clude/dsh-plugin-market) - AI 原生 DSH 插件市场：3600+ 插件每日自动采集与分类，提供机器可读注册表（registry/all.json）与 llms.txt，AI 助手可直接搜索、认可并一键安装插件。
