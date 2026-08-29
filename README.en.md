@@ -531,6 +531,7 @@ DeepSeek Harness is DeepSeek's open-source agent harness — a runnable coding a
 ## Related
 
 - [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness) - Official runtime and core documentation.
+- [DeepSeek Harness Handbook](https://github.com/sandbaseai/deepseek-harness-handbook) - Agent-first multilingual operator handbook with source-backed guides for MCP, Skills, Subagents, sandboxing, and troubleshooting.
 - [DeepSeek](https://deepseek.com) - Official site.
 - [dsh-ops](https://github.com/MiraculousGarfield/dsh-ops) - Standalone ops toolkit for dsh: one-click health check, config snapshot/restore, service watchdog and an incident runbook (plain PowerShell, no AI needed).
 - [DSH Agent Market](https://github.com/chenzhi-clude/dsh-plugin-market) - AI-native DSH plugin marketplace: 3600+ plugins auto-collected and categorized daily, with a machine-readable registry (all.json) and llms.txt so AI agents can search, trust, and install plugins.
