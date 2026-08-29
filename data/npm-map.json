@@ -1427,6 +1427,10 @@
   "npm": null,
   "checkedAt": "2026-08-14"
  },
+ "https://github.com/sandbaseai/deepseek-harness-handbook": {
+  "npm": null,
+  "checkedAt": "2026-08-29"
+ },
  "https://github.com/sandbaseai/dsh-plugin-store": {
   "npm": null,
   "checkedAt": "2026-08-20"

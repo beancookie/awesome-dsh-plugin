@@ -4621,7 +4621,7 @@
     "en": "One-click Claude Code & Codex hooks: auto-discovers your existing ~/.claude / ~/.codex hook config and runs it on the official bridge plugins, with an explicit sandbox-policy shim so hook commands never die silently."
    },
    "npm": "dsh-hooks-pack",
-   "stars": 0,
+   "stars": 1,
    "createdAt": "2026-08-21",
    "install": "dsh plugin --profile web add dsh-hooks-pack",
    "added": "2026-08-22"
