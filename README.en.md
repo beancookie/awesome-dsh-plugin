@@ -32,7 +32,7 @@ DeepSeek Harness is DeepSeek's open-source agent harness — a runnable coding a
 
 </details>
 
-**451** plugins · [PRs welcome](#contributing)
+**452** plugins · [PRs welcome](#contributing)
 
 ## Contents
 
@@ -382,6 +382,7 @@ DeepSeek Harness is DeepSeek's open-source agent harness — a runnable coding a
 - [Jesse-njx/dsh-routines](https://github.com/Jesse-njx/dsh-routines) - Scheduled agents on a cron: run a prompt on a schedule and get the digest where you already are, with overlap/missed-run/timeout safety defaults.
 - [file-planning](https://github.com/JohnXu22786/file-planning) - trailmap: disk-persisted execution planning — milestone state machines, dependency tagging, audit events, retrospective notes.
 - [task-board](https://github.com/JohnXu22786/task-board) - Cross-session event-sourced work ledger: task tracking, audit history, kanban export.
+- [dsh-product-subagent-console](https://github.com/Jokasa7/dsh-product-subagent-console) - A conversation-level multi-agent workbench for editable task plans, real child-session trees, plan-to-runtime comparison, and evidence-backed recovery previews.
 - [Letter2025/dsh-approval-llm](https://github.com/Letter2025/dsh-approval-llm) - Model-based permission approval: an approval-request answerer backed by a separate reviewer model.
 - [Letter2025/dsh-model-failover](https://github.com/Letter2025/dsh-model-failover) - Two-level model circuit breaker with failover: trip a model or a whole provider after repeated request failures and route the next request to a configured fallback.
 - [lonelymoon87/dsh-specflow](https://github.com/lonelymoon87/dsh-specflow) - Adds specification artifacts, skills, commands, goal-backed implementation, and task-progress context.
@@ -400,7 +401,6 @@ DeepSeek Harness is DeepSeek's open-source agent harness — a runnable coding a
 - [vlln/dsh-loop](https://github.com/vlln/dsh-loop) - Recurring loops: `/loop` command + loop tool + activity status bar.
 - [whateverboy2333/dsh-flat-teams](https://github.com/whateverboy2333/dsh-flat-teams) - Leaderless flat agent teams: cross-window structured task dispatch (state machine + event stream + offline resume), a read-only progress recorder, and a two-level web dashboard.
 
-- [dsh-product-subagent-console](https://github.com/Jokasa7/dsh-product-subagent-console) - A conversation-level multi-agent workbench for editable task plans, real child-session trees, plan-to-runtime comparison, and evidence-backed recovery previews.
 ### Notifications & Integrations
 - [Abel-86/task-chime](https://github.com/Abel-86/task-chime) - Plays local sounds for approval/permission requests and task completion, configurable from the Web GUI settings.
 - [Andyqwe44/dsh-notify-win](https://github.com/Andyqwe44/dsh-notify-win) - Native Windows toast + taskbar flash for task done / approval / ask_user_question, Win10/11, npm install `dsh plugin --profile web add dsh-notify-win`.

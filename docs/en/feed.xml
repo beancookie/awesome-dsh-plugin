@@ -4,7 +4,14 @@
   <id>https://beancookie.github.io/awesome-dsh-plugin/en/</id>
   <link href="https://beancookie.github.io/awesome-dsh-plugin/en/"/>
   <link rel="self" href="https://beancookie.github.io/awesome-dsh-plugin/en/feed.xml"/>
-  <updated>2026-08-27T00:00:00Z</updated>
+  <updated>2026-08-30T00:00:00Z</updated>
+  <entry>
+    <title>dsh-product-subagent-console</title>
+    <id>https://github.com/Jokasa7/dsh-product-subagent-console</id>
+    <link href="https://github.com/Jokasa7/dsh-product-subagent-console"/>
+    <updated>2026-08-30T00:00:00Z</updated>
+    <summary>A conversation-level multi-agent workbench for editable task plans, real child-session trees, plan-to-runtime comparison, and evidence-backed recovery previews.</summary>
+  </entry>
   <entry>
     <title>YEYEYEYESHIFU/dsh-result-only-view</title>
     <id>https://github.com/YEYEYEYESHIFU/dsh-result-only-view</id>
@@ -207,12 +214,5 @@
     <link href="https://github.com/taxueseek/taxue-dsh-artisan"/>
     <updated>2026-08-24T00:00:00Z</updated>
     <summary>Integrated visual creation toolchain for DSH: prompt reverse-engineering and audit optimization plus multi-provider image generation with async background rendering.</summary>
-  </entry>
-  <entry>
-    <title>zilliztech/dsh-milvus</title>
-    <id>https://github.com/zilliztech/dsh-milvus</id>
-    <link href="https://github.com/zilliztech/dsh-milvus"/>
-    <updated>2026-08-24T00:00:00Z</updated>
-    <summary>Read-only DSH Web plugin for inspecting and searching Milvus or Zilliz Cloud collections from chat, including scalar, BM25, dense, and hybrid queries.</summary>
   </entry>
 </feed>

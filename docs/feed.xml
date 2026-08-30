@@ -4,7 +4,14 @@
   <id>https://beancookie.github.io/awesome-dsh-plugin/</id>
   <link href="https://beancookie.github.io/awesome-dsh-plugin/"/>
   <link rel="self" href="https://beancookie.github.io/awesome-dsh-plugin/feed.xml"/>
-  <updated>2026-08-27T00:00:00Z</updated>
+  <updated>2026-08-30T00:00:00Z</updated>
+  <entry>
+    <title>dsh-product-subagent-console</title>
+    <id>https://github.com/Jokasa7/dsh-product-subagent-console</id>
+    <link href="https://github.com/Jokasa7/dsh-product-subagent-console"/>
+    <updated>2026-08-30T00:00:00Z</updated>
+    <summary>DSH 对话级多 Agent 工作台：可编辑任务方案、真实子会话树、计划与实际运行对照，以及基于证据的恢复预览。</summary>
+  </entry>
   <entry>
     <title>YEYEYEYESHIFU/dsh-result-only-view</title>
     <id>https://github.com/YEYEYEYESHIFU/dsh-result-only-view</id>
@@ -207,12 +214,5 @@
     <link href="https://github.com/taxueseek/taxue-dsh-artisan"/>
     <updated>2026-08-24T00:00:00Z</updated>
     <summary>DSH 一体化视觉创作工具链：提示词反推与审计优化，多供应商生图，支持异步后台出图。</summary>
-  </entry>
-  <entry>
-    <title>zilliztech/dsh-milvus</title>
-    <id>https://github.com/zilliztech/dsh-milvus</id>
-    <link href="https://github.com/zilliztech/dsh-milvus"/>
-    <updated>2026-08-24T00:00:00Z</updated>
-    <summary>只读 DSH Web 插件，可在对话中检查和搜索 Milvus 或 Zilliz Cloud Collection，支持标量、BM25、稠密向量与混合查询。</summary>
   </entry>
 </feed>

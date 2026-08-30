@@ -2,8 +2,8 @@
  "name": "awesome-dsh-plugin",
  "url": "https://beancookie.github.io/awesome-dsh-plugin",
  "source": "https://github.com/beancookie/awesome-dsh-plugin",
- "updated": "2026-08-27",
- "count": 451,
+ "updated": "2026-08-30",
+ "count": 452,
  "categories": {
   "ui": {
    "zh": "UI 增强",
@@ -4760,6 +4760,21 @@
    "createdAt": null,
    "install": "dsh plugin --profile web add github:JohnXu22786/task-board",
    "added": "2026-08-17"
+  },
+  {
+   "name": "dsh-product-subagent-console",
+   "owner": "Jokasa7",
+   "url": "https://github.com/Jokasa7/dsh-product-subagent-console",
+   "category": "workflow",
+   "description": {
+    "zh": "DSH 对话级多 Agent 工作台：可编辑任务方案、真实子会话树、计划与实际运行对照，以及基于证据的恢复预览。",
+    "en": "A conversation-level multi-agent workbench for editable task plans, real child-session trees, plan-to-runtime comparison, and evidence-backed recovery previews."
+   },
+   "npm": null,
+   "stars": 1,
+   "createdAt": "2026-08-22",
+   "install": "dsh plugin --profile web add github:Jokasa7/dsh-product-subagent-console",
+   "added": "2026-08-30"
   },
   {
    "name": "dsh-approval-llm",

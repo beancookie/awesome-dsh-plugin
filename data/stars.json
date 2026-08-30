@@ -1151,6 +1151,12 @@
   "etag": "W/\"0670857b65409fb27b7576504a7036895ce9111ec3923174299aecc1242addd6\"",
   "checkedAt": "2026-08-24"
  },
+ "https://github.com/Jokasa7/dsh-product-subagent-console": {
+  "stars": 1,
+  "createdAt": "2026-08-22",
+  "etag": "W/\"e8916ee4fa01d9856e227f3942e32b9cc16ad7714fd05086f0cfe0adbdfb2324\"",
+  "checkedAt": "2026-08-30"
+ },
  "https://github.com/Jolly-J/dsh-deepseek-billing": {
   "stars": 4,
   "createdAt": "2026-08-14",
