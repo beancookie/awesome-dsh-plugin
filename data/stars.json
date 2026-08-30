@@ -60,10 +60,10 @@
   "checkedAt": "2026-08-24"
  },
  "https://github.com/Abel-86/task-chime": {
-  "stars": 0,
+  "stars": 1,
   "createdAt": "2026-08-22",
-  "etag": "W/\"b56d65c4254ea67abbf671a0ce5fb75ca85b1e70d9decc4d849917e50d9ec549\"",
-  "checkedAt": "2026-08-23"
+  "etag": "W/\"6c3d0f418dbea525e542184a6fcf9d100d29d09700bb85f15bd6eb130d7a40bd\"",
+  "checkedAt": "2026-08-30"
  },
  "https://github.com/acefun29/dsh-file-mount": {
   "stars": 12,
@@ -202,10 +202,10 @@
   "checkedAt": "2026-08-24"
  },
  "https://github.com/beijingwahw/dsh-nuke-plugin": {
-  "stars": 0,
+  "stars": 3,
   "createdAt": "2026-08-17",
-  "etag": "W/\"79ec5d5cd7899f75346081e82aaa83c3e5a1300d8eac556241075365203e5e30\"",
-  "checkedAt": "2026-08-23"
+  "etag": "W/\"7de66c00da5129c116e598910fad04826e43d5c1bbdf6fa8806a31b21a68815c\"",
+  "checkedAt": "2026-08-30"
  },
  "https://github.com/BeiZi6/dsh-opencodego-usage": {
   "stars": 7,
@@ -477,6 +477,12 @@
   "etag": "W/\"a4470bb7d2d9bf204edc3c8455efaa9adacc44dd63f1cda2506651256df53f28\"",
   "checkedAt": "2026-08-24"
  },
+ "https://github.com/dgadelha1/dsh-explorer-plugin": {
+  "stars": 2,
+  "createdAt": "2026-08-18",
+  "etag": "W/\"840218b507f0b65e57d62cfc931eaa83a5b3c52c2782a28e5f8f2fea80867200\"",
+  "checkedAt": "2026-08-30"
+ },
  "https://github.com/dhicoc/dsh-reverse-skill": {
   "stars": 66,
   "createdAt": "2026-08-14",
@@ -520,10 +526,10 @@
   "checkedAt": "2026-08-26"
  },
  "https://github.com/dsh-blue/blue": {
-  "stars": 3,
+  "stars": 16,
   "createdAt": "2026-08-18",
-  "etag": "W/\"d19fadab866b0dd1dbb6c78ecd0ad09cd68f380055402dc141b936a959e1cb15\"",
-  "checkedAt": "2026-08-23"
+  "etag": "W/\"9a010af6236798ccec000c14d6e11c37a1fe7bc80c403f6598571e8441a9fe65\"",
+  "checkedAt": "2026-08-30"
  },
  "https://github.com/dsh-external/browser4-dsh": {
   "stars": null,
@@ -614,10 +620,10 @@
   "checkedAt": "2026-08-24"
  },
  "https://github.com/exoticknight/dsh-labnana": {
-  "stars": 0,
+  "stars": 3,
   "createdAt": "2026-08-22",
-  "etag": "W/\"eee7ff3483f89acbf51667b8f5d0d23af855e11aed570d38be3e89a95cd58bb1\"",
-  "checkedAt": "2026-08-23"
+  "etag": "W/\"5b742fa1e0b920e19cfe2fabec4edab99b9ffd08fc8507c179b41bf1cb9db243\"",
+  "checkedAt": "2026-08-30"
  },
  "https://github.com/fakechris/dsh-harness-ops": {
   "stars": 13,
@@ -1468,10 +1474,10 @@
   "checkedAt": "2026-08-24"
  },
  "https://github.com/mjylfz/dsh-skill-mover": {
-  "stars": 1,
+  "stars": 5,
   "createdAt": "2026-08-20",
-  "etag": "W/\"6c26969d6300237e6ce39b15cb70e789cf0b02f0d49c44cc1a32837076c965b8\"",
-  "checkedAt": "2026-08-23"
+  "etag": "W/\"14c84b5dff278520fbf4a145180eba5c70775977ad0ca6da4881bd36608c2f44\"",
+  "checkedAt": "2026-08-30"
  },
  "https://github.com/modusensus/dsh-mneme": {
   "stars": 38,
@@ -2450,10 +2456,10 @@
   "checkedAt": "2026-08-24"
  },
  "https://github.com/xiajiajun516/dsh-config-manager": {
-  "stars": 14,
+  "stars": 49,
   "createdAt": "2026-08-14",
-  "etag": "W/\"07864d2b05ae698a8544d81f114704f86f2d55fdc484ea90fc7a334e4f4dbdd6\"",
-  "checkedAt": "2026-08-23"
+  "etag": "W/\"9b1a124e81e5e261d0c501ed967497e2bc88e067135e36cc22f6b57cce7c6721\"",
+  "checkedAt": "2026-08-30"
  },
  "https://github.com/xiaogu619520/dsh-plugin-task-panel": {
   "stars": 0,

@@ -316,7 +316,7 @@
     "en": "An interactive full-screen terminal UI for DeepSeek Harness: streaming Markdown transcripts, tool-call cards, an approval panel, session management, and hot theme switching — every component is a hot-pluggable plugin tree."
    },
    "npm": null,
-   "stars": 3,
+   "stars": 16,
    "createdAt": "2026-08-18",
    "install": "dsh plugin --profile web add github:dsh-blue/blue",
    "added": "2026-08-24"
@@ -2551,7 +2551,7 @@
     "en": "Transactional uninstall engine: every destructive action runs a validate/preview/execute/undo four-phase pipeline with Saga rollback, WAL crash self-recovery, hash-chain audit trail, hard-link dedup, and a Bayesian oracle that predicts success probability before committing."
    },
    "npm": null,
-   "stars": 0,
+   "stars": 3,
    "createdAt": "2026-08-17",
    "install": "dsh plugin --profile web add github:beijingwahw/dsh-nuke-plugin",
    "added": "2026-08-23"
@@ -2731,7 +2731,7 @@
     "en": "Labnana image generation for DeepSeek Harness: text-to-image / image-to-image / precise editing, with credits estimation and web settings UI."
    },
    "npm": null,
-   "stars": 0,
+   "stars": 3,
    "createdAt": "2026-08-22",
    "install": "dsh plugin --profile web add github:exoticknight/dsh-labnana",
    "added": "2026-08-23"
@@ -3496,7 +3496,7 @@
     "en": "One-click migration of skills from other agents into DeepSeek Harness: 14 platform detectors plus shared-layer recognition, same-name skill merging, no re-copying of existing skills, and rollback support."
    },
    "npm": null,
-   "stars": 1,
+   "stars": 5,
    "createdAt": "2026-08-20",
    "install": "dsh plugin --profile web add github:mjylfz/dsh-skill-mover",
    "added": "2026-08-23"
@@ -4066,7 +4066,7 @@
     "en": "Full DSH configuration backup, restore, export, import, migrate and sync: settings, providers, plugins, MCP servers, skills, agent presets and workspaces in one ZIP, with encrypted backups, Git/WebDAV sync and a configuration marketplace."
    },
    "npm": "dsh-config-manager",
-   "stars": 14,
+   "stars": 49,
    "createdAt": "2026-08-14",
    "install": "dsh plugin --profile web add dsh-config-manager",
    "added": "2026-08-23"
@@ -5026,7 +5026,7 @@
     "en": "Plays local sounds for approval/permission requests and task completion, configurable from the Web GUI settings."
    },
    "npm": "task-chime",
-   "stars": 0,
+   "stars": 1,
    "createdAt": "2026-08-22",
    "install": "dsh plugin --profile web add task-chime",
    "added": "2026-08-23"
