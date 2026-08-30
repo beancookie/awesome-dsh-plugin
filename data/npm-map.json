@@ -899,6 +899,14 @@
   "npm": null,
   "checkedAt": "2026-08-14"
  },
+ "https://github.com/liznee/dsh-file-resource": {
+  "npm": "dsh-file-resource",
+  "checkedAt": "2026-08-30"
+ },
+ "https://github.com/liznee/dsh-speech-input": {
+  "npm": "dsh-speech-input",
+  "checkedAt": "2026-08-30"
+ },
  "https://github.com/lkdx0220/Genshin-odette-skin-dsh": {
   "npm": null,
   "checkedAt": "2026-08-17"

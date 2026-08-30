@@ -1311,6 +1311,18 @@
   "etag": "W/\"9ff8ee64fc2d5a63fba58469042c75d61d5de89a67f620064474ee2884a5af8d\"",
   "checkedAt": "2026-08-24"
  },
+ "https://github.com/liznee/dsh-file-resource": {
+  "stars": 2,
+  "createdAt": "2026-08-22",
+  "etag": "W/\"8697aea36a74ec6f32861324b3a420c5d8306eb3d072d15ae48c9f85359eee29\"",
+  "checkedAt": "2026-08-30"
+ },
+ "https://github.com/liznee/dsh-speech-input": {
+  "stars": 1,
+  "createdAt": "2026-08-21",
+  "etag": "W/\"c23296814e1d2965975d2bda4d0b549249bfdc1fa7b8bc9ed32883b2848b4920\"",
+  "checkedAt": "2026-08-30"
+ },
  "https://github.com/lkdx0220/Genshin-odette-skin-dsh": {
   "stars": 1,
   "createdAt": "2026-08-17",
