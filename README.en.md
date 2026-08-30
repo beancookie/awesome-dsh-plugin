@@ -463,6 +463,7 @@ DeepSeek Harness is DeepSeek's open-source agent harness — a runnable coding a
 - [dsh-desktop](https://github.com/foolgry/dsh-desktop) - Download-and-run Electron desktop build that tracks upstream releases automatically.
 - [forrestchang/dsh-multica-runtime](https://github.com/forrestchang/dsh-multica-runtime) - Run the dsh runtime on Multica.
 - [dsh-session-cleaner](https://github.com/fountunt/dsh-session-cleaner) - Delete sessions from a running web runtime without a restart.
+- [ianho7/dsh-port-inspector](https://github.com/ianho7/dsh-port-inspector) - Track the origin of local development ports on Windows and safely manage verified DSH services.
 - [hust-open-atom-club/oh-dsh](https://github.com/hust-open-atom-club/oh-dsh) - Community distribution: TUI, desktop, and Web UI as one bundle with layered installation.
 - [dsh-mcp-manager](https://github.com/hyqhyq3/dsh-mcp-manager) - MCP server manager with OAuth or static-token auth and a Settings page.
 - [ICCuse/dsh-pain-point-check](https://github.com/ICCuse/dsh-pain-point-check) - Enforced pain-point gate: after two non-converged experiments it injects the three questions, denies non-investigative tool calls until answered, and blocks same-direction retries.
