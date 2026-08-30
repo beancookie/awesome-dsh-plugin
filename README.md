@@ -32,7 +32,7 @@ DeepSeek Harness 是 DeepSeek 开源的 agent harness——既是可直接运行
 
 </details>
 
-**455** 个插件 · 欢迎 [PR](#贡献)
+**456** 个插件 · 欢迎 [PR](#贡献)
 
 ## 目录
 
@@ -463,9 +463,9 @@ DeepSeek Harness 是 DeepSeek 开源的 agent harness——既是可直接运行
 - [foolgry/dsh-desktop](https://github.com/foolgry/dsh-desktop) — 开箱即用的 Electron 桌面版，自动跟随上游发版。
 - [forrestchang/dsh-multica-runtime](https://github.com/forrestchang/dsh-multica-runtime) — 让 dsh 运行时跑在 Multica 上。
 - [fountunt/dsh-session-cleaner](https://github.com/fountunt/dsh-session-cleaner) — 无需重启即可删除运行中 Web 运行时里的会话。
-- [ianho7/dsh-port-inspector](https://github.com/ianho7/dsh-port-inspector) — Windows 本地开发端口来源追踪与安全处理工具。
 - [hust-open-atom-club/oh-dsh](https://github.com/hust-open-atom-club/oh-dsh) — 社区发行版：TUI、桌面端与 Web UI 统一体验，分层安装、一步到位。
 - [hyqhyq3/dsh-mcp-manager](https://github.com/hyqhyq3/dsh-mcp-manager) — MCP 服务器管理器：OAuth 或静态 token 认证 + 设置页。
+- [ianho7/dsh-port-inspector](https://github.com/ianho7/dsh-port-inspector) — Windows 本地开发端口来源追踪与安全处理工具。
 - [ICCuse/dsh-pain-point-check](https://github.com/ICCuse/dsh-pain-point-check) — 强制痛点检查：同一问题连续 2 个实验未收敛后注入三问、拦截非调查类工具调用直到答出、阻止同方向重试。
 - [ilharp/dsh-tool-approval](https://github.com/ilharp/dsh-tool-approval) — 手动审批模式（Manual/Ask Mode）。
 - [Jayden-X-L/forkprobe](https://github.com/Jayden-X-L/forkprobe) — 同一任务并行试跑多个技能，对比结果选出最优。

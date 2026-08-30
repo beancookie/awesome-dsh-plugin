@@ -34,6 +34,13 @@
     <summary>DSH 对话级多 Agent 工作台：可编辑任务方案、真实子会话树、计划与实际运行对照，以及基于证据的恢复预览。</summary>
   </entry>
   <entry>
+    <title>ianho7/dsh-port-inspector</title>
+    <id>https://github.com/ianho7/dsh-port-inspector</id>
+    <link href="https://github.com/ianho7/dsh-port-inspector"/>
+    <updated>2026-08-30T00:00:00Z</updated>
+    <summary>Windows 本地开发端口来源追踪与安全处理工具。</summary>
+  </entry>
+  <entry>
     <title>YEYEYEYESHIFU/dsh-result-only-view</title>
     <id>https://github.com/YEYEYEYESHIFU/dsh-result-only-view</id>
     <link href="https://github.com/YEYEYEYESHIFU/dsh-result-only-view"/>
@@ -207,12 +214,5 @@
     <link href="https://github.com/zilliztech/memsearch"/>
     <updated>2026-08-24T00:00:00Z</updated>
     <summary>供 DSH 与其他编程 Agent 共享的 Markdown 记忆，支持自动捕获、步骤前上下文注入、搜索召回与审阅面板。</summary>
-  </entry>
-  <entry>
-    <title>nousag/dsh-writing-desk</title>
-    <id>https://github.com/nousag/dsh-writing-desk</id>
-    <link href="https://github.com/nousag/dsh-writing-desk"/>
-    <updated>2026-08-24T00:00:00Z</updated>
-    <summary>本地优先写作工作台：书籍/卷/章管理、正文编辑、笔记资料调用、字数统计与导出。</summary>
   </entry>
 </feed>

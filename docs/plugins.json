@@ -3,7 +3,7 @@
  "url": "https://beancookie.github.io/awesome-dsh-plugin",
  "source": "https://github.com/beancookie/awesome-dsh-plugin",
  "updated": "2026-08-30",
- "count": 455,
+ "count": 456,
  "categories": {
   "ui": {
    "zh": "UI 增强",
@@ -5915,6 +5915,21 @@
    "createdAt": "2026-08-13",
    "install": "dsh plugin --profile web add github:hyqhyq3/dsh-mcp-manager",
    "added": "2026-08-14"
+  },
+  {
+   "name": "dsh-port-inspector",
+   "owner": "ianho7",
+   "url": "https://github.com/ianho7/dsh-port-inspector",
+   "category": "dev",
+   "description": {
+    "zh": "Windows 本地开发端口来源追踪与安全处理工具。",
+    "en": "Track the origin of local development ports on Windows and safely manage verified DSH services."
+   },
+   "npm": "dsh-port-inspector",
+   "stars": 1,
+   "createdAt": "2026-08-20",
+   "install": "dsh plugin --profile web add dsh-port-inspector",
+   "added": "2026-08-30"
   },
   {
    "name": "dsh-pain-point-check",

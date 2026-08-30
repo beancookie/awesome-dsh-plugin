@@ -34,6 +34,13 @@
     <summary>A conversation-level multi-agent workbench for editable task plans, real child-session trees, plan-to-runtime comparison, and evidence-backed recovery previews.</summary>
   </entry>
   <entry>
+    <title>ianho7/dsh-port-inspector</title>
+    <id>https://github.com/ianho7/dsh-port-inspector</id>
+    <link href="https://github.com/ianho7/dsh-port-inspector"/>
+    <updated>2026-08-30T00:00:00Z</updated>
+    <summary>Track the origin of local development ports on Windows and safely manage verified DSH services.</summary>
+  </entry>
+  <entry>
     <title>YEYEYEYESHIFU/dsh-result-only-view</title>
     <id>https://github.com/YEYEYEYESHIFU/dsh-result-only-view</id>
     <link href="https://github.com/YEYEYEYESHIFU/dsh-result-only-view"/>
@@ -207,12 +214,5 @@
     <link href="https://github.com/zilliztech/memsearch"/>
     <updated>2026-08-24T00:00:00Z</updated>
     <summary>Shared Markdown memory for DSH and other coding agents, with automatic capture, pre-step context injection, searchable recall, and a review panel.</summary>
-  </entry>
-  <entry>
-    <title>nousag/dsh-writing-desk</title>
-    <id>https://github.com/nousag/dsh-writing-desk</id>
-    <link href="https://github.com/nousag/dsh-writing-desk"/>
-    <updated>2026-08-24T00:00:00Z</updated>
-    <summary>Local-first writing workbench: book/volume/chapter management, draft editor, note reference, word count and export.</summary>
   </entry>
 </feed>

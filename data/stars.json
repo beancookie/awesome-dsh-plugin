@@ -853,6 +853,12 @@
   "etag": "W/\"a2ba9aca21101436f7f5f23ca71cacd910240fd0de80b03b4d16e5d9eaae5b67\"",
   "checkedAt": "2026-08-24"
  },
+ "https://github.com/ianho7/dsh-port-inspector": {
+  "stars": 1,
+  "createdAt": "2026-08-20",
+  "etag": "W/\"14dc4301b890b3ab8cfdb7fc29ca436c31eea3ff543f09ddc147cf25cb615577\"",
+  "checkedAt": "2026-08-30"
+ },
  "https://github.com/ICCuse/dsh-file-memory": {
   "stars": 0,
   "createdAt": "2026-08-14",

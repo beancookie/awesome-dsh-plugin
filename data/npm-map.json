@@ -583,6 +583,10 @@
   "npm": null,
   "checkedAt": "2026-08-14"
  },
+ "https://github.com/ianho7/dsh-port-inspector": {
+  "npm": "dsh-port-inspector",
+  "checkedAt": "2026-08-30"
+ },
  "https://github.com/ICCuse/dsh-file-memory": {
   "npm": null,
   "checkedAt": "2026-08-14"
