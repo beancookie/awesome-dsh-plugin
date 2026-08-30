@@ -3,7 +3,7 @@
  "url": "https://beancookie.github.io/awesome-dsh-plugin",
  "source": "https://github.com/beancookie/awesome-dsh-plugin",
  "updated": "2026-08-30",
- "count": 452,
+ "count": 455,
  "categories": {
   "ui": {
    "zh": "UI 增强",
@@ -223,7 +223,7 @@
    "category": "ui",
    "description": {
     "zh": "出租车计价器式实时计费：生成时逐秒跳动、空闲归零，内置官方峰谷时段与价格表。",
-    "en": "Taxi-meter style real-time cost: ticks every half second while generating, resets when idle, with official peak/valley pricing built in."
+    "en": "Taxi-meter style real-time cost: ticks every second while generating, resets when idle, with official peak/valley pricing built in."
    },
    "npm": null,
    "stars": 1,
@@ -290,6 +290,21 @@
    "createdAt": "2026-08-16",
    "install": "dsh plugin --profile web add dsh-multi-chat",
    "added": "2026-08-17"
+  },
+  {
+   "name": "dsh-explorer-plugin",
+   "owner": "dgadelha1",
+   "url": "https://github.com/dgadelha1/dsh-explorer-plugin",
+   "category": "ui",
+   "description": {
+    "zh": "工作区文件树 + Monaco 编辑器：多标签、撤销/重做、实时文件监听（SSE）、VS Code 真实 TextMate 语法高亮（28 种语言）与 Dark+/Light+ 主题，直接嵌入 DSH 网页 GUI。",
+    "en": "Workspace file tree + Monaco editor: multiple tabs, undo/redo, live file watching (SSE), real VS Code TextMate syntax highlighting (28 languages) and Dark+/Light+ themes, embedded directly in the DSH web GUI."
+   },
+   "npm": null,
+   "stars": 2,
+   "createdAt": "2026-08-18",
+   "install": "dsh plugin --profile web add github:dgadelha1/dsh-explorer-plugin",
+   "added": "2026-08-30"
   },
   {
    "name": "dsh-focus-chat",
@@ -575,6 +590,21 @@
    "createdAt": "2026-08-12",
    "install": "dsh plugin --profile web add github:lehhair/dsh-diff-viewer",
    "added": "2026-08-13"
+  },
+  {
+   "name": "dsh-speech-input",
+   "owner": "liznee",
+   "url": "https://github.com/liznee/dsh-speech-input",
+   "category": "ui",
+   "description": {
+    "zh": "输入框原生麦克风按钮：语音写草稿、5 秒静音自动停止、胶囊听写 UI 与点击预览。中英文支持。",
+    "en": "A native microphone button in the composer: dictate drafts by voice, auto-stop after 5 s of silence, a capsule dictation UI with click-to-preview, supporting Chinese and English."
+   },
+   "npm": "dsh-speech-input",
+   "stars": 1,
+   "createdAt": "2026-08-21",
+   "install": "dsh plugin --profile web add dsh-speech-input",
+   "added": "2026-08-30"
   },
   {
    "name": "dsh-pi-tui",
@@ -3292,6 +3322,21 @@
    "added": "2026-08-14"
   },
   {
+   "name": "dsh-file-resource",
+   "owner": "liznee",
+   "url": "https://github.com/liznee/dsh-file-resource",
+   "category": "tools",
+   "description": {
+    "zh": "本地文件输入：图片走原生，PDF/Office/EPUB/文本本机解析为会话隔离资源；受限读取工具、@文件名 引用与右侧分栏预览。",
+    "en": "Local file input: images use the native path, while PDF/Office/EPUB/text are parsed locally into session-scoped resources, with a restricted read tool, @filename references, and a right-side split preview."
+   },
+   "npm": "dsh-file-resource",
+   "stars": 2,
+   "createdAt": "2026-08-22",
+   "install": "dsh plugin --profile web add dsh-file-resource",
+   "added": "2026-08-30"
+  },
+  {
    "name": "dsh-code-intel",
    "owner": "lonelymoon87",
    "url": "https://github.com/lonelymoon87/dsh-code-intel",
@@ -4243,7 +4288,7 @@
    "category": "tools",
    "description": {
     "zh": "查询 64 场中国考试（高考/考研/四六级/CPA/法考…）的规则日期（第二个周六、第一个周日）与倒计时。",
-    "en": "Query 64 Chinese exams (高考/考研/四六级/CPA/法考…) with rule-aware date math (2nd-Saturday, 1st-Sunday) and countdowns."
+    "en": "Query 64 Chinese exams (Gaokao, postgrad entrance exam, CET-4/6, CPA, bar exam…) with rule-aware date math (2nd-Saturday, 1st-Sunday) and countdowns."
    },
    "npm": null,
    "stars": 2,
@@ -4692,7 +4737,7 @@
    "url": "https://github.com/huchunlinnk/deepseek-desk-rsi",
    "category": "workflow",
    "description": {
-    "zh": "Recursive Self-Improvement engine: bounded perceive→integrate→verify→parity→repair→propose loop + 128-plugin 1:1 parity gate — DSH maintains DSH.",
+    "zh": "递归自我改进引擎（Recursive Self-Improvement）：有界的 perceive→integrate→verify→parity→repair→propose 循环 + 128 个插件的 1:1 对等门禁——DSH 维护 DSH。",
     "en": "Recursive Self-Improvement engine: bounded perceive→integrate→verify→parity→repair→propose loop + 128-plugin 1:1 parity gate — DSH maintains DSH."
    },
    "npm": null,

@@ -6,6 +6,27 @@
   <link rel="self" href="https://beancookie.github.io/awesome-dsh-plugin/feed.xml"/>
   <updated>2026-08-30T00:00:00Z</updated>
   <entry>
+    <title>dgadelha1/dsh-explorer-plugin</title>
+    <id>https://github.com/dgadelha1/dsh-explorer-plugin</id>
+    <link href="https://github.com/dgadelha1/dsh-explorer-plugin"/>
+    <updated>2026-08-30T00:00:00Z</updated>
+    <summary>工作区文件树 + Monaco 编辑器：多标签、撤销/重做、实时文件监听（SSE）、VS Code 真实 TextMate 语法高亮（28 种语言）与 Dark+/Light+ 主题，直接嵌入 DSH 网页 GUI。</summary>
+  </entry>
+  <entry>
+    <title>liznee/dsh-speech-input</title>
+    <id>https://github.com/liznee/dsh-speech-input</id>
+    <link href="https://github.com/liznee/dsh-speech-input"/>
+    <updated>2026-08-30T00:00:00Z</updated>
+    <summary>输入框原生麦克风按钮：语音写草稿、5 秒静音自动停止、胶囊听写 UI 与点击预览。中英文支持。</summary>
+  </entry>
+  <entry>
+    <title>liznee/dsh-file-resource</title>
+    <id>https://github.com/liznee/dsh-file-resource</id>
+    <link href="https://github.com/liznee/dsh-file-resource"/>
+    <updated>2026-08-30T00:00:00Z</updated>
+    <summary>本地文件输入：图片走原生，PDF/Office/EPUB/文本本机解析为会话隔离资源；受限读取工具、@文件名 引用与右侧分栏预览。</summary>
+  </entry>
+  <entry>
     <title>dsh-product-subagent-console</title>
     <id>https://github.com/Jokasa7/dsh-product-subagent-console</id>
     <link href="https://github.com/Jokasa7/dsh-product-subagent-console"/>
@@ -193,26 +214,5 @@
     <link href="https://github.com/nousag/dsh-writing-desk"/>
     <updated>2026-08-24T00:00:00Z</updated>
     <summary>本地优先写作工作台：书籍/卷/章管理、正文编辑、笔记资料调用、字数统计与导出。</summary>
-  </entry>
-  <entry>
-    <title>taxueseek/dsh-plugin-guard</title>
-    <id>https://github.com/taxueseek/dsh-plugin-guard</id>
-    <link href="https://github.com/taxueseek/dsh-plugin-guard"/>
-    <updated>2026-08-24T00:00:00Z</updated>
-    <summary>DSH 插件的静态安全闸门与诊所：安装前静态审计、安装后哈希与能力锁定、本机指纹库与 GitHub dsh-plugin 主题的同类搜索、机械式剥离清理；永不执行目标插件。</summary>
-  </entry>
-  <entry>
-    <title>taxueseek/dsh-snippets</title>
-    <id>https://github.com/taxueseek/dsh-snippets</id>
-    <link href="https://github.com/taxueseek/dsh-snippets"/>
-    <updated>2026-08-24T00:00:00Z</updated>
-    <summary>DSH 极简片段/命令工具箱：5 个工具，一个可手工编辑的 JSONL 文件，零 UI、零数据库、零网络，只有明确说存才存。</summary>
-  </entry>
-  <entry>
-    <title>taxue-dsh-artisan</title>
-    <id>https://github.com/taxueseek/taxue-dsh-artisan</id>
-    <link href="https://github.com/taxueseek/taxue-dsh-artisan"/>
-    <updated>2026-08-24T00:00:00Z</updated>
-    <summary>DSH 一体化视觉创作工具链：提示词反推与审计优化，多供应商生图，支持异步后台出图。</summary>
   </entry>
 </feed>

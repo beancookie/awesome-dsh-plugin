@@ -6,6 +6,27 @@
   <link rel="self" href="https://beancookie.github.io/awesome-dsh-plugin/en/feed.xml"/>
   <updated>2026-08-30T00:00:00Z</updated>
   <entry>
+    <title>dgadelha1/dsh-explorer-plugin</title>
+    <id>https://github.com/dgadelha1/dsh-explorer-plugin</id>
+    <link href="https://github.com/dgadelha1/dsh-explorer-plugin"/>
+    <updated>2026-08-30T00:00:00Z</updated>
+    <summary>Workspace file tree + Monaco editor: multiple tabs, undo/redo, live file watching (SSE), real VS Code TextMate syntax highlighting (28 languages) and Dark+/Light+ themes, embedded directly in the DSH web GUI.</summary>
+  </entry>
+  <entry>
+    <title>liznee/dsh-speech-input</title>
+    <id>https://github.com/liznee/dsh-speech-input</id>
+    <link href="https://github.com/liznee/dsh-speech-input"/>
+    <updated>2026-08-30T00:00:00Z</updated>
+    <summary>A native microphone button in the composer: dictate drafts by voice, auto-stop after 5 s of silence, a capsule dictation UI with click-to-preview, supporting Chinese and English.</summary>
+  </entry>
+  <entry>
+    <title>liznee/dsh-file-resource</title>
+    <id>https://github.com/liznee/dsh-file-resource</id>
+    <link href="https://github.com/liznee/dsh-file-resource"/>
+    <updated>2026-08-30T00:00:00Z</updated>
+    <summary>Local file input: images use the native path, while PDF/Office/EPUB/text are parsed locally into session-scoped resources, with a restricted read tool, @filename references, and a right-side split preview.</summary>
+  </entry>
+  <entry>
     <title>dsh-product-subagent-console</title>
     <id>https://github.com/Jokasa7/dsh-product-subagent-console</id>
     <link href="https://github.com/Jokasa7/dsh-product-subagent-console"/>
@@ -193,26 +214,5 @@
     <link href="https://github.com/nousag/dsh-writing-desk"/>
     <updated>2026-08-24T00:00:00Z</updated>
     <summary>Local-first writing workbench: book/volume/chapter management, draft editor, note reference, word count and export.</summary>
-  </entry>
-  <entry>
-    <title>taxueseek/dsh-plugin-guard</title>
-    <id>https://github.com/taxueseek/dsh-plugin-guard</id>
-    <link href="https://github.com/taxueseek/dsh-plugin-guard"/>
-    <updated>2026-08-24T00:00:00Z</updated>
-    <summary>Static-only plugin gate and clinic for DSH: audit before install, hash-and-capability lock after install, local fingerprint peer search over GitHub topic:dsh-plugin, and mechanical detox. Never executes the target plugin.</summary>
-  </entry>
-  <entry>
-    <title>taxueseek/dsh-snippets</title>
-    <id>https://github.com/taxueseek/dsh-snippets</id>
-    <link href="https://github.com/taxueseek/dsh-snippets"/>
-    <updated>2026-08-24T00:00:00Z</updated>
-    <summary>Minimal snippet and command toolbox for DSH: five tools over a single human-editable JSONL file, zero UI, zero database, zero network, explicit save-only memory.</summary>
-  </entry>
-  <entry>
-    <title>taxue-dsh-artisan</title>
-    <id>https://github.com/taxueseek/taxue-dsh-artisan</id>
-    <link href="https://github.com/taxueseek/taxue-dsh-artisan"/>
-    <updated>2026-08-24T00:00:00Z</updated>
-    <summary>Integrated visual creation toolchain for DSH: prompt reverse-engineering and audit optimization plus multi-provider image generation with async background rendering.</summary>
   </entry>
 </feed>
