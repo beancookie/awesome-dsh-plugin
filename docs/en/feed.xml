@@ -4,7 +4,14 @@
   <id>https://beancookie.github.io/awesome-dsh-plugin/en/</id>
   <link href="https://beancookie.github.io/awesome-dsh-plugin/en/"/>
   <link rel="self" href="https://beancookie.github.io/awesome-dsh-plugin/en/feed.xml"/>
-  <updated>2026-08-30T00:00:00Z</updated>
+  <updated>2026-09-01T00:00:00Z</updated>
+  <entry>
+    <title>Bionic-forest/dsh-memory_rollout</title>
+    <id>https://github.com/Bionic-forest/dsh-memory_rollout</id>
+    <link href="https://github.com/Bionic-forest/dsh-memory_rollout"/>
+    <updated>2026-09-01T00:00:00Z</updated>
+    <summary>Codex-style per-session memory for DSH: one session one draft (rollout_summaries), layered disclosure (summary → registry → drafts/evidence), restrained &amp; passive, idempotent integration, remembers facts/preferences/decisions across sessions with verifiable citations, npm package `dsh-memory_rollout`.</summary>
+  </entry>
   <entry>
     <title>dgadelha1/dsh-explorer-plugin</title>
     <id>https://github.com/dgadelha1/dsh-explorer-plugin</id>
@@ -207,12 +214,5 @@
     <link href="https://github.com/qwert702/dsh-memory"/>
     <updated>2026-08-24T00:00:00Z</updated>
     <summary>Project-level and global long-term memory for DSH Web: isolated POST /items route to avoid path conflicts, multi-turn tool-call context compression before storing entries, deduplication and session-persistent storage.</summary>
-  </entry>
-  <entry>
-    <title>zilliztech/memsearch</title>
-    <id>https://github.com/zilliztech/memsearch</id>
-    <link href="https://github.com/zilliztech/memsearch"/>
-    <updated>2026-08-24T00:00:00Z</updated>
-    <summary>Shared Markdown memory for DSH and other coding agents, with automatic capture, pre-step context injection, searchable recall, and a review panel.</summary>
   </entry>
 </feed>

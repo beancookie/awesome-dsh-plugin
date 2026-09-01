@@ -2,8 +2,8 @@
  "name": "awesome-dsh-plugin",
  "url": "https://beancookie.github.io/awesome-dsh-plugin",
  "source": "https://github.com/beancookie/awesome-dsh-plugin",
- "updated": "2026-08-30",
- "count": 456,
+ "updated": "2026-09-01",
+ "count": 457,
  "categories": {
   "ui": {
    "zh": "UI 增强",
@@ -1925,6 +1925,21 @@
    "createdAt": "2026-08-12",
    "install": "dsh plugin --profile web add github:yuezengwu/dsh-explain",
    "added": "2026-08-13"
+  },
+  {
+   "name": "dsh-memory_rollout",
+   "owner": "Bionic-forest",
+   "url": "https://github.com/Bionic-forest/dsh-memory_rollout",
+   "category": "memory",
+   "description": {
+    "zh": "Codex 风格的 DSH 会话持久记忆：一会话一草稿（rollout_summaries）、分层披露（summary→注册表→草稿/证据）、克制被动、幂等整合，跨会话记住事实/偏好/决策并带可核验引用，npm 包名 `dsh-memory_rollout`。",
+    "en": "Codex-style per-session memory for DSH: one session one draft (rollout_summaries), layered disclosure (summary → registry → drafts/evidence), restrained & passive, idempotent integration, remembers facts/preferences/decisions across sessions with verifiable citations, npm package `dsh-memory_rollout`."
+   },
+   "npm": "dsh-memory_rollout",
+   "stars": 0,
+   "createdAt": "2026-08-27",
+   "install": "dsh plugin --profile web add dsh-memory_rollout",
+   "added": "2026-09-01"
   },
   {
    "name": "dsh-context",
