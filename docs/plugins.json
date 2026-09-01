@@ -1426,7 +1426,7 @@
     "en": "DSH Web custom theme importer: one-click import from local paths or GitHub theme collections, live preview and refresh, hosted theme library; the lightweight format lets authors edit CSS/DOM files and hot-reload, making it a friendly option for personal theme development and sharing."
    },
    "npm": null,
-   "stars": 1,
+   "stars": 2,
    "createdAt": "2026-08-16",
    "install": "dsh plugin --profile web add github:Juryorca/dsh-custom-theme-import",
    "added": "2026-08-18"
@@ -2401,7 +2401,7 @@
     "en": "A scored memory-tree plugin (eco-memory-tree): structured long-term memory with BM25/Chinese retrieval and two-way Obsidian sync."
    },
    "npm": null,
-   "stars": 0,
+   "stars": 1,
    "createdAt": "2026-08-18",
    "install": "dsh plugin --profile web add github:xiejianjun000/eco-dsh-plugins",
    "added": "2026-08-18"
@@ -3271,7 +3271,7 @@
     "en": "Complete task-scoped git worktrees: per-repo manifest for durable state, worktree-<name> branches, bring-back to main or direct commit, optional carry-over of uncommitted main changes (modeled on Qoder / Codex / Claude Code)."
    },
    "npm": "dsh-task-worktree",
-   "stars": 1,
+   "stars": 2,
    "createdAt": "2026-08-18",
    "install": "dsh plugin --profile web add dsh-task-worktree",
    "added": "2026-08-18"
@@ -3466,7 +3466,7 @@
     "en": "Read-only trading research workbench: a typed market-data seam (bring your own data source), multi-timeframe indicator regime snapshots, interactive candlestick cards in the dsh web UI (AI annotations require cited sources verified against real candle ranges), and a structurally order-blocking risk-guard."
    },
    "npm": null,
-   "stars": 18,
+   "stars": 26,
    "createdAt": "2026-08-17",
    "install": "dsh plugin --profile web add github:maddogfinance/dsh-trading",
    "added": "2026-08-19"
@@ -3901,7 +3901,7 @@
     "en": "In-conversation read-aloud with Doubao-quality voices: every AI reply gets a 🔊 tap-to-read / auto-read toggle (off by default, state persisted), with voices synthesized by the local Omi engine (Doubao seed-tts); BYOK — keys stay in your local Keychain, the plugin stores none."
    },
    "npm": null,
-   "stars": 46,
+   "stars": 79,
    "createdAt": "2026-08-18",
    "install": "dsh plugin --profile web add github:PolinniZhong/dsh-omi-voice",
    "added": "2026-08-18"
@@ -4576,7 +4576,7 @@
     "en": "Skill lifecycle manager for DSH: list / edit / import / enable / disable skills under a global-workspace-session three-layer model, with unified settings & conversation UI, cross-layer search and pagination."
    },
    "npm": null,
-   "stars": 0,
+   "stars": 1,
    "createdAt": "2026-08-18",
    "install": "dsh plugin --profile web add github:yanglaofish/dsh-skill-manager",
    "added": "2026-08-18"
@@ -4741,7 +4741,7 @@
     "en": "Recursive Self-Improvement engine: bounded perceive→integrate→verify→parity→repair→propose loop + 128-plugin 1:1 parity gate — DSH maintains DSH."
    },
    "npm": null,
-   "stars": 1,
+   "stars": 2,
    "createdAt": "2026-08-18",
    "install": "dsh plugin --profile web add github:huchunlinnk/deepseek-desk-rsi",
    "added": "2026-08-19"
@@ -5221,7 +5221,7 @@
     "en": "Feishu notifications on session end / input needed."
    },
    "npm": null,
-   "stars": 1,
+   "stars": 2,
    "createdAt": "2026-08-07",
    "install": "dsh plugin --profile web add github:dsh-external/dsh-feishu-notify",
    "added": "2026-08-14"
@@ -5416,7 +5416,7 @@
     "en": "Feishu (Lark) UI for DeepSeek Harness: panel-driven control console, in-card approvals and questions, live streaming cards, one-QR setup."
    },
    "npm": null,
-   "stars": 25,
+   "stars": 26,
    "createdAt": "2026-08-14",
    "install": "dsh plugin --profile web add github:PGZXB/dsh-feishu",
    "added": "2026-08-18"
