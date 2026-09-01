@@ -187,6 +187,7 @@ DeepSeek Harness is DeepSeek's open-source agent harness — a runnable coding a
 - [yuezengwu/dsh-explain](https://github.com/yuezengwu/dsh-explain) - Local-first learning mode: cross-session learning threads with per-source explanations.
 
 ### Memory
+- [Bionic-forest/dsh-memory_rollout](https://github.com/Bionic-forest/dsh-memory_rollout) - Codex-style per-session memory for DSH: one session one draft (rollout_summaries), layered disclosure (summary → registry → drafts/evidence), restrained & passive, idempotent integration, remembers facts/preferences/decisions across sessions with verifiable citations, npm package `dsh-memory_rollout`.
 - [dsh-context](https://github.com/bowenliang123/dsh-context) - Context insight panel: see what the model's context window is made of and how it evolves — composition vs. window size, per-request history, compression/injection events, and per-message token stats.
 - [Breeze136/dsh-kb-rag](https://github.com/Breeze136/dsh-kb-rag) - Local literature knowledge-base RAG: 8 tools (PDF/folder/Zotero ingest, hybrid BM25+vector+reranker search, cited QA with clickable DOI links, scope/strict modes, dedup/clear/stats), all-local bge embeddings + single-file SQLite, measured 242-doc/86s ingest and sub-second hot queries on 20k chunks.
 - [flymysql/dsh-memory](https://github.com/flymysql/dsh-memory) - Cross-session memory vault: remember / recall / forget tools, per-turn prompt injection, and a settings-page entry browser.
