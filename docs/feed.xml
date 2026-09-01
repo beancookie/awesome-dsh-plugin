@@ -13,6 +13,13 @@
     <summary>Codex 风格的 DSH 会话持久记忆：一会话一草稿（rollout_summaries）、分层披露（summary→注册表→草稿/证据）、克制被动、幂等整合，跨会话记住事实/偏好/决策并带可核验引用，npm 包名 `dsh-memory_rollout`。</summary>
   </entry>
   <entry>
+    <title>KongFangXun/sofagent</title>
+    <id>https://github.com/KongFangXun/sofagent</id>
+    <link href="https://github.com/KongFangXun/sofagent"/>
+    <updated>2026-09-01T00:00:00Z</updated>
+    <summary>提交时审计 harness：24 条确定性规则审查 git diff（密钥、越权改动、盲改、提示注入痕迹），HMAC 链式防篡改审计记录，含 9 插件 DSH 家族（engine/dsh-plugins）。 — 上下文注入审计：统计指令链/技能目录/工具 schema 的 token 成本，检测重复与冲突。</summary>
+  </entry>
+  <entry>
     <title>dgadelha1/dsh-explorer-plugin</title>
     <id>https://github.com/dgadelha1/dsh-explorer-plugin</id>
     <link href="https://github.com/dgadelha1/dsh-explorer-plugin"/>
@@ -207,12 +214,5 @@
     <link href="https://github.com/qwert702/dsh-continue-on-limit"/>
     <updated>2026-08-24T00:00:00Z</updated>
     <summary>本地模型触顶输出 token 上限时自动补发 continue：双源检测（turn-max-tokens 节点 + provider 响应），maxConsecutive 护栏（默认 3）防止死循环。</summary>
-  </entry>
-  <entry>
-    <title>qwert702/dsh-memory</title>
-    <id>https://github.com/qwert702/dsh-memory</id>
-    <link href="https://github.com/qwert702/dsh-memory"/>
-    <updated>2026-08-24T00:00:00Z</updated>
-    <summary>DSH Web 的项目级与全局长期记忆：独立的 POST /items 路由避免路径冲突，存储前对多轮工具调用上下文压缩，去重与会话持久化存储。</summary>
   </entry>
 </feed>

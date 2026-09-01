@@ -13,6 +13,13 @@
     <summary>Codex-style per-session memory for DSH: one session one draft (rollout_summaries), layered disclosure (summary → registry → drafts/evidence), restrained &amp; passive, idempotent integration, remembers facts/preferences/decisions across sessions with verifiable citations, npm package `dsh-memory_rollout`.</summary>
   </entry>
   <entry>
+    <title>KongFangXun/sofagent</title>
+    <id>https://github.com/KongFangXun/sofagent</id>
+    <link href="https://github.com/KongFangXun/sofagent"/>
+    <updated>2026-09-01T00:00:00Z</updated>
+    <summary>Commit-time governance harness for AI coding agents: 24 deterministic audit rules over git diffs (secrets, out-of-scope edits, blind modifications, prompt-injection traces), HMAC-chained audit history, and a 9-plugin DSH family. - Context injection audit: token costs of instruction chains / skill catalogs / tool schemas, duplicate and conflict detection.</summary>
+  </entry>
+  <entry>
     <title>dgadelha1/dsh-explorer-plugin</title>
     <id>https://github.com/dgadelha1/dsh-explorer-plugin</id>
     <link href="https://github.com/dgadelha1/dsh-explorer-plugin"/>
@@ -207,12 +214,5 @@
     <link href="https://github.com/qwert702/dsh-continue-on-limit"/>
     <updated>2026-08-24T00:00:00Z</updated>
     <summary>Auto-sends continue when a local model hits its output-token cap: dual-source detection (turn-max-tokens node + provider response), maxConsecutive guard (default 3) prevents infinite loops.</summary>
-  </entry>
-  <entry>
-    <title>qwert702/dsh-memory</title>
-    <id>https://github.com/qwert702/dsh-memory</id>
-    <link href="https://github.com/qwert702/dsh-memory"/>
-    <updated>2026-08-24T00:00:00Z</updated>
-    <summary>Project-level and global long-term memory for DSH Web: isolated POST /items route to avoid path conflicts, multi-turn tool-call context compression before storing entries, deduplication and session-persistent storage.</summary>
   </entry>
 </feed>
