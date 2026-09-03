@@ -706,7 +706,7 @@
     "en": "DSH plugin manager panel: one-click enable/disable of installed plugins, multi-source market (GitHub/Gitee/custom), static-index market (500+ plugins / 300 skills), skill install/disable, one-click bundle assembly, and framework upgrade adaptation."
    },
    "npm": null,
-   "stars": 72,
+   "stars": 75,
    "createdAt": "2026-08-14",
    "install": "dsh plugin --profile web add github:Noob-stupid/dsh-plugin-hub",
    "added": "2026-08-20"
@@ -1231,7 +1231,7 @@
     "en": "Results-only view toggle for the DSH Web GUI: folds thinking and tool-call process rows so conversations show only user messages and final replies; live summary chips for running steps, click-to-expand turn trace with hover-peek, auto/manual fold modes."
    },
    "npm": "dsh-result-only-view",
-   "stars": 2,
+   "stars": 3,
    "createdAt": "2026-08-15",
    "install": "dsh plugin --profile web add dsh-result-only-view",
    "added": "2026-08-27"
@@ -1861,7 +1861,7 @@
     "en": "In-bubble inline edit and recall for user messages in DSH Web: lazy commit, seamless replacement, a version pager, draft auto-backup, and trilingual i18n."
    },
    "npm": null,
-   "stars": 90,
+   "stars": 102,
    "createdAt": "2026-08-18",
    "install": "dsh plugin --profile web add github:Renzic-Stone/DSH-EasyRewrite",
    "added": "2026-08-20"
@@ -3526,7 +3526,7 @@
     "en": "Read-only Grafana tools over the data source proxy: instance health, data sources, instant and range PromQL queries, current alert state, and provisioned alert rules. npm `dsh-grafana-query`."
    },
    "npm": "dsh-grafana-query",
-   "stars": 1,
+   "stars": 2,
    "createdAt": "2026-08-26",
    "install": "dsh plugin --profile web add dsh-grafana-query",
    "added": "2026-08-27"
@@ -3541,7 +3541,7 @@
     "en": "Read-only Odoo tools over JSON-RPC: server info, model field introspection, and a restricted search_read on an allow list of models. A draft-create tool is registered only when allowWrite is enabled. npm `dsh-odoo`."
    },
    "npm": "dsh-odoo",
-   "stars": 1,
+   "stars": 2,
    "createdAt": "2026-08-26",
    "install": "dsh plugin --profile web add dsh-odoo",
    "added": "2026-08-27"
@@ -6166,7 +6166,7 @@
     "en": "Read-only Sentry tools: project listing, issue search and detail, and the latest or a specific event with a trimmed stacktrace that drops local variables, request data, and secret-looking tags. npm `dsh-sentry`."
    },
    "npm": "dsh-sentry",
-   "stars": 1,
+   "stars": 2,
    "createdAt": "2026-08-26",
    "install": "dsh plugin --profile web add dsh-sentry",
    "added": "2026-08-27"
@@ -6346,7 +6346,7 @@
     "en": "Native DSH Settings marketplace for community catalog search, tag filtering, plugin installation, and installed-package review."
    },
    "npm": null,
-   "stars": 3,
+   "stars": 4,
    "createdAt": "2026-08-17",
    "install": "dsh plugin --profile web add github:sandbaseai/dsh-plugin-store",
    "added": "2026-08-20"
