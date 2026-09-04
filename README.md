@@ -187,6 +187,7 @@ DeepSeek Harness 是 DeepSeek 开源的 agent harness——既是可直接运行
 - [yuezengwu/dsh-explain](https://github.com/yuezengwu/dsh-explain) — 本地优先学习模式：跨会话全局学习线程、按来源讲解。
 
 ### 🧠 记忆
+- [lcthe/dsh-hermes-memory](https://github.com/lcthe/dsh-hermes-memory) — 面向 DSH 的原生持久记忆插件：会话检索、常驻上下文、崩溃安全合并和本地技能存储。
 - [Bionic-forest/dsh-memory_rollout](https://github.com/Bionic-forest/dsh-memory_rollout) — Codex 风格的 DSH 会话持久记忆：一会话一草稿（rollout_summaries）、分层披露（summary→注册表→草稿/证据）、克制被动、幂等整合，跨会话记住事实/偏好/决策并带可核验引用，npm 包名 `dsh-memory_rollout`。
 - [bowenliang123/dsh-context](https://github.com/bowenliang123/dsh-context) — 上下文洞察面板：一眼看清模型上下文窗口的组成与变化——构成对照窗口大小、按请求历史趋势、压缩/注入事件、消息级 token 统计。
 - [Breeze136/dsh-kb-rag](https://github.com/Breeze136/dsh-kb-rag) — 本地文献知识库 RAG：8 个工具（PDF/文件夹/Zotero 入库、BM25+向量+重排混合检索、DOI 可点击溯源问答、范围/严格模式、去重/清空/统计），全本地 bge 嵌入 + 单文件 SQLite，实测 242 篇 86s 入库、2 万块亚秒热查询。
