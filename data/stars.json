@@ -432,14 +432,14 @@
  "https://github.com/chenzhi-clude/dsh-hooks-pack": {
   "stars": 1,
   "createdAt": "2026-08-21",
-  "etag": "W/\"7f523b024fe84f6ea3269a9d1652ef58da98f69a3b6b35a9a459d0583202b3bf\"",
-  "checkedAt": "2026-08-29"
+  "etag": "W/\"35c02fad234bf68ed31f49aa1d663de9918287b1d37c04efba4a9ec44620d0c9\"",
+  "checkedAt": "2026-09-05"
  },
  "https://github.com/chenzhi-clude/dsh-plugin-market": {
   "stars": 1,
   "createdAt": "2026-08-21",
-  "etag": "W/\"7e1b1f3b589620326701eb33a38649fee59c86d5ca20dfc37cf411876a55dead\"",
-  "checkedAt": "2026-08-29"
+  "etag": "W/\"ad4306b65f648d975750a2018a07372b7fc37f48af94b8c58093185dcf531eb3\"",
+  "checkedAt": "2026-09-05"
  },
  "https://github.com/Chinesezjc/dsh-interconnect": {
   "stars": 35,
@@ -2144,10 +2144,10 @@
   "checkedAt": "2026-08-31"
  },
  "https://github.com/sandbaseai/deepseek-harness-handbook": {
-  "stars": 80,
+  "stars": 141,
   "createdAt": "2026-08-14",
-  "etag": "W/\"84b4b67e2384a93c203bc121dcce60a81d81108a7b16c471fe537556e442984e\"",
-  "checkedAt": "2026-08-29"
+  "etag": "W/\"3ee999b1cd1a8c99c920dc8400a264561c37a2023c4bf206139945c06923bc99\"",
+  "checkedAt": "2026-09-05"
  },
  "https://github.com/sandbaseai/dsh-plugin-store": {
   "stars": 4,
