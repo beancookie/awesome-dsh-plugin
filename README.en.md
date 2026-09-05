@@ -534,6 +534,8 @@ DeepSeek Harness is DeepSeek's open-source agent harness — a runnable coding a
 - [vlln/whale-girl](https://github.com/vlln/whale-girl) - Desktop pet (QQ-pet style): floats in the corner, draggable, feedable, playable.
 - [william-jin-cmu/dsh-stickers](https://github.com/william-jin-cmu/dsh-stickers) - Bidirectional sticker reactions between user and agent.
 
+- [weibaohui/dsh-xiuxian](https://github.com/weibaohui/dsh-xiuxian) - Xianxia desktop pets tied to live agent sessions: pixel-style companions appear as subagents spawn (up to 3 on screen), with storage-bag collection, a right-click artifact menu, a pet gallery, and Codex pet-format export.
+
 ## Related
 
 - [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness) - Official runtime and core documentation.
