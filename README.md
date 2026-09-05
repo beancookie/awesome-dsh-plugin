@@ -171,6 +171,7 @@ DeepSeek Harness 是 DeepSeek 开源的 agent harness——既是可直接运行
 - [czm15053/dsh-peer-link](https://github.com/czm15053/dsh-peer-link) — 让 dsh 和 Claude Code 会话直接互发消息，附带可点击的会话列表卡片（搜索/刷新/弹窗发送）。
 - [dsh-session-search](https://github.com/dsh-external/dsh-session-search) — 跨 dsh/Codex/Claude Code/pi/OpenCode 会话只读搜索，无索引。
 - [edfrey0044/dsh-unarchive](https://github.com/edfrey0044/dsh-unarchive) — 恢复已归档会话：/unarchive 命令与 unarchive_session 工具，把会话移出归档集合、在原位置重新出现在工作区（归档从不删除数据）。
+- [extracurricular-ai/dsh-filesnap](https://github.com/extracurricular-ai/dsh-filesnap) — 同步回退对话与工作区，不碰 Git；每次回退都是一个 fork，/redo 可撤销。
 - [flyingtimes/dsh-trajectory-reader](https://github.com/flyingtimes/dsh-trajectory-reader) — 轨迹解读标签页：按用户轮次解读助手做了什么（需求/思路/执行/结果），规则引擎 + 可选 LLM 叙述，文件/命令/错误一目了然，用户消息原样保留。
 - [futongxu9-maker/dsh-msgrail](https://github.com/futongxu9-maker/dsh-msgrail) — 对话右缘消息轨道：每条用户消息一个品牌色圆点，悬停预览、点击跳转、自动加载未加载历史，纯插件零宿主侵入。
 - [hellodigua/dsh-share](https://github.com/hellodigua/dsh-share) — 一键分享你的对话。
