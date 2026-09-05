@@ -32,7 +32,7 @@ DeepSeek Harness 是 DeepSeek 开源的 agent harness——既是可直接运行
 
 </details>
 
-**457** 个插件 · 欢迎 [PR](#贡献)
+**458** 个插件 · 欢迎 [PR](#贡献)
 
 ## 目录
 
@@ -77,6 +77,7 @@ DeepSeek Harness 是 DeepSeek 开源的 agent harness——既是可直接运行
 - [dsh-blue/blue](https://github.com/dsh-blue/blue) — DeepSeek Harness 的交互式全屏终端 UI：流式 Markdown 转录、工具调用卡片、审批面板、会话管理、主题热切换——全部组件皆为可热插拔的插件树。
 - [dsh-paste-input](https://github.com/dsh-external/dsh-paste-input) — Ctrl+V 粘贴文件 / 拖拽 / 选择。
 - [dsh-web-panel](https://github.com/dsh-external/dsh-web-panel) — 内嵌终端 dock + Git Review + 文件视图。
+- [dugujun3-cloud/dshos-dock](https://github.com/dugujun3-cloud/dshos-dock) — 工作区 OS 状态条：输入框上方常驻显示任务统计（总数/进行中/待验收）、最近运行事件与自检日期；零依赖只读，数据来自工作区 .dshos/ 文本契约，兼容旧 DSH-OS 布局，30 秒自动刷新。
 - [fishxcode/dsh-plugin-deepseek-balance](https://github.com/fishxcode/dsh-plugin-deepseek-balance) — 在 DSH Web 设置中展示 DeepSeek API 余额、余额趋势与每日用量图表。
 - [FuqiangCraft/dsh-desktop](https://github.com/FuqiangCraft/dsh-desktop) — 为 DSH 提供桌面通知、多 Agent 可视化画布和可选的屏幕截图工具。
 - [Ghost011118/dsh-balance-meter](https://github.com/Ghost011118/dsh-balance-meter) — 输入框 dock 显示 DeepSeek 账户余额与会话花费，自动拉取官方定价，支持高峰/低谷计价。
