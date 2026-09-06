@@ -416,6 +416,7 @@ DeepSeek Harness is DeepSeek's open-source agent harness — a runnable coding a
 - [titanwings/dsh-plannotator](https://github.com/titanwings/dsh-plannotator) - Plan review with anchored annotations and structured feedback back to the agent.
 - [vlln/dsh-loop](https://github.com/vlln/dsh-loop) - Recurring loops: `/loop` command + loop tool + activity status bar.
 - [weibaohui/dsh-tasks](https://github.com/weibaohui/dsh-tasks) - Scheduled tasks: run a prompt on cron schedules, each run opens a new agent session to do the work, with workspace binding, manual run, session auto-naming, and a fullscreen task management page.
+- [weibaohui/experts-management](https://github.com/weibaohui/experts-management) - Expert manager: manage ntd-format experts and expert teams (plugin.json + Agent MD + skill sets), browse and install from a built-in market of 50+ experts, and run tasks in an expert persona via /expert-<name> without consuming model directory tokens.
 - [whateverboy2333/dsh-flat-teams](https://github.com/whateverboy2333/dsh-flat-teams) - Leaderless flat agent teams: cross-window structured task dispatch (state machine + event stream + offline resume), a read-only progress recorder, and a two-level web dashboard.
 
 ### Notifications & Integrations
