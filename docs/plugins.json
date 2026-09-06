@@ -3,7 +3,7 @@
  "url": "https://beancookie.github.io/awesome-dsh-plugin",
  "source": "https://github.com/beancookie/awesome-dsh-plugin",
  "updated": "2026-09-06",
- "count": 464,
+ "count": 465,
  "categories": {
   "ui": {
    "zh": "UI 增强",
@@ -2180,6 +2180,21 @@
    "createdAt": null,
    "install": "dsh plugin --profile web add github:JohnXu22786/memory-vault",
    "added": "2026-08-17"
+  },
+  {
+   "name": "dsh-hermes-memory",
+   "owner": "lcthe",
+   "url": "https://github.com/lcthe/dsh-hermes-memory",
+   "category": "memory",
+   "description": {
+    "zh": "面向 DSH 的原生持久记忆插件：会话检索、常驻上下文、崩溃安全合并和本地技能存储。",
+    "en": "DSH-native persistent memory: session-aware retrieval, standing context, crash-safe consolidation, and storage-backed skills."
+   },
+   "npm": "@lcthe/dsh-hermes-memory",
+   "stars": 0,
+   "createdAt": "2026-08-26",
+   "install": "dsh plugin --profile web add @lcthe/dsh-hermes-memory",
+   "added": "2026-09-06"
   },
   {
    "name": "distill",

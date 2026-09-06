@@ -879,6 +879,10 @@
   "npm": null,
   "checkedAt": "2026-08-16"
  },
+ "https://github.com/lcthe/dsh-hermes-memory": {
+  "npm": "@lcthe/dsh-hermes-memory",
+  "checkedAt": "2026-09-06"
+ },
  "https://github.com/leechen298/Code2Skill": {
   "npm": null,
   "checkedAt": "2026-08-14"

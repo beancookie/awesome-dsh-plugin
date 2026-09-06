@@ -32,7 +32,7 @@ DeepSeek Harness is DeepSeek's open-source agent harness — a runnable coding a
 
 </details>
 
-**464** plugins · [PRs welcome](#contributing)
+**465** plugins · [PRs welcome](#contributing)
 
 ## Contents
 
@@ -192,7 +192,6 @@ DeepSeek Harness is DeepSeek's open-source agent harness — a runnable coding a
 - [yuezengwu/dsh-explain](https://github.com/yuezengwu/dsh-explain) - Local-first learning mode: cross-session learning threads with per-source explanations.
 
 ### Memory
-- [lcthe/dsh-hermes-memory](https://github.com/lcthe/dsh-hermes-memory) - DSH-native persistent memory: session-aware retrieval, standing context, crash-safe consolidation, and storage-backed skills.
 - [Bionic-forest/dsh-memory_rollout](https://github.com/Bionic-forest/dsh-memory_rollout) - Codex-style per-session memory for DSH: one session one draft (rollout_summaries), layered disclosure (summary → registry → drafts/evidence), restrained & passive, idempotent integration, remembers facts/preferences/decisions across sessions with verifiable citations, npm package `dsh-memory_rollout`.
 - [dsh-context](https://github.com/bowenliang123/dsh-context) - Context insight panel: see what the model's context window is made of and how it evolves — composition vs. window size, per-request history, compression/injection events, and per-message token stats.
 - [Breeze136/dsh-kb-rag](https://github.com/Breeze136/dsh-kb-rag) - Local literature knowledge-base RAG: 8 tools (PDF/folder/Zotero ingest, hybrid BM25+vector+reranker search, cited QA with clickable DOI links, scope/strict modes, dedup/clear/stats), all-local bge embeddings + single-file SQLite, measured 242-doc/86s ingest and sub-second hot queries on 20k chunks.
@@ -205,6 +204,7 @@ DeepSeek Harness is DeepSeek's open-source agent harness — a runnable coding a
 - [imkelt/DSH-RAG](https://github.com/imkelt/DSH-RAG) - Local knowledge bases for DSH Web with multi-directory incremental indexing, BM25 and SiliconFlow hybrid retrieval, and source cards that locate and open original files.
 - [Jesse-njx/dsh-memory](https://github.com/Jesse-njx/dsh-memory) - Cited memory over DSH's lossless session log: distilled facts carry `(sessionId, eventRange)` citations that expand back to the exact original log excerpt.
 - [memory-vault](https://github.com/JohnXu22786/memory-vault) - Cross-session persistent memory for coding agents: SQLite local storage, hybrid keyword/semantic retrieval, Web and MCP interfaces.
+- [lcthe/dsh-hermes-memory](https://github.com/lcthe/dsh-hermes-memory) - DSH-native persistent memory: session-aware retrieval, standing context, crash-safe consolidation, and storage-backed skills.
 - [LoserFox/distill](https://github.com/LoserFox/distill) - Automatic conversation distillation: background subagent reflection + skill create/update.
 - [modusensus/dsh-mneme](https://github.com/modusensus/dsh-mneme) - Cross-session memory: SQLite with a human-editable Markdown mirror, background consolidation (dedup, merge, conflict resolution), and six memory tools.
 - [nowledge-co/nowledge-mem-deepseek-harness](https://github.com/nowledge-co/nowledge-mem-deepseek-harness) - One memory layer for every AI tool and agent: Context Bundle injection, prompt-time recall, MCP tools, and turn-end DSH thread capture.

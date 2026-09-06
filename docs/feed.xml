@@ -41,6 +41,13 @@
     <summary>自动续跑：agent 会话中断后自动续上，规则表按失败类型（限流/额度/鉴权/上下文超限/崩溃孤儿）路由——退避重试、换模型、压缩上下文后继续或止损通知，规则可视化编辑，全程活动日志。</summary>
   </entry>
   <entry>
+    <title>lcthe/dsh-hermes-memory</title>
+    <id>https://github.com/lcthe/dsh-hermes-memory</id>
+    <link href="https://github.com/lcthe/dsh-hermes-memory"/>
+    <updated>2026-09-06T00:00:00Z</updated>
+    <summary>面向 DSH 的原生持久记忆插件：会话检索、常驻上下文、崩溃安全合并和本地技能存储。</summary>
+  </entry>
+  <entry>
     <title>weibaohui/hermes-loop</title>
     <id>https://github.com/weibaohui/hermes-loop</id>
     <link href="https://github.com/weibaohui/hermes-loop"/>
@@ -207,12 +214,5 @@
     <link href="https://github.com/FuqiangCraft/dsh-desktop"/>
     <updated>2026-08-24T00:00:00Z</updated>
     <summary>为 DSH 提供桌面通知、多 Agent 可视化画布和可选的屏幕截图工具。</summary>
-  </entry>
-  <entry>
-    <title>qwert702/dsh-auto-translate</title>
-    <id>https://github.com/qwert702/dsh-auto-translate</id>
-    <link href="https://github.com/qwert702/dsh-auto-translate"/>
-    <updated>2026-08-24T00:00:00Z</updated>
-    <summary>在原回复下方行内自动翻译英文回复，工具调用附中文批注；翻译走独立的 provider 请求，绝不进入会话上下文。</summary>
   </entry>
 </feed>

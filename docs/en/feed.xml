@@ -41,6 +41,13 @@
     <summary>Auto-resume for interrupted sessions: rules route by failure type (rate limit, quota, auth, context overflow, crashed orphan) into backoff retry, model switch, resume-after-compaction, or stop-loss notification, with a visual rule editor and activity log.</summary>
   </entry>
   <entry>
+    <title>lcthe/dsh-hermes-memory</title>
+    <id>https://github.com/lcthe/dsh-hermes-memory</id>
+    <link href="https://github.com/lcthe/dsh-hermes-memory"/>
+    <updated>2026-09-06T00:00:00Z</updated>
+    <summary>DSH-native persistent memory: session-aware retrieval, standing context, crash-safe consolidation, and storage-backed skills.</summary>
+  </entry>
+  <entry>
     <title>weibaohui/hermes-loop</title>
     <id>https://github.com/weibaohui/hermes-loop</id>
     <link href="https://github.com/weibaohui/hermes-loop"/>
@@ -207,12 +214,5 @@
     <link href="https://github.com/FuqiangCraft/dsh-desktop"/>
     <updated>2026-08-24T00:00:00Z</updated>
     <summary>Adds desktop notifications, a multi-agent visualization canvas, and an optional screen-capture tool to DSH.</summary>
-  </entry>
-  <entry>
-    <title>qwert702/dsh-auto-translate</title>
-    <id>https://github.com/qwert702/dsh-auto-translate</id>
-    <link href="https://github.com/qwert702/dsh-auto-translate"/>
-    <updated>2026-08-24T00:00:00Z</updated>
-    <summary>Auto-translates English replies inline below the original text, with Chinese annotations for tool calls; translation goes through an independent provider request and never enters the session context.</summary>
   </entry>
 </feed>
