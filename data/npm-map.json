@@ -435,6 +435,10 @@
   "npm": null,
   "checkedAt": "2026-08-23"
  },
+ "https://github.com/extracurricular-ai/dsh-filesnap": {
+  "npm": "dsh-filesnap",
+  "checkedAt": "2026-09-06"
+ },
  "https://github.com/fakechris/dsh-harness-ops": {
   "npm": null,
   "checkedAt": "2026-08-19"

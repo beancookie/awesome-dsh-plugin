@@ -4,7 +4,14 @@
   <id>https://beancookie.github.io/awesome-dsh-plugin/en/</id>
   <link href="https://beancookie.github.io/awesome-dsh-plugin/en/"/>
   <link rel="self" href="https://beancookie.github.io/awesome-dsh-plugin/en/feed.xml"/>
-  <updated>2026-09-01T00:00:00Z</updated>
+  <updated>2026-09-06T00:00:00Z</updated>
+  <entry>
+    <title>extracurricular-ai/dsh-filesnap</title>
+    <id>https://github.com/extracurricular-ai/dsh-filesnap</id>
+    <link href="https://github.com/extracurricular-ai/dsh-filesnap"/>
+    <updated>2026-09-06T00:00:00Z</updated>
+    <summary>Rewind a conversation and its workspace together without touching Git; every rewind is a fork and /redo reverses it.</summary>
+  </entry>
   <entry>
     <title>Bionic-forest/dsh-memory_rollout</title>
     <id>https://github.com/Bionic-forest/dsh-memory_rollout</id>
@@ -207,12 +214,5 @@
     <link href="https://github.com/qwert702/dsh-context-compressor"/>
     <updated>2026-08-24T00:00:00Z</updated>
     <summary>Context compression for small models: compresses tool output and conversation history to a few sentences, freeing context for the actual task; continues in a fresh session automatically.</summary>
-  </entry>
-  <entry>
-    <title>qwert702/dsh-continue-on-limit</title>
-    <id>https://github.com/qwert702/dsh-continue-on-limit</id>
-    <link href="https://github.com/qwert702/dsh-continue-on-limit"/>
-    <updated>2026-08-24T00:00:00Z</updated>
-    <summary>Auto-sends continue when a local model hits its output-token cap: dual-source detection (turn-max-tokens node + provider response), maxConsecutive guard (default 3) prevents infinite loops.</summary>
   </entry>
 </feed>

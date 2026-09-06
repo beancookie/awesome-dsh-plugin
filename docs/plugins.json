@@ -2,8 +2,8 @@
  "name": "awesome-dsh-plugin",
  "url": "https://beancookie.github.io/awesome-dsh-plugin",
  "source": "https://github.com/beancookie/awesome-dsh-plugin",
- "updated": "2026-09-01",
- "count": 457,
+ "updated": "2026-09-06",
+ "count": 458,
  "categories": {
   "ui": {
    "zh": "UI 增强",
@@ -331,7 +331,7 @@
     "en": "An interactive full-screen terminal UI for DeepSeek Harness: streaming Markdown transcripts, tool-call cards, an approval panel, session management, and hot theme switching — every component is a hot-pluggable plugin tree."
    },
    "npm": null,
-   "stars": 16,
+   "stars": 18,
    "createdAt": "2026-08-18",
    "install": "dsh plugin --profile web add github:dsh-blue/blue",
    "added": "2026-08-24"
@@ -1715,6 +1715,21 @@
    "createdAt": "2026-08-16",
    "install": "dsh plugin --profile web add github:edfrey0044/dsh-unarchive",
    "added": "2026-08-16"
+  },
+  {
+   "name": "dsh-filesnap",
+   "owner": "extracurricular-ai",
+   "url": "https://github.com/extracurricular-ai/dsh-filesnap",
+   "category": "session",
+   "description": {
+    "zh": "同步回退对话与工作区，不碰 Git；每次回退都是一个 fork，/redo 可撤销。",
+    "en": "Rewind a conversation and its workspace together without touching Git; every rewind is a fork and /redo reverses it."
+   },
+   "npm": "dsh-filesnap",
+   "stars": 42,
+   "createdAt": "2026-08-27",
+   "install": "dsh plugin --profile web add dsh-filesnap",
+   "added": "2026-09-06"
   },
   {
    "name": "dsh-trajectory-reader",
@@ -4126,7 +4141,7 @@
     "en": "Full DSH configuration backup, restore, export, import, migrate and sync: settings, providers, plugins, MCP servers, skills, agent presets and workspaces in one ZIP, with encrypted backups, Git/WebDAV sync and a configuration marketplace."
    },
    "npm": "dsh-config-manager",
-   "stars": 49,
+   "stars": 83,
    "createdAt": "2026-08-14",
    "install": "dsh plugin --profile web add dsh-config-manager",
    "added": "2026-08-23"
@@ -5941,7 +5956,7 @@
     "en": "Track the origin of local development ports on Windows and safely manage verified DSH services."
    },
    "npm": "dsh-port-inspector",
-   "stars": 1,
+   "stars": 2,
    "createdAt": "2026-08-20",
    "install": "dsh plugin --profile web add dsh-port-inspector",
    "added": "2026-08-30"

@@ -4,7 +4,14 @@
   <id>https://beancookie.github.io/awesome-dsh-plugin/</id>
   <link href="https://beancookie.github.io/awesome-dsh-plugin/"/>
   <link rel="self" href="https://beancookie.github.io/awesome-dsh-plugin/feed.xml"/>
-  <updated>2026-09-01T00:00:00Z</updated>
+  <updated>2026-09-06T00:00:00Z</updated>
+  <entry>
+    <title>extracurricular-ai/dsh-filesnap</title>
+    <id>https://github.com/extracurricular-ai/dsh-filesnap</id>
+    <link href="https://github.com/extracurricular-ai/dsh-filesnap"/>
+    <updated>2026-09-06T00:00:00Z</updated>
+    <summary>同步回退对话与工作区，不碰 Git；每次回退都是一个 fork，/redo 可撤销。</summary>
+  </entry>
   <entry>
     <title>Bionic-forest/dsh-memory_rollout</title>
     <id>https://github.com/Bionic-forest/dsh-memory_rollout</id>
@@ -207,12 +214,5 @@
     <link href="https://github.com/qwert702/dsh-context-compressor"/>
     <updated>2026-08-24T00:00:00Z</updated>
     <summary>面向小模型的上下文压缩：把工具输出与对话历史压缩成几句话，为真正的任务腾出上下文；自动在新会话中继续。</summary>
-  </entry>
-  <entry>
-    <title>qwert702/dsh-continue-on-limit</title>
-    <id>https://github.com/qwert702/dsh-continue-on-limit</id>
-    <link href="https://github.com/qwert702/dsh-continue-on-limit"/>
-    <updated>2026-08-24T00:00:00Z</updated>
-    <summary>本地模型触顶输出 token 上限时自动补发 continue：双源检测（turn-max-tokens 节点 + provider 响应），maxConsecutive 护栏（默认 3）防止死循环。</summary>
   </entry>
 </feed>
