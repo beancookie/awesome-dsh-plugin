@@ -6,6 +6,13 @@
   <link rel="self" href="https://beancookie.github.io/awesome-dsh-plugin/en/feed.xml"/>
   <updated>2026-09-06T00:00:00Z</updated>
   <entry>
+    <title>weibaohui/dsh-settings-ui</title>
+    <id>https://github.com/weibaohui/dsh-settings-ui</id>
+    <link href="https://github.com/weibaohui/dsh-settings-ui"/>
+    <updated>2026-09-06T00:00:00Z</updated>
+    <summary>Customizes the native settings window: preset/custom sizes, fullscreen, background transparency, and theme, solid-color, or image backgrounds, with a floating ball for quick access; saved in the local browser.</summary>
+  </entry>
+  <entry>
     <title>extracurricular-ai/dsh-filesnap</title>
     <id>https://github.com/extracurricular-ai/dsh-filesnap</id>
     <link href="https://github.com/extracurricular-ai/dsh-filesnap"/>
@@ -207,12 +214,5 @@
     <link href="https://github.com/imkelt/DSH-RAG"/>
     <updated>2026-08-24T00:00:00Z</updated>
     <summary>Local knowledge bases for DSH Web with multi-directory incremental indexing, BM25 and SiliconFlow hybrid retrieval, and source cards that locate and open original files.</summary>
-  </entry>
-  <entry>
-    <title>qwert702/dsh-context-compressor</title>
-    <id>https://github.com/qwert702/dsh-context-compressor</id>
-    <link href="https://github.com/qwert702/dsh-context-compressor"/>
-    <updated>2026-08-24T00:00:00Z</updated>
-    <summary>Context compression for small models: compresses tool output and conversation history to a few sentences, freeing context for the actual task; continues in a fresh session automatically.</summary>
   </entry>
 </feed>

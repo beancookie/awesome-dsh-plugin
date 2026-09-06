@@ -3,7 +3,7 @@
  "url": "https://beancookie.github.io/awesome-dsh-plugin",
  "source": "https://github.com/beancookie/awesome-dsh-plugin",
  "updated": "2026-09-06",
- "count": 458,
+ "count": 459,
  "categories": {
   "ui": {
    "zh": "UI 增强",
@@ -1175,6 +1175,21 @@
    "createdAt": "2026-08-10",
    "install": "dsh plugin --profile web add github:vlln/dsh-task-status",
    "added": "2026-08-13"
+  },
+  {
+   "name": "dsh-settings-ui",
+   "owner": "weibaohui",
+   "url": "https://github.com/weibaohui/dsh-settings-ui",
+   "category": "ui",
+   "description": {
+    "zh": "设置界面自定义：调整原生设置窗口大小（全屏/预置/自定义宽高）、背景透明度与背景（主题/颜色/图片），悬浮球即开即调，存本机浏览器。",
+    "en": "Customizes the native settings window: preset/custom sizes, fullscreen, background transparency, and theme, solid-color, or image backgrounds, with a floating ball for quick access; saved in the local browser."
+   },
+   "npm": "@weibaohui/dsh-settings-ui",
+   "stars": 0,
+   "createdAt": "2026-09-01",
+   "install": "dsh plugin --profile web add @weibaohui/dsh-settings-ui",
+   "added": "2026-09-06"
   },
   {
    "name": "dsh-turn-cost",
