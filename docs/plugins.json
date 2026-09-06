@@ -3,7 +3,7 @@
  "url": "https://beancookie.github.io/awesome-dsh-plugin",
  "source": "https://github.com/beancookie/awesome-dsh-plugin",
  "updated": "2026-09-06",
- "count": 462,
+ "count": 464,
  "categories": {
   "ui": {
    "zh": "UI 增强",
@@ -470,6 +470,36 @@
    "createdAt": "2026-08-13",
    "install": "dsh plugin --profile web add github:huiliyi37/dsh-tianshu-tui",
    "added": "2026-08-13"
+  },
+  {
+   "name": "dsh-file-explorer-kit",
+   "owner": "ice5kysl",
+   "url": "https://github.com/ice5kysl/dsh-file-explorer-kit",
+   "category": "ui",
+   "description": {
+    "zh": "会话内「文件」页签：以当前会话工作区为根的面包屑浏览，内联预览消毒渲染的 Markdown、图片、带行号文本与 PDF；目录与读取走只读 /dsh-files 宿主路由，无写端点（中英双语）。",
+    "en": "In-session \"Files\" tab for dsh Web: breadcrumb browsing of the active session's workspace with inline previews of sanitized Markdown, images, line-numbered text and PDF via read-only /dsh-files host routes; no write endpoints. Bilingual zh/en."
+   },
+   "npm": "dsh-file-explorer-kit",
+   "stars": 0,
+   "createdAt": "2026-09-04",
+   "install": "dsh plugin --profile web add dsh-file-explorer-kit",
+   "added": "2026-09-06"
+  },
+  {
+   "name": "dsh-workspace-kit",
+   "owner": "ice5kysl",
+   "url": "https://github.com/ice5kysl/dsh-workspace-kit",
+   "category": "ui",
+   "description": {
+    "zh": "工作区优先的增强侧栏（以低优先级 shadow 内置工作区浏览器，可一键切回官方版）+ ⌘K Spotlight 模糊搜索：软归档/恢复、每工作区图标与强调色、拖拽排序、标题/路径/会话内容搜索；宿主侧附带只读 workspace_find/workspace_list 工具与斜杠命令（中英双语）。",
+    "en": "Workspace-first enhanced sidebar (shadows the built-in workspace browser at low priority, one-click toggle back) with soft workspace archive/restore, per-workspace icons and accent colors, drag reorder and title/path/session-content search, plus a ⌘K Spotlight palette; host side ships read-only workspace_find/workspace_list tools and slash commands. Bilingual zh/en."
+   },
+   "npm": "dsh-workspace-kit",
+   "stars": 0,
+   "createdAt": "2026-09-04",
+   "install": "dsh plugin --profile web add dsh-workspace-kit",
+   "added": "2026-09-06"
   },
   {
    "name": "dsh-ux",

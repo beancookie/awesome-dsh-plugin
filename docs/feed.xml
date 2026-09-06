@@ -6,6 +6,20 @@
   <link rel="self" href="https://beancookie.github.io/awesome-dsh-plugin/feed.xml"/>
   <updated>2026-09-06T00:00:00Z</updated>
   <entry>
+    <title>ice5kysl/dsh-file-explorer-kit</title>
+    <id>https://github.com/ice5kysl/dsh-file-explorer-kit</id>
+    <link href="https://github.com/ice5kysl/dsh-file-explorer-kit"/>
+    <updated>2026-09-06T00:00:00Z</updated>
+    <summary>会话内「文件」页签：以当前会话工作区为根的面包屑浏览，内联预览消毒渲染的 Markdown、图片、带行号文本与 PDF；目录与读取走只读 /dsh-files 宿主路由，无写端点（中英双语）。</summary>
+  </entry>
+  <entry>
+    <title>ice5kysl/dsh-workspace-kit</title>
+    <id>https://github.com/ice5kysl/dsh-workspace-kit</id>
+    <link href="https://github.com/ice5kysl/dsh-workspace-kit"/>
+    <updated>2026-09-06T00:00:00Z</updated>
+    <summary>工作区优先的增强侧栏（以低优先级 shadow 内置工作区浏览器，可一键切回官方版）+ ⌘K Spotlight 模糊搜索：软归档/恢复、每工作区图标与强调色、拖拽排序、标题/路径/会话内容搜索；宿主侧附带只读 workspace_find/workspace_list 工具与斜杠命令（中英双语）。</summary>
+  </entry>
+  <entry>
     <title>weibaohui/dsh-settings-ui</title>
     <id>https://github.com/weibaohui/dsh-settings-ui</id>
     <link href="https://github.com/weibaohui/dsh-settings-ui"/>
@@ -200,19 +214,5 @@
     <link href="https://github.com/qwert702/dsh-auto-translate"/>
     <updated>2026-08-24T00:00:00Z</updated>
     <summary>在原回复下方行内自动翻译英文回复，工具调用附中文批注；翻译走独立的 provider 请求，绝不进入会话上下文。</summary>
-  </entry>
-  <entry>
-    <title>qwert702/dsh-commander</title>
-    <id>https://github.com/qwert702/dsh-commander</id>
-    <link href="https://github.com/qwert702/dsh-commander"/>
-    <updated>2026-08-24T00:00:00Z</updated>
-    <summary>DSH Web 的指挥官模式：在会话标题栏注入协议简报，解析模型回复中的任务块并自动执行，策略与执行分离；通过徽章按钮激活。</summary>
-  </entry>
-  <entry>
-    <title>qwert702/dsh-token-viewer</title>
-    <id>https://github.com/qwert702/dsh-token-viewer</id>
-    <link href="https://github.com/qwert702/dsh-token-viewer"/>
-    <updated>2026-08-24T00:00:00Z</updated>
-    <summary>CC Switch 风格 token 用量统计：逐请求用量日志、带缓存命中率的真实消耗概览、趋势图、按模型的峰谷计价、按项目统计与账户余额。</summary>
   </entry>
 </feed>

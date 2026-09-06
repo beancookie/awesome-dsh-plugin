@@ -6,6 +6,20 @@
   <link rel="self" href="https://beancookie.github.io/awesome-dsh-plugin/en/feed.xml"/>
   <updated>2026-09-06T00:00:00Z</updated>
   <entry>
+    <title>ice5kysl/dsh-file-explorer-kit</title>
+    <id>https://github.com/ice5kysl/dsh-file-explorer-kit</id>
+    <link href="https://github.com/ice5kysl/dsh-file-explorer-kit"/>
+    <updated>2026-09-06T00:00:00Z</updated>
+    <summary>In-session &quot;Files&quot; tab for dsh Web: breadcrumb browsing of the active session's workspace with inline previews of sanitized Markdown, images, line-numbered text and PDF via read-only /dsh-files host routes; no write endpoints. Bilingual zh/en.</summary>
+  </entry>
+  <entry>
+    <title>ice5kysl/dsh-workspace-kit</title>
+    <id>https://github.com/ice5kysl/dsh-workspace-kit</id>
+    <link href="https://github.com/ice5kysl/dsh-workspace-kit"/>
+    <updated>2026-09-06T00:00:00Z</updated>
+    <summary>Workspace-first enhanced sidebar (shadows the built-in workspace browser at low priority, one-click toggle back) with soft workspace archive/restore, per-workspace icons and accent colors, drag reorder and title/path/session-content search, plus a ⌘K Spotlight palette; host side ships read-only workspace_find/workspace_list tools and slash commands. Bilingual zh/en.</summary>
+  </entry>
+  <entry>
     <title>weibaohui/dsh-settings-ui</title>
     <id>https://github.com/weibaohui/dsh-settings-ui</id>
     <link href="https://github.com/weibaohui/dsh-settings-ui"/>
@@ -200,19 +214,5 @@
     <link href="https://github.com/qwert702/dsh-auto-translate"/>
     <updated>2026-08-24T00:00:00Z</updated>
     <summary>Auto-translates English replies inline below the original text, with Chinese annotations for tool calls; translation goes through an independent provider request and never enters the session context.</summary>
-  </entry>
-  <entry>
-    <title>qwert702/dsh-commander</title>
-    <id>https://github.com/qwert702/dsh-commander</id>
-    <link href="https://github.com/qwert702/dsh-commander"/>
-    <updated>2026-08-24T00:00:00Z</updated>
-    <summary>Commander mode for DSH Web: inject protocol briefs into the session title bar, parse task blocks from model replies and auto-execute them, separating strategy from execution; activated via a badge button.</summary>
-  </entry>
-  <entry>
-    <title>qwert702/dsh-token-viewer</title>
-    <id>https://github.com/qwert702/dsh-token-viewer</id>
-    <link href="https://github.com/qwert702/dsh-token-viewer"/>
-    <updated>2026-08-24T00:00:00Z</updated>
-    <summary>CC Switch-style token consumption statistics: per-request usage log, real-consumption hero with cache-hit rate, trend chart, per-model peak/off-peak pricing, per-project stats, and account balance.</summary>
   </entry>
 </feed>

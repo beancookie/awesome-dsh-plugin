@@ -895,6 +895,18 @@
   "etag": "W/\"55fdfd85fc2d2e95194f11866c6f3454a2c6a76640e1cfad7d31a7381ff59328\"",
   "checkedAt": "2026-08-31"
  },
+ "https://github.com/ice5kysl/dsh-file-explorer-kit": {
+  "stars": 0,
+  "createdAt": "2026-09-04",
+  "etag": "W/\"5d2d732699517f3203c800e55e6df66108465973713407077af910136b333898\"",
+  "checkedAt": "2026-09-06"
+ },
+ "https://github.com/ice5kysl/dsh-workspace-kit": {
+  "stars": 0,
+  "createdAt": "2026-09-04",
+  "etag": "W/\"a226bff92a08b7f85a0e31dde97d57a7671d01e8176ba8bc966c55d1a01860e4\"",
+  "checkedAt": "2026-09-06"
+ },
  "https://github.com/icetomoyo/dsh_workflow": {
   "stars": 110,
   "createdAt": "2026-08-12",

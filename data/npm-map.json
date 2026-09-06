@@ -611,6 +611,14 @@
   "npm": null,
   "checkedAt": "2026-08-14"
  },
+ "https://github.com/ice5kysl/dsh-file-explorer-kit": {
+  "npm": "dsh-file-explorer-kit",
+  "checkedAt": "2026-09-06"
+ },
+ "https://github.com/ice5kysl/dsh-workspace-kit": {
+  "npm": "dsh-workspace-kit",
+  "checkedAt": "2026-09-06"
+ },
  "https://github.com/icetomoyo/dsh_workflow": {
   "npm": null,
   "checkedAt": "2026-08-14"
