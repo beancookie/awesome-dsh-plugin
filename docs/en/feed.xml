@@ -20,6 +20,13 @@
     <summary>Rewind a conversation and its workspace together without touching Git; every rewind is a fork and /redo reverses it.</summary>
   </entry>
   <entry>
+    <title>weibaohui/dsh-continue</title>
+    <id>https://github.com/weibaohui/dsh-continue</id>
+    <link href="https://github.com/weibaohui/dsh-continue"/>
+    <updated>2026-09-06T00:00:00Z</updated>
+    <summary>Auto-resume for interrupted sessions: rules route by failure type (rate limit, quota, auth, context overflow, crashed orphan) into backoff retry, model switch, resume-after-compaction, or stop-loss notification, with a visual rule editor and activity log.</summary>
+  </entry>
+  <entry>
     <title>weibaohui/hermes-loop</title>
     <id>https://github.com/weibaohui/hermes-loop</id>
     <link href="https://github.com/weibaohui/hermes-loop"/>
@@ -207,12 +214,5 @@
     <link href="https://github.com/qwert702/dsh-token-viewer"/>
     <updated>2026-08-24T00:00:00Z</updated>
     <summary>CC Switch-style token consumption statistics: per-request usage log, real-consumption hero with cache-hit rate, trend chart, per-model peak/off-peak pricing, per-project stats, and account balance.</summary>
-  </entry>
-  <entry>
-    <title>stephenlzc/dsh-swarm-panel#dsh-swarm-plugin</title>
-    <id>https://github.com/stephenlzc/dsh-swarm-panel/tree/main/dsh-swarm-plugin</id>
-    <link href="https://github.com/stephenlzc/dsh-swarm-panel/tree/main/dsh-swarm-plugin"/>
-    <updated>2026-08-24T00:00:00Z</updated>
-    <summary>Conversation Flow observability for DeepSeek Harness swarms, with topology, routed-message inspection, HITL pauses, Live follow, and child-session navigation.</summary>
   </entry>
 </feed>

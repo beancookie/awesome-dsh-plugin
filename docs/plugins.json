@@ -3,7 +3,7 @@
  "url": "https://beancookie.github.io/awesome-dsh-plugin",
  "source": "https://github.com/beancookie/awesome-dsh-plugin",
  "updated": "2026-09-06",
- "count": 461,
+ "count": 462,
  "categories": {
   "ui": {
    "zh": "UI 增强",
@@ -1925,6 +1925,21 @@
    "createdAt": "2026-08-17",
    "install": "dsh plugin --profile web add dsh-what-changed",
    "added": "2026-08-17"
+  },
+  {
+   "name": "dsh-continue",
+   "owner": "weibaohui",
+   "url": "https://github.com/weibaohui/dsh-continue",
+   "category": "session",
+   "description": {
+    "zh": "自动续跑：agent 会话中断后自动续上，规则表按失败类型（限流/额度/鉴权/上下文超限/崩溃孤儿）路由——退避重试、换模型、压缩上下文后继续或止损通知，规则可视化编辑，全程活动日志。",
+    "en": "Auto-resume for interrupted sessions: rules route by failure type (rate limit, quota, auth, context overflow, crashed orphan) into backoff retry, model switch, resume-after-compaction, or stop-loss notification, with a visual rule editor and activity log."
+   },
+   "npm": "@weibaohui/dsh-continue",
+   "stars": 0,
+   "createdAt": "2026-08-31",
+   "install": "dsh plugin --profile web add @weibaohui/dsh-continue",
+   "added": "2026-09-06"
   },
   {
    "name": "dsh-prompt-stash",
