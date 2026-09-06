@@ -20,6 +20,20 @@
     <summary>同步回退对话与工作区，不碰 Git；每次回退都是一个 fork，/redo 可撤销。</summary>
   </entry>
   <entry>
+    <title>weibaohui/hermes-loop</title>
+    <id>https://github.com/weibaohui/hermes-loop</id>
+    <link href="https://github.com/weibaohui/hermes-loop"/>
+    <updated>2026-09-06T00:00:00Z</updated>
+    <summary>自动复盘：对话收尾后自动把有价值的经验蒸馏成可复用技能存入技能库，支持信号加速触发、手动立即复盘、审批模式与技能库治理（归档/恢复，永不直接删除）。</summary>
+  </entry>
+  <entry>
+    <title>weibaohui/dsh-xiuxian</title>
+    <id>https://github.com/weibaohui/dsh-xiuxian</id>
+    <link href="https://github.com/weibaohui/dsh-xiuxian"/>
+    <updated>2026-09-06T00:00:00Z</updated>
+    <summary>修仙陪伴：MC 像素风桌宠与 agent 会话实时联动，子代理启动时化身宠物现身（最多 3 只同屏），储物袋收藏、右键法宝菜单、图鉴选宠，可导出 Codex 桌宠格式。</summary>
+  </entry>
+  <entry>
     <title>Bionic-forest/dsh-memory_rollout</title>
     <id>https://github.com/Bionic-forest/dsh-memory_rollout</id>
     <link href="https://github.com/Bionic-forest/dsh-memory_rollout"/>
@@ -200,19 +214,5 @@
     <link href="https://github.com/stephenlzc/dsh-swarm-panel/tree/main/dsh-swarm-plugin"/>
     <updated>2026-08-24T00:00:00Z</updated>
     <summary>DeepSeek Harness swarm 的 Conversation Flow 可观测性，支持查看拓扑、检查路由消息、HITL 暂停、Live 跟随和子会话导航。</summary>
-  </entry>
-  <entry>
-    <title>taxueseek/dsh-files</title>
-    <id>https://github.com/taxueseek/dsh-files</id>
-    <link href="https://github.com/taxueseek/dsh-files"/>
-    <updated>2026-08-24T00:00:00Z</updated>
-    <summary>文件上传（彩色附件卡片、会话隔离存储、sha256 去重、TTL 清扫）+ 内容嗅探的 read_document 文档读取（PDF/DOCX/XLSX/TXT）。</summary>
-  </entry>
-  <entry>
-    <title>imkelt/DSH-RAG</title>
-    <id>https://github.com/imkelt/DSH-RAG</id>
-    <link href="https://github.com/imkelt/DSH-RAG"/>
-    <updated>2026-08-24T00:00:00Z</updated>
-    <summary>DSH Web 本地知识库：支持多目录增量索引、BM25 与 SiliconFlow 混合检索，并在会话中展示可定位、可打开的来源。</summary>
   </entry>
 </feed>

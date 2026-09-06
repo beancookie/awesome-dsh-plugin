@@ -20,6 +20,20 @@
     <summary>Rewind a conversation and its workspace together without touching Git; every rewind is a fork and /redo reverses it.</summary>
   </entry>
   <entry>
+    <title>weibaohui/hermes-loop</title>
+    <id>https://github.com/weibaohui/hermes-loop</id>
+    <link href="https://github.com/weibaohui/hermes-loop"/>
+    <updated>2026-09-06T00:00:00Z</updated>
+    <summary>Automatic post-conversation retrospective that distills useful experience into reusable skills for the skill library, with approval mode and skill-library governance (archive/restore, never deletes directly).</summary>
+  </entry>
+  <entry>
+    <title>weibaohui/dsh-xiuxian</title>
+    <id>https://github.com/weibaohui/dsh-xiuxian</id>
+    <link href="https://github.com/weibaohui/dsh-xiuxian"/>
+    <updated>2026-09-06T00:00:00Z</updated>
+    <summary>Xianxia desktop pets tied to live agent sessions: pixel-style companions appear as subagents spawn (up to 3 on screen), with storage-bag collection, a right-click artifact menu, a pet gallery, and Codex pet-format export.</summary>
+  </entry>
+  <entry>
     <title>Bionic-forest/dsh-memory_rollout</title>
     <id>https://github.com/Bionic-forest/dsh-memory_rollout</id>
     <link href="https://github.com/Bionic-forest/dsh-memory_rollout"/>
@@ -200,19 +214,5 @@
     <link href="https://github.com/stephenlzc/dsh-swarm-panel/tree/main/dsh-swarm-plugin"/>
     <updated>2026-08-24T00:00:00Z</updated>
     <summary>Conversation Flow observability for DeepSeek Harness swarms, with topology, routed-message inspection, HITL pauses, Live follow, and child-session navigation.</summary>
-  </entry>
-  <entry>
-    <title>taxueseek/dsh-files</title>
-    <id>https://github.com/taxueseek/dsh-files</id>
-    <link href="https://github.com/taxueseek/dsh-files"/>
-    <updated>2026-08-24T00:00:00Z</updated>
-    <summary>File upload with color-coded attachment cards (session-isolated storage, sha256 dedup, TTL sweep) plus a content-sniffing read_document tool for PDF/DOCX/XLSX/TXT.</summary>
-  </entry>
-  <entry>
-    <title>imkelt/DSH-RAG</title>
-    <id>https://github.com/imkelt/DSH-RAG</id>
-    <link href="https://github.com/imkelt/DSH-RAG"/>
-    <updated>2026-08-24T00:00:00Z</updated>
-    <summary>Local knowledge bases for DSH Web with multi-directory incremental indexing, BM25 and SiliconFlow hybrid retrieval, and source cards that locate and open original files.</summary>
   </entry>
 </feed>

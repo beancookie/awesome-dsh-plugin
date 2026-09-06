@@ -3,7 +3,7 @@
  "url": "https://beancookie.github.io/awesome-dsh-plugin",
  "source": "https://github.com/beancookie/awesome-dsh-plugin",
  "updated": "2026-09-06",
- "count": 459,
+ "count": 461,
  "categories": {
   "ui": {
    "zh": "UI 增强",
@@ -2435,6 +2435,21 @@
    "createdAt": "2026-08-13",
    "install": "dsh plugin --profile web add github:Tyan66666/billion-context-dsh",
    "added": "2026-08-14"
+  },
+  {
+   "name": "hermes-loop",
+   "owner": "weibaohui",
+   "url": "https://github.com/weibaohui/hermes-loop",
+   "category": "memory",
+   "description": {
+    "zh": "自动复盘：对话收尾后自动把有价值的经验蒸馏成可复用技能存入技能库，支持信号加速触发、手动立即复盘、审批模式与技能库治理（归档/恢复，永不直接删除）。",
+    "en": "Automatic post-conversation retrospective that distills useful experience into reusable skills for the skill library, with approval mode and skill-library governance (archive/restore, never deletes directly)."
+   },
+   "npm": "@weibaohui/hermes-loop",
+   "stars": 0,
+   "createdAt": "2026-08-31",
+   "install": "dsh plugin --profile web add @weibaohui/hermes-loop",
+   "added": "2026-09-06"
   },
   {
    "name": "eco-dsh-plugins",
@@ -6920,6 +6935,21 @@
    "createdAt": "2026-08-10",
    "install": "dsh plugin --profile web add github:vlln/whale-girl",
    "added": "2026-08-13"
+  },
+  {
+   "name": "dsh-xiuxian",
+   "owner": "weibaohui",
+   "url": "https://github.com/weibaohui/dsh-xiuxian",
+   "category": "fun",
+   "description": {
+    "zh": "修仙陪伴：MC 像素风桌宠与 agent 会话实时联动，子代理启动时化身宠物现身（最多 3 只同屏），储物袋收藏、右键法宝菜单、图鉴选宠，可导出 Codex 桌宠格式。",
+    "en": "Xianxia desktop pets tied to live agent sessions: pixel-style companions appear as subagents spawn (up to 3 on screen), with storage-bag collection, a right-click artifact menu, a pet gallery, and Codex pet-format export."
+   },
+   "npm": "@weibaohui/dsh-xiuxian",
+   "stars": 0,
+   "createdAt": "2026-09-04",
+   "install": "dsh plugin --profile web add @weibaohui/dsh-xiuxian",
+   "added": "2026-09-06"
   },
   {
    "name": "dsh-stickers",
