@@ -1635,6 +1635,12 @@
   "etag": "W/\"07ff63d929dea8c5234241190461fe626c824b2afef72f2cb1d1873a58db9161\"",
   "checkedAt": "2026-09-07"
  },
+ "https://github.com/nvbb/dsh-ollama-vision-bridge": {
+  "stars": 0,
+  "createdAt": "2026-09-06",
+  "etag": "W/\"af8d1c49d9723876e72a027a031f5cdbf8c9c1e912cc6454d4707b2288860009\"",
+  "checkedAt": "2026-09-07"
+ },
  "https://github.com/Nwflower/dsh-chat-import": {
   "stars": 137,
   "createdAt": "2026-08-13",
@@ -2471,6 +2477,12 @@
   "etag": "W/\"a48f042d3e274f7d54310a0103a68a941cbcf7ee77d440ad32d26f3d550e70c4\"",
   "checkedAt": "2026-09-07"
  },
+ "https://github.com/weibaohui/context-razor": {
+  "stars": 0,
+  "createdAt": "2026-09-02",
+  "etag": "W/\"3a78e2f721535d9fb44bca9aab2ef33c765559979fee6b430881b507f3165058\"",
+  "checkedAt": "2026-09-07"
+ },
  "https://github.com/weibaohui/dsh-continue": {
   "stars": 0,
   "createdAt": "2026-08-31",
@@ -2505,6 +2517,12 @@
   "stars": 1,
   "createdAt": "2026-08-31",
   "etag": "W/\"2fdeae8a6a19f899b95033abf443a5cd6fe7710d77cf6a16655448b2161ed316\"",
+  "checkedAt": "2026-09-07"
+ },
+ "https://github.com/weibaohui/user-management": {
+  "stars": 0,
+  "createdAt": "2026-09-04",
+  "etag": "W/\"39d77f83e2daa9ee6bc3a945cd59ab8bcc36a996e7ce37981f0415009bcfafed\"",
   "checkedAt": "2026-09-07"
  },
  "https://github.com/WFMinerva/dsh-turn-cost": {

@@ -13,6 +13,20 @@
     <summary>工作区 OS 状态条：输入框上方常驻显示任务统计（总数/进行中/待验收）、最近运行事件与自检日期；零依赖只读，数据来自工作区 .dshos/ 文本契约，兼容旧 DSH-OS 布局，30 秒自动刷新。</summary>
   </entry>
   <entry>
+    <title>weibaohui/context-razor</title>
+    <id>https://github.com/weibaohui/context-razor</id>
+    <link href="https://github.com/weibaohui/context-razor"/>
+    <updated>2026-09-07T00:00:00Z</updated>
+    <summary>上下文剃刀：把当前会话上下文逐条列出（角色/预览/≈token 估算），超阈值标红，勾选后不经 LLM 精确裁剪，删了什么一目了然。</summary>
+  </entry>
+  <entry>
+    <title>nvbb/dsh-ollama-vision-bridge</title>
+    <id>https://github.com/nvbb/dsh-ollama-vision-bridge</id>
+    <link href="https://github.com/nvbb/dsh-ollama-vision-bridge"/>
+    <updated>2026-09-07T00:00:00Z</updated>
+    <summary>聊天选中纯文本模型时，自动用本地 Ollama VL 模型（qwen3-vl:8b）描述附图并注入同一模型步骤：本地视觉、显存冷却、无需云端（DSH ≥ 0.1.2-rc.1）。</summary>
+  </entry>
+  <entry>
     <title>weibaohui/skills-management</title>
     <id>https://github.com/weibaohui/skills-management</id>
     <link href="https://github.com/weibaohui/skills-management"/>
@@ -25,6 +39,13 @@
     <link href="https://github.com/weibaohui/dsh-tasks"/>
     <updated>2026-09-07T00:00:00Z</updated>
     <summary>定时任务：用 cron 表达式定时执行提示词，到点自动开一个新 agent 会话替你干活，支持绑定工作区、手动立即执行与会话自动命名。</summary>
+  </entry>
+  <entry>
+    <title>weibaohui/user-management</title>
+    <id>https://github.com/weibaohui/user-management</id>
+    <link href="https://github.com/weibaohui/user-management"/>
+    <updated>2026-09-07T00:00:00Z</updated>
+    <summary>用户管理：给 dsh web 加登录门禁，未登录访问弹登录/注册页，首个注册者自动成为管理员；管理员可管理用户/角色，带登录与访问审计。</summary>
   </entry>
   <entry>
     <title>ice5kysl/dsh-file-explorer-kit</title>
@@ -193,26 +214,5 @@
     <link href="https://github.com/SiriLee/dsh-edit-approval"/>
     <updated>2026-08-26T00:00:00Z</updated>
     <summary>写文件/工具调用前的逐处审批门：write/edit/stream 操作显示红绿行级 diff 后再放行，bash 命令审批（默认关）+ 可配置门控。</summary>
-  </entry>
-  <entry>
-    <title>tsingshitao-nuke/dsh-set-workspace</title>
-    <id>https://github.com/tsingshitao-nuke/dsh-set-workspace</id>
-    <link href="https://github.com/tsingshitao-nuke/dsh-set-workspace"/>
-    <updated>2026-08-26T00:00:00Z</updated>
-    <summary>在 Windows 资源管理器中右键文件夹，将其作为 DSH 工作区打开：注册文件夹、按需启动 DSH，并把页面切换到该工作区。</summary>
-  </entry>
-  <entry>
-    <title>maxmilian/dsh-sonarqube</title>
-    <id>https://github.com/maxmilian/dsh-sonarqube</id>
-    <link href="https://github.com/maxmilian/dsh-sonarqube"/>
-    <updated>2026-08-26T00:00:00Z</updated>
-    <summary>面向 SonarQube Community Build 的只读工具：实例状态、分支或 PR 的质量阈、议题与安全热点搜索，以及覆盖率、重复率或调用方指定的度量项。npm `dsh-sonarqube`。</summary>
-  </entry>
-  <entry>
-    <title>YEYEYEYESHIFU/dsh-session-hotkeys</title>
-    <id>https://github.com/YEYEYEYESHIFU/dsh-session-hotkeys</id>
-    <link href="https://github.com/YEYEYEYESHIFU/dsh-session-hotkeys"/>
-    <updated>2026-08-25T00:00:00Z</updated>
-    <summary>会话热键管理：像切浏览器标签页一样用键盘切换会话——Alt+1-9 顺序切换、固定槽位、上/下一个、新建/归档/重命名、键盘模型切换与备用发送，键位可在面板录制重绑，Windows/macOS 双预设。</summary>
   </entry>
 </feed>

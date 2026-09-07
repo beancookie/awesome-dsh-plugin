@@ -13,6 +13,20 @@
     <summary>Workspace OS status bar: task counts, latest run event, and checkup date above the input. Zero deps, read-only, .dshos/ text contract, legacy DSH-OS layout auto-detected, 30s refresh.</summary>
   </entry>
   <entry>
+    <title>weibaohui/context-razor</title>
+    <id>https://github.com/weibaohui/context-razor</id>
+    <link href="https://github.com/weibaohui/context-razor"/>
+    <updated>2026-09-07T00:00:00Z</updated>
+    <summary>Context trimmer: lists the current session's context entries with role, preview and ≈token estimate (cl100k), highlights over-threshold items, and removes selected entries exactly without LLM summarization.</summary>
+  </entry>
+  <entry>
+    <title>nvbb/dsh-ollama-vision-bridge</title>
+    <id>https://github.com/nvbb/dsh-ollama-vision-bridge</id>
+    <link href="https://github.com/nvbb/dsh-ollama-vision-bridge"/>
+    <updated>2026-09-07T00:00:00Z</updated>
+    <summary>When the chat model is text-only, describe attached images with a local Ollama VL model (qwen3-vl:8b) and inject into the same model step: local vision, no cloud (DSH ≥ 0.1.2-rc.1).</summary>
+  </entry>
+  <entry>
     <title>weibaohui/skills-management</title>
     <id>https://github.com/weibaohui/skills-management</id>
     <link href="https://github.com/weibaohui/skills-management"/>
@@ -25,6 +39,13 @@
     <link href="https://github.com/weibaohui/dsh-tasks"/>
     <updated>2026-09-07T00:00:00Z</updated>
     <summary>Scheduled tasks: run a prompt on cron schedules, each run opens a new agent session to do the work, with workspace binding, manual run, session auto-naming, and a fullscreen task management page.</summary>
+  </entry>
+  <entry>
+    <title>weibaohui/user-management</title>
+    <id>https://github.com/weibaohui/user-management</id>
+    <link href="https://github.com/weibaohui/user-management"/>
+    <updated>2026-09-07T00:00:00Z</updated>
+    <summary>Login gate for the dsh web UI: unauthenticated visitors get a login/register page and the first registrant becomes admin; includes user and role management plus login and access audit logs.</summary>
   </entry>
   <entry>
     <title>ice5kysl/dsh-file-explorer-kit</title>
@@ -193,26 +214,5 @@
     <link href="https://github.com/SiriLee/dsh-edit-approval"/>
     <updated>2026-08-26T00:00:00Z</updated>
     <summary>Per-change approval gate before file writes and tool calls: write/edit/stream operations show red/green line-level diffs before release, with bash command approval (off by default) and configurable gating.</summary>
-  </entry>
-  <entry>
-    <title>tsingshitao-nuke/dsh-set-workspace</title>
-    <id>https://github.com/tsingshitao-nuke/dsh-set-workspace</id>
-    <link href="https://github.com/tsingshitao-nuke/dsh-set-workspace"/>
-    <updated>2026-08-26T00:00:00Z</updated>
-    <summary>Right-click a folder in Windows File Explorer to open it as a DSH workspace: registers the folder, launches DSH if needed, and switches the page to it.</summary>
-  </entry>
-  <entry>
-    <title>maxmilian/dsh-sonarqube</title>
-    <id>https://github.com/maxmilian/dsh-sonarqube</id>
-    <link href="https://github.com/maxmilian/dsh-sonarqube"/>
-    <updated>2026-08-26T00:00:00Z</updated>
-    <summary>Read-only SonarQube Community Build tools: instance status, Quality Gate for a branch or pull request, issue and Security Hotspot search, and coverage, duplication or caller-selected measures. npm `dsh-sonarqube`.</summary>
-  </entry>
-  <entry>
-    <title>YEYEYEYESHIFU/dsh-session-hotkeys</title>
-    <id>https://github.com/YEYEYEYESHIFU/dsh-session-hotkeys</id>
-    <link href="https://github.com/YEYEYEYESHIFU/dsh-session-hotkeys"/>
-    <updated>2026-08-25T00:00:00Z</updated>
-    <summary>Keyboard session management for the DSH Web GUI: switch sessions like browser tabs (positional Alt+1-9, pinned slots, previous/next), keyboard model switching, alternate send, archive confirmation, and focus-search, with every binding rebindable via Windows/macOS presets.</summary>
   </entry>
 </feed>

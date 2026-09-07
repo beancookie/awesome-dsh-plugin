@@ -3,7 +3,7 @@
  "url": "https://beancookie.github.io/awesome-dsh-plugin",
  "source": "https://github.com/beancookie/awesome-dsh-plugin",
  "updated": "2026-09-07",
- "count": 468,
+ "count": 471,
  "categories": {
   "ui": {
    "zh": "UI 增强",
@@ -2512,6 +2512,21 @@
    "added": "2026-08-14"
   },
   {
+   "name": "context-razor",
+   "owner": "weibaohui",
+   "url": "https://github.com/weibaohui/context-razor",
+   "category": "memory",
+   "description": {
+    "zh": "上下文剃刀：把当前会话上下文逐条列出（角色/预览/≈token 估算），超阈值标红，勾选后不经 LLM 精确裁剪，删了什么一目了然。",
+    "en": "Context trimmer: lists the current session's context entries with role, preview and ≈token estimate (cl100k), highlights over-threshold items, and removes selected entries exactly without LLM summarization."
+   },
+   "npm": "@weibaohui/context-razor",
+   "stars": 0,
+   "createdAt": "2026-09-02",
+   "install": "dsh plugin --profile web add @weibaohui/context-razor",
+   "added": "2026-09-07"
+  },
+  {
    "name": "hermes-loop",
    "owner": "weibaohui",
    "url": "https://github.com/weibaohui/hermes-loop",
@@ -3740,6 +3755,21 @@
    "createdAt": "2026-08-24",
    "install": "dsh plugin --profile web add dsh-writing-desk",
    "added": "2026-08-24"
+  },
+  {
+   "name": "dsh-ollama-vision-bridge",
+   "owner": "nvbb",
+   "url": "https://github.com/nvbb/dsh-ollama-vision-bridge",
+   "category": "tools",
+   "description": {
+    "zh": "聊天选中纯文本模型时，自动用本地 Ollama VL 模型（qwen3-vl:8b）描述附图并注入同一模型步骤：本地视觉、显存冷却、无需云端（DSH ≥ 0.1.2-rc.1）。",
+    "en": "When the chat model is text-only, describe attached images with a local Ollama VL model (qwen3-vl:8b) and inject into the same model step: local vision, no cloud (DSH ≥ 0.1.2-rc.1)."
+   },
+   "npm": null,
+   "stars": 0,
+   "createdAt": "2026-09-06",
+   "install": "dsh plugin --profile web add github:nvbb/dsh-ollama-vision-bridge",
+   "added": "2026-09-07"
   },
   {
    "name": "dsh-custom-tool",
@@ -6620,6 +6650,21 @@
    "createdAt": "2026-08-04",
    "install": "dsh plugin --profile web add github:vlln/plugin-registry",
    "added": "2026-08-14"
+  },
+  {
+   "name": "user-management",
+   "owner": "weibaohui",
+   "url": "https://github.com/weibaohui/user-management",
+   "category": "dev",
+   "description": {
+    "zh": "用户管理：给 dsh web 加登录门禁，未登录访问弹登录/注册页，首个注册者自动成为管理员；管理员可管理用户/角色，带登录与访问审计。",
+    "en": "Login gate for the dsh web UI: unauthenticated visitors get a login/register page and the first registrant becomes admin; includes user and role management plus login and access audit logs."
+   },
+   "npm": "@weibaohui/user-management",
+   "stars": 0,
+   "createdAt": "2026-09-04",
+   "install": "dsh plugin --profile web add @weibaohui/user-management",
+   "added": "2026-09-07"
   },
   {
    "name": "dsh-evolve",
