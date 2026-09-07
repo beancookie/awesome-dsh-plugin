@@ -4,7 +4,28 @@
   <id>https://beancookie.github.io/awesome-dsh-plugin/en/</id>
   <link href="https://beancookie.github.io/awesome-dsh-plugin/en/"/>
   <link rel="self" href="https://beancookie.github.io/awesome-dsh-plugin/en/feed.xml"/>
-  <updated>2026-09-06T00:00:00Z</updated>
+  <updated>2026-09-07T00:00:00Z</updated>
+  <entry>
+    <title>dugujun3-cloud/dshos-dock</title>
+    <id>https://github.com/dugujun3-cloud/dshos-dock</id>
+    <link href="https://github.com/dugujun3-cloud/dshos-dock"/>
+    <updated>2026-09-07T00:00:00Z</updated>
+    <summary>Workspace OS status bar: task counts, latest run event, and checkup date above the input. Zero deps, read-only, .dshos/ text contract, legacy DSH-OS layout auto-detected, 30s refresh.</summary>
+  </entry>
+  <entry>
+    <title>weibaohui/skills-management</title>
+    <id>https://github.com/weibaohui/skills-management</id>
+    <link href="https://github.com/weibaohui/skills-management"/>
+    <updated>2026-09-07T00:00:00Z</updated>
+    <summary>Skill marketplace and manager: manage skills from all local coding agents (10+ executors, incl. Claude Code and Codex) in one page and import them into the DSH skill library; built-in market of 6600+ skills, per-skill token-overhead stats, and model visibility control.</summary>
+  </entry>
+  <entry>
+    <title>weibaohui/dsh-tasks</title>
+    <id>https://github.com/weibaohui/dsh-tasks</id>
+    <link href="https://github.com/weibaohui/dsh-tasks"/>
+    <updated>2026-09-07T00:00:00Z</updated>
+    <summary>Scheduled tasks: run a prompt on cron schedules, each run opens a new agent session to do the work, with workspace binding, manual run, session auto-naming, and a fullscreen task management page.</summary>
+  </entry>
   <entry>
     <title>ice5kysl/dsh-file-explorer-kit</title>
     <id>https://github.com/ice5kysl/dsh-file-explorer-kit</id>
@@ -193,26 +214,5 @@
     <link href="https://github.com/YEYEYEYESHIFU/dsh-session-hotkeys"/>
     <updated>2026-08-25T00:00:00Z</updated>
     <summary>Keyboard session management for the DSH Web GUI: switch sessions like browser tabs (positional Alt+1-9, pinned slots, previous/next), keyboard model switching, alternate send, archive confirmation, and focus-search, with every binding rebindable via Windows/macOS presets.</summary>
-  </entry>
-  <entry>
-    <title>Laplace-bit/dsh-pianist</title>
-    <id>https://github.com/Laplace-bit/dsh-pianist</id>
-    <link href="https://github.com/Laplace-bit/dsh-pianist"/>
-    <updated>2026-08-25T00:00:00Z</updated>
-    <summary>AI piano performance: ask the agent to play a piece on a Canvas2D grand piano with real Salamander Grand samples and a playable 88-key keyboard.</summary>
-  </entry>
-  <entry>
-    <title>dsh-blue/blue</title>
-    <id>https://github.com/dsh-blue/blue</id>
-    <link href="https://github.com/dsh-blue/blue"/>
-    <updated>2026-08-24T00:00:00Z</updated>
-    <summary>An interactive full-screen terminal UI for DeepSeek Harness: streaming Markdown transcripts, tool-call cards, an approval panel, session management, and hot theme switching — every component is a hot-pluggable plugin tree.</summary>
-  </entry>
-  <entry>
-    <title>FuqiangCraft/dsh-desktop</title>
-    <id>https://github.com/FuqiangCraft/dsh-desktop</id>
-    <link href="https://github.com/FuqiangCraft/dsh-desktop"/>
-    <updated>2026-08-24T00:00:00Z</updated>
-    <summary>Adds desktop notifications, a multi-agent visualization canvas, and an optional screen-capture tool to DSH.</summary>
   </entry>
 </feed>

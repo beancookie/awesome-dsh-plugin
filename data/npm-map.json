@@ -411,6 +411,10 @@
   "npm": null,
   "checkedAt": "2026-08-14"
  },
+ "https://github.com/dugujun3-cloud/dshos-dock": {
+  "npm": null,
+  "checkedAt": "2026-09-07"
+ },
  "https://github.com/dylan121322/llm-adaptive": {
   "npm": null,
   "checkedAt": "2026-08-14"
@@ -1679,6 +1683,10 @@
   "npm": "@weibaohui/dsh-settings-ui",
   "checkedAt": "2026-09-06"
  },
+ "https://github.com/weibaohui/dsh-tasks": {
+  "npm": "@weibaohui/dsh-tasks",
+  "checkedAt": "2026-09-07"
+ },
  "https://github.com/weibaohui/dsh-xiuxian": {
   "npm": "@weibaohui/dsh-xiuxian",
   "checkedAt": "2026-09-06"
@@ -1686,6 +1694,10 @@
  "https://github.com/weibaohui/hermes-loop": {
   "npm": "@weibaohui/hermes-loop",
   "checkedAt": "2026-09-06"
+ },
+ "https://github.com/weibaohui/skills-management": {
+  "npm": "@weibaohui/skills-management",
+  "checkedAt": "2026-09-07"
  },
  "https://github.com/WFMinerva/dsh-turn-cost": {
   "npm": "dsh-turn-cost",
@@ -1782,6 +1794,10 @@
  "https://github.com/YEYEYEYESHIFU/dsh-session-hotkeys": {
   "npm": "dsh-session-hotkeys",
   "checkedAt": "2026-08-25"
+ },
+ "https://github.com/YEYEYEYESHIFU/dsh-split-screen": {
+  "npm": "dsh-split-screen",
+  "checkedAt": "2026-09-07"
  },
  "https://github.com/yflmq001/dsh-cost-tracker": {
   "npm": null,

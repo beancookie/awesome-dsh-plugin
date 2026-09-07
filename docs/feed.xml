@@ -4,7 +4,28 @@
   <id>https://beancookie.github.io/awesome-dsh-plugin/</id>
   <link href="https://beancookie.github.io/awesome-dsh-plugin/"/>
   <link rel="self" href="https://beancookie.github.io/awesome-dsh-plugin/feed.xml"/>
-  <updated>2026-09-06T00:00:00Z</updated>
+  <updated>2026-09-07T00:00:00Z</updated>
+  <entry>
+    <title>dugujun3-cloud/dshos-dock</title>
+    <id>https://github.com/dugujun3-cloud/dshos-dock</id>
+    <link href="https://github.com/dugujun3-cloud/dshos-dock"/>
+    <updated>2026-09-07T00:00:00Z</updated>
+    <summary>工作区 OS 状态条：输入框上方常驻显示任务统计（总数/进行中/待验收）、最近运行事件与自检日期；零依赖只读，数据来自工作区 .dshos/ 文本契约，兼容旧 DSH-OS 布局，30 秒自动刷新。</summary>
+  </entry>
+  <entry>
+    <title>weibaohui/skills-management</title>
+    <id>https://github.com/weibaohui/skills-management</id>
+    <link href="https://github.com/weibaohui/skills-management"/>
+    <updated>2026-09-07T00:00:00Z</updated>
+    <summary>技能市场：一个页面管理本机所有 coding agent 的技能，一键收编进 DSH 用户库；内置 6600+ 技能市场，支持注入开销（≈token）统计与模型可见性治理。</summary>
+  </entry>
+  <entry>
+    <title>weibaohui/dsh-tasks</title>
+    <id>https://github.com/weibaohui/dsh-tasks</id>
+    <link href="https://github.com/weibaohui/dsh-tasks"/>
+    <updated>2026-09-07T00:00:00Z</updated>
+    <summary>定时任务：用 cron 表达式定时执行提示词，到点自动开一个新 agent 会话替你干活，支持绑定工作区、手动立即执行与会话自动命名。</summary>
+  </entry>
   <entry>
     <title>ice5kysl/dsh-file-explorer-kit</title>
     <id>https://github.com/ice5kysl/dsh-file-explorer-kit</id>
@@ -193,26 +214,5 @@
     <link href="https://github.com/YEYEYEYESHIFU/dsh-session-hotkeys"/>
     <updated>2026-08-25T00:00:00Z</updated>
     <summary>会话热键管理：像切浏览器标签页一样用键盘切换会话——Alt+1-9 顺序切换、固定槽位、上/下一个、新建/归档/重命名、键盘模型切换与备用发送，键位可在面板录制重绑，Windows/macOS 双预设。</summary>
-  </entry>
-  <entry>
-    <title>Laplace-bit/dsh-pianist</title>
-    <id>https://github.com/Laplace-bit/dsh-pianist</id>
-    <link href="https://github.com/Laplace-bit/dsh-pianist"/>
-    <updated>2026-08-25T00:00:00Z</updated>
-    <summary>AI 钢琴演奏：让 Agent 弹一曲真钢琴，Canvas2D 三角钢琴 + Salamander Grand 真实采样音色，88 键可弹，附沉浸式舞台。</summary>
-  </entry>
-  <entry>
-    <title>dsh-blue/blue</title>
-    <id>https://github.com/dsh-blue/blue</id>
-    <link href="https://github.com/dsh-blue/blue"/>
-    <updated>2026-08-24T00:00:00Z</updated>
-    <summary>DeepSeek Harness 的交互式全屏终端 UI：流式 Markdown 转录、工具调用卡片、审批面板、会话管理、主题热切换——全部组件皆为可热插拔的插件树。</summary>
-  </entry>
-  <entry>
-    <title>FuqiangCraft/dsh-desktop</title>
-    <id>https://github.com/FuqiangCraft/dsh-desktop</id>
-    <link href="https://github.com/FuqiangCraft/dsh-desktop"/>
-    <updated>2026-08-24T00:00:00Z</updated>
-    <summary>为 DSH 提供桌面通知、多 Agent 可视化画布和可选的屏幕截图工具。</summary>
   </entry>
 </feed>

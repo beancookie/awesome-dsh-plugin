@@ -2,8 +2,8 @@
  "name": "awesome-dsh-plugin",
  "url": "https://beancookie.github.io/awesome-dsh-plugin",
  "source": "https://github.com/beancookie/awesome-dsh-plugin",
- "updated": "2026-09-06",
- "count": 465,
+ "updated": "2026-09-07",
+ "count": 468,
  "categories": {
   "ui": {
    "zh": "UI 增强",
@@ -365,6 +365,21 @@
    "createdAt": null,
    "install": "dsh plugin --profile web add github:dsh-external/dsh-web-panel",
    "added": "2026-08-14"
+  },
+  {
+   "name": "dshos-dock",
+   "owner": "dugujun3-cloud",
+   "url": "https://github.com/dugujun3-cloud/dshos-dock",
+   "category": "ui",
+   "description": {
+    "zh": "工作区 OS 状态条：输入框上方常驻显示任务统计（总数/进行中/待验收）、最近运行事件与自检日期；零依赖只读，数据来自工作区 .dshos/ 文本契约，兼容旧 DSH-OS 布局，30 秒自动刷新。",
+    "en": "Workspace OS status bar: task counts, latest run event, and checkup date above the input. Zero deps, read-only, .dshos/ text contract, legacy DSH-OS layout auto-detected, 30s refresh."
+   },
+   "npm": null,
+   "stars": 2,
+   "createdAt": "2026-09-04",
+   "install": "dsh plugin --profile web add github:dugujun3-cloud/dshos-dock",
+   "added": "2026-09-07"
   },
   {
    "name": "dsh-plugin-deepseek-balance",
@@ -4687,6 +4702,21 @@
    "added": "2026-08-19"
   },
   {
+   "name": "skills-management",
+   "owner": "weibaohui",
+   "url": "https://github.com/weibaohui/skills-management",
+   "category": "skill",
+   "description": {
+    "zh": "技能市场：一个页面管理本机所有 coding agent 的技能，一键收编进 DSH 用户库；内置 6600+ 技能市场，支持注入开销（≈token）统计与模型可见性治理。",
+    "en": "Skill marketplace and manager: manage skills from all local coding agents (10+ executors, incl. Claude Code and Codex) in one page and import them into the DSH skill library; built-in market of 6600+ skills, per-skill token-overhead stats, and model visibility control."
+   },
+   "npm": "@weibaohui/skills-management",
+   "stars": 1,
+   "createdAt": "2026-08-31",
+   "install": "dsh plugin --profile web add @weibaohui/skills-management",
+   "added": "2026-09-07"
+  },
+  {
    "name": "dsh-skill-manager",
    "owner": "yanglaofish",
    "url": "https://github.com/yanglaofish/dsh-skill-manager",
@@ -5180,6 +5210,21 @@
    "createdAt": "2026-08-10",
    "install": "dsh plugin --profile web add github:vlln/dsh-loop",
    "added": "2026-08-13"
+  },
+  {
+   "name": "dsh-tasks",
+   "owner": "weibaohui",
+   "url": "https://github.com/weibaohui/dsh-tasks",
+   "category": "workflow",
+   "description": {
+    "zh": "定时任务：用 cron 表达式定时执行提示词，到点自动开一个新 agent 会话替你干活，支持绑定工作区、手动立即执行与会话自动命名。",
+    "en": "Scheduled tasks: run a prompt on cron schedules, each run opens a new agent session to do the work, with workspace binding, manual run, session auto-naming, and a fullscreen task management page."
+   },
+   "npm": "@weibaohui/dsh-tasks",
+   "stars": 0,
+   "createdAt": "2026-08-31",
+   "install": "dsh plugin --profile web add @weibaohui/dsh-tasks",
+   "added": "2026-09-07"
   },
   {
    "name": "dsh-flat-teams",

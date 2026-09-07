@@ -595,6 +595,12 @@
   "etag": "W/\"fd30ecf12ffad0e94ac573718af0e5bc5f3bd32f1ed849a99b56cec9565de786\"",
   "checkedAt": "2026-09-07"
  },
+ "https://github.com/dugujun3-cloud/dshos-dock": {
+  "stars": 2,
+  "createdAt": "2026-09-04",
+  "etag": "W/\"c79edf68de5b654450bfebde5bfa15b6599af4880c6243444db7879a2b5db8fd\"",
+  "checkedAt": "2026-09-07"
+ },
  "https://github.com/dylan121322/llm-adaptive": {
   "stars": 3,
   "createdAt": "2026-08-14",
@@ -2477,6 +2483,12 @@
   "etag": "W/\"d538cd69cd2e6fbaba84c04ddc207c01215fdeaf2fb47bcad95db682e55775e3\"",
   "checkedAt": "2026-09-06"
  },
+ "https://github.com/weibaohui/dsh-tasks": {
+  "stars": 0,
+  "createdAt": "2026-08-31",
+  "etag": "W/\"392c168e99d98f6d8f82655fd9d01a12cd4052b028e8727a8e6816d54939f89d\"",
+  "checkedAt": "2026-09-07"
+ },
  "https://github.com/weibaohui/dsh-xiuxian": {
   "stars": 0,
   "createdAt": "2026-09-04",
@@ -2488,6 +2500,12 @@
   "createdAt": "2026-08-31",
   "etag": "W/\"e542338c33599c914809f0336cebea5a0ef0a3dbb11a9408e8ce57a2d50047ac\"",
   "checkedAt": "2026-09-06"
+ },
+ "https://github.com/weibaohui/skills-management": {
+  "stars": 1,
+  "createdAt": "2026-08-31",
+  "etag": "W/\"2fdeae8a6a19f899b95033abf443a5cd6fe7710d77cf6a16655448b2161ed316\"",
+  "checkedAt": "2026-09-07"
  },
  "https://github.com/WFMinerva/dsh-turn-cost": {
   "stars": 1,
@@ -2628,6 +2646,12 @@
   "createdAt": "2026-08-15",
   "etag": "W/\"f68057597e38b119dd8c0d0320467bc54d1f29a680c95660625a8b87344a1ba8\"",
   "checkedAt": "2026-09-01"
+ },
+ "https://github.com/YEYEYEYESHIFU/dsh-split-screen": {
+  "stars": 0,
+  "createdAt": "2026-09-05",
+  "etag": "W/\"44ce254a0668ed1612419342a84b4ad8f24be2b002675b03db8cd0642ef8f2a1\"",
+  "checkedAt": "2026-09-07"
  },
  "https://github.com/yflmq001/dsh-cost-tracker": {
   "stars": 3,
