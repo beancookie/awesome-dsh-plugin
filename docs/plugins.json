@@ -3,7 +3,7 @@
  "url": "https://beancookie.github.io/awesome-dsh-plugin",
  "source": "https://github.com/beancookie/awesome-dsh-plugin",
  "updated": "2026-09-07",
- "count": 472,
+ "count": 473,
  "categories": {
   "ui": {
    "zh": "UI 增强",
@@ -5269,6 +5269,21 @@
    "stars": 0,
    "createdAt": "2026-08-31",
    "install": "dsh plugin --profile web add @weibaohui/dsh-tasks",
+   "added": "2026-09-07"
+  },
+  {
+   "name": "experts-management",
+   "owner": "weibaohui",
+   "url": "https://github.com/weibaohui/experts-management",
+   "category": "workflow",
+   "description": {
+    "zh": "专家管理：管理 ntd 格式的专家与专家团队（plugin.json + Agent MD + 技能集），内置 50+ 专家市场，`/expert-名称` 以专家身份执行任务，不占模型目录 token。",
+    "en": "Expert manager: manage ntd-format experts and expert teams (plugin.json + Agent MD + skill sets), browse and install from a built-in market of 50+ experts, and run tasks in an expert persona via /expert-<name> without consuming model directory tokens."
+   },
+   "npm": "@weibaohui/experts-management",
+   "stars": 0,
+   "createdAt": "2026-09-01",
+   "install": "dsh plugin --profile web add @weibaohui/experts-management",
    "added": "2026-09-07"
   },
   {

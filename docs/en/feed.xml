@@ -48,6 +48,13 @@
     <summary>Scheduled tasks: run a prompt on cron schedules, each run opens a new agent session to do the work, with workspace binding, manual run, session auto-naming, and a fullscreen task management page.</summary>
   </entry>
   <entry>
+    <title>weibaohui/experts-management</title>
+    <id>https://github.com/weibaohui/experts-management</id>
+    <link href="https://github.com/weibaohui/experts-management"/>
+    <updated>2026-09-07T00:00:00Z</updated>
+    <summary>Expert manager: manage ntd-format experts and expert teams (plugin.json + Agent MD + skill sets), browse and install from a built-in market of 50+ experts, and run tasks in an expert persona via /expert-&lt;name&gt; without consuming model directory tokens.</summary>
+  </entry>
+  <entry>
     <title>weibaohui/user-management</title>
     <id>https://github.com/weibaohui/user-management</id>
     <link href="https://github.com/weibaohui/user-management"/>
@@ -207,12 +214,5 @@
     <link href="https://github.com/SiriLee/dsh-rewind"/>
     <updated>2026-08-26T00:00:00Z</updated>
     <summary>In-window in-place rewind (Claude Code /rewind semantics): a ↶ button beside each user message truncates the model context back to any message, with optional Claude Code-style file rollback (disk-persisted before backups).</summary>
-  </entry>
-  <entry>
-    <title>maxmilian/dsh-forge</title>
-    <id>https://github.com/maxmilian/dsh-forge</id>
-    <link href="https://github.com/maxmilian/dsh-forge"/>
-    <updated>2026-08-26T00:00:00Z</updated>
-    <summary>Read-only Gitea and Forgejo tools over the REST API both projects share: repositories, issue and pull request search, PR diffs and changed files, and Actions runs, jobs and job logs. npm `@maxhsu/dsh-forge`.</summary>
   </entry>
 </feed>

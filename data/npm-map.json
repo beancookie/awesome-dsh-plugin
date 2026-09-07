@@ -1707,6 +1707,10 @@
   "npm": "@weibaohui/dsh-xiuxian",
   "checkedAt": "2026-09-06"
  },
+ "https://github.com/weibaohui/experts-management": {
+  "npm": "@weibaohui/experts-management",
+  "checkedAt": "2026-09-07"
+ },
  "https://github.com/weibaohui/hermes-loop": {
   "npm": "@weibaohui/hermes-loop",
   "checkedAt": "2026-09-06"

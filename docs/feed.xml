@@ -48,6 +48,13 @@
     <summary>定时任务：用 cron 表达式定时执行提示词，到点自动开一个新 agent 会话替你干活，支持绑定工作区、手动立即执行与会话自动命名。</summary>
   </entry>
   <entry>
+    <title>weibaohui/experts-management</title>
+    <id>https://github.com/weibaohui/experts-management</id>
+    <link href="https://github.com/weibaohui/experts-management"/>
+    <updated>2026-09-07T00:00:00Z</updated>
+    <summary>专家管理：管理 ntd 格式的专家与专家团队（plugin.json + Agent MD + 技能集），内置 50+ 专家市场，`/expert-名称` 以专家身份执行任务，不占模型目录 token。</summary>
+  </entry>
+  <entry>
     <title>weibaohui/user-management</title>
     <id>https://github.com/weibaohui/user-management</id>
     <link href="https://github.com/weibaohui/user-management"/>
@@ -207,12 +214,5 @@
     <link href="https://github.com/SiriLee/dsh-rewind"/>
     <updated>2026-08-26T00:00:00Z</updated>
     <summary>同窗口原地回退（Claude Code /rewind 语义）：每条用户消息旁 ↶ 按钮把模型上下文截断回任意一条消息，可选 Claude Code 风格文件回滚（磁盘持久化 before 备份）。</summary>
-  </entry>
-  <entry>
-    <title>maxmilian/dsh-forge</title>
-    <id>https://github.com/maxmilian/dsh-forge</id>
-    <link href="https://github.com/maxmilian/dsh-forge"/>
-    <updated>2026-08-26T00:00:00Z</updated>
-    <summary>面向自建 Gitea / Forgejo 的只读工具，走两者共用的 REST API：仓库列表、议题与 PR 搜索、PR diff 与变更文件，以及 Actions 运行、任务与任务日志。npm `@maxhsu/dsh-forge`。</summary>
   </entry>
 </feed>
