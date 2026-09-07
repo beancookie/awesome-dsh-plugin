@@ -41,13 +41,6 @@
     <summary>聊天选中纯文本模型时，自动用本地 Ollama VL 模型（qwen3-vl:8b）描述附图并注入同一模型步骤：本地视觉、显存冷却、无需云端（DSH ≥ 0.1.2-rc.1）。</summary>
   </entry>
   <entry>
-    <title>dugujun3-cloud/dsh-creator-skills</title>
-    <id>https://github.com/dugujun3-cloud/dsh-creator-skills</id>
-    <link href="https://github.com/dugujun3-cloud/dsh-creator-skills"/>
-    <updated>2026-09-07T00:00:00Z</updated>
-    <summary>中文内容创作者与一人公司业务技能包：11 个 Agent Skills（用户运营、一人公司系统、知识产品、工作推进、商业诊断），经原生 DSH bundle 挂载 ctx.skills，零依赖 MIT。</summary>
-  </entry>
-  <entry>
     <title>weibaohui/skills-management</title>
     <id>https://github.com/weibaohui/skills-management</id>
     <link href="https://github.com/weibaohui/skills-management"/>
@@ -214,5 +207,12 @@
     <link href="https://github.com/pauloapoloni/dsh-pr-checks"/>
     <updated>2026-08-26T00:00:00Z</updated>
     <summary>在侧边栏底部按工作区/项目分组展示当前打开 PR 的 GitHub Actions 检查状态与进度。</summary>
+  </entry>
+  <entry>
+    <title>SiriLee/dsh-approval-hotkeys</title>
+    <id>https://github.com/SiriLee/dsh-approval-hotkeys</id>
+    <link href="https://github.com/SiriLee/dsh-approval-hotkeys"/>
+    <updated>2026-08-26T00:00:00Z</updated>
+    <summary>审批面板键盘快捷键：Enter 批准一次、Esc 拒绝、Esc 暂停键盘驱动审阅，审批/提问面板通用。</summary>
   </entry>
 </feed>

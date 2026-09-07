@@ -3,7 +3,7 @@
  "url": "https://beancookie.github.io/awesome-dsh-plugin",
  "source": "https://github.com/beancookie/awesome-dsh-plugin",
  "updated": "2026-09-07",
- "count": 475,
+ "count": 474,
  "categories": {
   "ui": {
    "zh": "UI 增强",
@@ -4610,21 +4610,6 @@
    "createdAt": "2026-08-14",
    "install": "dsh plugin --profile web add github:dhicoc/dsh-reverse-skill",
    "added": "2026-08-15"
-  },
-  {
-   "name": "dsh-creator-skills",
-   "owner": "dugujun3-cloud",
-   "url": "https://github.com/dugujun3-cloud/dsh-creator-skills",
-   "category": "skill",
-   "description": {
-    "zh": "中文内容创作者与一人公司业务技能包：11 个 Agent Skills（用户运营、一人公司系统、知识产品、工作推进、商业诊断），经原生 DSH bundle 挂载 ctx.skills，零依赖 MIT。",
-    "en": "Creator and solo-business skill pack for Chinese content creators: 11 Agent Skills (user operations, solo business system, knowledge products, work bootstrap, diagnostics), mounted via a native DSH bundle on ctx.skills, zero deps, MIT."
-   },
-   "npm": null,
-   "stars": 0,
-   "createdAt": "2026-09-07",
-   "install": "dsh plugin --profile web add github:dugujun3-cloud/dsh-creator-skills",
-   "added": "2026-09-07"
   },
   {
    "name": "dsh-ponytail",
