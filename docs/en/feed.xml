@@ -27,6 +27,13 @@
     <summary>When the chat model is text-only, describe attached images with a local Ollama VL model (qwen3-vl:8b) and inject into the same model step: local vision, no cloud (DSH ≥ 0.1.2-rc.1).</summary>
   </entry>
   <entry>
+    <title>dugujun3-cloud/dsh-creator-skills</title>
+    <id>https://github.com/dugujun3-cloud/dsh-creator-skills</id>
+    <link href="https://github.com/dugujun3-cloud/dsh-creator-skills"/>
+    <updated>2026-09-07T00:00:00Z</updated>
+    <summary>Creator and solo-business skill pack for Chinese content creators: 11 Agent Skills (user operations, solo business system, knowledge products, work bootstrap, diagnostics), mounted via a native DSH bundle on ctx.skills, zero deps, MIT.</summary>
+  </entry>
+  <entry>
     <title>weibaohui/skills-management</title>
     <id>https://github.com/weibaohui/skills-management</id>
     <link href="https://github.com/weibaohui/skills-management"/>
@@ -207,12 +214,5 @@
     <link href="https://github.com/maxmilian/dsh-forge"/>
     <updated>2026-08-26T00:00:00Z</updated>
     <summary>Read-only Gitea and Forgejo tools over the REST API both projects share: repositories, issue and pull request search, PR diffs and changed files, and Actions runs, jobs and job logs. npm `@maxhsu/dsh-forge`.</summary>
-  </entry>
-  <entry>
-    <title>SiriLee/dsh-edit-approval</title>
-    <id>https://github.com/SiriLee/dsh-edit-approval</id>
-    <link href="https://github.com/SiriLee/dsh-edit-approval"/>
-    <updated>2026-08-26T00:00:00Z</updated>
-    <summary>Per-change approval gate before file writes and tool calls: write/edit/stream operations show red/green line-level diffs before release, with bash command approval (off by default) and configurable gating.</summary>
   </entry>
 </feed>

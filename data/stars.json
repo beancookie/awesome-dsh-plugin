@@ -595,6 +595,12 @@
   "etag": "W/\"fd30ecf12ffad0e94ac573718af0e5bc5f3bd32f1ed849a99b56cec9565de786\"",
   "checkedAt": "2026-09-07"
  },
+ "https://github.com/dugujun3-cloud/dsh-creator-skills": {
+  "stars": 0,
+  "createdAt": "2026-09-07",
+  "etag": "W/\"f7000d7a545ab01fe168f3900f148db737bfe0e44c11ce38a70ca193e64b753b\"",
+  "checkedAt": "2026-09-07"
+ },
  "https://github.com/dugujun3-cloud/dshos-dock": {
   "stars": 2,
   "createdAt": "2026-09-04",
@@ -2325,6 +2331,12 @@
   "stars": 8,
   "createdAt": "2026-08-14",
   "etag": "W/\"c0aff3db98c999b2c708cbd69dea442b3f56d9d3e1a4e964b2f991b3f723cba3\"",
+  "checkedAt": "2026-09-07"
+ },
+ "https://github.com/SunshineR04/dsh-session-manager": {
+  "stars": 1,
+  "createdAt": "2026-09-05",
+  "etag": "W/\"840a916aa1ed7a7e1bfe8c43d1380de5ef20b200c1cc8793169818c83016b788\"",
   "checkedAt": "2026-09-07"
  },
  "https://github.com/suntianc/dsh-codex-auth": {

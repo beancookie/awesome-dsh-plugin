@@ -411,6 +411,10 @@
   "npm": null,
   "checkedAt": "2026-08-14"
  },
+ "https://github.com/dugujun3-cloud/dsh-creator-skills": {
+  "npm": null,
+  "checkedAt": "2026-09-07"
+ },
  "https://github.com/dugujun3-cloud/dshos-dock": {
   "npm": null,
   "checkedAt": "2026-09-07"
@@ -1578,6 +1582,10 @@
  "https://github.com/sunshine-lang/dsh-weather": {
   "npm": "dsh-weather",
   "checkedAt": "2026-08-14"
+ },
+ "https://github.com/SunshineR04/dsh-session-manager": {
+  "npm": null,
+  "checkedAt": "2026-09-07"
  },
  "https://github.com/suntianc/dsh-codex-auth": {
   "npm": "dsh-codex-auth",
