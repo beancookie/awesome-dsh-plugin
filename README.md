@@ -370,7 +370,6 @@ DeepSeek Harness 是 DeepSeek 开源的 agent harness——既是可直接运行
 ### 🧩 技能包
 - [creght-dev/skills](https://github.com/creght-dev/skills) — Creght 平台建站技能包：CLI 拉取/推送同步、页面与组件规范、CMS、表单、Auth、SEO、发布与版本回滚。
 - [dhicoc/dsh-reverse-skill](https://github.com/dhicoc/dsh-reverse-skill) — 完整 reverse-skill 技能包（85 个 SKILL.md）的 DeepSeek Harness 插件：面向逆向工程、授权渗透测试与安全研究的技能路由包。
-- [dugujun3-cloud/dsh-creator-skills](https://github.com/dugujun3-cloud/dsh-creator-skills) — 中文内容创作者与一人公司业务技能包：11 个 Agent Skills（用户运营、一人公司系统、知识产品、工作推进、商业诊断），经原生 DSH bundle 挂载 ctx.skills，零依赖 MIT。
 - [gongyijie85/dsh-ponytail](https://github.com/gongyijie85/dsh-ponytail) — 最懒资深工程师模式（Ponytail）的 DSH 移植：6 个技能（ponytail、ponytail-audit、ponytail-debt、ponytail-gain、ponytail-help、ponytail-review），改编自 DietrichGebert/ponytail（MIT）。
 - [gongyijie85/mattpocock-skills-dsh](https://github.com/gongyijie85/mattpocock-skills-dsh) — Matt Pocock 完整发布技能集（25 个 SKILL.md：grilling、writing-for-agents、wait-what、TDD、code-review、wayfinder、ask-matt 路由等）的 DeepSeek Harness 插件：改编自 mattpocock/skills（MIT）。
 - [gongyijie85/mattpocock-skills-dsh-zh](https://github.com/gongyijie85/mattpocock-skills-dsh-zh) — Matt Pocock 技能中文版的 DeepSeek Harness 插件：25 个 SKILL.md 正文全译中文（技术术语保留英文并附注释），改编自 mattpocock/skills（MIT）。
