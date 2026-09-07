@@ -411,6 +411,7 @@ DeepSeek Harness is DeepSeek's open-source agent harness — a runnable coding a
 - [titanwings/dsh-automation](https://github.com/titanwings/dsh-automation) - Scheduled coding runs in fresh agent sessions with auditable history.
 - [titanwings/dsh-plannotator](https://github.com/titanwings/dsh-plannotator) - Plan review with anchored annotations and structured feedback back to the agent.
 - [vlln/dsh-loop](https://github.com/vlln/dsh-loop) - Recurring loops: `/loop` command + loop tool + activity status bar.
+- [weibaohui/dsh-tasks](https://github.com/weibaohui/dsh-tasks) - Scheduled tasks: run a prompt on cron schedules, each run opens a new agent session to do the work, with workspace binding, manual run, session auto-naming, and a fullscreen task management page.
 - [whateverboy2333/dsh-flat-teams](https://github.com/whateverboy2333/dsh-flat-teams) - Leaderless flat agent teams: cross-window structured task dispatch (state machine + event stream + offline resume), a read-only progress recorder, and a two-level web dashboard.
 
 ### Notifications & Integrations

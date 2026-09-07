@@ -412,6 +412,7 @@ DeepSeek Harness 是 DeepSeek 开源的 agent harness——既是可直接运行
 - [titanwings/dsh-automation](https://github.com/titanwings/dsh-automation) — 定时任务：让 Coding 任务按计划在全新 Agent Session 中运行，保留可审计历史。
 - [titanwings/dsh-plannotator](https://github.com/titanwings/dsh-plannotator) — 计划批注：选中计划原文逐条批注，结构化反馈送回 Agent。
 - [vlln/dsh-loop](https://github.com/vlln/dsh-loop) — 定时循环：`/loop` 命令 + loop 工具 + 活动状态条。
+- [weibaohui/dsh-tasks](https://github.com/weibaohui/dsh-tasks) — 定时任务：用 cron 表达式定时执行提示词，到点自动开一个新 agent 会话替你干活，支持绑定工作区、手动立即执行与会话自动命名。
 - [whateverboy2333/dsh-flat-teams](https://github.com/whateverboy2333/dsh-flat-teams) — 无队长扁平 Agent 团队：跨窗口结构化任务派发（状态机 + 事件流 + 离线唤醒）、记录员进展服务与 Web 两级看板。
 
 ### 🔔 通知与集成
