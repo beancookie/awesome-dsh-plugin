@@ -4,7 +4,63 @@
   <id>https://beancookie.github.io/awesome-dsh-plugin/en/</id>
   <link href="https://beancookie.github.io/awesome-dsh-plugin/en/"/>
   <link rel="self" href="https://beancookie.github.io/awesome-dsh-plugin/en/feed.xml"/>
-  <updated>2026-09-01T00:00:00Z</updated>
+  <updated>2026-09-06T00:00:00Z</updated>
+  <entry>
+    <title>ice5kysl/dsh-file-explorer-kit</title>
+    <id>https://github.com/ice5kysl/dsh-file-explorer-kit</id>
+    <link href="https://github.com/ice5kysl/dsh-file-explorer-kit"/>
+    <updated>2026-09-06T00:00:00Z</updated>
+    <summary>In-session &quot;Files&quot; tab for dsh Web: breadcrumb browsing of the active session's workspace with inline previews of sanitized Markdown, images, line-numbered text and PDF via read-only /dsh-files host routes; no write endpoints. Bilingual zh/en.</summary>
+  </entry>
+  <entry>
+    <title>ice5kysl/dsh-workspace-kit</title>
+    <id>https://github.com/ice5kysl/dsh-workspace-kit</id>
+    <link href="https://github.com/ice5kysl/dsh-workspace-kit"/>
+    <updated>2026-09-06T00:00:00Z</updated>
+    <summary>Workspace-first enhanced sidebar (shadows the built-in workspace browser at low priority, one-click toggle back) with soft workspace archive/restore, per-workspace icons and accent colors, drag reorder and title/path/session-content search, plus a ⌘K Spotlight palette; host side ships read-only workspace_find/workspace_list tools and slash commands. Bilingual zh/en.</summary>
+  </entry>
+  <entry>
+    <title>weibaohui/dsh-settings-ui</title>
+    <id>https://github.com/weibaohui/dsh-settings-ui</id>
+    <link href="https://github.com/weibaohui/dsh-settings-ui"/>
+    <updated>2026-09-06T00:00:00Z</updated>
+    <summary>Customizes the native settings window: preset/custom sizes, fullscreen, background transparency, and theme, solid-color, or image backgrounds, with a floating ball for quick access; saved in the local browser.</summary>
+  </entry>
+  <entry>
+    <title>extracurricular-ai/dsh-filesnap</title>
+    <id>https://github.com/extracurricular-ai/dsh-filesnap</id>
+    <link href="https://github.com/extracurricular-ai/dsh-filesnap"/>
+    <updated>2026-09-06T00:00:00Z</updated>
+    <summary>Rewind a conversation and its workspace together without touching Git; every rewind is a fork and /redo reverses it.</summary>
+  </entry>
+  <entry>
+    <title>weibaohui/dsh-continue</title>
+    <id>https://github.com/weibaohui/dsh-continue</id>
+    <link href="https://github.com/weibaohui/dsh-continue"/>
+    <updated>2026-09-06T00:00:00Z</updated>
+    <summary>Auto-resume for interrupted sessions: rules route by failure type (rate limit, quota, auth, context overflow, crashed orphan) into backoff retry, model switch, resume-after-compaction, or stop-loss notification, with a visual rule editor and activity log.</summary>
+  </entry>
+  <entry>
+    <title>lcthe/dsh-hermes-memory</title>
+    <id>https://github.com/lcthe/dsh-hermes-memory</id>
+    <link href="https://github.com/lcthe/dsh-hermes-memory"/>
+    <updated>2026-09-06T00:00:00Z</updated>
+    <summary>DSH-native persistent memory: session-aware retrieval, standing context, crash-safe consolidation, and storage-backed skills.</summary>
+  </entry>
+  <entry>
+    <title>weibaohui/hermes-loop</title>
+    <id>https://github.com/weibaohui/hermes-loop</id>
+    <link href="https://github.com/weibaohui/hermes-loop"/>
+    <updated>2026-09-06T00:00:00Z</updated>
+    <summary>Automatic post-conversation retrospective that distills useful experience into reusable skills for the skill library, with approval mode and skill-library governance (archive/restore, never deletes directly).</summary>
+  </entry>
+  <entry>
+    <title>weibaohui/dsh-xiuxian</title>
+    <id>https://github.com/weibaohui/dsh-xiuxian</id>
+    <link href="https://github.com/weibaohui/dsh-xiuxian"/>
+    <updated>2026-09-06T00:00:00Z</updated>
+    <summary>Xianxia desktop pets tied to live agent sessions: pixel-style companions appear as subagents spawn (up to 3 on screen), with storage-bag collection, a right-click artifact menu, a pet gallery, and Codex pet-format export.</summary>
+  </entry>
   <entry>
     <title>Bionic-forest/dsh-memory_rollout</title>
     <id>https://github.com/Bionic-forest/dsh-memory_rollout</id>
@@ -158,61 +214,5 @@
     <link href="https://github.com/FuqiangCraft/dsh-desktop"/>
     <updated>2026-08-24T00:00:00Z</updated>
     <summary>Adds desktop notifications, a multi-agent visualization canvas, and an optional screen-capture tool to DSH.</summary>
-  </entry>
-  <entry>
-    <title>qwert702/dsh-auto-translate</title>
-    <id>https://github.com/qwert702/dsh-auto-translate</id>
-    <link href="https://github.com/qwert702/dsh-auto-translate"/>
-    <updated>2026-08-24T00:00:00Z</updated>
-    <summary>Auto-translates English replies inline below the original text, with Chinese annotations for tool calls; translation goes through an independent provider request and never enters the session context.</summary>
-  </entry>
-  <entry>
-    <title>qwert702/dsh-commander</title>
-    <id>https://github.com/qwert702/dsh-commander</id>
-    <link href="https://github.com/qwert702/dsh-commander"/>
-    <updated>2026-08-24T00:00:00Z</updated>
-    <summary>Commander mode for DSH Web: inject protocol briefs into the session title bar, parse task blocks from model replies and auto-execute them, separating strategy from execution; activated via a badge button.</summary>
-  </entry>
-  <entry>
-    <title>qwert702/dsh-token-viewer</title>
-    <id>https://github.com/qwert702/dsh-token-viewer</id>
-    <link href="https://github.com/qwert702/dsh-token-viewer"/>
-    <updated>2026-08-24T00:00:00Z</updated>
-    <summary>CC Switch-style token consumption statistics: per-request usage log, real-consumption hero with cache-hit rate, trend chart, per-model peak/off-peak pricing, per-project stats, and account balance.</summary>
-  </entry>
-  <entry>
-    <title>stephenlzc/dsh-swarm-panel#dsh-swarm-plugin</title>
-    <id>https://github.com/stephenlzc/dsh-swarm-panel/tree/main/dsh-swarm-plugin</id>
-    <link href="https://github.com/stephenlzc/dsh-swarm-panel/tree/main/dsh-swarm-plugin"/>
-    <updated>2026-08-24T00:00:00Z</updated>
-    <summary>Conversation Flow observability for DeepSeek Harness swarms, with topology, routed-message inspection, HITL pauses, Live follow, and child-session navigation.</summary>
-  </entry>
-  <entry>
-    <title>taxueseek/dsh-files</title>
-    <id>https://github.com/taxueseek/dsh-files</id>
-    <link href="https://github.com/taxueseek/dsh-files"/>
-    <updated>2026-08-24T00:00:00Z</updated>
-    <summary>File upload with color-coded attachment cards (session-isolated storage, sha256 dedup, TTL sweep) plus a content-sniffing read_document tool for PDF/DOCX/XLSX/TXT.</summary>
-  </entry>
-  <entry>
-    <title>imkelt/DSH-RAG</title>
-    <id>https://github.com/imkelt/DSH-RAG</id>
-    <link href="https://github.com/imkelt/DSH-RAG"/>
-    <updated>2026-08-24T00:00:00Z</updated>
-    <summary>Local knowledge bases for DSH Web with multi-directory incremental indexing, BM25 and SiliconFlow hybrid retrieval, and source cards that locate and open original files.</summary>
-  </entry>
-  <entry>
-    <title>qwert702/dsh-context-compressor</title>
-    <id>https://github.com/qwert702/dsh-context-compressor</id>
-    <link href="https://github.com/qwert702/dsh-context-compressor"/>
-    <updated>2026-08-24T00:00:00Z</updated>
-    <summary>Context compression for small models: compresses tool output and conversation history to a few sentences, freeing context for the actual task; continues in a fresh session automatically.</summary>
-  </entry>
-  <entry>
-    <title>qwert702/dsh-continue-on-limit</title>
-    <id>https://github.com/qwert702/dsh-continue-on-limit</id>
-    <link href="https://github.com/qwert702/dsh-continue-on-limit"/>
-    <updated>2026-08-24T00:00:00Z</updated>
-    <summary>Auto-sends continue when a local model hits its output-token cap: dual-source detection (turn-max-tokens node + provider response), maxConsecutive guard (default 3) prevents infinite loops.</summary>
   </entry>
 </feed>

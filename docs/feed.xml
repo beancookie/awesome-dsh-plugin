@@ -4,7 +4,63 @@
   <id>https://beancookie.github.io/awesome-dsh-plugin/</id>
   <link href="https://beancookie.github.io/awesome-dsh-plugin/"/>
   <link rel="self" href="https://beancookie.github.io/awesome-dsh-plugin/feed.xml"/>
-  <updated>2026-09-01T00:00:00Z</updated>
+  <updated>2026-09-06T00:00:00Z</updated>
+  <entry>
+    <title>ice5kysl/dsh-file-explorer-kit</title>
+    <id>https://github.com/ice5kysl/dsh-file-explorer-kit</id>
+    <link href="https://github.com/ice5kysl/dsh-file-explorer-kit"/>
+    <updated>2026-09-06T00:00:00Z</updated>
+    <summary>会话内「文件」页签：以当前会话工作区为根的面包屑浏览，内联预览消毒渲染的 Markdown、图片、带行号文本与 PDF；目录与读取走只读 /dsh-files 宿主路由，无写端点（中英双语）。</summary>
+  </entry>
+  <entry>
+    <title>ice5kysl/dsh-workspace-kit</title>
+    <id>https://github.com/ice5kysl/dsh-workspace-kit</id>
+    <link href="https://github.com/ice5kysl/dsh-workspace-kit"/>
+    <updated>2026-09-06T00:00:00Z</updated>
+    <summary>工作区优先的增强侧栏（以低优先级 shadow 内置工作区浏览器，可一键切回官方版）+ ⌘K Spotlight 模糊搜索：软归档/恢复、每工作区图标与强调色、拖拽排序、标题/路径/会话内容搜索；宿主侧附带只读 workspace_find/workspace_list 工具与斜杠命令（中英双语）。</summary>
+  </entry>
+  <entry>
+    <title>weibaohui/dsh-settings-ui</title>
+    <id>https://github.com/weibaohui/dsh-settings-ui</id>
+    <link href="https://github.com/weibaohui/dsh-settings-ui"/>
+    <updated>2026-09-06T00:00:00Z</updated>
+    <summary>设置界面自定义：调整原生设置窗口大小（全屏/预置/自定义宽高）、背景透明度与背景（主题/颜色/图片），悬浮球即开即调，存本机浏览器。</summary>
+  </entry>
+  <entry>
+    <title>extracurricular-ai/dsh-filesnap</title>
+    <id>https://github.com/extracurricular-ai/dsh-filesnap</id>
+    <link href="https://github.com/extracurricular-ai/dsh-filesnap"/>
+    <updated>2026-09-06T00:00:00Z</updated>
+    <summary>同步回退对话与工作区，不碰 Git；每次回退都是一个 fork，/redo 可撤销。</summary>
+  </entry>
+  <entry>
+    <title>weibaohui/dsh-continue</title>
+    <id>https://github.com/weibaohui/dsh-continue</id>
+    <link href="https://github.com/weibaohui/dsh-continue"/>
+    <updated>2026-09-06T00:00:00Z</updated>
+    <summary>自动续跑：agent 会话中断后自动续上，规则表按失败类型（限流/额度/鉴权/上下文超限/崩溃孤儿）路由——退避重试、换模型、压缩上下文后继续或止损通知，规则可视化编辑，全程活动日志。</summary>
+  </entry>
+  <entry>
+    <title>lcthe/dsh-hermes-memory</title>
+    <id>https://github.com/lcthe/dsh-hermes-memory</id>
+    <link href="https://github.com/lcthe/dsh-hermes-memory"/>
+    <updated>2026-09-06T00:00:00Z</updated>
+    <summary>面向 DSH 的原生持久记忆插件：会话检索、常驻上下文、崩溃安全合并和本地技能存储。</summary>
+  </entry>
+  <entry>
+    <title>weibaohui/hermes-loop</title>
+    <id>https://github.com/weibaohui/hermes-loop</id>
+    <link href="https://github.com/weibaohui/hermes-loop"/>
+    <updated>2026-09-06T00:00:00Z</updated>
+    <summary>自动复盘：对话收尾后自动把有价值的经验蒸馏成可复用技能存入技能库，支持信号加速触发、手动立即复盘、审批模式与技能库治理（归档/恢复，永不直接删除）。</summary>
+  </entry>
+  <entry>
+    <title>weibaohui/dsh-xiuxian</title>
+    <id>https://github.com/weibaohui/dsh-xiuxian</id>
+    <link href="https://github.com/weibaohui/dsh-xiuxian"/>
+    <updated>2026-09-06T00:00:00Z</updated>
+    <summary>修仙陪伴：MC 像素风桌宠与 agent 会话实时联动，子代理启动时化身宠物现身（最多 3 只同屏），储物袋收藏、右键法宝菜单、图鉴选宠，可导出 Codex 桌宠格式。</summary>
+  </entry>
   <entry>
     <title>Bionic-forest/dsh-memory_rollout</title>
     <id>https://github.com/Bionic-forest/dsh-memory_rollout</id>
@@ -158,61 +214,5 @@
     <link href="https://github.com/FuqiangCraft/dsh-desktop"/>
     <updated>2026-08-24T00:00:00Z</updated>
     <summary>为 DSH 提供桌面通知、多 Agent 可视化画布和可选的屏幕截图工具。</summary>
-  </entry>
-  <entry>
-    <title>qwert702/dsh-auto-translate</title>
-    <id>https://github.com/qwert702/dsh-auto-translate</id>
-    <link href="https://github.com/qwert702/dsh-auto-translate"/>
-    <updated>2026-08-24T00:00:00Z</updated>
-    <summary>在原回复下方行内自动翻译英文回复，工具调用附中文批注；翻译走独立的 provider 请求，绝不进入会话上下文。</summary>
-  </entry>
-  <entry>
-    <title>qwert702/dsh-commander</title>
-    <id>https://github.com/qwert702/dsh-commander</id>
-    <link href="https://github.com/qwert702/dsh-commander"/>
-    <updated>2026-08-24T00:00:00Z</updated>
-    <summary>DSH Web 的指挥官模式：在会话标题栏注入协议简报，解析模型回复中的任务块并自动执行，策略与执行分离；通过徽章按钮激活。</summary>
-  </entry>
-  <entry>
-    <title>qwert702/dsh-token-viewer</title>
-    <id>https://github.com/qwert702/dsh-token-viewer</id>
-    <link href="https://github.com/qwert702/dsh-token-viewer"/>
-    <updated>2026-08-24T00:00:00Z</updated>
-    <summary>CC Switch 风格 token 用量统计：逐请求用量日志、带缓存命中率的真实消耗概览、趋势图、按模型的峰谷计价、按项目统计与账户余额。</summary>
-  </entry>
-  <entry>
-    <title>stephenlzc/dsh-swarm-panel#dsh-swarm-plugin</title>
-    <id>https://github.com/stephenlzc/dsh-swarm-panel/tree/main/dsh-swarm-plugin</id>
-    <link href="https://github.com/stephenlzc/dsh-swarm-panel/tree/main/dsh-swarm-plugin"/>
-    <updated>2026-08-24T00:00:00Z</updated>
-    <summary>DeepSeek Harness swarm 的 Conversation Flow 可观测性，支持查看拓扑、检查路由消息、HITL 暂停、Live 跟随和子会话导航。</summary>
-  </entry>
-  <entry>
-    <title>taxueseek/dsh-files</title>
-    <id>https://github.com/taxueseek/dsh-files</id>
-    <link href="https://github.com/taxueseek/dsh-files"/>
-    <updated>2026-08-24T00:00:00Z</updated>
-    <summary>文件上传（彩色附件卡片、会话隔离存储、sha256 去重、TTL 清扫）+ 内容嗅探的 read_document 文档读取（PDF/DOCX/XLSX/TXT）。</summary>
-  </entry>
-  <entry>
-    <title>imkelt/DSH-RAG</title>
-    <id>https://github.com/imkelt/DSH-RAG</id>
-    <link href="https://github.com/imkelt/DSH-RAG"/>
-    <updated>2026-08-24T00:00:00Z</updated>
-    <summary>DSH Web 本地知识库：支持多目录增量索引、BM25 与 SiliconFlow 混合检索，并在会话中展示可定位、可打开的来源。</summary>
-  </entry>
-  <entry>
-    <title>qwert702/dsh-context-compressor</title>
-    <id>https://github.com/qwert702/dsh-context-compressor</id>
-    <link href="https://github.com/qwert702/dsh-context-compressor"/>
-    <updated>2026-08-24T00:00:00Z</updated>
-    <summary>面向小模型的上下文压缩：把工具输出与对话历史压缩成几句话，为真正的任务腾出上下文；自动在新会话中继续。</summary>
-  </entry>
-  <entry>
-    <title>qwert702/dsh-continue-on-limit</title>
-    <id>https://github.com/qwert702/dsh-continue-on-limit</id>
-    <link href="https://github.com/qwert702/dsh-continue-on-limit"/>
-    <updated>2026-08-24T00:00:00Z</updated>
-    <summary>本地模型触顶输出 token 上限时自动补发 continue：双源检测（turn-max-tokens 节点 + provider 响应），maxConsecutive 护栏（默认 3）防止死循环。</summary>
   </entry>
 </feed>

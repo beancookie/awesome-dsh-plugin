@@ -435,6 +435,10 @@
   "npm": null,
   "checkedAt": "2026-08-23"
  },
+ "https://github.com/extracurricular-ai/dsh-filesnap": {
+  "npm": "dsh-filesnap",
+  "checkedAt": "2026-09-06"
+ },
  "https://github.com/fakechris/dsh-harness-ops": {
   "npm": null,
   "checkedAt": "2026-08-19"
@@ -606,6 +610,14 @@
  "https://github.com/ICCuse/dsh-premise-guard": {
   "npm": null,
   "checkedAt": "2026-08-14"
+ },
+ "https://github.com/ice5kysl/dsh-file-explorer-kit": {
+  "npm": "dsh-file-explorer-kit",
+  "checkedAt": "2026-09-06"
+ },
+ "https://github.com/ice5kysl/dsh-workspace-kit": {
+  "npm": "dsh-workspace-kit",
+  "checkedAt": "2026-09-06"
  },
  "https://github.com/icetomoyo/dsh_workflow": {
   "npm": null,
@@ -866,6 +878,10 @@
  "https://github.com/Laplace-bit/dsh-smooth-stream": {
   "npm": null,
   "checkedAt": "2026-08-16"
+ },
+ "https://github.com/lcthe/dsh-hermes-memory": {
+  "npm": "@lcthe/dsh-hermes-memory",
+  "checkedAt": "2026-09-06"
  },
  "https://github.com/leechen298/Code2Skill": {
   "npm": null,
@@ -1654,6 +1670,22 @@
  "https://github.com/vlln/whale-girl": {
   "npm": null,
   "checkedAt": "2026-08-14"
+ },
+ "https://github.com/weibaohui/dsh-continue": {
+  "npm": "@weibaohui/dsh-continue",
+  "checkedAt": "2026-09-06"
+ },
+ "https://github.com/weibaohui/dsh-settings-ui": {
+  "npm": "@weibaohui/dsh-settings-ui",
+  "checkedAt": "2026-09-06"
+ },
+ "https://github.com/weibaohui/dsh-xiuxian": {
+  "npm": "@weibaohui/dsh-xiuxian",
+  "checkedAt": "2026-09-06"
+ },
+ "https://github.com/weibaohui/hermes-loop": {
+  "npm": "@weibaohui/hermes-loop",
+  "checkedAt": "2026-09-06"
  },
  "https://github.com/WFMinerva/dsh-turn-cost": {
   "npm": "dsh-turn-cost",

@@ -2,8 +2,8 @@
  "name": "awesome-dsh-plugin",
  "url": "https://beancookie.github.io/awesome-dsh-plugin",
  "source": "https://github.com/beancookie/awesome-dsh-plugin",
- "updated": "2026-09-01",
- "count": 457,
+ "updated": "2026-09-06",
+ "count": 465,
  "categories": {
   "ui": {
    "zh": "UI 增强",
@@ -331,7 +331,7 @@
     "en": "An interactive full-screen terminal UI for DeepSeek Harness: streaming Markdown transcripts, tool-call cards, an approval panel, session management, and hot theme switching — every component is a hot-pluggable plugin tree."
    },
    "npm": null,
-   "stars": 16,
+   "stars": 18,
    "createdAt": "2026-08-18",
    "install": "dsh plugin --profile web add github:dsh-blue/blue",
    "added": "2026-08-24"
@@ -470,6 +470,36 @@
    "createdAt": "2026-08-13",
    "install": "dsh plugin --profile web add github:huiliyi37/dsh-tianshu-tui",
    "added": "2026-08-13"
+  },
+  {
+   "name": "dsh-file-explorer-kit",
+   "owner": "ice5kysl",
+   "url": "https://github.com/ice5kysl/dsh-file-explorer-kit",
+   "category": "ui",
+   "description": {
+    "zh": "会话内「文件」页签：以当前会话工作区为根的面包屑浏览，内联预览消毒渲染的 Markdown、图片、带行号文本与 PDF；目录与读取走只读 /dsh-files 宿主路由，无写端点（中英双语）。",
+    "en": "In-session \"Files\" tab for dsh Web: breadcrumb browsing of the active session's workspace with inline previews of sanitized Markdown, images, line-numbered text and PDF via read-only /dsh-files host routes; no write endpoints. Bilingual zh/en."
+   },
+   "npm": "dsh-file-explorer-kit",
+   "stars": 0,
+   "createdAt": "2026-09-04",
+   "install": "dsh plugin --profile web add dsh-file-explorer-kit",
+   "added": "2026-09-06"
+  },
+  {
+   "name": "dsh-workspace-kit",
+   "owner": "ice5kysl",
+   "url": "https://github.com/ice5kysl/dsh-workspace-kit",
+   "category": "ui",
+   "description": {
+    "zh": "工作区优先的增强侧栏（以低优先级 shadow 内置工作区浏览器，可一键切回官方版）+ ⌘K Spotlight 模糊搜索：软归档/恢复、每工作区图标与强调色、拖拽排序、标题/路径/会话内容搜索；宿主侧附带只读 workspace_find/workspace_list 工具与斜杠命令（中英双语）。",
+    "en": "Workspace-first enhanced sidebar (shadows the built-in workspace browser at low priority, one-click toggle back) with soft workspace archive/restore, per-workspace icons and accent colors, drag reorder and title/path/session-content search, plus a ⌘K Spotlight palette; host side ships read-only workspace_find/workspace_list tools and slash commands. Bilingual zh/en."
+   },
+   "npm": "dsh-workspace-kit",
+   "stars": 0,
+   "createdAt": "2026-09-04",
+   "install": "dsh plugin --profile web add dsh-workspace-kit",
+   "added": "2026-09-06"
   },
   {
    "name": "dsh-ux",
@@ -1177,6 +1207,21 @@
    "added": "2026-08-13"
   },
   {
+   "name": "dsh-settings-ui",
+   "owner": "weibaohui",
+   "url": "https://github.com/weibaohui/dsh-settings-ui",
+   "category": "ui",
+   "description": {
+    "zh": "设置界面自定义：调整原生设置窗口大小（全屏/预置/自定义宽高）、背景透明度与背景（主题/颜色/图片），悬浮球即开即调，存本机浏览器。",
+    "en": "Customizes the native settings window: preset/custom sizes, fullscreen, background transparency, and theme, solid-color, or image backgrounds, with a floating ball for quick access; saved in the local browser."
+   },
+   "npm": "@weibaohui/dsh-settings-ui",
+   "stars": 0,
+   "createdAt": "2026-09-01",
+   "install": "dsh plugin --profile web add @weibaohui/dsh-settings-ui",
+   "added": "2026-09-06"
+  },
+  {
    "name": "dsh-turn-cost",
    "owner": "WFMinerva",
    "url": "https://github.com/WFMinerva/dsh-turn-cost",
@@ -1717,6 +1762,21 @@
    "added": "2026-08-16"
   },
   {
+   "name": "dsh-filesnap",
+   "owner": "extracurricular-ai",
+   "url": "https://github.com/extracurricular-ai/dsh-filesnap",
+   "category": "session",
+   "description": {
+    "zh": "同步回退对话与工作区，不碰 Git；每次回退都是一个 fork，/redo 可撤销。",
+    "en": "Rewind a conversation and its workspace together without touching Git; every rewind is a fork and /redo reverses it."
+   },
+   "npm": "dsh-filesnap",
+   "stars": 42,
+   "createdAt": "2026-08-27",
+   "install": "dsh plugin --profile web add dsh-filesnap",
+   "added": "2026-09-06"
+  },
+  {
    "name": "dsh-trajectory-reader",
    "owner": "flyingtimes",
    "url": "https://github.com/flyingtimes/dsh-trajectory-reader",
@@ -1895,6 +1955,21 @@
    "createdAt": "2026-08-17",
    "install": "dsh plugin --profile web add dsh-what-changed",
    "added": "2026-08-17"
+  },
+  {
+   "name": "dsh-continue",
+   "owner": "weibaohui",
+   "url": "https://github.com/weibaohui/dsh-continue",
+   "category": "session",
+   "description": {
+    "zh": "自动续跑：agent 会话中断后自动续上，规则表按失败类型（限流/额度/鉴权/上下文超限/崩溃孤儿）路由——退避重试、换模型、压缩上下文后继续或止损通知，规则可视化编辑，全程活动日志。",
+    "en": "Auto-resume for interrupted sessions: rules route by failure type (rate limit, quota, auth, context overflow, crashed orphan) into backoff retry, model switch, resume-after-compaction, or stop-loss notification, with a visual rule editor and activity log."
+   },
+   "npm": "@weibaohui/dsh-continue",
+   "stars": 0,
+   "createdAt": "2026-08-31",
+   "install": "dsh plugin --profile web add @weibaohui/dsh-continue",
+   "added": "2026-09-06"
   },
   {
    "name": "dsh-prompt-stash",
@@ -2105,6 +2180,21 @@
    "createdAt": null,
    "install": "dsh plugin --profile web add github:JohnXu22786/memory-vault",
    "added": "2026-08-17"
+  },
+  {
+   "name": "dsh-hermes-memory",
+   "owner": "lcthe",
+   "url": "https://github.com/lcthe/dsh-hermes-memory",
+   "category": "memory",
+   "description": {
+    "zh": "面向 DSH 的原生持久记忆插件：会话检索、常驻上下文、崩溃安全合并和本地技能存储。",
+    "en": "DSH-native persistent memory: session-aware retrieval, standing context, crash-safe consolidation, and storage-backed skills."
+   },
+   "npm": "@lcthe/dsh-hermes-memory",
+   "stars": 0,
+   "createdAt": "2026-08-26",
+   "install": "dsh plugin --profile web add @lcthe/dsh-hermes-memory",
+   "added": "2026-09-06"
   },
   {
    "name": "distill",
@@ -2405,6 +2495,21 @@
    "createdAt": "2026-08-13",
    "install": "dsh plugin --profile web add github:Tyan66666/billion-context-dsh",
    "added": "2026-08-14"
+  },
+  {
+   "name": "hermes-loop",
+   "owner": "weibaohui",
+   "url": "https://github.com/weibaohui/hermes-loop",
+   "category": "memory",
+   "description": {
+    "zh": "自动复盘：对话收尾后自动把有价值的经验蒸馏成可复用技能存入技能库，支持信号加速触发、手动立即复盘、审批模式与技能库治理（归档/恢复，永不直接删除）。",
+    "en": "Automatic post-conversation retrospective that distills useful experience into reusable skills for the skill library, with approval mode and skill-library governance (archive/restore, never deletes directly)."
+   },
+   "npm": "@weibaohui/hermes-loop",
+   "stars": 0,
+   "createdAt": "2026-08-31",
+   "install": "dsh plugin --profile web add @weibaohui/hermes-loop",
+   "added": "2026-09-06"
   },
   {
    "name": "eco-dsh-plugins",
@@ -4126,7 +4231,7 @@
     "en": "Full DSH configuration backup, restore, export, import, migrate and sync: settings, providers, plugins, MCP servers, skills, agent presets and workspaces in one ZIP, with encrypted backups, Git/WebDAV sync and a configuration marketplace."
    },
    "npm": "dsh-config-manager",
-   "stars": 49,
+   "stars": 83,
    "createdAt": "2026-08-14",
    "install": "dsh plugin --profile web add dsh-config-manager",
    "added": "2026-08-23"
@@ -5941,7 +6046,7 @@
     "en": "Track the origin of local development ports on Windows and safely manage verified DSH services."
    },
    "npm": "dsh-port-inspector",
-   "stars": 1,
+   "stars": 2,
    "createdAt": "2026-08-20",
    "install": "dsh plugin --profile web add dsh-port-inspector",
    "added": "2026-08-30"
@@ -6890,6 +6995,21 @@
    "createdAt": "2026-08-10",
    "install": "dsh plugin --profile web add github:vlln/whale-girl",
    "added": "2026-08-13"
+  },
+  {
+   "name": "dsh-xiuxian",
+   "owner": "weibaohui",
+   "url": "https://github.com/weibaohui/dsh-xiuxian",
+   "category": "fun",
+   "description": {
+    "zh": "修仙陪伴：MC 像素风桌宠与 agent 会话实时联动，子代理启动时化身宠物现身（最多 3 只同屏），储物袋收藏、右键法宝菜单、图鉴选宠，可导出 Codex 桌宠格式。",
+    "en": "Xianxia desktop pets tied to live agent sessions: pixel-style companions appear as subagents spawn (up to 3 on screen), with storage-bag collection, a right-click artifact menu, a pet gallery, and Codex pet-format export."
+   },
+   "npm": "@weibaohui/dsh-xiuxian",
+   "stars": 0,
+   "createdAt": "2026-09-04",
+   "install": "dsh plugin --profile web add @weibaohui/dsh-xiuxian",
+   "added": "2026-09-06"
   },
   {
    "name": "dsh-stickers",
