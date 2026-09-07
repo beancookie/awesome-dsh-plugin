@@ -3,7 +3,7 @@
  "url": "https://beancookie.github.io/awesome-dsh-plugin",
  "source": "https://github.com/beancookie/awesome-dsh-plugin",
  "updated": "2026-09-07",
- "count": 473,
+ "count": 475,
  "categories": {
   "ui": {
    "zh": "UI 增强",
@@ -1312,6 +1312,21 @@
    "added": "2026-08-25"
   },
   {
+   "name": "dsh-split-screen",
+   "owner": "YEYEYEYESHIFU",
+   "url": "https://github.com/YEYEYEYESHIFU/dsh-split-screen",
+   "category": "ui",
+   "description": {
+    "zh": "分屏工作区：多个会话并排聊天，面板观感与原生对话完全一致，Alt+T 切换 TUI 输入模式，Alt+Shift+方向键切换面板焦点。",
+    "en": "Split-screen workspaces: run multiple conversations side by side with panels identical to native chats; Alt+T toggles TUI input mode, Alt+Shift+arrow keys switch panel focus."
+   },
+   "npm": "dsh-split-screen",
+   "stars": 0,
+   "createdAt": "2026-09-05",
+   "install": "dsh plugin --profile web add dsh-split-screen",
+   "added": "2026-09-07"
+  },
+  {
    "name": "dsh-client-ui-custom",
    "owner": "yoli-mi",
    "url": "https://github.com/yoli-mi/dsh-client-ui-custom",
@@ -1970,6 +1985,21 @@
    "createdAt": "2026-08-17",
    "install": "dsh plugin --profile web add dsh-what-changed",
    "added": "2026-08-17"
+  },
+  {
+   "name": "dsh-session-manager",
+   "owner": "SunshineR04",
+   "url": "https://github.com/SunshineR04/dsh-session-manager",
+   "category": "session",
+   "description": {
+    "zh": "归档会话管理：设置页列出/恢复/彻底删除（直接物理删除，无备份层），会话菜单红色删除项与三个 agent 工具；已打开的会话也能立即删除（墓碑隐藏，重启后自动清理）。",
+    "en": "Archived-session management: list, restore, or permanently delete (direct physical delete, no backup layer) from the Settings page, with a red delete entry in the session menu and three agent tools; open sessions can be deleted instantly too (tombstone-hidden, auto-cleaned on restart)."
+   },
+   "npm": null,
+   "stars": 1,
+   "createdAt": "2026-09-05",
+   "install": "dsh plugin --profile web add github:SunshineR04/dsh-session-manager",
+   "added": "2026-09-07"
   },
   {
    "name": "dsh-continue",

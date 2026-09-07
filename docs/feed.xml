@@ -13,6 +13,20 @@
     <summary>工作区 OS 状态条：输入框上方常驻显示任务统计（总数/进行中/待验收）、最近运行事件与自检日期；零依赖只读，数据来自工作区 .dshos/ 文本契约，兼容旧 DSH-OS 布局，30 秒自动刷新。</summary>
   </entry>
   <entry>
+    <title>YEYEYEYESHIFU/dsh-split-screen</title>
+    <id>https://github.com/YEYEYEYESHIFU/dsh-split-screen</id>
+    <link href="https://github.com/YEYEYEYESHIFU/dsh-split-screen"/>
+    <updated>2026-09-07T00:00:00Z</updated>
+    <summary>分屏工作区：多个会话并排聊天，面板观感与原生对话完全一致，Alt+T 切换 TUI 输入模式，Alt+Shift+方向键切换面板焦点。</summary>
+  </entry>
+  <entry>
+    <title>SunshineR04/dsh-session-manager</title>
+    <id>https://github.com/SunshineR04/dsh-session-manager</id>
+    <link href="https://github.com/SunshineR04/dsh-session-manager"/>
+    <updated>2026-09-07T00:00:00Z</updated>
+    <summary>归档会话管理：设置页列出/恢复/彻底删除（直接物理删除，无备份层），会话菜单红色删除项与三个 agent 工具；已打开的会话也能立即删除（墓碑隐藏，重启后自动清理）。</summary>
+  </entry>
+  <entry>
     <title>weibaohui/context-razor</title>
     <id>https://github.com/weibaohui/context-razor</id>
     <link href="https://github.com/weibaohui/context-razor"/>
@@ -200,19 +214,5 @@
     <link href="https://github.com/pauloapoloni/dsh-pr-checks"/>
     <updated>2026-08-26T00:00:00Z</updated>
     <summary>在侧边栏底部按工作区/项目分组展示当前打开 PR 的 GitHub Actions 检查状态与进度。</summary>
-  </entry>
-  <entry>
-    <title>SiriLee/dsh-approval-hotkeys</title>
-    <id>https://github.com/SiriLee/dsh-approval-hotkeys</id>
-    <link href="https://github.com/SiriLee/dsh-approval-hotkeys"/>
-    <updated>2026-08-26T00:00:00Z</updated>
-    <summary>审批面板键盘快捷键：Enter 批准一次、Esc 拒绝、Esc 暂停键盘驱动审阅，审批/提问面板通用。</summary>
-  </entry>
-  <entry>
-    <title>SiriLee/dsh-rewind</title>
-    <id>https://github.com/SiriLee/dsh-rewind</id>
-    <link href="https://github.com/SiriLee/dsh-rewind"/>
-    <updated>2026-08-26T00:00:00Z</updated>
-    <summary>同窗口原地回退（Claude Code /rewind 语义）：每条用户消息旁 ↶ 按钮把模型上下文截断回任意一条消息，可选 Claude Code 风格文件回滚（磁盘持久化 before 备份）。</summary>
   </entry>
 </feed>

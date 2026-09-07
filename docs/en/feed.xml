@@ -13,6 +13,20 @@
     <summary>Workspace OS status bar: task counts, latest run event, and checkup date above the input. Zero deps, read-only, .dshos/ text contract, legacy DSH-OS layout auto-detected, 30s refresh.</summary>
   </entry>
   <entry>
+    <title>YEYEYEYESHIFU/dsh-split-screen</title>
+    <id>https://github.com/YEYEYEYESHIFU/dsh-split-screen</id>
+    <link href="https://github.com/YEYEYEYESHIFU/dsh-split-screen"/>
+    <updated>2026-09-07T00:00:00Z</updated>
+    <summary>Split-screen workspaces: run multiple conversations side by side with panels identical to native chats; Alt+T toggles TUI input mode, Alt+Shift+arrow keys switch panel focus.</summary>
+  </entry>
+  <entry>
+    <title>SunshineR04/dsh-session-manager</title>
+    <id>https://github.com/SunshineR04/dsh-session-manager</id>
+    <link href="https://github.com/SunshineR04/dsh-session-manager"/>
+    <updated>2026-09-07T00:00:00Z</updated>
+    <summary>Archived-session management: list, restore, or permanently delete (direct physical delete, no backup layer) from the Settings page, with a red delete entry in the session menu and three agent tools; open sessions can be deleted instantly too (tombstone-hidden, auto-cleaned on restart).</summary>
+  </entry>
+  <entry>
     <title>weibaohui/context-razor</title>
     <id>https://github.com/weibaohui/context-razor</id>
     <link href="https://github.com/weibaohui/context-razor"/>
@@ -200,19 +214,5 @@
     <link href="https://github.com/pauloapoloni/dsh-pr-checks"/>
     <updated>2026-08-26T00:00:00Z</updated>
     <summary>Status and progress of GitHub Actions checks for the open pull requests, grouped by workspace/project, in the sidebar footer.</summary>
-  </entry>
-  <entry>
-    <title>SiriLee/dsh-approval-hotkeys</title>
-    <id>https://github.com/SiriLee/dsh-approval-hotkeys</id>
-    <link href="https://github.com/SiriLee/dsh-approval-hotkeys"/>
-    <updated>2026-08-26T00:00:00Z</updated>
-    <summary>Approval-panel keyboard shortcuts: Enter approves once, Esc rejects, Esc pauses the keyboard-driven review; works across approval and ask panels.</summary>
-  </entry>
-  <entry>
-    <title>SiriLee/dsh-rewind</title>
-    <id>https://github.com/SiriLee/dsh-rewind</id>
-    <link href="https://github.com/SiriLee/dsh-rewind"/>
-    <updated>2026-08-26T00:00:00Z</updated>
-    <summary>In-window in-place rewind (Claude Code /rewind semantics): a ↶ button beside each user message truncates the model context back to any message, with optional Claude Code-style file rollback (disk-persisted before backups).</summary>
   </entry>
 </feed>
