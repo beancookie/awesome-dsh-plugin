@@ -2056,7 +2056,7 @@
     "en": "Codex-style per-session memory for DSH: one session one draft (rollout_summaries), layered disclosure (summary → registry → drafts/evidence), restrained & passive, idempotent integration, remembers facts/preferences/decisions across sessions with verifiable citations, npm package `dsh-memory_rollout`."
    },
    "npm": "dsh-memory_rollout",
-   "stars": 0,
+   "stars": 1,
    "createdAt": "2026-08-27",
    "install": "dsh plugin --profile web add dsh-memory_rollout",
    "added": "2026-09-01"
@@ -3646,7 +3646,7 @@
     "en": "Read-only trading research workbench: a typed market-data seam (bring your own data source), multi-timeframe indicator regime snapshots, interactive candlestick cards in the dsh web UI (AI annotations require cited sources verified against real candle ranges), and a structurally order-blocking risk-guard."
    },
    "npm": null,
-   "stars": 26,
+   "stars": 33,
    "createdAt": "2026-08-17",
    "install": "dsh plugin --profile web add github:maddogfinance/dsh-trading",
    "added": "2026-08-19"
@@ -4096,7 +4096,7 @@
     "en": "In-conversation read-aloud with Doubao-quality voices: every AI reply gets a 🔊 tap-to-read / auto-read toggle (off by default, state persisted), with voices synthesized by the local Omi engine (Doubao seed-tts); BYOK — keys stay in your local Keychain, the plugin stores none."
    },
    "npm": null,
-   "stars": 79,
+   "stars": 73,
    "createdAt": "2026-08-18",
    "install": "dsh plugin --profile web add github:PolinniZhong/dsh-omi-voice",
    "added": "2026-08-18"
@@ -4951,7 +4951,7 @@
     "en": "Recursive Self-Improvement engine: bounded perceive→integrate→verify→parity→repair→propose loop + 128-plugin 1:1 parity gate — DSH maintains DSH."
    },
    "npm": null,
-   "stars": 2,
+   "stars": 3,
    "createdAt": "2026-08-18",
    "install": "dsh plugin --profile web add github:huchunlinnk/deepseek-desk-rsi",
    "added": "2026-08-19"
@@ -6301,7 +6301,7 @@
     "en": "Commit-time governance harness for AI coding agents: 24 deterministic audit rules over git diffs (secrets, out-of-scope edits, blind modifications, prompt-injection traces), HMAC-chained audit history, and a 9-plugin DSH family. - Context injection audit: token costs of instruction chains / skill catalogs / tool schemas, duplicate and conflict detection."
    },
    "npm": null,
-   "stars": 41,
+   "stars": 43,
    "createdAt": "2026-06-18",
    "install": "dsh plugin --profile web add github:KongFangXun/sofagent",
    "added": "2026-09-01"
