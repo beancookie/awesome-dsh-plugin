@@ -4,7 +4,14 @@
   <id>https://beancookie.github.io/awesome-dsh-plugin/</id>
   <link href="https://beancookie.github.io/awesome-dsh-plugin/"/>
   <link rel="self" href="https://beancookie.github.io/awesome-dsh-plugin/feed.xml"/>
-  <updated>2026-09-07T00:00:00Z</updated>
+  <updated>2026-09-08T00:00:00Z</updated>
+  <entry>
+    <title>weibaohui/dsh-smart-title</title>
+    <id>https://github.com/weibaohui/dsh-smart-title</id>
+    <link href="https://github.com/weibaohui/dsh-smart-title"/>
+    <updated>2026-09-08T00:00:00Z</updated>
+    <summary>会话智能标题：每轮对话结束后用一次独立的辅助 LLM 调用对「用户消息+助手回答」的完整转写做总结，标题跟随会话真实主题而不是复述第一句话；首条消息即时生成标题、内置标题失败在后续轮次自动重试、用户手动改名绝不被覆盖、自动跳过子代理与 fork 会话。</summary>
+  </entry>
   <entry>
     <title>dugujun3-cloud/dshos-dock</title>
     <id>https://github.com/dugujun3-cloud/dshos-dock</id>
@@ -207,12 +214,5 @@
     <link href="https://github.com/pauloapoloni/dsh-pr-checks"/>
     <updated>2026-08-26T00:00:00Z</updated>
     <summary>在侧边栏底部按工作区/项目分组展示当前打开 PR 的 GitHub Actions 检查状态与进度。</summary>
-  </entry>
-  <entry>
-    <title>SiriLee/dsh-approval-hotkeys</title>
-    <id>https://github.com/SiriLee/dsh-approval-hotkeys</id>
-    <link href="https://github.com/SiriLee/dsh-approval-hotkeys"/>
-    <updated>2026-08-26T00:00:00Z</updated>
-    <summary>审批面板键盘快捷键：Enter 批准一次、Esc 拒绝、Esc 暂停键盘驱动审阅，审批/提问面板通用。</summary>
   </entry>
 </feed>

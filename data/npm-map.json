@@ -1699,6 +1699,10 @@
   "npm": "@weibaohui/dsh-settings-ui",
   "checkedAt": "2026-09-06"
  },
+ "https://github.com/weibaohui/dsh-smart-title": {
+  "npm": "@weibaohui/dsh-smart-title",
+  "checkedAt": "2026-09-08"
+ },
  "https://github.com/weibaohui/dsh-tasks": {
   "npm": "@weibaohui/dsh-tasks",
   "checkedAt": "2026-09-07"

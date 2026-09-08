@@ -4,7 +4,14 @@
   <id>https://beancookie.github.io/awesome-dsh-plugin/en/</id>
   <link href="https://beancookie.github.io/awesome-dsh-plugin/en/"/>
   <link rel="self" href="https://beancookie.github.io/awesome-dsh-plugin/en/feed.xml"/>
-  <updated>2026-09-07T00:00:00Z</updated>
+  <updated>2026-09-08T00:00:00Z</updated>
+  <entry>
+    <title>weibaohui/dsh-smart-title</title>
+    <id>https://github.com/weibaohui/dsh-smart-title</id>
+    <link href="https://github.com/weibaohui/dsh-smart-title"/>
+    <updated>2026-09-08T00:00:00Z</updated>
+    <summary>Smart session titles for DSH: after each conversation turn an independent auxiliary LLM call summarizes the full user+assistant transcript into a title that follows the session's real topic instead of echoing the first message; the first message is titled instantly, failed built-in titles auto-retry on later turns, manual renames are never overwritten, and subagent/fork sessions are skipped.</summary>
+  </entry>
   <entry>
     <title>dugujun3-cloud/dshos-dock</title>
     <id>https://github.com/dugujun3-cloud/dshos-dock</id>
@@ -207,12 +214,5 @@
     <link href="https://github.com/pauloapoloni/dsh-pr-checks"/>
     <updated>2026-08-26T00:00:00Z</updated>
     <summary>Status and progress of GitHub Actions checks for the open pull requests, grouped by workspace/project, in the sidebar footer.</summary>
-  </entry>
-  <entry>
-    <title>SiriLee/dsh-approval-hotkeys</title>
-    <id>https://github.com/SiriLee/dsh-approval-hotkeys</id>
-    <link href="https://github.com/SiriLee/dsh-approval-hotkeys"/>
-    <updated>2026-08-26T00:00:00Z</updated>
-    <summary>Approval-panel keyboard shortcuts: Enter approves once, Esc rejects, Esc pauses the keyboard-driven review; works across approval and ask panels.</summary>
   </entry>
 </feed>
