@@ -4,7 +4,14 @@
   <id>https://beancookie.github.io/awesome-dsh-plugin/</id>
   <link href="https://beancookie.github.io/awesome-dsh-plugin/"/>
   <link rel="self" href="https://beancookie.github.io/awesome-dsh-plugin/feed.xml"/>
-  <updated>2026-09-08T00:00:00Z</updated>
+  <updated>2026-09-09T00:00:00Z</updated>
+  <entry>
+    <title>lffrom0303/dsh-window98-theme</title>
+    <id>https://github.com/lffrom0303/dsh-window98-theme</id>
+    <link href="https://github.com/lffrom0303/dsh-window98-theme"/>
+    <updated>2026-09-09T00:00:00Z</updated>
+    <summary>DSH Web 客户端 Windows 98 复古皮肤：teal 桌面 + 银色面板、立体浮雕按钮、凹陷输入框、像素字体与棋盘格滚动条，浅色/深色双模式。</summary>
+  </entry>
   <entry>
     <title>weibaohui/dsh-smart-title</title>
     <id>https://github.com/weibaohui/dsh-smart-title</id>
@@ -207,12 +214,5 @@
     <link href="https://github.com/maxmilian/dsh-sentry"/>
     <updated>2026-08-27T00:00:00Z</updated>
     <summary>面向 Sentry 的只读工具：项目列表、议题搜索与详情，以及最新或指定 event 的裁剪堆栈——局部变量、请求数据与疑似机密的 tag 会被移除。npm `dsh-sentry`。</summary>
-  </entry>
-  <entry>
-    <title>pauloapoloni/dsh-pr-checks</title>
-    <id>https://github.com/pauloapoloni/dsh-pr-checks</id>
-    <link href="https://github.com/pauloapoloni/dsh-pr-checks"/>
-    <updated>2026-08-26T00:00:00Z</updated>
-    <summary>在侧边栏底部按工作区/项目分组展示当前打开 PR 的 GitHub Actions 检查状态与进度。</summary>
   </entry>
 </feed>
