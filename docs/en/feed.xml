@@ -4,7 +4,14 @@
   <id>https://beancookie.github.io/awesome-dsh-plugin/en/</id>
   <link href="https://beancookie.github.io/awesome-dsh-plugin/en/"/>
   <link rel="self" href="https://beancookie.github.io/awesome-dsh-plugin/en/feed.xml"/>
-  <updated>2026-09-09T00:00:00Z</updated>
+  <updated>2026-09-10T00:00:00Z</updated>
+  <entry>
+    <title>yindf/taskfold</title>
+    <id>https://github.com/yindf/taskfold</id>
+    <link href="https://github.com/yindf/taskfold"/>
+    <updated>2026-09-10T00:00:00Z</updated>
+    <summary>Wraps work in named tasks and folds each finished task's whole span of messages into one summary at the next step boundary, with the original messages restorable on demand.</summary>
+  </entry>
   <entry>
     <title>lffrom0303/dsh-window98-theme</title>
     <id>https://github.com/lffrom0303/dsh-window98-theme</id>
@@ -207,12 +214,5 @@
     <link href="https://github.com/maxmilian/dsh-odoo"/>
     <updated>2026-08-27T00:00:00Z</updated>
     <summary>Read-only Odoo tools over JSON-RPC: server info, model field introspection, and a restricted search_read on an allow list of models. A draft-create tool is registered only when allowWrite is enabled. npm `dsh-odoo`.</summary>
-  </entry>
-  <entry>
-    <title>maxmilian/dsh-sentry</title>
-    <id>https://github.com/maxmilian/dsh-sentry</id>
-    <link href="https://github.com/maxmilian/dsh-sentry"/>
-    <updated>2026-08-27T00:00:00Z</updated>
-    <summary>Read-only Sentry tools: project listing, issue search and detail, and the latest or a specific event with a trimmed stacktrace that drops local variables, request data, and secret-looking tags. npm `dsh-sentry`.</summary>
   </entry>
 </feed>

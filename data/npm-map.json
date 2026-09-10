@@ -1835,6 +1835,10 @@
   "npm": null,
   "checkedAt": "2026-08-14"
  },
+ "https://github.com/yindf/taskfold": {
+  "npm": "dsh-taskfold",
+  "checkedAt": "2026-09-10"
+ },
  "https://github.com/ylwl1997/noatmark-dsh-plugin": {
   "npm": null,
   "checkedAt": "2026-08-14"

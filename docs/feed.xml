@@ -4,7 +4,14 @@
   <id>https://beancookie.github.io/awesome-dsh-plugin/</id>
   <link href="https://beancookie.github.io/awesome-dsh-plugin/"/>
   <link rel="self" href="https://beancookie.github.io/awesome-dsh-plugin/feed.xml"/>
-  <updated>2026-09-09T00:00:00Z</updated>
+  <updated>2026-09-10T00:00:00Z</updated>
+  <entry>
+    <title>yindf/taskfold</title>
+    <id>https://github.com/yindf/taskfold</id>
+    <link href="https://github.com/yindf/taskfold"/>
+    <updated>2026-09-10T00:00:00Z</updated>
+    <summary>用命名任务包住工作过程；任务结束后在下一个步骤边界把整段消息折叠成一段摘要，原文可随时还原。</summary>
+  </entry>
   <entry>
     <title>lffrom0303/dsh-window98-theme</title>
     <id>https://github.com/lffrom0303/dsh-window98-theme</id>
@@ -207,12 +214,5 @@
     <link href="https://github.com/maxmilian/dsh-odoo"/>
     <updated>2026-08-27T00:00:00Z</updated>
     <summary>经 JSON-RPC 的 Odoo 只读工具：服务器信息、模型字段自省，以及白名单模型上的受限 search_read。草稿创建工具需显式开启 allowWrite 才会注册。npm `dsh-odoo`。</summary>
-  </entry>
-  <entry>
-    <title>maxmilian/dsh-sentry</title>
-    <id>https://github.com/maxmilian/dsh-sentry</id>
-    <link href="https://github.com/maxmilian/dsh-sentry"/>
-    <updated>2026-08-27T00:00:00Z</updated>
-    <summary>面向 Sentry 的只读工具：项目列表、议题搜索与详情，以及最新或指定 event 的裁剪堆栈——局部变量、请求数据与疑似机密的 tag 会被移除。npm `dsh-sentry`。</summary>
   </entry>
 </feed>

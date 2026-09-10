@@ -2,8 +2,8 @@
  "name": "awesome-dsh-plugin",
  "url": "https://beancookie.github.io/awesome-dsh-plugin",
  "source": "https://github.com/beancookie/awesome-dsh-plugin",
- "updated": "2026-09-09",
- "count": 476,
+ "updated": "2026-09-10",
+ "count": 477,
  "categories": {
   "ui": {
    "zh": "UI 增强",
@@ -751,7 +751,7 @@
     "en": "DSH plugin manager panel: one-click enable/disable of installed plugins, multi-source market (GitHub/Gitee/custom), static-index market (500+ plugins / 300 skills), skill install/disable, one-click bundle assembly, and framework upgrade adaptation."
    },
    "npm": null,
-   "stars": 75,
+   "stars": 81,
    "createdAt": "2026-08-14",
    "install": "dsh plugin --profile web add github:Noob-stupid/dsh-plugin-hub",
    "added": "2026-08-20"
@@ -1966,7 +1966,7 @@
     "en": "In-bubble inline edit and recall for user messages in DSH Web: lazy commit, seamless replacement, a version pager, draft auto-backup, and trilingual i18n."
    },
    "npm": null,
-   "stars": 102,
+   "stars": 105,
    "createdAt": "2026-08-18",
    "install": "dsh plugin --profile web add github:Renzic-Stone/DSH-EasyRewrite",
    "added": "2026-08-20"
@@ -2060,6 +2060,21 @@
    "createdAt": "2026-08-13",
    "install": "dsh plugin --profile web add dsh-prompt-stash",
    "added": "2026-08-14"
+  },
+  {
+   "name": "taskfold",
+   "owner": "yindf",
+   "url": "https://github.com/yindf/taskfold",
+   "category": "session",
+   "description": {
+    "zh": "用命名任务包住工作过程；任务结束后在下一个步骤边界把整段消息折叠成一段摘要，原文可随时还原。",
+    "en": "Wraps work in named tasks and folds each finished task's whole span of messages into one summary at the next step boundary, with the original messages restorable on demand."
+   },
+   "npm": "dsh-taskfold",
+   "stars": 1,
+   "createdAt": "2026-09-02",
+   "install": "dsh plugin --profile web add dsh-taskfold",
+   "added": "2026-09-10"
   },
   {
    "name": "dsh-explain",
