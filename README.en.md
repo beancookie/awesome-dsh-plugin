@@ -194,6 +194,7 @@ DeepSeek Harness is DeepSeek's open-source agent harness — a runnable coding a
 - [weibaohui/dsh-continue](https://github.com/weibaohui/dsh-continue) - Auto-resume for interrupted sessions: rules route by failure type (rate limit, quota, auth, context overflow, crashed orphan) into backoff retry, model switch, resume-after-compaction, or stop-loss notification, with a visual rule editor and activity log.
 - [weibaohui/dsh-smart-title](https://github.com/weibaohui/dsh-smart-title) - Smart session titles for DSH: after each conversation turn an independent auxiliary LLM call summarizes the full user+assistant transcript into a title that follows the session's real topic instead of echoing the first message; the first message is titled instantly, failed built-in titles auto-retry on later turns, manual renames are never overwritten, and subagent/fork sessions are skipped.
 - [Wine-Red/dsh-prompt-stash](https://github.com/Wine-Red/dsh-prompt-stash) - Local, per-session LIFO prompt stash for temporarily setting aside unfinished composer text and safely restoring it later.
+- [yindf/taskfold](https://github.com/yindf/taskfold) - Wraps work in named tasks and folds each finished task's whole span of messages into one summary at the next step boundary, with the original messages restorable on demand.
 - [yuezengwu/dsh-explain](https://github.com/yuezengwu/dsh-explain) - Local-first learning mode: cross-session learning threads with per-source explanations.
 
 ### Memory
