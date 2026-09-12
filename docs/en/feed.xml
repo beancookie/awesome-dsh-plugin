@@ -13,6 +13,13 @@
     <summary>Adds a row at the top of the sidebar that switches the whole Web GUI to another DSH host reached over a loopback port, with that host's session state on the row (running, unread activity, or waiting for your answer).</summary>
   </entry>
   <entry>
+    <title>Nicholaskin/vision-exp-tile</title>
+    <id>https://github.com/Nicholaskin/vision-exp-tile</id>
+    <link href="https://github.com/Nicholaskin/vision-exp-tile"/>
+    <updated>2026-09-12T00:00:00Z</updated>
+    <summary>Large-image recognition for vision models: 800×800 lossless tiling (smart/pipeline/full strategies) plus local OCR (auto inversion/binarization/handwriting split) and optional multi-vendor GPU acceleration (DirectML covering NVIDIA/AMD/Intel, CUDA/OpenVINO) with automatic CPU fallback; MIT licensed (111 unit tests).</summary>
+  </entry>
+  <entry>
     <title>yindf/taskfold</title>
     <id>https://github.com/yindf/taskfold</id>
     <link href="https://github.com/yindf/taskfold"/>
@@ -207,12 +214,5 @@
     <link href="https://github.com/YEYEYEYESHIFU/dsh-result-only-view"/>
     <updated>2026-08-27T00:00:00Z</updated>
     <summary>Results-only view toggle for the DSH Web GUI: folds thinking and tool-call process rows so conversations show only user messages and final replies; live summary chips for running steps, click-to-expand turn trace with hover-peek, auto/manual fold modes.</summary>
-  </entry>
-  <entry>
-    <title>maxmilian/dsh-grafana-query</title>
-    <id>https://github.com/maxmilian/dsh-grafana-query</id>
-    <link href="https://github.com/maxmilian/dsh-grafana-query"/>
-    <updated>2026-08-27T00:00:00Z</updated>
-    <summary>Read-only Grafana tools over the data source proxy: instance health, data sources, instant and range PromQL queries, current alert state, and provisioned alert rules. npm `dsh-grafana-query`.</summary>
   </entry>
 </feed>

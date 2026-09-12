@@ -13,6 +13,13 @@
     <summary>在侧边栏顶部加一行，点击后整页切换成另一台 DSH 主机的 Web GUI（通过回环端口访问），并在该行显示那台主机的会话状态（运行中、有新活动、正等你回答）。</summary>
   </entry>
   <entry>
+    <title>Nicholaskin/vision-exp-tile</title>
+    <id>https://github.com/Nicholaskin/vision-exp-tile</id>
+    <link href="https://github.com/Nicholaskin/vision-exp-tile"/>
+    <updated>2026-09-12T00:00:00Z</updated>
+    <summary>面向视觉大模型的大图智能识图：800×800 无损切块识别（smart/pipeline/full 三策略）+ 本地 OCR（自动反色/二值化/手写分流）+ 可选多厂商 GPU 加速（DirectML 覆盖 NVIDIA/AMD/Intel，CUDA/OpenVINO），失败自动回退 CPU；MIT 开源（111 项单元测试）。</summary>
+  </entry>
+  <entry>
     <title>yindf/taskfold</title>
     <id>https://github.com/yindf/taskfold</id>
     <link href="https://github.com/yindf/taskfold"/>
@@ -207,12 +214,5 @@
     <link href="https://github.com/YEYEYEYESHIFU/dsh-result-only-view"/>
     <updated>2026-08-27T00:00:00Z</updated>
     <summary>「只看结果」开关：折叠思考与工具调用过程行，对话只留用户消息与最终回复；运行中显示实时摘要芯片，回合后可点击痕迹行展开过程（支持悬停预览与自动/手动折叠）。</summary>
-  </entry>
-  <entry>
-    <title>maxmilian/dsh-grafana-query</title>
-    <id>https://github.com/maxmilian/dsh-grafana-query</id>
-    <link href="https://github.com/maxmilian/dsh-grafana-query"/>
-    <updated>2026-08-27T00:00:00Z</updated>
-    <summary>面向 Grafana 的只读工具，经数据源代理：实例健康、数据源列表、instant 与 range PromQL 查询、当前告警状态与已配置的告警规则。npm `dsh-grafana-query`。</summary>
   </entry>
 </feed>
