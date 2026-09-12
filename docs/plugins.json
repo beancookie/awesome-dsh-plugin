@@ -3,7 +3,7 @@
  "url": "https://beancookie.github.io/awesome-dsh-plugin",
  "source": "https://github.com/beancookie/awesome-dsh-plugin",
  "updated": "2026-09-12",
- "count": 478,
+ "count": 479,
  "categories": {
   "ui": {
    "zh": "UI 增强",
@@ -2150,6 +2150,21 @@
    "createdAt": "2026-08-16",
    "install": "dsh plugin --profile web add github:Breeze136/dsh-kb-rag",
    "added": "2026-08-17"
+  },
+  {
+   "name": "busabase-dsh-plugin",
+   "owner": "busabase",
+   "url": "https://github.com/busabase/busabase-dsh-plugin",
+   "category": "memory",
+   "description": {
+    "zh": "通过 MCP 工具、权限感知的 ChangeRequest、结果卡片与实时记录检查器，将 DSH Agent 接入 Busabase。",
+    "en": "Connects DSH agents to Busabase through MCP tools, approval-aware ChangeRequests, result cards, and a live record inspector."
+   },
+   "npm": "@busabase/dsh-plugin",
+   "stars": 5,
+   "createdAt": "2026-09-02",
+   "install": "dsh plugin --profile web add @busabase/dsh-plugin",
+   "added": "2026-09-12"
   },
   {
    "name": "dsh-memory",

@@ -363,6 +363,12 @@
   "etag": "W/\"74642776833431a7b26ab80c8882ce131e81b7f48a981f1a0e370f000c7f9020\"",
   "checkedAt": "2026-09-11"
  },
+ "https://github.com/busabase/busabase-dsh-plugin": {
+  "stars": 5,
+  "createdAt": "2026-09-02",
+  "etag": "W/\"418749e23c8b1aa083cb9c3e0f52f8b5596259a22232c59be9dd0eb5ce722500\"",
+  "checkedAt": "2026-09-12"
+ },
  "https://github.com/Buyi-wsgzg/dsh-sidechain": {
   "stars": 14,
   "createdAt": "2026-08-07",

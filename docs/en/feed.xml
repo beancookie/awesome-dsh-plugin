@@ -13,6 +13,13 @@
     <summary>Adds a row at the top of the sidebar that switches the whole Web GUI to another DSH host reached over a loopback port, with that host's session state on the row (running, unread activity, or waiting for your answer).</summary>
   </entry>
   <entry>
+    <title>busabase/busabase-dsh-plugin</title>
+    <id>https://github.com/busabase/busabase-dsh-plugin</id>
+    <link href="https://github.com/busabase/busabase-dsh-plugin"/>
+    <updated>2026-09-12T00:00:00Z</updated>
+    <summary>Connects DSH agents to Busabase through MCP tools, approval-aware ChangeRequests, result cards, and a live record inspector.</summary>
+  </entry>
+  <entry>
     <title>Nicholaskin/vision-exp-tile</title>
     <id>https://github.com/Nicholaskin/vision-exp-tile</id>
     <link href="https://github.com/Nicholaskin/vision-exp-tile"/>
@@ -207,12 +214,5 @@
     <link href="https://github.com/ianho7/dsh-port-inspector"/>
     <updated>2026-08-30T00:00:00Z</updated>
     <summary>Track the origin of local development ports on Windows and safely manage verified DSH services.</summary>
-  </entry>
-  <entry>
-    <title>YEYEYEYESHIFU/dsh-result-only-view</title>
-    <id>https://github.com/YEYEYEYESHIFU/dsh-result-only-view</id>
-    <link href="https://github.com/YEYEYEYESHIFU/dsh-result-only-view"/>
-    <updated>2026-08-27T00:00:00Z</updated>
-    <summary>Results-only view toggle for the DSH Web GUI: folds thinking and tool-call process rows so conversations show only user messages and final replies; live summary chips for running steps, click-to-expand turn trace with hover-peek, auto/manual fold modes.</summary>
   </entry>
 </feed>

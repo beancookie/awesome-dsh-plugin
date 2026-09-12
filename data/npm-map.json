@@ -243,6 +243,10 @@
   "npm": null,
   "checkedAt": "2026-08-21"
  },
+ "https://github.com/busabase/busabase-dsh-plugin": {
+  "npm": "@busabase/dsh-plugin",
+  "checkedAt": "2026-09-12"
+ },
  "https://github.com/Buyi-wsgzg/dsh-sidechain": {
   "npm": null,
   "checkedAt": "2026-08-14"
