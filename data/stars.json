@@ -430,16 +430,16 @@
   "checkedAt": "2026-09-07"
  },
  "https://github.com/chenzhi-clude/dsh-hooks-pack": {
-  "stars": 1,
+  "stars": 0,
   "createdAt": "2026-08-21",
-  "etag": "W/\"35c02fad234bf68ed31f49aa1d663de9918287b1d37c04efba4a9ec44620d0c9\"",
-  "checkedAt": "2026-09-05"
+  "etag": "W/\"2d82f7b2029abc1e7d7bdbcecca173d4a2f3ad537a11af665d5e11af633e54e4\"",
+  "checkedAt": "2026-09-12"
  },
  "https://github.com/chenzhi-clude/dsh-plugin-market": {
-  "stars": 1,
+  "stars": 0,
   "createdAt": "2026-08-21",
-  "etag": "W/\"ad4306b65f648d975750a2018a07372b7fc37f48af94b8c58093185dcf531eb3\"",
-  "checkedAt": "2026-09-05"
+  "etag": "W/\"8c6e4df00d637f20dcd1be9be36fb0ac232ac7cfcb6f49e445a004039c0d6849\"",
+  "checkedAt": "2026-09-12"
  },
  "https://github.com/Chinesezjc/dsh-interconnect": {
   "stars": 35,
@@ -870,6 +870,12 @@
   "createdAt": "2026-08-11",
   "etag": "W/\"a178e682a4d8be67fff820c8478ca07f788615692b12a5ae40dc69bbbb4417d8\"",
   "checkedAt": "2026-09-07"
+ },
+ "https://github.com/hutao562/dsh-remote-dsh": {
+  "stars": 0,
+  "createdAt": "2026-09-10",
+  "etag": "W/\"b7fe3ad681159e083bb8bb87a2d116ebea6f6b2ed83d64241bfdcb73b323641a\"",
+  "checkedAt": "2026-09-12"
  },
  "https://github.com/hyqhyq3/dsh-mcp-manager": {
   "stars": 13,
@@ -2192,10 +2198,10 @@
   "checkedAt": "2026-09-07"
  },
  "https://github.com/sandbaseai/deepseek-harness-handbook": {
-  "stars": 141,
+  "stars": 187,
   "createdAt": "2026-08-14",
-  "etag": "W/\"3ee999b1cd1a8c99c920dc8400a264561c37a2023c4bf206139945c06923bc99\"",
-  "checkedAt": "2026-09-05"
+  "etag": "W/\"e9ff51c768243a16c07690a7c5f73ad1170f2f4d0d2e0608e2980b83890ac780\"",
+  "checkedAt": "2026-09-12"
  },
  "https://github.com/sandbaseai/dsh-plugin-store": {
   "stars": 4,

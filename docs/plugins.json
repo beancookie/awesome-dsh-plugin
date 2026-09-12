@@ -2,8 +2,8 @@
  "name": "awesome-dsh-plugin",
  "url": "https://beancookie.github.io/awesome-dsh-plugin",
  "source": "https://github.com/beancookie/awesome-dsh-plugin",
- "updated": "2026-09-10",
- "count": 477,
+ "updated": "2026-09-12",
+ "count": 478,
  "categories": {
   "ui": {
    "zh": "UI 增强",
@@ -485,6 +485,21 @@
    "createdAt": "2026-08-13",
    "install": "dsh plugin --profile web add github:huiliyi37/dsh-tianshu-tui",
    "added": "2026-08-13"
+  },
+  {
+   "name": "dsh-remote-dsh",
+   "owner": "hutao562",
+   "url": "https://github.com/hutao562/dsh-remote-dsh",
+   "category": "ui",
+   "description": {
+    "zh": "在侧边栏顶部加一行，点击后整页切换成另一台 DSH 主机的 Web GUI（通过回环端口访问），并在该行显示那台主机的会话状态（运行中、有新活动、正等你回答）。",
+    "en": "Adds a row at the top of the sidebar that switches the whole Web GUI to another DSH host reached over a loopback port, with that host's session state on the row (running, unread activity, or waiting for your answer)."
+   },
+   "npm": "dsh-remote-dsh",
+   "stars": 0,
+   "createdAt": "2026-09-10",
+   "install": "dsh plugin --profile web add dsh-remote-dsh",
+   "added": "2026-09-12"
   },
   {
    "name": "dsh-file-explorer-kit",
@@ -4921,7 +4936,7 @@
     "en": "One-click Claude Code & Codex hooks: auto-discovers your existing ~/.claude / ~/.codex hook config and runs it on the official bridge plugins, with an explicit sandbox-policy shim so hook commands never die silently."
    },
    "npm": "dsh-hooks-pack",
-   "stars": 1,
+   "stars": 0,
    "createdAt": "2026-08-21",
    "install": "dsh plugin --profile web add dsh-hooks-pack",
    "added": "2026-08-22"

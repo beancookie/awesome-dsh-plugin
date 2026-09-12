@@ -4,7 +4,14 @@
   <id>https://beancookie.github.io/awesome-dsh-plugin/en/</id>
   <link href="https://beancookie.github.io/awesome-dsh-plugin/en/"/>
   <link rel="self" href="https://beancookie.github.io/awesome-dsh-plugin/en/feed.xml"/>
-  <updated>2026-09-10T00:00:00Z</updated>
+  <updated>2026-09-12T00:00:00Z</updated>
+  <entry>
+    <title>hutao562/dsh-remote-dsh</title>
+    <id>https://github.com/hutao562/dsh-remote-dsh</id>
+    <link href="https://github.com/hutao562/dsh-remote-dsh"/>
+    <updated>2026-09-12T00:00:00Z</updated>
+    <summary>Adds a row at the top of the sidebar that switches the whole Web GUI to another DSH host reached over a loopback port, with that host's session state on the row (running, unread activity, or waiting for your answer).</summary>
+  </entry>
   <entry>
     <title>yindf/taskfold</title>
     <id>https://github.com/yindf/taskfold</id>
@@ -207,12 +214,5 @@
     <link href="https://github.com/maxmilian/dsh-grafana-query"/>
     <updated>2026-08-27T00:00:00Z</updated>
     <summary>Read-only Grafana tools over the data source proxy: instance health, data sources, instant and range PromQL queries, current alert state, and provisioned alert rules. npm `dsh-grafana-query`.</summary>
-  </entry>
-  <entry>
-    <title>maxmilian/dsh-odoo</title>
-    <id>https://github.com/maxmilian/dsh-odoo</id>
-    <link href="https://github.com/maxmilian/dsh-odoo"/>
-    <updated>2026-08-27T00:00:00Z</updated>
-    <summary>Read-only Odoo tools over JSON-RPC: server info, model field introspection, and a restricted search_read on an allow list of models. A draft-create tool is registered only when allowWrite is enabled. npm `dsh-odoo`.</summary>
   </entry>
 </feed>

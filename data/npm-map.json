@@ -595,6 +595,10 @@
   "npm": null,
   "checkedAt": "2026-08-14"
  },
+ "https://github.com/hutao562/dsh-remote-dsh": {
+  "npm": "dsh-remote-dsh",
+  "checkedAt": "2026-09-12"
+ },
  "https://github.com/hyqhyq3/dsh-mcp-manager": {
   "npm": null,
   "checkedAt": "2026-08-14"

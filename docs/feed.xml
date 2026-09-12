@@ -4,7 +4,14 @@
   <id>https://beancookie.github.io/awesome-dsh-plugin/</id>
   <link href="https://beancookie.github.io/awesome-dsh-plugin/"/>
   <link rel="self" href="https://beancookie.github.io/awesome-dsh-plugin/feed.xml"/>
-  <updated>2026-09-10T00:00:00Z</updated>
+  <updated>2026-09-12T00:00:00Z</updated>
+  <entry>
+    <title>hutao562/dsh-remote-dsh</title>
+    <id>https://github.com/hutao562/dsh-remote-dsh</id>
+    <link href="https://github.com/hutao562/dsh-remote-dsh"/>
+    <updated>2026-09-12T00:00:00Z</updated>
+    <summary>在侧边栏顶部加一行，点击后整页切换成另一台 DSH 主机的 Web GUI（通过回环端口访问），并在该行显示那台主机的会话状态（运行中、有新活动、正等你回答）。</summary>
+  </entry>
   <entry>
     <title>yindf/taskfold</title>
     <id>https://github.com/yindf/taskfold</id>
@@ -207,12 +214,5 @@
     <link href="https://github.com/maxmilian/dsh-grafana-query"/>
     <updated>2026-08-27T00:00:00Z</updated>
     <summary>面向 Grafana 的只读工具，经数据源代理：实例健康、数据源列表、instant 与 range PromQL 查询、当前告警状态与已配置的告警规则。npm `dsh-grafana-query`。</summary>
-  </entry>
-  <entry>
-    <title>maxmilian/dsh-odoo</title>
-    <id>https://github.com/maxmilian/dsh-odoo</id>
-    <link href="https://github.com/maxmilian/dsh-odoo"/>
-    <updated>2026-08-27T00:00:00Z</updated>
-    <summary>经 JSON-RPC 的 Odoo 只读工具：服务器信息、模型字段自省，以及白名单模型上的受限 search_read。草稿创建工具需显式开启 allowWrite 才会注册。npm `dsh-odoo`。</summary>
   </entry>
 </feed>
