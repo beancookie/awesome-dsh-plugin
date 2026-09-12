@@ -529,6 +529,7 @@ DeepSeek Harness is DeepSeek's open-source agent harness — a runnable coding a
 - [xingyingyuzhui/dsh-updater-ui](https://github.com/xingyingyuzhui/dsh-updater-ui) - DSH self-updater in the settings page: one-click check/pull (`git pull --ff-only`), auto background checks, version diff and changelog preview with a red-dot reminder.
 - [yflmq001/dsh-cost-tracker](https://github.com/yflmq001/dsh-cost-tracker) - Per-model token cost tracking with configurable cache-hit/miss, output and peak-window pricing, a live session cost bar, and unconfigured-model flags.
 - [Yuuz12/dsh-webui-auth](https://github.com/Yuuz12/dsh-webui-auth) - WebUI authentication enforced at the HTTP/transport layer: four-layer login gate (resources, plugin bundles, /api, WebSocket), server-side sessions with HttpOnly cookies.
+- [weibaohui/dsh-git-server](https://github.com/weibaohui/dsh-git-server) - Git server: embeds ts-gogs (a TypeScript reimplementation of Gogs) and serves a full Git service on its own port - HTTP clone/push, web UI, issues/PRs/wiki - reusing user-management credentials, start/stop from the settings page.
 
 ### Just for Fun
 - [AnacondaKC/dsh-douyin](https://github.com/AnacondaKC/dsh-douyin) - Short-video sidebar: native player, series navigation, precise history replay.
