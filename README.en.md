@@ -601,3 +601,4 @@ Listed here? Show it off:
 This is a community-maintained index. Plugins are developed and maintained by their respective authors; listing here is not an endorsement, and no guarantees are made about any plugin's safety, quality, or maintenance. Installing a plugin runs third-party code on your machine — review the source and install at your own risk. This project is not affiliated with DeepSeek.
 
 This project actively supports and acknowledges the [LINUX DO](https://linux.do) community, a welcoming space for tech enthusiasts.
+- [weibaohui/dsh-code-poem](https://github.com/weibaohui/dsh-code-poem) - Code poetry: surfaces one of 4,598 classical Chinese poems, idioms or allusions as a reading card at session events (after each turn, or when a tool errors), with favorites and expandable annotations and backstories, styled as an ink-wash paper card.

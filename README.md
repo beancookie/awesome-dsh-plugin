@@ -601,3 +601,4 @@ DeepSeek Harness 是 DeepSeek 开源的 agent harness——既是可直接运行
 本项目是社区维护的索引。插件由各自作者开发与维护，收录不构成背书，亦不对任何插件的安全性、质量或维护状态作出保证。安装插件即在你的机器上运行第三方代码——请自行审阅源码、风险自担。本项目与 DeepSeek 无隶属关系。
 
 本项目积极支持并感谢 [LINUX DO](https://linux.do) 社区——一个欢迎技术爱好者的温馨空间。
+- [weibaohui/dsh-code-poem](https://github.com/weibaohui/dsh-code-poem) — 代码如诗：4598 条古诗词、成语、龙文鞭影典故随机成笺，随会话事件自动浮现（回合结束/工具报错时送你一句），可 ❤ 收藏、展开看释义与故事，宣纸墨色的阅读卡片。
