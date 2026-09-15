@@ -249,6 +249,7 @@ DeepSeek Harness 是 DeepSeek 开源的 agent harness——既是可直接运行
 - [Anionex/dsh-computer-use](https://github.com/Anionex/dsh-computer-use) — macOS 电脑控制：Accessibility 观测、过期状态拒绝、作用域权限与安全输入。
 - [Anionex/dsh-vision-toolkit](https://github.com/Anionex/dsh-vision-toolkit) — 让纯文本模型更好地做视觉任务：带意图的图片问答、长截图 OCR、UI 还原等。
 - [Anlushu/hkinsure](https://github.com/Anlushu/hkinsure) — 香港保险数据 MCP：260+ 真实产品、17 家保司、分红实现率，供 Hermes / dsh / Claude Code 等 AI 工具查询/对比/测算。
+- [avdergh/poe2-exile-architect](https://github.com/avdergh/poe2-exile-architect) — Path of Exile 2 构筑研究与生成：把本地检出的 headless PoB 引擎与知识库注册为四个 MCP server，提供 Research / Create / Learning 三条工作流。
 - [awesome-dsh-plugin/dsh-find-plugin](https://github.com/awesome-dsh-plugin/dsh-find-plugin) — 会话内直接找插件：按关键词/分类搜索本精选 registry，返回描述与可直接执行的安装命令。
 - [beancookie/dsh-plugin-anydoc](https://github.com/beancookie/dsh-plugin-anydoc) — 将 @firecrawl/anydoc 作为 anydoc 工具注册给 Agent，把 Word/PPT/Excel/PDF/EPUB 等多种文档格式转换为 GitHub-Flavored Markdown。
 - [beijingwahw/dsh-nuke-plugin](https://github.com/beijingwahw/dsh-nuke-plugin) — 事务化强力卸载引擎：每个破坏性动作走 validate/preview/execute/undo 四段式并带 Saga 回滚，WAL 崩溃自恢复、hash chain 审计链、硬链接去重，提交前贝叶斯先知推演成功率。
