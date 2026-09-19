@@ -478,6 +478,7 @@ DeepSeek Harness is DeepSeek's open-source agent harness — a runnable coding a
 ### Development & Runtime
 - [030611/dsh-telemetry-redactor](https://github.com/030611/dsh-telemetry-redactor) - Redacts supported secret patterns from the `session-telemetry/record` export copy before configured telemetry backends receive it.
 - [030611/dsh-verification-receipt](https://github.com/030611/dsh-verification-receipt) - Writes local JSONL summaries of per-turn tool counts and coarse verification signals without storing prompts, tool arguments, or result text.
+- [BOWLUNA/dsh-custom-mode](https://github.com/BOWLUNA/dsh-custom-mode) - Manage dsh agent modes from the settings page: choose a base composition, toggle plugin rows, and edit the system prompt (takes effect on the next model step).
 - [dsh-portable-launcher](https://github.com/15828148/dsh-portable-launcher) - One-click portable Windows launcher with CN mirror fallback.
 - [Areium/dsh-fail-logger](https://github.com/Areium/dsh-fail-logger) - Auto-log failed tool calls across native tools, PTC run_code, and inline invocations: dedup and count root causes into a skill so repeated mistakes fade.
 - [arrow949/dsh-turn-approval](https://github.com/arrow949/dsh-turn-approval) - Turn-scoped “Allow for this task” approvals: automatically allow matching `danger-full-access` escalations only for the current task, then expire.
