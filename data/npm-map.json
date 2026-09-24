@@ -1121,11 +1121,11 @@
  },
  "https://github.com/Nagi-ovo/dsh-ads": {
   "npm": "@nagi-ovo/dsh-ads",
-  "checkedAt": "2026-09-19"
+  "checkedAt": "2026-09-24"
  },
  "https://github.com/Nagi-ovo/dsh-visualize": {
   "npm": "@nagi-ovo/dsh-visualize",
-  "checkedAt": "2026-09-19"
+  "checkedAt": "2026-09-24"
  },
  "https://github.com/NanmiCoder/dsh-agent-teams": {
   "npm": "@nanmicoder/dsh-agent-teams",
@@ -1143,9 +1143,9 @@
   "npm": "dsh-spend",
   "checkedAt": "2026-08-14"
  },
- "https://github.com/Noob-stupid/dsh-plugin-hub": {
+ "https://github.com/Noob-stupid/dsh-plugin-gating-hub": {
   "npm": "@noob-stupid/dsh-plugin-console",
-  "checkedAt": "2026-09-19"
+  "checkedAt": "2026-09-24"
  },
  "https://github.com/nousag/dsh-writing-desk": {
   "npm": "dsh-writing-desk",
@@ -1557,7 +1557,7 @@
  },
  "https://github.com/Renzic-Stone/DSH-EasyRewrite": {
   "npm": "dsh-easyrewrite",
-  "checkedAt": "2026-09-19"
+  "checkedAt": "2026-09-24"
  },
  "https://github.com/RevolutionLA/dsh-dream-skin": {
   "npm": "dsh-dream-skin",
