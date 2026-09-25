@@ -6,6 +6,13 @@
   <link rel="self" href="https://beancookie.github.io/awesome-dsh-plugin/en/feed.xml"/>
   <updated>2026-09-22T00:00:00Z</updated>
   <entry>
+    <title>PerryLink/dsh-laya</title>
+    <id>https://github.com/PerryLink/dsh-laya</id>
+    <link href="https://github.com/PerryLink/dsh-laya"/>
+    <updated>2026-09-22T00:00:00Z</updated>
+    <summary>Laya typed decisions (noul yes/no, choice, score) as a first-class Cordis service plus the laya_ask and laya_plan tools; a client of a self-started laya-mcp sidecar, so it installs nothing itself.</summary>
+  </entry>
+  <entry>
     <title>lcestou/dsh-oh-my-claude</title>
     <id>https://github.com/lcestou/dsh-oh-my-claude</id>
     <link href="https://github.com/lcestou/dsh-oh-my-claude"/>
@@ -207,12 +214,5 @@
     <link href="https://github.com/yindf/taskfold"/>
     <updated>2026-09-10T00:00:00Z</updated>
     <summary>Wraps work in named tasks and folds each finished task's whole span of messages into one summary at the next step boundary, with the original messages restorable on demand.</summary>
-  </entry>
-  <entry>
-    <title>lffrom0303/dsh-window98-theme</title>
-    <id>https://github.com/lffrom0303/dsh-window98-theme</id>
-    <link href="https://github.com/lffrom0303/dsh-window98-theme"/>
-    <updated>2026-09-09T00:00:00Z</updated>
-    <summary>A Windows 98 skin for the DSH web client with beveled buttons, sunken inputs, pixelated typography, navy accents and checkerboard scrollbars.</summary>
   </entry>
 </feed>

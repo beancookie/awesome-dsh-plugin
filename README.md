@@ -32,7 +32,7 @@ DeepSeek Harness 是 DeepSeek 开源的 agent harness——既是可直接运行
 
 </details>
 
-**503** 个插件 · 欢迎 [PR](#贡献)
+**504** 个插件 · 欢迎 [PR](#贡献)
 
 ## 目录
 
@@ -341,6 +341,7 @@ DeepSeek Harness 是 DeepSeek 开源的 agent harness——既是可直接运行
 - [PerryLink/dsh-data-quality](https://github.com/PerryLink/dsh-data-quality) — 确定性数据画像、清洗与核验：ctx.dataQuality 能力接缝提供三个模型工具与跨插件引文核验冻结契约——全部计算由 TypeScript 完成，模型不碰算术。
 - [PerryLink/dsh-fund-research](https://github.com/PerryLink/dsh-fund-research) — 中国公募基金确定性研究报告：每个关键数字都回溯到哈希封存的数据快照——缺口如实声明、绝不编造；仅供研究，不构成投资建议。
 - [PerryLink/dsh-industry-research](https://github.com/PerryLink/dsh-industry-research) — 行业与公司研究领域包：产业链建图、公开源动态跟踪、公司速览卡与可审计报告——每个数字可溯源，每个缺口都如实声明。
+- [PerryLink/dsh-laya](https://github.com/PerryLink/dsh-laya) — Laya 的有类型决策（noul 是/否、choice、score）作为一等 Cordis 服务与 laya_ask、laya_plan 两个模型可见工具；插件自身不安装也不下载任何东西，由你自行启动的 laya-mcp serve 边车提供模型。
 - [PerryLink/dsh-plugin-guide](https://github.com/PerryLink/dsh-plugin-guide) — 插件开发知识库打包为按需加载的 agent 技能：官方约束、任务工作流、API 参考与社区踩坑。
 - [PerryLink/dsh-research-report](https://github.com/PerryLink/dsh-research-report) — 可验证研究报告引擎：每条结论绑定不可变证据快照并逐字节核验，封存为版本化报告，其清单哈希可复算。
 - [PerryLink/dsh-skill-pack-security](https://github.com/PerryLink/dsh-skill-pack-security) — 安全审计技能包 + plugin_vet 供应链门禁：八个双语技能 + 自动化预安装扫描器。

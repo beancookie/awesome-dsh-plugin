@@ -6,6 +6,13 @@
   <link rel="self" href="https://beancookie.github.io/awesome-dsh-plugin/feed.xml"/>
   <updated>2026-09-22T00:00:00Z</updated>
   <entry>
+    <title>PerryLink/dsh-laya</title>
+    <id>https://github.com/PerryLink/dsh-laya</id>
+    <link href="https://github.com/PerryLink/dsh-laya"/>
+    <updated>2026-09-22T00:00:00Z</updated>
+    <summary>Laya 的有类型决策（noul 是/否、choice、score）作为一等 Cordis 服务与 laya_ask、laya_plan 两个模型可见工具；插件自身不安装也不下载任何东西，由你自行启动的 laya-mcp serve 边车提供模型。</summary>
+  </entry>
+  <entry>
     <title>lcestou/dsh-oh-my-claude</title>
     <id>https://github.com/lcestou/dsh-oh-my-claude</id>
     <link href="https://github.com/lcestou/dsh-oh-my-claude"/>
@@ -207,12 +214,5 @@
     <link href="https://github.com/yindf/taskfold"/>
     <updated>2026-09-10T00:00:00Z</updated>
     <summary>用命名任务包住工作过程；任务结束后在下一个步骤边界把整段消息折叠成一段摘要，原文可随时还原。</summary>
-  </entry>
-  <entry>
-    <title>lffrom0303/dsh-window98-theme</title>
-    <id>https://github.com/lffrom0303/dsh-window98-theme</id>
-    <link href="https://github.com/lffrom0303/dsh-window98-theme"/>
-    <updated>2026-09-09T00:00:00Z</updated>
-    <summary>DSH Web 客户端 Windows 98 复古皮肤：teal 桌面 + 银色面板、立体浮雕按钮、凹陷输入框、像素字体与棋盘格滚动条，浅色/深色双模式。</summary>
   </entry>
 </feed>

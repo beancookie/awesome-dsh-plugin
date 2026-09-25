@@ -3,7 +3,7 @@
  "url": "https://beancookie.github.io/awesome-dsh-plugin",
  "source": "https://github.com/beancookie/awesome-dsh-plugin",
  "updated": "2026-09-22",
- "count": 503,
+ "count": 504,
  "categories": {
   "ui": {
    "zh": "UI 增强",
@@ -4205,6 +4205,21 @@
    "createdAt": "2026-08-19",
    "install": "dsh plugin --profile web add dsh-industry-research",
    "added": "2026-09-13"
+  },
+  {
+   "name": "dsh-laya",
+   "owner": "PerryLink",
+   "url": "https://github.com/PerryLink/dsh-laya",
+   "category": "tools",
+   "description": {
+    "zh": "Laya 的有类型决策（noul 是/否、choice、score）作为一等 Cordis 服务与 laya_ask、laya_plan 两个模型可见工具；插件自身不安装也不下载任何东西，由你自行启动的 laya-mcp serve 边车提供模型。",
+    "en": "Laya typed decisions (noul yes/no, choice, score) as a first-class Cordis service plus the laya_ask and laya_plan tools; a client of a self-started laya-mcp sidecar, so it installs nothing itself."
+   },
+   "npm": null,
+   "stars": null,
+   "createdAt": null,
+   "install": "dsh plugin --profile web add github:PerryLink/dsh-laya",
+   "added": "2026-09-22"
   },
   {
    "name": "dsh-plugin-guide",
