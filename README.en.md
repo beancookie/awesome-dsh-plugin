@@ -475,6 +475,7 @@ DeepSeek Harness is DeepSeek's open-source agent harness — a runnable coding a
 - [lcestou/dsh-oh-my-claude](https://github.com/lcestou/dsh-oh-my-claude) - Runs the logged-in Claude Code CLI as an LLM provider for dsh: live model list, per-session resume, approval relay, images, a memory/rewind/changes panel, and workspaces on remote SSH boxes.
 - [omdsh-dev/Qwen-MM-Plugins](https://github.com/omdsh-dev/Qwen-MM-Plugins) - Qwen multi-modal plugin support.
 - [PerryLink/dsh-autotier](https://github.com/PerryLink/dsh-autotier) - Automatic model-tier routing for DeepSeek Harness: one user instruction enters, one tier decision comes out — complex intent is planned on the strong tier and implemented on the cheap tier, with a deterministic guard and a TTL escalation fallback.
+- [qikairo7/dsh-gemini-pool](https://github.com/qikairo7/dsh-gemini-pool) - Multi-account Google Gemini provider for DSH: picks accounts by remaining quota, backs off exponentially on 429, and probes disabled accounts in the background.
 - [suntianc/dsh-codex-auth](https://github.com/suntianc/dsh-codex-auth) - Reuses the Codex CLI ChatGPT login as an `openai-codex` LLM route and adds GPT Auth controls to DSH Web settings.
 - [tianxia--/dsh-llm-local-token](https://github.com/tianxia--/dsh-llm-local-token) - Reuses local Codex CLI and Claude Code OAuth credentials as OpenAI Codex and Anthropic model routes, with subscription usage shown in Web.
 
