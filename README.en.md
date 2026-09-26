@@ -579,6 +579,8 @@ DeepSeek Harness is DeepSeek's open-source agent harness — a runnable coding a
 - [sunshine-lang/dsh-weather](https://github.com/sunshine-lang/dsh-weather) - Weather tool via Open-Meteo (free, no API key).
 - [vlln/whale-girl](https://github.com/vlln/whale-girl) - Desktop pet (QQ-pet style): floats in the corner, draggable, feedable, playable.
 - [william-jin-cmu/dsh-stickers](https://github.com/william-jin-cmu/dsh-stickers) - Bidirectional sticker reactions between user and agent.
+- [weibaohui/dsh-matrix](https://github.com/weibaohui/dsh-matrix) - Matrix digital rain: drapes the chat window in the classic green character rain — cascading columns with incandescent white heads and green tails, streaming the tokens the agent is generating into the rain in real time; opacity, speed, density, font size and colors are all adjustable, and rain intensity follows agent activity.
+
 
 ## Related
 
