@@ -578,6 +578,7 @@ DeepSeek Harness is DeepSeek's open-source agent harness — a runnable coding a
 - [sunshine-lang/dsh-pdf](https://github.com/sunshine-lang/dsh-pdf) - PDF toolbox: extract text, metadata and page ranges via pdfjs-dist.
 - [sunshine-lang/dsh-weather](https://github.com/sunshine-lang/dsh-weather) - Weather tool via Open-Meteo (free, no API key).
 - [vlln/whale-girl](https://github.com/vlln/whale-girl) - Desktop pet (QQ-pet style): floats in the corner, draggable, feedable, playable.
+- [weibaohui/dsh-gaokao](https://github.com/weibaohui/dsh-gaokao) - Gaokao countdown blackboard: desktop blackboard widget counting down days to the gaokao (double-click to collapse into a slim bar), with random knowledge-card quizzes while the agent works; open Markdown knowledge-card framework, drop .md files under subject/category folders to auto-load, with cross-links, favorites, priority subjects and importing your own knowledge base.
 - [william-jin-cmu/dsh-stickers](https://github.com/william-jin-cmu/dsh-stickers) - Bidirectional sticker reactions between user and agent.
 
 ## Related
