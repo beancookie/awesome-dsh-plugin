@@ -578,6 +578,7 @@ DeepSeek Harness is DeepSeek's open-source agent harness — a runnable coding a
 - [sunshine-lang/dsh-pdf](https://github.com/sunshine-lang/dsh-pdf) - PDF toolbox: extract text, metadata and page ranges via pdfjs-dist.
 - [sunshine-lang/dsh-weather](https://github.com/sunshine-lang/dsh-weather) - Weather tool via Open-Meteo (free, no API key).
 - [vlln/whale-girl](https://github.com/vlln/whale-girl) - Desktop pet (QQ-pet style): floats in the corner, draggable, feedable, playable.
+- [weibaohui/dsh-fireworks](https://github.com/weibaohui/dsh-fireworks) - Fireworks celebration engine: floats fireworks above the chat window while the agent codes, with a welcome show, per-turn salutes, tool sparks, milestone celebrations, a finish finale and a dud on failure; each event type has its own fireworks card group with random variants, and token usage decides firework size, height and splendour.
 - [william-jin-cmu/dsh-stickers](https://github.com/william-jin-cmu/dsh-stickers) - Bidirectional sticker reactions between user and agent.
 
 ## Related
