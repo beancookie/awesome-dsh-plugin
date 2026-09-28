@@ -151,6 +151,8 @@ DeepSeek Harness is DeepSeek's open-source agent harness — a runnable coding a
 - [Zhangbo-cn/dsh-voice-input-plugin](https://github.com/Zhangbo-cn/dsh-voice-input-plugin) - Composer microphone: click for continuous monitoring or hold to talk; browser speech recognition types words into the composer as you speak, while replies are read aloud as they stream via host Edge TTS (sentence-split), pausing recognition while reading to avoid echo, click to stop.
 - [zhu1090093659/dsh-web-ui](https://github.com/zhu1090093659/dsh-web-ui) - Plugin and skin collection for the DSH Web UI: task board, Git graph, right-side panel, remote mobile UI, pet, live token stats, and a skin center.
 - [ZSeven-W/dsh-openpencil](https://github.com/ZSeven-W/dsh-openpencil) - OpenPencil design preview and editing plugin.
+- [weibaohui/dsh-dashboard](https://github.com/weibaohui/dsh-dashboard) - Usage dashboard: offline-scans session logs to chart daily/weekly/monthly tokens, estimated costs, model/tool/skill/command leaderboards, output speed, working hours and quality metrics; gridstack+ECharts cards are drag-and-drop composable, with custom formulas and AI arrangement (prompt round-trip import).
+
 
 ### Themes & Appearance
 - [BeiZi6/dsh-theme-plugin](https://github.com/BeiZi6/dsh-theme-plugin) - Theme studio for the DSH Web GUI: five built-in presets plus fully customizable light/dark palettes (accent, background, foreground, UI and code fonts, translucent sidebar, contrast), hot-swapped instantly and persisted in localStorage.

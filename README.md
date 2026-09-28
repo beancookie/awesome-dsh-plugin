@@ -151,6 +151,8 @@ DeepSeek Harness 是 DeepSeek 开源的 agent harness——既是可直接运行
 - [Zhangbo-cn/dsh-voice-input-plugin](https://github.com/Zhangbo-cn/dsh-voice-input-plugin) — 输入框麦克风：点击持续监控、按住对话；浏览器语音识别逐字上屏，回复由 host Edge TTS 边生成边朗读（句子切分），朗读时暂停识别防回声，点击可停止。
 - [zhu1090093659/dsh-web-ui](https://github.com/zhu1090093659/dsh-web-ui) — DSH Web UI 插件与皮肤合集：任务看板、git 图、右侧面板、远程移动端 UI、桌宠、实时 token 统计与皮肤中心。
 - [ZSeven-W/dsh-openpencil](https://github.com/ZSeven-W/dsh-openpencil) — OpenPencil 设计预览与编辑插件。
+- [weibaohui/dsh-dashboard](https://github.com/weibaohui/dsh-dashboard) — 使用量仪表盘：离线扫描会话日志，统计每日/每周/每月 token、估算费用、模型/工具/技能/命令榜、输出速度、工作时段与质量指标；gridstack+ECharts 卡片可拖拽编排，支持自定义公式与 AI 编排（提示词往返导入）。
+
 
 ### 🎭 主题与外观
 - [BeiZi6/dsh-theme-plugin](https://github.com/BeiZi6/dsh-theme-plugin) — DSH Web GUI 主题工作室：5 套内置预设 + 完全可自定义的浅/深配色（强调色、背景、前景、UI 与代码字体、半透明侧栏、对比度），即时热切换并持久化到 localStorage。
