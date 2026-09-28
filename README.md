@@ -578,6 +578,7 @@ DeepSeek Harness 是 DeepSeek 开源的 agent harness——既是可直接运行
 - [sunshine-lang/dsh-pdf](https://github.com/sunshine-lang/dsh-pdf) — PDF 工具箱：基于 pdfjs-dist 提取文本、元数据与页码范围。
 - [sunshine-lang/dsh-weather](https://github.com/sunshine-lang/dsh-weather) — 天气工具：Open-Meteo 数据（免费，无需 API key）。
 - [vlln/whale-girl](https://github.com/vlln/whale-girl) — 桌面宠物（QQ 宠物形态）：右下角悬浮、可拖拽/投喂/玩耍。
+- [weibaohui/dsh-gaokao](https://github.com/weibaohui/dsh-gaokao) — 梦回高三：桌面小黑板高考倒计时（双击收成竖条），AI 干活时随机抽背知识点卡；Markdown 开放知识卡框架——按学科/分类放 md 即自动加载，支持关联跳转/收藏/重点学科/导入自己的知识库。
 - [william-jin-cmu/dsh-stickers](https://github.com/william-jin-cmu/dsh-stickers) — 用户与 agent 双向表情贴纸互动。
 
 ## 相关
