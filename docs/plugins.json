@@ -2101,7 +2101,7 @@
     "en": "Smart session titles for DSH: after each conversation turn an independent auxiliary LLM call summarizes the full user+assistant transcript into a title that follows the session's real topic instead of echoing the first message; the first message is titled instantly, failed built-in titles auto-retry on later turns, manual renames are never overwritten, and subagent/fork sessions are skipped."
    },
    "npm": "@weibaohui/dsh-smart-title",
-   "stars": 2,
+   "stars": 4,
    "createdAt": "2026-09-08",
    "install": "dsh plugin --profile web add @weibaohui/dsh-smart-title",
    "added": "2026-09-08"
@@ -3781,7 +3781,7 @@
     "en": "Read-only trading research workbench: a typed market-data seam (bring your own data source), multi-timeframe indicator regime snapshots, interactive candlestick cards in the dsh web UI (AI annotations require cited sources verified against real candle ranges), and a structurally order-blocking risk-guard."
    },
    "npm": null,
-   "stars": 35,
+   "stars": 37,
    "createdAt": "2026-08-17",
    "install": "dsh plugin --profile web add github:maddogfinance/dsh-trading",
    "added": "2026-08-19"
@@ -6061,7 +6061,7 @@
     "en": "Runs the logged-in Claude Code CLI as an LLM provider for dsh: live model list, per-session resume, approval relay, images, a memory/rewind/changes panel, and workspaces on remote SSH boxes."
    },
    "npm": "dsh-oh-my-claude",
-   "stars": 4,
+   "stars": 5,
    "createdAt": "2026-09-11",
    "install": "dsh plugin --profile web add dsh-oh-my-claude",
    "added": "2026-09-22"
@@ -6616,7 +6616,7 @@
     "en": "Commit-time governance harness for AI coding agents: 24 deterministic audit rules over git diffs (secrets, out-of-scope edits, blind modifications, prompt-injection traces), HMAC-chained audit history, and a DSH plugin family. - Context injection audit: token costs of instruction chains / skill catalogs / tool schemas, duplicate and conflict detection."
    },
    "npm": null,
-   "stars": 48,
+   "stars": 49,
    "createdAt": "2026-06-18",
    "install": "dsh plugin --profile web add github:KongFangXun/sofagent",
    "added": "2026-09-01"
