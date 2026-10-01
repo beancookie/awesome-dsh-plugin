@@ -796,7 +796,7 @@
     "en": "DSH plugin manager panel: one-click enable/disable of installed plugins, multi-source market (GitHub/Gitee/custom), static-index market (500+ plugins / 300 skills), skill install/disable, one-click bundle assembly, and framework upgrade adaptation."
    },
    "npm": "@noob-stupid/dsh-plugin-console",
-   "stars": 88,
+   "stars": 93,
    "createdAt": "2026-08-14",
    "install": "dsh plugin --profile web add @noob-stupid/dsh-plugin-console",
    "added": "2026-08-20"
@@ -2026,7 +2026,7 @@
     "en": "In-bubble inline edit and recall for user messages in DSH Web: lazy commit, seamless replacement, a version pager, draft auto-backup, and trilingual i18n."
    },
    "npm": "dsh-easyrewrite",
-   "stars": 116,
+   "stars": 120,
    "createdAt": "2026-08-18",
    "install": "dsh plugin --profile web add dsh-easyrewrite",
    "added": "2026-08-20"
