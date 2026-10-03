@@ -2206,7 +2206,7 @@
     "en": "Connects DSH agents to Busabase through MCP tools, approval-aware ChangeRequests, result cards, and a live record inspector."
    },
    "npm": "@busabase/dsh-plugin",
-   "stars": 5,
+   "stars": 6,
    "createdAt": "2026-09-02",
    "install": "dsh plugin --profile web add @busabase/dsh-plugin",
    "added": "2026-09-12"
@@ -3901,7 +3901,7 @@
     "en": "Large-image recognition for vision models: 800×800 lossless tiling (smart/pipeline/full strategies) plus local OCR (auto inversion/binarization/handwriting split) and optional multi-vendor GPU acceleration (DirectML covering NVIDIA/AMD/Intel, CUDA/OpenVINO) with automatic CPU fallback; MIT licensed (111 unit tests)."
    },
    "npm": null,
-   "stars": 0,
+   "stars": 1,
    "createdAt": "2026-09-10",
    "install": "dsh plugin --profile web add github:Nicholaskin/vision-exp-tile",
    "added": "2026-09-12"
