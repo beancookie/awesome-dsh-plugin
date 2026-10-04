@@ -2086,7 +2086,7 @@
     "en": "Auto-resume for interrupted sessions: rules route by failure type (rate limit, quota, auth, context overflow, crashed orphan) into backoff retry, model switch, resume-after-compaction, or stop-loss notification, with a visual rule editor and activity log."
    },
    "npm": "@weibaohui/dsh-continue",
-   "stars": 2,
+   "stars": 3,
    "createdAt": "2026-08-31",
    "install": "dsh plugin --profile web add @weibaohui/dsh-continue",
    "added": "2026-09-06"
@@ -2701,7 +2701,7 @@
     "en": "Automatic post-conversation retrospective that distills useful experience into reusable skills for the skill library, with approval mode and skill-library governance (archive/restore, never deletes directly)."
    },
    "npm": "@weibaohui/hermes-loop",
-   "stars": 4,
+   "stars": 7,
    "createdAt": "2026-08-31",
    "install": "dsh plugin --profile web add @weibaohui/hermes-loop",
    "added": "2026-09-06"
@@ -4171,7 +4171,7 @@
     "en": "Deterministic data profiling, cleaning, and verification: a ctx.dataQuality capability seam with three model tools and a frozen cross-plugin citation-checking contract — all computation in TypeScript, the model never does the math."
    },
    "npm": "dsh-data-quality",
-   "stars": 40,
+   "stars": 50,
    "createdAt": "2026-08-19",
    "install": "dsh plugin --profile web add dsh-data-quality",
    "added": "2026-09-13"
@@ -4186,7 +4186,7 @@
     "en": "Deterministic research reports for Chinese public mutual funds: every key number traces back to a hashed source snapshot — gaps declared, never invented; research only, not investment advice."
    },
    "npm": "dsh-fund-research",
-   "stars": 55,
+   "stars": 68,
    "createdAt": "2026-08-19",
    "install": "dsh plugin --profile web add dsh-fund-research",
    "added": "2026-09-13"
@@ -4201,7 +4201,7 @@
     "en": "Industry and company research domain pack for DeepSeek Harness: chain maps, public-source tracking, company cards, and auditable reports — every number traces to a source, every gap is declared."
    },
    "npm": "dsh-industry-research",
-   "stars": 171,
+   "stars": 205,
    "createdAt": "2026-08-19",
    "install": "dsh plugin --profile web add dsh-industry-research",
    "added": "2026-09-13"
@@ -4231,7 +4231,7 @@
     "en": "Verifiable research-report engine: every claim is bound to immutable evidence snapshots, verified byte-for-byte, and sealed into a versioned report whose manifest hash can be recomputed."
    },
    "npm": "dsh-research-report",
-   "stars": 175,
+   "stars": 211,
    "createdAt": "2026-08-19",
    "install": "dsh plugin --profile web add dsh-research-report",
    "added": "2026-09-13"
@@ -4516,7 +4516,7 @@
     "en": "Full DSH configuration backup, restore, export, import, migrate and sync: settings, providers, plugins, MCP servers, skills, agent presets and workspaces in one ZIP, with encrypted backups, Git/WebDAV sync and a configuration marketplace."
    },
    "npm": "dsh-config-manager",
-   "stars": 131,
+   "stars": 150,
    "createdAt": "2026-08-14",
    "install": "dsh plugin --profile web add dsh-config-manager",
    "added": "2026-08-23"
@@ -5401,7 +5401,7 @@
     "en": "Persistent, cross-session multi-agent team rooms for DeepSeek Harness — members, a message bus, a shared task board, and a shared timeline that survive restarts."
    },
    "npm": "dsh-team-rooms",
-   "stars": 1,
+   "stars": 4,
    "createdAt": "2026-09-11",
    "install": "dsh plugin --profile web add dsh-team-rooms",
    "added": "2026-09-13"
@@ -5896,7 +5896,7 @@
     "en": "Multi-channel decision and remote-control bridge: pushes DSH approval and question cards to IM channels (WeChat iLink, Telegram, Feishu) and answers them from chat, with a session console, per-channel security, and an open push service."
    },
    "npm": "dsh-reach",
-   "stars": 0,
+   "stars": 2,
    "createdAt": "2026-09-03",
    "install": "dsh plugin --profile web add dsh-reach",
    "added": "2026-09-13"
@@ -5911,7 +5911,7 @@
     "en": "TickTick / Dida365 task bridge for DeepSeek Harness: a session-header task panel (list filter, quick add, complete, delete, due dates, drag reorder), eleven curated agent tools, a plugin settings card, and a typed Remote service — all over the official TickTick MCP endpoint."
    },
    "npm": "@perrylink/dsh-ticktick",
-   "stars": 1,
+   "stars": 3,
    "createdAt": "2026-09-03",
    "install": "dsh plugin --profile web add @perrylink/dsh-ticktick",
    "added": "2026-09-13"
@@ -6886,7 +6886,7 @@
     "en": "Zero-dependency static + sandbox smoke detector for DeepSeek Harness plugins: package-structure checks (R), a Cordis contract scan (K), dynamic sandbox smoke tests (D), and an ecosystem collection-site checklist (CC) in one run."
    },
    "npm": "@perrylink/dsh-plugin-doctor",
-   "stars": 1,
+   "stars": 4,
    "createdAt": "2026-09-07",
    "install": "dsh plugin --profile web add @perrylink/dsh-plugin-doctor",
    "added": "2026-09-13"
@@ -6901,7 +6901,7 @@
     "en": "Shared zero-runtime-dependency toolkit for the PerryLink DSH plugin family: a pluggable Provider seam, fail-closed approval and adaptive session-event gates, verify scripts, and shared sanitize/pricing/judge modules in one ESM + TypeScript package."
    },
    "npm": "@perrylink/dsh-plugin-kit",
-   "stars": 0,
+   "stars": 1,
    "createdAt": "2026-08-26",
    "install": "dsh plugin --profile web add @perrylink/dsh-plugin-kit",
    "added": "2026-09-13"
