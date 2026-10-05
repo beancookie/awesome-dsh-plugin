@@ -586,8 +586,8 @@
     "en": "Command Code plan quota card in the DSH sidebar above Settings: 5-hour, weekly and monthly windows as used percentages with reset countdowns, plus a /quota command and a zero-dependency CLI."
    },
    "npm": null,
-   "stars": 4,
-   "createdAt": "2026-09-17",
+   "stars": 1,
+   "createdAt": "2026-10-05",
    "install": "dsh plugin --profile web add github:Jovan1666/dsh-commandcode-quota",
    "added": "2026-09-21"
   },
