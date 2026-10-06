@@ -414,6 +414,7 @@ DeepSeek Harness 是 DeepSeek 开源的 agent harness——既是可直接运行
 - [file-planning](https://github.com/JohnXu22786/file-planning) — trailmap：磁盘持久化执行规划——里程碑状态机、依赖标注、审计事件与复盘纪要。
 - [task-board](https://github.com/JohnXu22786/task-board) — 跨会话事件溯源工作台账：任务跟踪、审计历史、看板导出。
 - [dsh-product-subagent-console](https://github.com/Jokasa7/dsh-product-subagent-console) — DSH 对话级多 Agent 工作台：可编辑任务方案、真实子会话树、计划与实际运行对照，以及基于证据的恢复预览。
+- [kkaporn/dsh-session-composer](https://github.com/kkaporn/dsh-session-composer) — 在界面里把已装的插件组成一套，存成 DSH 原生预设；并在第一步把关需求。
 - [Letter2025/dsh-approval-llm](https://github.com/Letter2025/dsh-approval-llm) — 基于模型的权限审批：由独立审查模型自动应答 approval 权限请求。
 - [Letter2025/dsh-model-failover](https://github.com/Letter2025/dsh-model-failover) — 两级模型熔断与回退：模型或平台连续失败后自动熔断，并把下一个请求路由到配置好的备用模型。
 - [lonelymoon87/dsh-specflow](https://github.com/lonelymoon87/dsh-specflow) — 增加规格工件、技能、命令、由 goal 驱动的实施流程和任务进度上下文。
