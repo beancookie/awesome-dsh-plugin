@@ -2101,7 +2101,7 @@
     "en": "Smart session titles for DSH: after each conversation turn an independent auxiliary LLM call summarizes the full user+assistant transcript into a title that follows the session's real topic instead of echoing the first message; the first message is titled instantly, failed built-in titles auto-retry on later turns, manual renames are never overwritten, and subagent/fork sessions are skipped."
    },
    "npm": "@weibaohui/dsh-smart-title",
-   "stars": 4,
+   "stars": 5,
    "createdAt": "2026-09-08",
    "install": "dsh plugin --profile web add @weibaohui/dsh-smart-title",
    "added": "2026-09-08"
@@ -3586,7 +3586,7 @@
     "en": "Complete task-scoped git worktrees: per-repo manifest for durable state, worktree-<name> branches, bring-back to main or direct commit, optional carry-over of uncommitted main changes (modeled on Qoder / Codex / Claude Code)."
    },
    "npm": "dsh-task-worktree",
-   "stars": 1,
+   "stars": 2,
    "createdAt": "2026-08-18",
    "install": "dsh plugin --profile web add dsh-task-worktree",
    "added": "2026-08-18"
@@ -4996,7 +4996,7 @@
     "en": "Skill lifecycle manager for DSH: list / edit / import / enable / disable skills under a global-workspace-session three-layer model, with unified settings & conversation UI, cross-layer search and pagination."
    },
    "npm": "@yanglaofish/dsh-skill-manager",
-   "stars": 1,
+   "stars": 2,
    "createdAt": "2026-08-18",
    "install": "dsh plugin --profile web add @yanglaofish/dsh-skill-manager",
    "added": "2026-08-18"
@@ -6061,7 +6061,7 @@
     "en": "Runs the logged-in Claude Code CLI as an LLM provider for dsh: live model list, per-session resume, approval relay, images, a memory/rewind/changes panel, and workspaces on remote SSH boxes."
    },
    "npm": "dsh-oh-my-claude",
-   "stars": 5,
+   "stars": 8,
    "createdAt": "2026-09-11",
    "install": "dsh plugin --profile web add dsh-oh-my-claude",
    "added": "2026-09-22"
@@ -6616,7 +6616,7 @@
     "en": "Commit-time governance harness for AI coding agents: 24 deterministic audit rules over git diffs (secrets, out-of-scope edits, blind modifications, prompt-injection traces), HMAC-chained audit history, and a DSH plugin family. - Context injection audit: token costs of instruction chains / skill catalogs / tool schemas, duplicate and conflict detection."
    },
    "npm": null,
-   "stars": 49,
+   "stars": 52,
    "createdAt": "2026-06-18",
    "install": "dsh plugin --profile web add github:KongFangXun/sofagent",
    "added": "2026-09-01"
