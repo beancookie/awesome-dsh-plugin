@@ -186,6 +186,7 @@ DeepSeek Harness is DeepSeek's open-source agent harness — a runnable coding a
 - [futongxu9-maker/dsh-msgrail](https://github.com/futongxu9-maker/dsh-msgrail) - Message-index rail at the conversation's right edge: one brand-colored dot per user message, hover to preview, click to jump, auto-loads older history; pure plugin with no host patching.
 - [hellodigua/dsh-share](https://github.com/hellodigua/dsh-share) - Share your conversations with one click.
 - [Jesse-njx/dsh-crosstalk](https://github.com/Jesse-njx/dsh-crosstalk) - Cross-session messaging for DSH: any session on the machine can list and message any other, Claude Code-style, via a local heartbeat registry and inbox.
+- [lamost423/dsh-maze](https://github.com/lamost423/dsh-maze) - Execution maze for DSH sessions: main path, detours and backtracks on one timeline with per-step data tracks (tools, tokens, context pressure), deterministic analysis (outcome evidence, behavior signals) and comparison of up to five sessions; reads session logs and renders live inside a session tab.
 - [session-titler](https://github.com/JohnXu22786/session-titler) - Two-phase session captioning: instant keyword captions while busy, budget-model refinement when idle.
 - [Moeblack/dsh-message-edit](https://github.com/Moeblack/dsh-message-edit) - Branch-based message editing, reroll, retry, and a version timeline.
 - [Moeblack/dsh-prompt-studio](https://github.com/Moeblack/dsh-prompt-studio) - Edit user and built-in system-prompt sections with live preview.
