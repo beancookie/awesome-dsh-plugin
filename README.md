@@ -427,6 +427,7 @@ DeepSeek Harness 是 DeepSeek 开源的 agent harness——既是可直接运行
 - [PerryLink/dsh-team-rooms](https://github.com/PerryLink/dsh-team-rooms) — 持久化、跨会话的多 Agent 团队房间：成员、消息总线、共享任务板与共享时间线，重启后仍然保留。
 - [PerryLink/dsh-translate](https://github.com/PerryLink/dsh-translate) — 跨 11 家厂商的参数翻译（temperature/top_p 等）+ 确定性 JSON 修复，绝不编造数据。
 - [Sev7een/dsh-plugin-automations](https://github.com/Sev7een/dsh-plugin-automations) — 设置页定时任务：支持准点或 DeepSeek 谷时段执行、单次/每日重复，并持久化任务状态。
+- [slow-stack/dsh-study-desk](https://github.com/slow-stack/dsh-study-desk) — 备考与科研学习工作台：三列待办墙（标签与过滤）、间隔重复复习队列（简化 SM-2，已完成的卡照样会到期）、按实际专注分钟点亮的热力图、周报、每日复盘、跨面板存活的番茄钟，支持 Markdown 导出与读回（Obsidian 友好）。
 - [timwhitez/dsh-self-evolving](https://github.com/timwhitez/dsh-self-evolving) — 证据优先、可崩溃恢复的自进化引擎：有界生成 Cordis 候选插件、一次性真实 Loader 准入、Harbor 评估，并保留可审计的日志化谱系。
 - [titanwings/dsh-automation](https://github.com/titanwings/dsh-automation) — 定时任务：让 Coding 任务按计划在全新 Agent Session 中运行，保留可审计历史。
 - [titanwings/dsh-plannotator](https://github.com/titanwings/dsh-plannotator) — 计划批注：选中计划原文逐条批注，结构化反馈送回 Agent。
