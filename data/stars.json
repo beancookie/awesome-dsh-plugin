@@ -1767,6 +1767,12 @@
   "etag": "W/\"451b3c612941d4f9e726b6a468ef54d3cb0a063337d79d27c00f0b798f1c9b35\"",
   "checkedAt": "2026-10-05"
  },
+ "https://github.com/Neo65536-engineer/dsh-agent-log": {
+  "stars": 1,
+  "createdAt": "2026-09-26",
+  "etag": "W/\"9a1ce9dcb9758722f0f6d840c0c2fdda01a2d7af39a0add6e5ca196a3fd610b0\"",
+  "checkedAt": "2026-10-10"
+ },
  "https://github.com/Nicholas023/vision-exp-tile": {
   "stars": 3,
   "createdAt": "2026-08-22",
@@ -2160,6 +2166,12 @@
   "createdAt": "2026-08-19",
   "etag": "W/\"86f730f236a9af142b4d9be0c7760464809cad0ebd246e52fdfd0899042a3a35\"",
   "checkedAt": "2026-10-04"
+ },
+ "https://github.com/PerryLink/dsh-laya": {
+  "stars": 6,
+  "createdAt": "2026-09-21",
+  "etag": "W/\"797783b14bd4e12c844faa9f5ee3fd6267b6ff0712a46879063610247dd9370c\"",
+  "checkedAt": "2026-10-10"
  },
  "https://github.com/PerryLink/dsh-library": {
   "stars": 18,
@@ -2795,6 +2807,12 @@
   "etag": "W/\"ce30fef4d0ddef3937af85590ef4a07ab4b4c6482f36d0f8f5c3abe4c29a7f66\"",
   "checkedAt": "2026-10-10"
  },
+ "https://github.com/weibaohui/dsh-gaokao": {
+  "stars": 2,
+  "createdAt": "2026-09-18",
+  "etag": "W/\"0b83c7bccff32b87aa5b0744e4e6f2f52de1d2267c7ad25b127542ae25e52d9a\"",
+  "checkedAt": "2026-10-10"
+ },
  "https://github.com/weibaohui/dsh-git-server": {
   "stars": 1,
   "createdAt": "2026-09-10",
@@ -2806,6 +2824,18 @@
   "createdAt": "2026-09-05",
   "etag": "W/\"404d8898fd85c1d77a88443353284111ce3623ebd2087d34240719c2f86ce934\"",
   "checkedAt": "2026-10-05"
+ },
+ "https://github.com/weibaohui/dsh-kite": {
+  "stars": 0,
+  "createdAt": "2026-09-28",
+  "etag": "W/\"e29e44b537b6535ea8d03b584ca93f247f2b46e847560c6f2f5ca6b30d8003f2\"",
+  "checkedAt": "2026-10-10"
+ },
+ "https://github.com/weibaohui/dsh-matrix": {
+  "stars": 0,
+  "createdAt": "2026-09-26",
+  "etag": "W/\"2ffff53e88549940b591529623c8eb115bf23ed2d45f421ce30dedd96350152d\"",
+  "checkedAt": "2026-10-10"
  },
  "https://github.com/weibaohui/dsh-process": {
   "stars": 1,

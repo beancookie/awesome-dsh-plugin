@@ -1951,8 +1951,8 @@
     "en": "Read-only work report rebuilt from session logs: tools used, files read and written, commands run, test results and failures, token usage, and whether the task finished."
    },
    "npm": null,
-   "stars": null,
-   "createdAt": null,
+   "stars": 1,
+   "createdAt": "2026-09-26",
    "install": "dsh plugin --profile web add github:Neo65536-engineer/dsh-agent-log",
    "added": "2026-10-10"
   },
@@ -4096,8 +4096,8 @@
     "en": "Laya typed decisions (noul yes/no, choice, score) as a first-class Cordis service plus the laya_ask and laya_plan tools; a client of a self-started laya-mcp sidecar, so it installs nothing itself."
    },
    "npm": null,
-   "stars": null,
-   "createdAt": null,
+   "stars": 6,
+   "createdAt": "2026-09-21",
    "install": "dsh plugin --profile web add github:PerryLink/dsh-laya",
    "added": "2026-09-22"
   },
@@ -7561,8 +7561,8 @@
     "en": "Gaokao countdown blackboard: desktop blackboard widget counting down days to the gaokao (double-click to collapse into a slim bar), with random knowledge-card quizzes while the agent works; open Markdown knowledge-card framework, drop .md files under subject/category folders to auto-load, with cross-links, favorites, priority subjects and importing your own knowledge base."
    },
    "npm": null,
-   "stars": null,
-   "createdAt": null,
+   "stars": 2,
+   "createdAt": "2026-09-18",
    "install": "dsh plugin --profile web add github:weibaohui/dsh-gaokao",
    "added": "2026-10-10"
   },
@@ -7576,8 +7576,8 @@
     "en": "Kite-flying engine: while the agent codes, an animated kite drifts and sways in the wind on screen, tethered to the bottom edge of the window — the busier the agent, the denser the events and the higher it flies; ships a Weifang-style framework card deck (sand-swallow, goldfish, butterfly, bagua, dragon-head and more, hard-wing / soft-wing / flat / dimensional frames), with shape x pattern x colors all swappable data configs, and supports pasting user images onto the kite face with real-time affine transforms as the kite banks."
    },
    "npm": null,
-   "stars": null,
-   "createdAt": null,
+   "stars": 0,
+   "createdAt": "2026-09-28",
    "install": "dsh plugin --profile web add github:weibaohui/dsh-kite",
    "added": "2026-10-10"
   },
@@ -7591,8 +7591,8 @@
     "en": "Matrix digital rain: drapes the chat window in the classic green character rain — cascading columns with incandescent white heads and green tails, streaming the tokens the agent is generating into the rain in real time; opacity, speed, density, font size and colors are all adjustable, and rain intensity follows agent activity."
    },
    "npm": null,
-   "stars": null,
-   "createdAt": null,
+   "stars": 0,
+   "createdAt": "2026-09-26",
    "install": "dsh plugin --profile web add github:weibaohui/dsh-matrix",
    "added": "2026-10-10"
   },
