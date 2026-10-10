@@ -90,6 +90,13 @@
     <summary>Think tank: a built-in library of 144 classic mental models (decision/strategy/cognition/psychology/communication/learning/system/innovation/execution) — enter one question and several selected models analyze it in parallel via AI, producing a synthesized report with consensus, disagreements, blind spots and an action checklist; supports both automatic analysis and prompt round-trip import.</summary>
   </entry>
   <entry>
+    <title>1420079678-ctrl/agent-body</title>
+    <id>https://github.com/1420079678-ctrl/agent-body</id>
+    <link href="https://github.com/1420079678-ctrl/agent-body"/>
+    <updated>2026-10-10T00:00:00Z</updated>
+    <summary>Organ-based plugin layer: plugins declare capabilities, senses and reflexes, a nerve impulse routes each command to the organ that owns it, reflex arcs fire with zero model calls, quiet periods consolidate run history into memory cards, and a failing organ heals through attribution, prescription and re-check.</summary>
+  </entry>
+  <entry>
     <title>Han-1413141/dsh-compat-guardian</title>
     <id>https://github.com/Han-1413141/dsh-compat-guardian</id>
     <link href="https://github.com/Han-1413141/dsh-compat-guardian"/>
@@ -207,12 +214,5 @@
     <link href="https://github.com/PerryLink/dsh-fund-research"/>
     <updated>2026-09-13T00:00:00Z</updated>
     <summary>Deterministic research reports for Chinese public mutual funds: every key number traces back to a hashed source snapshot — gaps declared, never invented; research only, not investment advice.</summary>
-  </entry>
-  <entry>
-    <title>PerryLink/dsh-industry-research</title>
-    <id>https://github.com/PerryLink/dsh-industry-research</id>
-    <link href="https://github.com/PerryLink/dsh-industry-research"/>
-    <updated>2026-09-13T00:00:00Z</updated>
-    <summary>Industry and company research domain pack for DeepSeek Harness: chain maps, public-source tracking, company cards, and auditable reports — every number traces to a source, every gap is declared.</summary>
   </entry>
 </feed>

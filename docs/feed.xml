@@ -90,6 +90,13 @@
     <summary>智囊团：内置 144 个经典思维模型库（决策/战略/认知/心理/沟通/学习/系统/创新/执行九大分类），输入一个问题即可用选中的多个模型并行 AI 分析，产出含共识/分歧/盲区/行动清单的综合报告页；支持自动分析与提示词往返导入两种模式。</summary>
   </entry>
   <entry>
+    <title>1420079678-ctrl/agent-body</title>
+    <id>https://github.com/1420079678-ctrl/agent-body</id>
+    <link href="https://github.com/1420079678-ctrl/agent-body"/>
+    <updated>2026-10-10T00:00:00Z</updated>
+    <summary>器官化插件层：插件以「器官」声明能力、感知与反射，神经冲动把命令路由给负责它的器官，反射弧零模型调用即命中执行，静默期把运行经历巩固成记忆卡，器官失败走「归因—处方—复检」闭环自愈。</summary>
+  </entry>
+  <entry>
     <title>Han-1413141/dsh-compat-guardian</title>
     <id>https://github.com/Han-1413141/dsh-compat-guardian</id>
     <link href="https://github.com/Han-1413141/dsh-compat-guardian"/>
@@ -207,12 +214,5 @@
     <link href="https://github.com/PerryLink/dsh-fund-research"/>
     <updated>2026-09-13T00:00:00Z</updated>
     <summary>中国公募基金确定性研究报告：每个关键数字都回溯到哈希封存的数据快照——缺口如实声明、绝不编造；仅供研究，不构成投资建议。</summary>
-  </entry>
-  <entry>
-    <title>PerryLink/dsh-industry-research</title>
-    <id>https://github.com/PerryLink/dsh-industry-research</id>
-    <link href="https://github.com/PerryLink/dsh-industry-research"/>
-    <updated>2026-09-13T00:00:00Z</updated>
-    <summary>行业与公司研究领域包：产业链建图、公开源动态跟踪、公司速览卡与可审计报告——每个数字可溯源，每个缺口都如实声明。</summary>
   </entry>
 </feed>

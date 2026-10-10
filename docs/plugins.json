@@ -3,7 +3,7 @@
  "url": "https://beancookie.github.io/awesome-dsh-plugin",
  "source": "https://github.com/beancookie/awesome-dsh-plugin",
  "updated": "2026-10-10",
- "count": 498,
+ "count": 499,
  "categories": {
   "ui": {
    "zh": "UI 增强",
@@ -6020,6 +6020,21 @@
    "createdAt": "2026-08-13",
    "install": "dsh plugin --profile web add dsh-verification-receipt",
    "added": "2026-08-14"
+  },
+  {
+   "name": "agent-body",
+   "owner": "1420079678-ctrl",
+   "url": "https://github.com/1420079678-ctrl/agent-body",
+   "category": "dev",
+   "description": {
+    "zh": "器官化插件层：插件以「器官」声明能力、感知与反射，神经冲动把命令路由给负责它的器官，反射弧零模型调用即命中执行，静默期把运行经历巩固成记忆卡，器官失败走「归因—处方—复检」闭环自愈。",
+    "en": "Organ-based plugin layer: plugins declare capabilities, senses and reflexes, a nerve impulse routes each command to the organ that owns it, reflex arcs fire with zero model calls, quiet periods consolidate run history into memory cards, and a failing organ heals through attribution, prescription and re-check."
+   },
+   "npm": null,
+   "stars": 16,
+   "createdAt": "2026-09-11",
+   "install": "dsh plugin --profile web add github:1420079678-ctrl/agent-body",
+   "added": "2026-10-10"
   },
   {
    "name": "dsh-portable-launcher",
