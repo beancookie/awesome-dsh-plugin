@@ -581,6 +581,8 @@ DeepSeek Harness 是 DeepSeek 开源的 agent harness——既是可直接运行
 - [sunshine-lang/dsh-weather](https://github.com/sunshine-lang/dsh-weather) — 天气工具：Open-Meteo 数据（免费，无需 API key）。
 - [vlln/whale-girl](https://github.com/vlln/whale-girl) — 桌面宠物（QQ 宠物形态）：右下角悬浮、可拖拽/投喂/玩耍。
 - [william-jin-cmu/dsh-stickers](https://github.com/william-jin-cmu/dsh-stickers) — 用户与 agent 双向表情贴纸互动。
+- [weibaohui/dsh-ambient](https://github.com/weibaohui/dsh-ambient) — 白噪音播放器：AI 编程时铺一层背景音（雨声、溪流、篝火、咖啡馆……），帮助进入心流状态、集中精力、高效思考，让你写代码又快又好。支持顺序/随机/单曲循环/间歇等多种播放模式。支持 AI 自动下载背景音乐。
+
 
 ## 相关
 
