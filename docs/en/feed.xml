@@ -4,7 +4,133 @@
   <id>https://beancookie.github.io/awesome-dsh-plugin/en/</id>
   <link href="https://beancookie.github.io/awesome-dsh-plugin/en/"/>
   <link rel="self" href="https://beancookie.github.io/awesome-dsh-plugin/en/feed.xml"/>
-  <updated>2026-09-22T00:00:00Z</updated>
+  <updated>2026-10-10T00:00:00Z</updated>
+  <entry>
+    <title>Han-1413141/dsh-ui-hub</title>
+    <id>https://github.com/Han-1413141/dsh-ui-hub</id>
+    <link href="https://github.com/Han-1413141/dsh-ui-hub"/>
+    <updated>2026-10-10T00:00:00Z</updated>
+    <summary>Search, show, hide, move, resize and arrange plugin controls in DSH Desktop and Web, with layout backup, restore and undo.</summary>
+  </entry>
+  <entry>
+    <title>weibaohui/dsh-dashboard</title>
+    <id>https://github.com/weibaohui/dsh-dashboard</id>
+    <link href="https://github.com/weibaohui/dsh-dashboard"/>
+    <updated>2026-10-10T00:00:00Z</updated>
+    <summary>Usage dashboard: offline-scans session logs to chart daily/weekly/monthly tokens, estimated costs, model/tool/skill/command leaderboards, output speed, working hours and quality metrics; gridstack+ECharts cards are drag-and-drop composable, with custom formulas and AI arrangement (prompt round-trip import).</summary>
+  </entry>
+  <entry>
+    <title>lamost423/dsh-maze</title>
+    <id>https://github.com/lamost423/dsh-maze</id>
+    <link href="https://github.com/lamost423/dsh-maze"/>
+    <updated>2026-10-10T00:00:00Z</updated>
+    <summary>Execution maze for DSH sessions: main path, detours and backtracks on one timeline with per-step data tracks (tools, tokens, context pressure), deterministic analysis (outcome evidence, behavior signals) and comparison of up to five sessions; reads session logs and renders live inside a session tab.</summary>
+  </entry>
+  <entry>
+    <title>fengchang618gmail/dsh-course-subtitles</title>
+    <id>https://github.com/fengchang618gmail/dsh-course-subtitles</id>
+    <link href="https://github.com/fengchang618gmail/dsh-course-subtitles"/>
+    <updated>2026-10-10T00:00:00Z</updated>
+    <summary>Fetch course video captions (DeepLearning.AI / YouTube / Bilibili / Coursera), merge them into whole sentences, translate line by line (EN/ZH) and generate bilingual section headings, then publish one Feishu doc per lesson; also exports a course home page outline into a single doc. All credentials are read from the environment or the harness credential store.</summary>
+  </entry>
+  <entry>
+    <title>Han-1413141/dsh-codex-computer-use</title>
+    <id>https://github.com/Han-1413141/dsh-codex-computer-use</id>
+    <link href="https://github.com/Han-1413141/dsh-codex-computer-use"/>
+    <updated>2026-10-10T00:00:00Z</updated>
+    <summary>Let a DSH model inspect and operate Windows applications through an installed Codex Computer Use runtime, with per-session app approval.</summary>
+  </entry>
+  <entry>
+    <title>luobosibing2/dsh-jev-plugin</title>
+    <id>https://github.com/luobosibing2/dsh-jev-plugin</id>
+    <link href="https://github.com/luobosibing2/dsh-jev-plugin"/>
+    <updated>2026-10-10T00:00:00Z</updated>
+    <summary>Integrates TypeSafe Jev for skill and file selection, task supervision, shared-finding corrections, tool-output filtering, approval assistance, and recorded-stage navigation in DeepSeek Harness; all features are disabled by default.</summary>
+  </entry>
+  <entry>
+    <title>moguiyu/dsh-tavily</title>
+    <id>https://github.com/moguiyu/dsh-tavily</id>
+    <link href="https://github.com/moguiyu/dsh-tavily"/>
+    <updated>2026-10-10T00:00:00Z</updated>
+    <summary>Tavily search, extract, map and crawl tools with multi-key rotation, failover on HTTP 401/429/432/433, and a load-balance mode that caps in-flight requests per Tavily account; a key and usage card on the Plugins page. The built-in web_search is never replaced.</summary>
+  </entry>
+  <entry>
+    <title>PriceDotWin/pricewin-dsh</title>
+    <id>https://github.com/PriceDotWin/pricewin-dsh</id>
+    <link href="https://github.com/PriceDotWin/pricewin-dsh"/>
+    <updated>2026-10-10T00:00:00Z</updated>
+    <summary>Live hotel and flight prices in USD across Booking.com, Agoda, Trip.com and Traveloka, through the remote PriceWin MCP server (no account or API key), with a bundled travel-search skill.</summary>
+  </entry>
+  <entry>
+    <title>Han-1413141/dsh-autocompose</title>
+    <id>https://github.com/Han-1413141/dsh-autocompose</id>
+    <link href="https://github.com/Han-1413141/dsh-autocompose"/>
+    <updated>2026-10-10T00:00:00Z</updated>
+    <summary>Find and compose DSH plugins from a task description, then open an independent chat environment or install the plan into the current profile.</summary>
+  </entry>
+  <entry>
+    <title>slow-stack/dsh-study-desk</title>
+    <id>https://github.com/slow-stack/dsh-study-desk</id>
+    <link href="https://github.com/slow-stack/dsh-study-desk"/>
+    <updated>2026-10-10T00:00:00Z</updated>
+    <summary>Study workbench for exam prep and research: a three-column task board with tags and filters, a spaced-repetition queue (simplified SM-2) that keeps finished cards coming back, a heatmap lit by actual focused minutes, weekly reports, per-day review notes, a pomodoro timer that survives panel switches, and Markdown export/import for Obsidian.</summary>
+  </entry>
+  <entry>
+    <title>weibaohui/dsh-flow</title>
+    <id>https://github.com/weibaohui/dsh-flow</id>
+    <link href="https://github.com/weibaohui/dsh-flow"/>
+    <updated>2026-10-10T00:00:00Z</updated>
+    <summary>Execution flow chart: renders the current session's execution as a vertical node flow (turns, user, assistant, tools, approvals, retries, compaction), appended in real time over SSE with auto-follow scrolling, so the chart draws wherever the session executes.</summary>
+  </entry>
+  <entry>
+    <title>weibaohui/dsh-thinktank</title>
+    <id>https://github.com/weibaohui/dsh-thinktank</id>
+    <link href="https://github.com/weibaohui/dsh-thinktank"/>
+    <updated>2026-10-10T00:00:00Z</updated>
+    <summary>Think tank: a built-in library of 144 classic mental models (decision/strategy/cognition/psychology/communication/learning/system/innovation/execution) — enter one question and several selected models analyze it in parallel via AI, producing a synthesized report with consensus, disagreements, blind spots and an action checklist; supports both automatic analysis and prompt round-trip import.</summary>
+  </entry>
+  <entry>
+    <title>Han-1413141/dsh-compat-guardian</title>
+    <id>https://github.com/Han-1413141/dsh-compat-guardian</id>
+    <link href="https://github.com/Han-1413141/dsh-compat-guardian"/>
+    <updated>2026-10-10T00:00:00Z</updated>
+    <summary>Detect DSH plugin conflicts and loading failures, quarantine affected bundles and recover them, with offline startup rescue.</summary>
+  </entry>
+  <entry>
+    <title>Han-1413141/dsh-pnpm-build-control</title>
+    <id>https://github.com/Han-1413141/dsh-pnpm-build-control</id>
+    <link href="https://github.com/Han-1413141/dsh-pnpm-build-control"/>
+    <updated>2026-10-10T00:00:00Z</updated>
+    <summary>Control pnpm build-script approval across DSH profiles from Add Plugin, and repair same-Git-URL updates on DSH 0.2.0-rc.2.</summary>
+  </entry>
+  <entry>
+    <title>Han-1413141/dsh-visual-edit</title>
+    <id>https://github.com/Han-1413141/dsh-visual-edit</id>
+    <link href="https://github.com/Han-1413141/dsh-visual-edit"/>
+    <updated>2026-10-10T00:00:00Z</updated>
+    <summary>Select elements, draw arrows or frame areas in DSH previews, send visual feedback to chat and compare before-and-after snapshots.</summary>
+  </entry>
+  <entry>
+    <title>Han-1413141/dsh-wsl-native</title>
+    <id>https://github.com/Han-1413141/dsh-wsl-native</id>
+    <link href="https://github.com/Han-1413141/dsh-wsl-native"/>
+    <updated>2026-10-10T00:00:00Z</updated>
+    <summary>Use Windows and native Linux DSH sessions in one Windows window, with WSL environment switching and bidirectional system tools.</summary>
+  </entry>
+  <entry>
+    <title>weibaohui/dsh-ambient</title>
+    <id>https://github.com/weibaohui/dsh-ambient</id>
+    <link href="https://github.com/weibaohui/dsh-ambient"/>
+    <updated>2026-10-10T00:00:00Z</updated>
+    <summary>White noise player: lays a layer of background sound (rain, streams, campfire, café…) while AI codes, helping you enter flow, stay focused and think efficiently, so you write code fast and well. Supports multiple playback modes (sequential / shuffle / single-loop / intermittent) and AI automatic background music download.</summary>
+  </entry>
+  <entry>
+    <title>weibaohui/dsh-fireworks</title>
+    <id>https://github.com/weibaohui/dsh-fireworks</id>
+    <link href="https://github.com/weibaohui/dsh-fireworks"/>
+    <updated>2026-10-10T00:00:00Z</updated>
+    <summary>Fireworks celebration engine: floats fireworks above the chat window while the agent codes, with a welcome show, per-turn salutes, tool sparks, milestone celebrations, a finish finale and a dud on failure; each event type has its own fireworks card group with random variants, and token usage decides firework size, height and splendour.</summary>
+  </entry>
   <entry>
     <title>lcestou/dsh-oh-my-claude</title>
     <id>https://github.com/lcestou/dsh-oh-my-claude</id>
@@ -69,13 +195,6 @@
     <summary>Multi-machine sync: keeps multiple dsh replicas consistent through one private GitCode repository - skills, sessions, settings and plugin manifests each with an independent switch; changes go through branch, PR and merge, remote-only additions are pulled back before every push so nothing is deleted, and an AI smart-align step semantically merges files both sides changed (plus one-click conflict resolution); private repos enforced, pull never overwrites local edits.</summary>
   </entry>
   <entry>
-    <title>dugujun3-cloud/dsh-wallpaper</title>
-    <id>https://github.com/dugujun3-cloud/dsh-wallpaper</id>
-    <link href="https://github.com/dugujun3-cloud/dsh-wallpaper"/>
-    <updated>2026-09-13T00:00:00Z</updated>
-    <summary>Whole-app background images: a Background image row in Settings opens a centred picker with a local wallpaper library, wallhaven search (SFW anime only), and disk import; right-click a card to set the background or open the source page, with adjustable fill mode, blur, scrim and content veil, and no residue on uninstall.</summary>
-  </entry>
-  <entry>
     <title>PerryLink/dsh-data-quality</title>
     <id>https://github.com/PerryLink/dsh-data-quality</id>
     <link href="https://github.com/PerryLink/dsh-data-quality"/>
@@ -95,124 +214,5 @@
     <link href="https://github.com/PerryLink/dsh-industry-research"/>
     <updated>2026-09-13T00:00:00Z</updated>
     <summary>Industry and company research domain pack for DeepSeek Harness: chain maps, public-source tracking, company cards, and auditable reports — every number traces to a source, every gap is declared.</summary>
-  </entry>
-  <entry>
-    <title>PerryLink/dsh-research-report</title>
-    <id>https://github.com/PerryLink/dsh-research-report</id>
-    <link href="https://github.com/PerryLink/dsh-research-report"/>
-    <updated>2026-09-13T00:00:00Z</updated>
-    <summary>Verifiable research-report engine: every claim is bound to immutable evidence snapshots, verified byte-for-byte, and sealed into a versioned report whose manifest hash can be recomputed.</summary>
-  </entry>
-  <entry>
-    <title>PerryLink/dsh-team-rooms</title>
-    <id>https://github.com/PerryLink/dsh-team-rooms</id>
-    <link href="https://github.com/PerryLink/dsh-team-rooms"/>
-    <updated>2026-09-13T00:00:00Z</updated>
-    <summary>Persistent, cross-session multi-agent team rooms for DeepSeek Harness — members, a message bus, a shared task board, and a shared timeline that survive restarts.</summary>
-  </entry>
-  <entry>
-    <title>weibaohui/dsh-process</title>
-    <id>https://github.com/weibaohui/dsh-process</id>
-    <link href="https://github.com/weibaohui/dsh-process"/>
-    <updated>2026-09-13T00:00:00Z</updated>
-    <summary>Process management: brings ntd-style processes (multi-stage, multi-step agent workflow templates) into the dsh web UI - browse, edit, validate, import/export and AI-generate processes; the built-in library is read-only while the personal library is writable with live file sync, and agents read the library through process_* tools and advance work stage by stage.</summary>
-  </entry>
-  <entry>
-    <title>PerryLink/dsh-reach</title>
-    <id>https://github.com/PerryLink/dsh-reach</id>
-    <link href="https://github.com/PerryLink/dsh-reach"/>
-    <updated>2026-09-13T00:00:00Z</updated>
-    <summary>Multi-channel decision and remote-control bridge: pushes DSH approval and question cards to IM channels (WeChat iLink, Telegram, Feishu) and answers them from chat, with a session console, per-channel security, and an open push service.</summary>
-  </entry>
-  <entry>
-    <title>PerryLink/dsh-ticktick</title>
-    <id>https://github.com/PerryLink/dsh-ticktick</id>
-    <link href="https://github.com/PerryLink/dsh-ticktick"/>
-    <updated>2026-09-13T00:00:00Z</updated>
-    <summary>TickTick / Dida365 task bridge for DeepSeek Harness: a session-header task panel (list filter, quick add, complete, delete, due dates, drag reorder), eleven curated agent tools, a plugin settings card, and a typed Remote service — all over the official TickTick MCP endpoint.</summary>
-  </entry>
-  <entry>
-    <title>PerryLink/dsh-autotier</title>
-    <id>https://github.com/PerryLink/dsh-autotier</id>
-    <link href="https://github.com/PerryLink/dsh-autotier"/>
-    <updated>2026-09-13T00:00:00Z</updated>
-    <summary>Automatic model-tier routing for DeepSeek Harness: one user instruction enters, one tier decision comes out — complex intent is planned on the strong tier and implemented on the cheap tier, with a deterministic guard and a TTL escalation fallback.</summary>
-  </entry>
-  <entry>
-    <title>PerryLink/dsh-cert-mcp</title>
-    <id>https://github.com/PerryLink/dsh-cert-mcp</id>
-    <link href="https://github.com/PerryLink/dsh-cert-mcp"/>
-    <updated>2026-09-13T00:00:00Z</updated>
-    <summary>Read-only MCP server exposing the dsh-plugin-certification registry: certification grades, snapshot dates, and five-dimension evidence for DeepSeek Harness plugins, over stdio with zero runtime dependencies.</summary>
-  </entry>
-  <entry>
-    <title>PerryLink/dsh-plugin-doctor</title>
-    <id>https://github.com/PerryLink/dsh-plugin-doctor</id>
-    <link href="https://github.com/PerryLink/dsh-plugin-doctor"/>
-    <updated>2026-09-13T00:00:00Z</updated>
-    <summary>Zero-dependency static + sandbox smoke detector for DeepSeek Harness plugins: package-structure checks (R), a Cordis contract scan (K), dynamic sandbox smoke tests (D), and an ecosystem collection-site checklist (CC) in one run.</summary>
-  </entry>
-  <entry>
-    <title>PerryLink/dsh-plugin-kit</title>
-    <id>https://github.com/PerryLink/dsh-plugin-kit</id>
-    <link href="https://github.com/PerryLink/dsh-plugin-kit"/>
-    <updated>2026-09-13T00:00:00Z</updated>
-    <summary>Shared zero-runtime-dependency toolkit for the PerryLink DSH plugin family: a pluggable Provider seam, fail-closed approval and adaptive session-event gates, verify scripts, and shared sanitize/pricing/judge modules in one ESM + TypeScript package.</summary>
-  </entry>
-  <entry>
-    <title>PerryLink/dsh-plugin-upgrade-015</title>
-    <id>https://github.com/PerryLink/dsh-plugin-upgrade-015</id>
-    <link href="https://github.com/PerryLink/dsh-plugin-upgrade-015"/>
-    <updated>2026-09-13T00:00:00Z</updated>
-    <summary>Merged, version-locked plugin upgrade skill for DeepSeek Harness (0.1.3-alpha.1 to 0.1.5-rc.1 as two closed legs): an evidence-bound version card plus a zero-dependency 20-seam scanner, as a bundle skill and an npx CLI.</summary>
-  </entry>
-  <entry>
-    <title>weibaohui/dsh-git-server</title>
-    <id>https://github.com/weibaohui/dsh-git-server</id>
-    <link href="https://github.com/weibaohui/dsh-git-server"/>
-    <updated>2026-09-13T00:00:00Z</updated>
-    <summary>Git server: embeds ts-gogs (a TypeScript reimplementation of Gogs) and serves a full Git service on its own port - HTTP clone/push, web UI, issues/PRs/wiki - reusing user-management credentials, start/stop from the settings page.</summary>
-  </entry>
-  <entry>
-    <title>weibaohui/dsh-webdav-server</title>
-    <id>https://github.com/weibaohui/dsh-webdav-server</id>
-    <link href="https://github.com/weibaohui/dsh-webdav-server"/>
-    <updated>2026-09-13T00:00:00Z</updated>
-    <summary>WebDAV server: turns a shared directory into a WebDAV service that Windows, macOS and Linux can mount as a local disk, with token authentication, optional read-only mode, configurable directory/port/token, and per-platform mounting guides built into the settings page.</summary>
-  </entry>
-  <entry>
-    <title>hutao562/dsh-remote-dsh</title>
-    <id>https://github.com/hutao562/dsh-remote-dsh</id>
-    <link href="https://github.com/hutao562/dsh-remote-dsh"/>
-    <updated>2026-09-12T00:00:00Z</updated>
-    <summary>Adds a row at the top of the sidebar that switches the whole Web GUI to another DSH host reached over a loopback port, with that host's session state on the row (running, unread activity, or waiting for your answer).</summary>
-  </entry>
-  <entry>
-    <title>busabase/busabase-dsh-plugin</title>
-    <id>https://github.com/busabase/busabase-dsh-plugin</id>
-    <link href="https://github.com/busabase/busabase-dsh-plugin"/>
-    <updated>2026-09-12T00:00:00Z</updated>
-    <summary>Connects DSH agents to Busabase through MCP tools, approval-aware ChangeRequests, result cards, and a live record inspector.</summary>
-  </entry>
-  <entry>
-    <title>Nicholaskin/vision-exp-tile</title>
-    <id>https://github.com/Nicholaskin/vision-exp-tile</id>
-    <link href="https://github.com/Nicholaskin/vision-exp-tile"/>
-    <updated>2026-09-12T00:00:00Z</updated>
-    <summary>Large-image recognition for vision models: 800×800 lossless tiling (smart/pipeline/full strategies) plus local OCR (auto inversion/binarization/handwriting split) and optional multi-vendor GPU acceleration (DirectML covering NVIDIA/AMD/Intel, CUDA/OpenVINO) with automatic CPU fallback; MIT licensed (111 unit tests).</summary>
-  </entry>
-  <entry>
-    <title>yindf/taskfold</title>
-    <id>https://github.com/yindf/taskfold</id>
-    <link href="https://github.com/yindf/taskfold"/>
-    <updated>2026-09-10T00:00:00Z</updated>
-    <summary>Wraps work in named tasks and folds each finished task's whole span of messages into one summary at the next step boundary, with the original messages restorable on demand.</summary>
-  </entry>
-  <entry>
-    <title>lffrom0303/dsh-window98-theme</title>
-    <id>https://github.com/lffrom0303/dsh-window98-theme</id>
-    <link href="https://github.com/lffrom0303/dsh-window98-theme"/>
-    <updated>2026-09-09T00:00:00Z</updated>
-    <summary>A Windows 98 skin for the DSH web client with beveled buttons, sunken inputs, pixelated typography, navy accents and checkerboard scrollbars.</summary>
   </entry>
 </feed>

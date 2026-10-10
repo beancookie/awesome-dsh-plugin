@@ -4,7 +4,133 @@
   <id>https://beancookie.github.io/awesome-dsh-plugin/</id>
   <link href="https://beancookie.github.io/awesome-dsh-plugin/"/>
   <link rel="self" href="https://beancookie.github.io/awesome-dsh-plugin/feed.xml"/>
-  <updated>2026-09-22T00:00:00Z</updated>
+  <updated>2026-10-10T00:00:00Z</updated>
+  <entry>
+    <title>Han-1413141/dsh-ui-hub</title>
+    <id>https://github.com/Han-1413141/dsh-ui-hub</id>
+    <link href="https://github.com/Han-1413141/dsh-ui-hub"/>
+    <updated>2026-10-10T00:00:00Z</updated>
+    <summary>搜索、显示、隐藏、移动、缩放和排布 DSH Desktop 与 Web 中的插件控件，支持布局备份、恢复与撤销。</summary>
+  </entry>
+  <entry>
+    <title>weibaohui/dsh-dashboard</title>
+    <id>https://github.com/weibaohui/dsh-dashboard</id>
+    <link href="https://github.com/weibaohui/dsh-dashboard"/>
+    <updated>2026-10-10T00:00:00Z</updated>
+    <summary>使用量仪表盘：离线扫描会话日志，统计每日/每周/每月 token、估算费用、模型/工具/技能/命令榜、输出速度、工作时段与质量指标；gridstack+ECharts 卡片可拖拽编排，支持自定义公式与 AI 编排（提示词往返导入）。</summary>
+  </entry>
+  <entry>
+    <title>lamost423/dsh-maze</title>
+    <id>https://github.com/lamost423/dsh-maze</id>
+    <link href="https://github.com/lamost423/dsh-maze"/>
+    <updated>2026-10-10T00:00:00Z</updated>
+    <summary>执行迷宫：把一场会话的主干路径、折返与失败支路画在同一根时间轴上，配逐步数据轨道（工具、Token、上下文压力）、确定性分析（结果与证据、行为信号）与最多五场会话的对比；能读会话日志，也能在会话页签里实时渲染。</summary>
+  </entry>
+  <entry>
+    <title>fengchang618gmail/dsh-course-subtitles</title>
+    <id>https://github.com/fengchang618gmail/dsh-course-subtitles</id>
+    <link href="https://github.com/fengchang618gmail/dsh-course-subtitles"/>
+    <updated>2026-10-10T00:00:00Z</updated>
+    <summary>抓取课程视频字幕（DeepLearning.AI / YouTube / Bilibili / Coursera），合并成完整句子后逐句中英对照翻译并生成双语章节标题，每课发布一篇飞书文档，另可把课程首页大纲导出为一页文档；密钥全部从环境变量或凭据库读取。</summary>
+  </entry>
+  <entry>
+    <title>Han-1413141/dsh-codex-computer-use</title>
+    <id>https://github.com/Han-1413141/dsh-codex-computer-use</id>
+    <link href="https://github.com/Han-1413141/dsh-codex-computer-use"/>
+    <updated>2026-10-10T00:00:00Z</updated>
+    <summary>让 DSH 当前模型通过已安装的 Codex Computer Use 运行时读取和操作 Windows 应用，并保留每个会话的应用授权。</summary>
+  </entry>
+  <entry>
+    <title>luobosibing2/dsh-jev-plugin</title>
+    <id>https://github.com/luobosibing2/dsh-jev-plugin</id>
+    <link href="https://github.com/luobosibing2/dsh-jev-plugin"/>
+    <updated>2026-10-10T00:00:00Z</updated>
+    <summary>在 DeepSeek Harness 中集成 TypeSafe Jev，用于技能与文件选择、任务监督、共享结论纠错、工具输出过滤、审批辅助和历史步骤阶段导航；所有功能默认禁用。</summary>
+  </entry>
+  <entry>
+    <title>moguiyu/dsh-tavily</title>
+    <id>https://github.com/moguiyu/dsh-tavily</id>
+    <link href="https://github.com/moguiyu/dsh-tavily"/>
+    <updated>2026-10-10T00:00:00Z</updated>
+    <summary>Tavily 搜索、提取、站点地图与爬取工具：多 Key 轮换，HTTP 401/429/432/433 故障转移，并提供按账号限制并发请求的负载均衡模式；插件配置页含密钥与用量卡片。内置 web_search 永不替换。</summary>
+  </entry>
+  <entry>
+    <title>PriceDotWin/pricewin-dsh</title>
+    <id>https://github.com/PriceDotWin/pricewin-dsh</id>
+    <link href="https://github.com/PriceDotWin/pricewin-dsh"/>
+    <updated>2026-10-10T00:00:00Z</updated>
+    <summary>通过 PriceWin 远程 MCP 服务实时比较 Booking.com、Agoda、Trip.com 和 Traveloka 的酒店与机票价格（美元），无需账号或 API Key，附带搜索 Skill。</summary>
+  </entry>
+  <entry>
+    <title>Han-1413141/dsh-autocompose</title>
+    <id>https://github.com/Han-1413141/dsh-autocompose</id>
+    <link href="https://github.com/Han-1413141/dsh-autocompose"/>
+    <updated>2026-10-10T00:00:00Z</updated>
+    <summary>根据任务查找并组合 DSH 插件，打开可继续对话的独立环境，或将方案中的插件安装到当前配置。</summary>
+  </entry>
+  <entry>
+    <title>slow-stack/dsh-study-desk</title>
+    <id>https://github.com/slow-stack/dsh-study-desk</id>
+    <link href="https://github.com/slow-stack/dsh-study-desk"/>
+    <updated>2026-10-10T00:00:00Z</updated>
+    <summary>备考与科研学习工作台：三列待办墙（标签与过滤）、间隔重复复习队列（简化 SM-2，已完成的卡照样会到期）、按实际专注分钟点亮的热力图、周报、每日复盘、跨面板存活的番茄钟，支持 Markdown 导出与读回（Obsidian 友好）。</summary>
+  </entry>
+  <entry>
+    <title>weibaohui/dsh-flow</title>
+    <id>https://github.com/weibaohui/dsh-flow</id>
+    <link href="https://github.com/weibaohui/dsh-flow"/>
+    <updated>2026-10-10T00:00:00Z</updated>
+    <summary>执行流程图：把当前会话的执行过程画成一条纵向节点流（回合/用户/助手/工具/审批/重试/压缩），SSE 实时追加——会话执行到哪，图就画到哪，自动跟随滚动。</summary>
+  </entry>
+  <entry>
+    <title>weibaohui/dsh-thinktank</title>
+    <id>https://github.com/weibaohui/dsh-thinktank</id>
+    <link href="https://github.com/weibaohui/dsh-thinktank"/>
+    <updated>2026-10-10T00:00:00Z</updated>
+    <summary>智囊团：内置 144 个经典思维模型库（决策/战略/认知/心理/沟通/学习/系统/创新/执行九大分类），输入一个问题即可用选中的多个模型并行 AI 分析，产出含共识/分歧/盲区/行动清单的综合报告页；支持自动分析与提示词往返导入两种模式。</summary>
+  </entry>
+  <entry>
+    <title>Han-1413141/dsh-compat-guardian</title>
+    <id>https://github.com/Han-1413141/dsh-compat-guardian</id>
+    <link href="https://github.com/Han-1413141/dsh-compat-guardian"/>
+    <updated>2026-10-10T00:00:00Z</updated>
+    <summary>检查 DSH 插件冲突与加载故障，隔离和恢复受影响的插件，并在宿主无法启动时提供离线修复。</summary>
+  </entry>
+  <entry>
+    <title>Han-1413141/dsh-pnpm-build-control</title>
+    <id>https://github.com/Han-1413141/dsh-pnpm-build-control</id>
+    <link href="https://github.com/Han-1413141/dsh-pnpm-build-control"/>
+    <updated>2026-10-10T00:00:00Z</updated>
+    <summary>在“添加插件”中统一控制各 DSH 配置的 pnpm 构建脚本审批，并修复 DSH 0.2.0-rc.2 的同一 Git 地址更新问题。</summary>
+  </entry>
+  <entry>
+    <title>Han-1413141/dsh-visual-edit</title>
+    <id>https://github.com/Han-1413141/dsh-visual-edit</id>
+    <link href="https://github.com/Han-1413141/dsh-visual-edit"/>
+    <updated>2026-10-10T00:00:00Z</updated>
+    <summary>在 DSH 预览中点选元素、画箭头或框选区域，将修改意见加入对话，并查看更新前后的截图对比。</summary>
+  </entry>
+  <entry>
+    <title>Han-1413141/dsh-wsl-native</title>
+    <id>https://github.com/Han-1413141/dsh-wsl-native</id>
+    <link href="https://github.com/Han-1413141/dsh-wsl-native"/>
+    <updated>2026-10-10T00:00:00Z</updated>
+    <summary>在同一个 Windows 窗口中使用 Windows 与原生 Linux DSH 会话，支持 WSL 环境切换和双向系统操作。</summary>
+  </entry>
+  <entry>
+    <title>weibaohui/dsh-ambient</title>
+    <id>https://github.com/weibaohui/dsh-ambient</id>
+    <link href="https://github.com/weibaohui/dsh-ambient"/>
+    <updated>2026-10-10T00:00:00Z</updated>
+    <summary>白噪音播放器：AI 编程时铺一层背景音（雨声、溪流、篝火、咖啡馆……），帮助进入心流状态、集中精力、高效思考，让你写代码又快又好。支持顺序/随机/单曲循环/间歇等多种播放模式。支持 AI 自动下载背景音乐。</summary>
+  </entry>
+  <entry>
+    <title>weibaohui/dsh-fireworks</title>
+    <id>https://github.com/weibaohui/dsh-fireworks</id>
+    <link href="https://github.com/weibaohui/dsh-fireworks"/>
+    <updated>2026-10-10T00:00:00Z</updated>
+    <summary>烟花庆祝引擎：agent 编程时漂浮在对话窗口上空放烟花——开场迎宾、回合礼花、工具星花、里程碑大礼、收工终场、失败哑炮，每类事件一张烟花属性卡组，组内多变种随机抽取，token 用量决定烟花的大小、高度与绚烂程度。</summary>
+  </entry>
   <entry>
     <title>lcestou/dsh-oh-my-claude</title>
     <id>https://github.com/lcestou/dsh-oh-my-claude</id>
@@ -69,13 +195,6 @@
     <summary>多机同步：让多台机器上的 dsh 通过一个私有 GitCode 仓库保持一致——技能、会话、设置、插件清单四类内容各有独立开关；变更走分支 → PR → 合并，推送前自动回填远端新增防误删，支持 AI 智能对齐（语义合并双方改动）与一键解决冲突；强制私有仓库，pull 不覆盖本地改动。</summary>
   </entry>
   <entry>
-    <title>dugujun3-cloud/dsh-wallpaper</title>
-    <id>https://github.com/dugujun3-cloud/dsh-wallpaper</id>
-    <link href="https://github.com/dugujun3-cloud/dsh-wallpaper"/>
-    <updated>2026-09-13T00:00:00Z</updated>
-    <summary>整站背景图切换：设置页「背景图片」行打开居中选择器，可浏览本地壁纸库、搜索 wallhaven（仅 SFW 动漫）或从磁盘导入，右键卡片设为背景或打开原图页面；填充方式、模糊、遮罩与内容纱罩均可调，卸载后无残留。</summary>
-  </entry>
-  <entry>
     <title>PerryLink/dsh-data-quality</title>
     <id>https://github.com/PerryLink/dsh-data-quality</id>
     <link href="https://github.com/PerryLink/dsh-data-quality"/>
@@ -95,124 +214,5 @@
     <link href="https://github.com/PerryLink/dsh-industry-research"/>
     <updated>2026-09-13T00:00:00Z</updated>
     <summary>行业与公司研究领域包：产业链建图、公开源动态跟踪、公司速览卡与可审计报告——每个数字可溯源，每个缺口都如实声明。</summary>
-  </entry>
-  <entry>
-    <title>PerryLink/dsh-research-report</title>
-    <id>https://github.com/PerryLink/dsh-research-report</id>
-    <link href="https://github.com/PerryLink/dsh-research-report"/>
-    <updated>2026-09-13T00:00:00Z</updated>
-    <summary>可验证研究报告引擎：每条结论绑定不可变证据快照并逐字节核验，封存为版本化报告，其清单哈希可复算。</summary>
-  </entry>
-  <entry>
-    <title>PerryLink/dsh-team-rooms</title>
-    <id>https://github.com/PerryLink/dsh-team-rooms</id>
-    <link href="https://github.com/PerryLink/dsh-team-rooms"/>
-    <updated>2026-09-13T00:00:00Z</updated>
-    <summary>持久化、跨会话的多 Agent 团队房间：成员、消息总线、共享任务板与共享时间线，重启后仍然保留。</summary>
-  </entry>
-  <entry>
-    <title>weibaohui/dsh-process</title>
-    <id>https://github.com/weibaohui/dsh-process</id>
-    <link href="https://github.com/weibaohui/dsh-process"/>
-    <updated>2026-09-13T00:00:00Z</updated>
-    <summary>工艺管理：把 ntd 的「工艺」（多阶段·多环节 agent 工作流模板）接进 dsh web——浏览/编辑/校验/导入导出/AI 生成工艺，内置库只读、我的库可写，文件改动实时同步；agent 可通过 process_* 工具读工艺库、按工艺分阶段推进。</summary>
-  </entry>
-  <entry>
-    <title>PerryLink/dsh-reach</title>
-    <id>https://github.com/PerryLink/dsh-reach</id>
-    <link href="https://github.com/PerryLink/dsh-reach"/>
-    <updated>2026-09-13T00:00:00Z</updated>
-    <summary>多渠道决策与遥控桥：把 DSH 的审批与提问卡片推送到 IM 渠道（微信 iLink、Telegram、飞书）并在聊天内作答，附会话控制台、按渠道安全策略与开放推送服务。</summary>
-  </entry>
-  <entry>
-    <title>PerryLink/dsh-ticktick</title>
-    <id>https://github.com/PerryLink/dsh-ticktick</id>
-    <link href="https://github.com/PerryLink/dsh-ticktick"/>
-    <updated>2026-09-13T00:00:00Z</updated>
-    <summary>TickTick / Dida365（滴答清单）任务桥：会话头部任务面板（列表筛选、快速添加、完成、删除、截止日期、拖拽排序）、11 个精选 agent 工具、插件设置卡片与类型化 Remote 服务，全部走官方 TickTick MCP 端点。</summary>
-  </entry>
-  <entry>
-    <title>PerryLink/dsh-autotier</title>
-    <id>https://github.com/PerryLink/dsh-autotier</id>
-    <link href="https://github.com/PerryLink/dsh-autotier"/>
-    <updated>2026-09-13T00:00:00Z</updated>
-    <summary>自动模型档位路由：一条用户指令进入、一个档位决策出来——复杂意图由强档规划、廉价档执行，确定性护栏 + TTL 升级回退。</summary>
-  </entry>
-  <entry>
-    <title>PerryLink/dsh-cert-mcp</title>
-    <id>https://github.com/PerryLink/dsh-cert-mcp</id>
-    <link href="https://github.com/PerryLink/dsh-cert-mcp"/>
-    <updated>2026-09-13T00:00:00Z</updated>
-    <summary>只读 MCP 服务器，暴露 dsh-plugin-certification 认证注册表：认证等级、快照日期与 DeepSeek Harness 插件五维证据，stdio 传输、零运行时依赖。</summary>
-  </entry>
-  <entry>
-    <title>PerryLink/dsh-plugin-doctor</title>
-    <id>https://github.com/PerryLink/dsh-plugin-doctor</id>
-    <link href="https://github.com/PerryLink/dsh-plugin-doctor"/>
-    <updated>2026-09-13T00:00:00Z</updated>
-    <summary>零依赖的 DeepSeek Harness 插件「完整性 + 运行流畅」检测器：包结构静态检查（R）→ Cordis 契约扫描（K）→ 动态沙箱冒烟（D）→ 生态集合站清单校验（CC），一次运行覆盖四层。</summary>
-  </entry>
-  <entry>
-    <title>PerryLink/dsh-plugin-kit</title>
-    <id>https://github.com/PerryLink/dsh-plugin-kit</id>
-    <link href="https://github.com/PerryLink/dsh-plugin-kit"/>
-    <updated>2026-09-13T00:00:00Z</updated>
-    <summary>PerryLink DSH 插件家族共享的零运行时依赖工具包：可插拔 Provider 接缝、fail-closed 审批门与自适应会话事件门、校验脚本与共享 sanitize/pricing/judge 纯模块，合为一个 ESM + TypeScript 包。</summary>
-  </entry>
-  <entry>
-    <title>PerryLink/dsh-plugin-upgrade-015</title>
-    <id>https://github.com/PerryLink/dsh-plugin-upgrade-015</id>
-    <link href="https://github.com/PerryLink/dsh-plugin-upgrade-015"/>
-    <updated>2026-09-13T00:00:00Z</updated>
-    <summary>合并后的版本锁定插件升级技能（0.1.3-alpha.1 → 0.1.5-rc.1，两条闭环腿）：证据绑定版本卡 + 零依赖 20 接缝扫描器，以 bundle 技能 + npx CLI 两种形态发布。</summary>
-  </entry>
-  <entry>
-    <title>weibaohui/dsh-git-server</title>
-    <id>https://github.com/weibaohui/dsh-git-server</id>
-    <link href="https://github.com/weibaohui/dsh-git-server"/>
-    <updated>2026-09-13T00:00:00Z</updated>
-    <summary>Git 服务器：内嵌 ts-gogs（Gogs 的 TypeScript 平替），独立端口跑完整 Git 服务（HTTP clone/push、网页端、issue/PR/wiki），可复用 user-management 的用户名密码，设置页一键启停。</summary>
-  </entry>
-  <entry>
-    <title>weibaohui/dsh-webdav-server</title>
-    <id>https://github.com/weibaohui/dsh-webdav-server</id>
-    <link href="https://github.com/weibaohui/dsh-webdav-server"/>
-    <updated>2026-09-13T00:00:00Z</updated>
-    <summary>WebDAV 服务器：把一个共享目录变成 Windows/macOS/Linux 都能挂载成本地磁盘的 WebDAV 服务，令牌认证、可选只读、目录/端口/令牌全可配，设置页自带三平台挂载指南。</summary>
-  </entry>
-  <entry>
-    <title>hutao562/dsh-remote-dsh</title>
-    <id>https://github.com/hutao562/dsh-remote-dsh</id>
-    <link href="https://github.com/hutao562/dsh-remote-dsh"/>
-    <updated>2026-09-12T00:00:00Z</updated>
-    <summary>在侧边栏顶部加一行，点击后整页切换成另一台 DSH 主机的 Web GUI（通过回环端口访问），并在该行显示那台主机的会话状态（运行中、有新活动、正等你回答）。</summary>
-  </entry>
-  <entry>
-    <title>busabase/busabase-dsh-plugin</title>
-    <id>https://github.com/busabase/busabase-dsh-plugin</id>
-    <link href="https://github.com/busabase/busabase-dsh-plugin"/>
-    <updated>2026-09-12T00:00:00Z</updated>
-    <summary>通过 MCP 工具、权限感知的 ChangeRequest、结果卡片与实时记录检查器，将 DSH Agent 接入 Busabase。</summary>
-  </entry>
-  <entry>
-    <title>Nicholaskin/vision-exp-tile</title>
-    <id>https://github.com/Nicholaskin/vision-exp-tile</id>
-    <link href="https://github.com/Nicholaskin/vision-exp-tile"/>
-    <updated>2026-09-12T00:00:00Z</updated>
-    <summary>面向视觉大模型的大图智能识图：800×800 无损切块识别（smart/pipeline/full 三策略）+ 本地 OCR（自动反色/二值化/手写分流）+ 可选多厂商 GPU 加速（DirectML 覆盖 NVIDIA/AMD/Intel，CUDA/OpenVINO），失败自动回退 CPU；MIT 开源（111 项单元测试）。</summary>
-  </entry>
-  <entry>
-    <title>yindf/taskfold</title>
-    <id>https://github.com/yindf/taskfold</id>
-    <link href="https://github.com/yindf/taskfold"/>
-    <updated>2026-09-10T00:00:00Z</updated>
-    <summary>用命名任务包住工作过程；任务结束后在下一个步骤边界把整段消息折叠成一段摘要，原文可随时还原。</summary>
-  </entry>
-  <entry>
-    <title>lffrom0303/dsh-window98-theme</title>
-    <id>https://github.com/lffrom0303/dsh-window98-theme</id>
-    <link href="https://github.com/lffrom0303/dsh-window98-theme"/>
-    <updated>2026-09-09T00:00:00Z</updated>
-    <summary>DSH Web 客户端 Windows 98 复古皮肤：teal 桌面 + 银色面板、立体浮雕按钮、凹陷输入框、像素字体与棋盘格滚动条，浅色/深色双模式。</summary>
   </entry>
 </feed>

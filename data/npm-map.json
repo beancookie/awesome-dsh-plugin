@@ -471,6 +471,10 @@
   "npm": null,
   "checkedAt": "2026-09-13"
  },
+ "https://github.com/fengchang618gmail/dsh-course-subtitles": {
+  "npm": null,
+  "checkedAt": "2026-10-10"
+ },
  "https://github.com/fishxcode/dsh-plugin-deepseek-balance": {
   "npm": null,
   "checkedAt": "2026-08-14"
@@ -567,13 +571,41 @@
   "npm": null,
   "checkedAt": "2026-08-17"
  },
+ "https://github.com/Han-1413141/dsh-autocompose": {
+  "npm": "dsh-autocompose",
+  "checkedAt": "2026-10-10"
+ },
+ "https://github.com/Han-1413141/dsh-codex-computer-use": {
+  "npm": null,
+  "checkedAt": "2026-10-10"
+ },
+ "https://github.com/Han-1413141/dsh-compat-guardian": {
+  "npm": "dsh-compat-guardian",
+  "checkedAt": "2026-10-10"
+ },
  "https://github.com/Han-1413141/dsh-cost-meter": {
   "npm": "dsh-cost-meter",
   "checkedAt": "2026-09-13"
  },
+ "https://github.com/Han-1413141/dsh-pnpm-build-control": {
+  "npm": null,
+  "checkedAt": "2026-10-10"
+ },
  "https://github.com/Han-1413141/dsh-sticky-disclosure": {
   "npm": null,
   "checkedAt": "2026-08-14"
+ },
+ "https://github.com/Han-1413141/dsh-ui-hub": {
+  "npm": null,
+  "checkedAt": "2026-10-10"
+ },
+ "https://github.com/Han-1413141/dsh-visual-edit": {
+  "npm": null,
+  "checkedAt": "2026-10-10"
+ },
+ "https://github.com/Han-1413141/dsh-wsl-native": {
+  "npm": null,
+  "checkedAt": "2026-10-10"
  },
  "https://github.com/hccccc01333/dsh-excel-chat": {
   "npm": null,
@@ -891,6 +923,10 @@
   "npm": null,
   "checkedAt": "2026-09-15"
  },
+ "https://github.com/lamost423/dsh-maze": {
+  "npm": "dsh-maze",
+  "checkedAt": "2026-10-10"
+ },
  "https://github.com/lancecheney/dsh-plugins/tree/main/packages/dsh-deepseek-balance": {
   "npm": null,
   "checkedAt": "2026-08-15"
@@ -983,6 +1019,30 @@
   "npm": null,
   "checkedAt": "2026-09-16"
  },
+ "https://github.com/Ln1m/dsh-chrome-suite": {
+  "npm": null,
+  "checkedAt": "2026-10-10"
+ },
+ "https://github.com/Ln1m/dsh-input-suite": {
+  "npm": null,
+  "checkedAt": "2026-10-10"
+ },
+ "https://github.com/Ln1m/dsh-pane-suite": {
+  "npm": null,
+  "checkedAt": "2026-10-10"
+ },
+ "https://github.com/Ln1m/dsh-side-suite": {
+  "npm": null,
+  "checkedAt": "2026-10-10"
+ },
+ "https://github.com/Ln1m/dsh-tool-suite": {
+  "npm": null,
+  "checkedAt": "2026-10-10"
+ },
+ "https://github.com/Ln1m/dsh-vk-suite": {
+  "npm": null,
+  "checkedAt": "2026-10-10"
+ },
  "https://github.com/lonelymoon87/dsh-code-intel": {
   "npm": "dsh-code-intel",
   "checkedAt": "2026-09-13"
@@ -1030,6 +1090,10 @@
  "https://github.com/Lum1104/dsh-browser": {
   "npm": null,
   "checkedAt": "2026-09-13"
+ },
+ "https://github.com/luobosibing2/dsh-jev-plugin": {
+  "npm": null,
+  "checkedAt": "2026-10-10"
  },
  "https://github.com/lxj808624/dsh-tool-git": {
   "npm": "dsh-tool-git",
@@ -1106,6 +1170,10 @@
  "https://github.com/Moeblack/dsh-prompt-studio": {
   "npm": null,
   "checkedAt": "2026-08-14"
+ },
+ "https://github.com/moguiyu/dsh-tavily": {
+  "npm": null,
+  "checkedAt": "2026-10-10"
  },
  "https://github.com/moon09300731/dsh-approval-gate": {
   "npm": "dsh-approval-gate",
@@ -1523,6 +1591,10 @@
   "npm": "dsh-omi-voice",
   "checkedAt": "2026-09-17"
  },
+ "https://github.com/PriceDotWin/pricewin-dsh": {
+  "npm": "@pricewin/dsh",
+  "checkedAt": "2026-10-10"
+ },
  "https://github.com/qwert702/dsh-auto-translate": {
   "npm": null,
   "checkedAt": "2026-09-23"
@@ -1626,6 +1698,10 @@
  "https://github.com/sjh9714/dsh-what-changed": {
   "npm": "dsh-what-changed",
   "checkedAt": "2026-08-17"
+ },
+ "https://github.com/slow-stack/dsh-study-desk": {
+  "npm": "dsh-study-desk",
+  "checkedAt": "2026-10-10"
  },
  "https://github.com/slywalker2006/dsh-passwords": {
   "npm": "dsh-passwords",
@@ -1783,9 +1859,17 @@
   "npm": "@weibaohui/context-razor",
   "checkedAt": "2026-09-07"
  },
+ "https://github.com/weibaohui/dsh-ambient": {
+  "npm": "@weibaohui/dsh-ambient",
+  "checkedAt": "2026-10-10"
+ },
  "https://github.com/weibaohui/dsh-continue": {
   "npm": "@weibaohui/dsh-continue",
   "checkedAt": "2026-09-06"
+ },
+ "https://github.com/weibaohui/dsh-dashboard": {
+  "npm": "@weibaohui/dsh-dashboard",
+  "checkedAt": "2026-10-10"
  },
  "https://github.com/weibaohui/dsh-fde-tools": {
   "npm": "@weibaohui/dsh-fde-tools",
@@ -1794,6 +1878,14 @@
  "https://github.com/weibaohui/dsh-file-share": {
   "npm": "@weibaohui/dsh-file-share",
   "checkedAt": "2026-09-14"
+ },
+ "https://github.com/weibaohui/dsh-fireworks": {
+  "npm": "@weibaohui/dsh-fireworks",
+  "checkedAt": "2026-10-10"
+ },
+ "https://github.com/weibaohui/dsh-flow": {
+  "npm": "@weibaohui/dsh-flow",
+  "checkedAt": "2026-10-10"
  },
  "https://github.com/weibaohui/dsh-git-server": {
   "npm": "@weibaohui/dsh-git-server",
@@ -1822,6 +1914,10 @@
  "https://github.com/weibaohui/dsh-tasks": {
   "npm": "@weibaohui/dsh-tasks",
   "checkedAt": "2026-09-07"
+ },
+ "https://github.com/weibaohui/dsh-thinktank": {
+  "npm": "@weibaohui/dsh-thinktank",
+  "checkedAt": "2026-10-10"
  },
  "https://github.com/weibaohui/dsh-webdav-server": {
   "npm": "@weibaohui/dsh-webdav-server",
