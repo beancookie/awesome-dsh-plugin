@@ -584,6 +584,8 @@ DeepSeek Harness is DeepSeek's open-source agent harness — a runnable coding a
 - [weibaohui/dsh-ambient](https://github.com/weibaohui/dsh-ambient) - White noise player: lays a layer of background sound (rain, streams, campfire, café…) while AI codes, helping you enter flow, stay focused and think efficiently, so you write code fast and well. Supports multiple playback modes (sequential / shuffle / single-loop / intermittent) and AI automatic background music download.
 - [weibaohui/dsh-fireworks](https://github.com/weibaohui/dsh-fireworks) - Fireworks celebration engine: floats fireworks above the chat window while the agent codes, with a welcome show, per-turn salutes, tool sparks, milestone celebrations, a finish finale and a dud on failure; each event type has its own fireworks card group with random variants, and token usage decides firework size, height and splendour.
 - [william-jin-cmu/dsh-stickers](https://github.com/william-jin-cmu/dsh-stickers) - Bidirectional sticker reactions between user and agent.
+- [weibaohui/dsh-matrix](https://github.com/weibaohui/dsh-matrix) - Matrix digital rain: drapes the chat window in the classic green character rain — cascading columns with incandescent white heads and green tails, streaming the tokens the agent is generating into the rain in real time; opacity, speed, density, font size and colors are all adjustable, and rain intensity follows agent activity.
+
 
 ## Related
 
