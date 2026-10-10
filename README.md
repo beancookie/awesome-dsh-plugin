@@ -48,6 +48,12 @@ DeepSeek Harness 是 DeepSeek 开源的 agent harness——既是可直接运行
   - [🔌 模型与账号接入](#-模型与账号接入)
   - [🧑‍💻 开发与运行时](#-开发与运行时)
   - [🎮 娱乐](#-娱乐)
+- [Ln1m/dsh-chrome-suite](https://github.com/Ln1m/dsh-chrome-suite) — 窗口边框家族：两击确认重启、两击确认归档，以及显示余额与本会话消耗的钱包面板。
+- [Ln1m/dsh-vk-suite](https://github.com/Ln1m/dsh-vk-suite) — 三栏布局骨架：槽位契约 + 布局外壳，其余家族都装在它上面。
+- [Ln1m/dsh-side-suite](https://github.com/Ln1m/dsh-side-suite) — 左栏家族：文件树、打开本机文件、工具 Tab、局域网服务卡片与长期任务管理。
+- [Ln1m/dsh-pane-suite](https://github.com/Ln1m/dsh-pane-suite) — 右栏家族：文档查看器（Office/网页/图片/文本）与由原生 WebView2 控件承载的内嵌浏览器。
+- [Ln1m/dsh-input-suite](https://github.com/Ln1m/dsh-input-suite) — 输入区家族：技能档——切档即换本会话注入的技能清单。
+- [Ln1m/dsh-tool-suite](https://github.com/Ln1m/dsh-tool-suite) — 工具家族：移动端访问反代、文献检索（OpenAlex 与 arXiv）、全机文件搜索，以及投影进 systemPrompt 的热记忆。
 - [相关](#相关)
 - [贡献](#贡献)
 - [徽章](#徽章)

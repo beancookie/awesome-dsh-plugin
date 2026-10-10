@@ -48,6 +48,12 @@ DeepSeek Harness is DeepSeek's open-source agent harness — a runnable coding a
   - [Models & Providers](#models--providers)
   - [Development & Runtime](#development--runtime)
   - [Just for Fun](#just-for-fun)
+- [Ln1m/dsh-chrome-suite](https://github.com/Ln1m/dsh-chrome-suite) - Window chrome family: two-click session restart, two-click session archive, and a wallet panel showing balance and per-session cost.
+- [Ln1m/dsh-vk-suite](https://github.com/Ln1m/dsh-vk-suite) - Three-column layout skeleton: the slot contract plus the layout shell every other family builds on.
+- [Ln1m/dsh-side-suite](https://github.com/Ln1m/dsh-side-suite) - Left column family: file tree, open-local-file tab, tools tab, LAN service cards and long-running task management.
+- [Ln1m/dsh-pane-suite](https://github.com/Ln1m/dsh-pane-suite) - Right column family: document viewer (Office/web/image/text) and an embedded browser backed by a native WebView2 control.
+- [Ln1m/dsh-input-suite](https://github.com/Ln1m/dsh-input-suite) - Composer family: skill sets, so switching a set swaps which skills are injected into the session.
+- [Ln1m/dsh-tool-suite](https://github.com/Ln1m/dsh-tool-suite) - Tools family: mobile-access reverse proxy, literature search (OpenAlex and arXiv), machine-wide file search, and a hot-memory projection into the system prompt.
 - [Related](#related)
 - [Contributing](#contributing)
 - [Badge](#badge)
