@@ -581,6 +581,8 @@ DeepSeek Harness 是 DeepSeek 开源的 agent harness——既是可直接运行
 - [weibaohui/dsh-ambient](https://github.com/weibaohui/dsh-ambient) — 白噪音播放器：AI 编程时铺一层背景音（雨声、溪流、篝火、咖啡馆……），帮助进入心流状态、集中精力、高效思考，让你写代码又快又好。支持顺序/随机/单曲循环/间歇等多种播放模式。支持 AI 自动下载背景音乐。
 - [weibaohui/dsh-fireworks](https://github.com/weibaohui/dsh-fireworks) — 烟花庆祝引擎：agent 编程时漂浮在对话窗口上空放烟花——开场迎宾、回合礼花、工具星花、里程碑大礼、收工终场、失败哑炮，每类事件一张烟花属性卡组，组内多变种随机抽取，token 用量决定烟花的大小、高度与绚烂程度。
 - [william-jin-cmu/dsh-stickers](https://github.com/william-jin-cmu/dsh-stickers) — 用户与 agent 双向表情贴纸互动。
+- [weibaohui/dsh-kite](https://github.com/weibaohui/dsh-kite) — 放风筝引擎：agent 编程时屏幕上放一只动画风筝——token 越多事件越密风筝飞得越高，随风漂移摆动，一根线牵在窗口底边；潍坊系框架卡组（沙燕/金鱼/蝴蝶/八卦/龙头等，硬翅软翅板式立体），形状×图案×配色全是可替换数据配置，支持把用户图片糊上风筝面、贴图随风筝姿态实时仿射变换。
+
 
 ## 相关
 
