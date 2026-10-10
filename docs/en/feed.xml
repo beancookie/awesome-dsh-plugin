@@ -27,6 +27,13 @@
     <summary>Execution maze for DSH sessions: main path, detours and backtracks on one timeline with per-step data tracks (tools, tokens, context pressure), deterministic analysis (outcome evidence, behavior signals) and comparison of up to five sessions; reads session logs and renders live inside a session tab.</summary>
   </entry>
   <entry>
+    <title>Neo65536-engineer/dsh-agent-log</title>
+    <id>https://github.com/Neo65536-engineer/dsh-agent-log</id>
+    <link href="https://github.com/Neo65536-engineer/dsh-agent-log"/>
+    <updated>2026-10-10T00:00:00Z</updated>
+    <summary>Read-only work report rebuilt from session logs: tools used, files read and written, commands run, test results and failures, token usage, and whether the task finished.</summary>
+  </entry>
+  <entry>
     <title>fengchang618gmail/dsh-course-subtitles</title>
     <id>https://github.com/fengchang618gmail/dsh-course-subtitles</id>
     <link href="https://github.com/fengchang618gmail/dsh-course-subtitles"/>
@@ -139,6 +146,34 @@
     <summary>Fireworks celebration engine: floats fireworks above the chat window while the agent codes, with a welcome show, per-turn salutes, tool sparks, milestone celebrations, a finish finale and a dud on failure; each event type has its own fireworks card group with random variants, and token usage decides firework size, height and splendour.</summary>
   </entry>
   <entry>
+    <title>weibaohui/dsh-gaokao</title>
+    <id>https://github.com/weibaohui/dsh-gaokao</id>
+    <link href="https://github.com/weibaohui/dsh-gaokao"/>
+    <updated>2026-10-10T00:00:00Z</updated>
+    <summary>Gaokao countdown blackboard: desktop blackboard widget counting down days to the gaokao (double-click to collapse into a slim bar), with random knowledge-card quizzes while the agent works; open Markdown knowledge-card framework, drop .md files under subject/category folders to auto-load, with cross-links, favorites, priority subjects and importing your own knowledge base.</summary>
+  </entry>
+  <entry>
+    <title>weibaohui/dsh-kite</title>
+    <id>https://github.com/weibaohui/dsh-kite</id>
+    <link href="https://github.com/weibaohui/dsh-kite"/>
+    <updated>2026-10-10T00:00:00Z</updated>
+    <summary>Kite-flying engine: while the agent codes, an animated kite drifts and sways in the wind on screen, tethered to the bottom edge of the window — the busier the agent, the denser the events and the higher it flies; ships a Weifang-style framework card deck (sand-swallow, goldfish, butterfly, bagua, dragon-head and more, hard-wing / soft-wing / flat / dimensional frames), with shape x pattern x colors all swappable data configs, and supports pasting user images onto the kite face with real-time affine transforms as the kite banks.</summary>
+  </entry>
+  <entry>
+    <title>weibaohui/dsh-matrix</title>
+    <id>https://github.com/weibaohui/dsh-matrix</id>
+    <link href="https://github.com/weibaohui/dsh-matrix"/>
+    <updated>2026-10-10T00:00:00Z</updated>
+    <summary>Matrix digital rain: drapes the chat window in the classic green character rain — cascading columns with incandescent white heads and green tails, streaming the tokens the agent is generating into the rain in real time; opacity, speed, density, font size and colors are all adjustable, and rain intensity follows agent activity.</summary>
+  </entry>
+  <entry>
+    <title>PerryLink/dsh-laya</title>
+    <id>https://github.com/PerryLink/dsh-laya</id>
+    <link href="https://github.com/PerryLink/dsh-laya"/>
+    <updated>2026-09-22T00:00:00Z</updated>
+    <summary>Laya typed decisions (noul yes/no, choice, score) as a first-class Cordis service plus the laya_ask and laya_plan tools; a client of a self-started laya-mcp sidecar, so it installs nothing itself.</summary>
+  </entry>
+  <entry>
     <title>lcestou/dsh-oh-my-claude</title>
     <id>https://github.com/lcestou/dsh-oh-my-claude</id>
     <link href="https://github.com/lcestou/dsh-oh-my-claude"/>
@@ -179,40 +214,5 @@
     <link href="https://github.com/weibaohui/dsh-kb"/>
     <updated>2026-09-14T00:00:00Z</updated>
     <summary>Team knowledge base for offline knowledge sharing (FDE box scenario): browse, full-text search and refinement entry points; raw material is queued automatically and distilled into wiki pages by a serial bot session (Karpathy LLM Wiki pattern: immutable raw, two-step refinement, log stream, monthly lint).</summary>
-  </entry>
-  <entry>
-    <title>weibaohui/dsh-file-share</title>
-    <id>https://github.com/weibaohui/dsh-file-share</id>
-    <link href="https://github.com/weibaohui/dsh-file-share"/>
-    <updated>2026-09-14T00:00:00Z</updated>
-    <summary>Session workspace file manager: adds a &quot;Files&quot; tab to the conversation area to browse the current session workspace directory tree and manage it in place (upload, download, mkdir, rename, delete, search), with files mentionable into the composer for the agent to process.</summary>
-  </entry>
-  <entry>
-    <title>weibaohui/dsh-fde-tools</title>
-    <id>https://github.com/weibaohui/dsh-fde-tools</id>
-    <link href="https://github.com/weibaohui/dsh-fde-tools"/>
-    <updated>2026-09-14T00:00:00Z</updated>
-    <summary>FDE toolbox bundle: installing this one plugin pulls in a curated set of common dsh plugins (git server, WebDAV mount, knowledge base, scheduled tasks, auto-resume, UI tweaks, auto-retrospection, file manager, smart titles, task board, plugin market, context trimmer, IM bridge, sidebar enhancements), with a panel showing install status and one-click gap-filling.</summary>
-  </entry>
-  <entry>
-    <title>weibaohui/dsh-sync</title>
-    <id>https://github.com/weibaohui/dsh-sync</id>
-    <link href="https://github.com/weibaohui/dsh-sync"/>
-    <updated>2026-09-14T00:00:00Z</updated>
-    <summary>Multi-machine sync: keeps multiple dsh replicas consistent through one private GitCode repository - skills, sessions, settings and plugin manifests each with an independent switch; changes go through branch, PR and merge, remote-only additions are pulled back before every push so nothing is deleted, and an AI smart-align step semantically merges files both sides changed (plus one-click conflict resolution); private repos enforced, pull never overwrites local edits.</summary>
-  </entry>
-  <entry>
-    <title>PerryLink/dsh-data-quality</title>
-    <id>https://github.com/PerryLink/dsh-data-quality</id>
-    <link href="https://github.com/PerryLink/dsh-data-quality"/>
-    <updated>2026-09-13T00:00:00Z</updated>
-    <summary>Deterministic data profiling, cleaning, and verification: a ctx.dataQuality capability seam with three model tools and a frozen cross-plugin citation-checking contract — all computation in TypeScript, the model never does the math.</summary>
-  </entry>
-  <entry>
-    <title>PerryLink/dsh-fund-research</title>
-    <id>https://github.com/PerryLink/dsh-fund-research</id>
-    <link href="https://github.com/PerryLink/dsh-fund-research"/>
-    <updated>2026-09-13T00:00:00Z</updated>
-    <summary>Deterministic research reports for Chinese public mutual funds: every key number traces back to a hashed source snapshot — gaps declared, never invented; research only, not investment advice.</summary>
   </entry>
 </feed>

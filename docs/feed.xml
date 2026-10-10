@@ -27,6 +27,13 @@
     <summary>执行迷宫：把一场会话的主干路径、折返与失败支路画在同一根时间轴上，配逐步数据轨道（工具、Token、上下文压力）、确定性分析（结果与证据、行为信号）与最多五场会话的对比；能读会话日志，也能在会话页签里实时渲染。</summary>
   </entry>
   <entry>
+    <title>Neo65536-engineer/dsh-agent-log</title>
+    <id>https://github.com/Neo65536-engineer/dsh-agent-log</id>
+    <link href="https://github.com/Neo65536-engineer/dsh-agent-log"/>
+    <updated>2026-10-10T00:00:00Z</updated>
+    <summary>从会话日志只读还原的工作报告：用了哪些工具、读写哪些文件、跑了哪些命令、测试结果与失败原因、Token 消耗，以及任务最终是否完成。</summary>
+  </entry>
+  <entry>
     <title>fengchang618gmail/dsh-course-subtitles</title>
     <id>https://github.com/fengchang618gmail/dsh-course-subtitles</id>
     <link href="https://github.com/fengchang618gmail/dsh-course-subtitles"/>
@@ -139,6 +146,34 @@
     <summary>烟花庆祝引擎：agent 编程时漂浮在对话窗口上空放烟花——开场迎宾、回合礼花、工具星花、里程碑大礼、收工终场、失败哑炮，每类事件一张烟花属性卡组，组内多变种随机抽取，token 用量决定烟花的大小、高度与绚烂程度。</summary>
   </entry>
   <entry>
+    <title>weibaohui/dsh-gaokao</title>
+    <id>https://github.com/weibaohui/dsh-gaokao</id>
+    <link href="https://github.com/weibaohui/dsh-gaokao"/>
+    <updated>2026-10-10T00:00:00Z</updated>
+    <summary>梦回高三：桌面小黑板高考倒计时（双击收成竖条），AI 干活时随机抽背知识点卡；Markdown 开放知识卡框架——按学科/分类放 md 即自动加载，支持关联跳转/收藏/重点学科/导入自己的知识库。</summary>
+  </entry>
+  <entry>
+    <title>weibaohui/dsh-kite</title>
+    <id>https://github.com/weibaohui/dsh-kite</id>
+    <link href="https://github.com/weibaohui/dsh-kite"/>
+    <updated>2026-10-10T00:00:00Z</updated>
+    <summary>放风筝引擎：agent 编程时屏幕上放一只动画风筝——token 越多事件越密风筝飞得越高，随风漂移摆动，一根线牵在窗口底边；潍坊系框架卡组（沙燕/金鱼/蝴蝶/八卦/龙头等，硬翅软翅板式立体），形状×图案×配色全是可替换数据配置，支持把用户图片糊上风筝面、贴图随风筝姿态实时仿射变换。</summary>
+  </entry>
+  <entry>
+    <title>weibaohui/dsh-matrix</title>
+    <id>https://github.com/weibaohui/dsh-matrix</id>
+    <link href="https://github.com/weibaohui/dsh-matrix"/>
+    <updated>2026-10-10T00:00:00Z</updated>
+    <summary>黑客帝国数字雨：对话窗口铺上经典的绿色字符雨背景——雨柱倾泻而下、白炽雨头绿身拖尾，agent 正在生成的 token 原文实时掺进雨里；透明度/速度/密度/字号/配色全部可调，雨势跟随 agent 活跃度起伏。</summary>
+  </entry>
+  <entry>
+    <title>PerryLink/dsh-laya</title>
+    <id>https://github.com/PerryLink/dsh-laya</id>
+    <link href="https://github.com/PerryLink/dsh-laya"/>
+    <updated>2026-09-22T00:00:00Z</updated>
+    <summary>Laya 的有类型决策（noul 是/否、choice、score）作为一等 Cordis 服务与 laya_ask、laya_plan 两个模型可见工具；插件自身不安装也不下载任何东西，由你自行启动的 laya-mcp serve 边车提供模型。</summary>
+  </entry>
+  <entry>
     <title>lcestou/dsh-oh-my-claude</title>
     <id>https://github.com/lcestou/dsh-oh-my-claude</id>
     <link href="https://github.com/lcestou/dsh-oh-my-claude"/>
@@ -179,40 +214,5 @@
     <link href="https://github.com/weibaohui/dsh-kb"/>
     <updated>2026-09-14T00:00:00Z</updated>
     <summary>团队知识库：离线知识共享（FDE 盒子场景），浏览/全文检索/加工入口；raw 入料自动入队、bot 会话串行蒸馏成文（Karpathy LLM Wiki 模式：raw 不可变 / 两步加工 / log 流水 / 月度 lint）。</summary>
-  </entry>
-  <entry>
-    <title>weibaohui/dsh-file-share</title>
-    <id>https://github.com/weibaohui/dsh-file-share</id>
-    <link href="https://github.com/weibaohui/dsh-file-share"/>
-    <updated>2026-09-14T00:00:00Z</updated>
-    <summary>会话工作区文件管理：在对话区加「文件」tab，浏览当前会话工作区的目录树并就地管理（上传/下载/新建文件夹/改名/删除/搜索），文件可 @ 进对话框给 agent 处理。</summary>
-  </entry>
-  <entry>
-    <title>weibaohui/dsh-fde-tools</title>
-    <id>https://github.com/weibaohui/dsh-fde-tools</id>
-    <link href="https://github.com/weibaohui/dsh-fde-tools"/>
-    <updated>2026-09-14T00:00:00Z</updated>
-    <summary>FDE 工具箱全家桶：安装一个插件带上一批常用 dsh 插件（代码仓库 / 挂载盘 / 知识库 / 定时任务 / 自动续跑 / 界面微调 / 自动复盘 / 文件管理 / 智能标题 / 任务看板 / 插件市场 / 上下文 / IM 接入 / 侧栏增强），面板看状态、一键补装。</summary>
-  </entry>
-  <entry>
-    <title>weibaohui/dsh-sync</title>
-    <id>https://github.com/weibaohui/dsh-sync</id>
-    <link href="https://github.com/weibaohui/dsh-sync"/>
-    <updated>2026-09-14T00:00:00Z</updated>
-    <summary>多机同步：让多台机器上的 dsh 通过一个私有 GitCode 仓库保持一致——技能、会话、设置、插件清单四类内容各有独立开关；变更走分支 → PR → 合并，推送前自动回填远端新增防误删，支持 AI 智能对齐（语义合并双方改动）与一键解决冲突；强制私有仓库，pull 不覆盖本地改动。</summary>
-  </entry>
-  <entry>
-    <title>PerryLink/dsh-data-quality</title>
-    <id>https://github.com/PerryLink/dsh-data-quality</id>
-    <link href="https://github.com/PerryLink/dsh-data-quality"/>
-    <updated>2026-09-13T00:00:00Z</updated>
-    <summary>确定性数据画像、清洗与核验：ctx.dataQuality 能力接缝提供三个模型工具与跨插件引文核验冻结契约——全部计算由 TypeScript 完成，模型不碰算术。</summary>
-  </entry>
-  <entry>
-    <title>PerryLink/dsh-fund-research</title>
-    <id>https://github.com/PerryLink/dsh-fund-research</id>
-    <link href="https://github.com/PerryLink/dsh-fund-research"/>
-    <updated>2026-09-13T00:00:00Z</updated>
-    <summary>中国公募基金确定性研究报告：每个关键数字都回溯到哈希封存的数据快照——缺口如实声明、绝不编造；仅供研究，不构成投资建议。</summary>
   </entry>
 </feed>

@@ -3,7 +3,7 @@
  "url": "https://beancookie.github.io/awesome-dsh-plugin",
  "source": "https://github.com/beancookie/awesome-dsh-plugin",
  "updated": "2026-10-10",
- "count": 499,
+ "count": 504,
  "categories": {
   "ui": {
    "zh": "UI 增强",
@@ -1942,6 +1942,21 @@
    "added": "2026-08-13"
   },
   {
+   "name": "dsh-agent-log",
+   "owner": "Neo65536-engineer",
+   "url": "https://github.com/Neo65536-engineer/dsh-agent-log",
+   "category": "session",
+   "description": {
+    "zh": "从会话日志只读还原的工作报告：用了哪些工具、读写哪些文件、跑了哪些命令、测试结果与失败原因、Token 消耗，以及任务最终是否完成。",
+    "en": "Read-only work report rebuilt from session logs: tools used, files read and written, commands run, test results and failures, token usage, and whether the task finished."
+   },
+   "npm": null,
+   "stars": null,
+   "createdAt": null,
+   "install": "dsh plugin --profile web add github:Neo65536-engineer/dsh-agent-log",
+   "added": "2026-10-10"
+  },
+  {
    "name": "dsh-chat-import",
    "owner": "Nwflower",
    "url": "https://github.com/Nwflower/dsh-chat-import",
@@ -2127,8 +2142,8 @@
    "url": "https://github.com/Breeze136/dsh-kb-rag",
    "category": "memory",
    "description": {
-    "zh": "本地文献知识库 RAG：8 个工具（PDF/文件夹/Zotero 入库、BM25+向量+重排混合检索、DOI 可点击溯源问答、范围/严格模式、去重/清空/统计），全本地 bge 嵌入 + 单文件 SQLite，实测 242 篇 86s 入库、2 万块亚秒热查询。",
-    "en": "Local literature knowledge-base RAG: 8 tools (PDF/folder/Zotero ingest, hybrid BM25+vector+reranker search, cited QA with clickable DOI links, scope/strict modes, dedup/clear/stats), all-local bge embeddings + single-file SQLite, measured 242-doc/86s ingest and sub-second hot queries on 20k chunks."
+    "zh": "本地文献知识库 RAG：10 个工具（PDF/文件夹/Zotero 入库、BM25+向量+重排混合检索、DOI 可点击溯源问答、范围/严格模式、去重/清空/统计、DOI 补库、后台任务进度），全本地 bge 嵌入 + 单文件 SQLite，实测 242 篇 86s 入库、2 万块亚秒热查询。",
+    "en": "Local literature knowledge-base RAG: 10 tools (PDF/folder/Zotero ingest, hybrid BM25+vector+reranker search, cited QA with clickable DOI links, scope/strict modes, dedup/clear/stats, DOI fetch, background-job status), all-local bge embeddings + single-file SQLite, measured 242-doc/86s ingest and sub-second hot queries on 20k chunks."
    },
    "npm": "dsh-kb-rag",
    "stars": 14,
@@ -4070,6 +4085,21 @@
    "createdAt": "2026-08-19",
    "install": "dsh plugin --profile web add dsh-industry-research",
    "added": "2026-09-13"
+  },
+  {
+   "name": "dsh-laya",
+   "owner": "PerryLink",
+   "url": "https://github.com/PerryLink/dsh-laya",
+   "category": "tools",
+   "description": {
+    "zh": "Laya 的有类型决策（noul 是/否、choice、score）作为一等 Cordis 服务与 laya_ask、laya_plan 两个模型可见工具；插件自身不安装也不下载任何东西，由你自行启动的 laya-mcp serve 边车提供模型。",
+    "en": "Laya typed decisions (noul yes/no, choice, score) as a first-class Cordis service plus the laya_ask and laya_plan tools; a client of a self-started laya-mcp sidecar, so it installs nothing itself."
+   },
+   "npm": null,
+   "stars": null,
+   "createdAt": null,
+   "install": "dsh plugin --profile web add github:PerryLink/dsh-laya",
+   "added": "2026-09-22"
   },
   {
    "name": "dsh-plugin-guide",
@@ -7519,6 +7549,51 @@
    "stars": 1,
    "createdAt": "2026-09-25",
    "install": "dsh plugin --profile web add @weibaohui/dsh-fireworks",
+   "added": "2026-10-10"
+  },
+  {
+   "name": "dsh-gaokao",
+   "owner": "weibaohui",
+   "url": "https://github.com/weibaohui/dsh-gaokao",
+   "category": "fun",
+   "description": {
+    "zh": "梦回高三：桌面小黑板高考倒计时（双击收成竖条），AI 干活时随机抽背知识点卡；Markdown 开放知识卡框架——按学科/分类放 md 即自动加载，支持关联跳转/收藏/重点学科/导入自己的知识库。",
+    "en": "Gaokao countdown blackboard: desktop blackboard widget counting down days to the gaokao (double-click to collapse into a slim bar), with random knowledge-card quizzes while the agent works; open Markdown knowledge-card framework, drop .md files under subject/category folders to auto-load, with cross-links, favorites, priority subjects and importing your own knowledge base."
+   },
+   "npm": null,
+   "stars": null,
+   "createdAt": null,
+   "install": "dsh plugin --profile web add github:weibaohui/dsh-gaokao",
+   "added": "2026-10-10"
+  },
+  {
+   "name": "dsh-kite",
+   "owner": "weibaohui",
+   "url": "https://github.com/weibaohui/dsh-kite",
+   "category": "fun",
+   "description": {
+    "zh": "放风筝引擎：agent 编程时屏幕上放一只动画风筝——token 越多事件越密风筝飞得越高，随风漂移摆动，一根线牵在窗口底边；潍坊系框架卡组（沙燕/金鱼/蝴蝶/八卦/龙头等，硬翅软翅板式立体），形状×图案×配色全是可替换数据配置，支持把用户图片糊上风筝面、贴图随风筝姿态实时仿射变换。",
+    "en": "Kite-flying engine: while the agent codes, an animated kite drifts and sways in the wind on screen, tethered to the bottom edge of the window — the busier the agent, the denser the events and the higher it flies; ships a Weifang-style framework card deck (sand-swallow, goldfish, butterfly, bagua, dragon-head and more, hard-wing / soft-wing / flat / dimensional frames), with shape x pattern x colors all swappable data configs, and supports pasting user images onto the kite face with real-time affine transforms as the kite banks."
+   },
+   "npm": null,
+   "stars": null,
+   "createdAt": null,
+   "install": "dsh plugin --profile web add github:weibaohui/dsh-kite",
+   "added": "2026-10-10"
+  },
+  {
+   "name": "dsh-matrix",
+   "owner": "weibaohui",
+   "url": "https://github.com/weibaohui/dsh-matrix",
+   "category": "fun",
+   "description": {
+    "zh": "黑客帝国数字雨：对话窗口铺上经典的绿色字符雨背景——雨柱倾泻而下、白炽雨头绿身拖尾，agent 正在生成的 token 原文实时掺进雨里；透明度/速度/密度/字号/配色全部可调，雨势跟随 agent 活跃度起伏。",
+    "en": "Matrix digital rain: drapes the chat window in the classic green character rain — cascading columns with incandescent white heads and green tails, streaming the tokens the agent is generating into the rain in real time; opacity, speed, density, font size and colors are all adjustable, and rain intensity follows agent activity."
+   },
+   "npm": null,
+   "stars": null,
+   "createdAt": null,
+   "install": "dsh plugin --profile web add github:weibaohui/dsh-matrix",
    "added": "2026-10-10"
   },
   {
