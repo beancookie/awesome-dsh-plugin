@@ -319,6 +319,7 @@ DeepSeek Harness 是 DeepSeek 开源的 agent harness——既是可直接运行
 - [moon09300731/dsh-approval-gate](https://github.com/moon09300731/dsh-approval-gate) — 自动审批门控：Flash 预判写入/命令是否不可回补，安全操作自动批准、危险操作转人工（fail-safe）。
 - [moon09300731/dsh-vision-tools](https://github.com/moon09300731/dsh-vision-tools) — DeepSeek Harness 视觉能力全家桶：vision_understand 工具（OpenAI 兼容视觉 API，默认免费智谱 GLM-4V-Flash）+ 粘贴/拖拽/按钮三入口识图。
 - [Nicholaskin/vision-exp-tile](https://github.com/Nicholaskin/vision-exp-tile) — 面向视觉大模型的大图智能识图：800×800 无损切块识别（smart/pipeline/full 三策略）+ 本地 OCR（自动反色/二值化/手写分流）+ 可选多厂商 GPU 加速（DirectML 覆盖 NVIDIA/AMD/Intel，CUDA/OpenVINO），失败自动回退 CPU；MIT 开源（111 项单元测试）。
+- [Noob-stupid/dsh-breadboard](https://github.com/Noob-stupid/dsh-breadboard) — DSH 嵌入式硬件沙盒：在 3D 面包板里摆 ESP32 / BME280 / PIR / LED 等器件、按协议与电压校验接线，再让真实 Python 项目代码在环运行（经 Python shim 读虚拟 I2C/GPIO 的寄存器级读数），支持断线 / NACK / busy / 强制读数等故障注入以验证异常处理；另有第二类虚拟硬件——联网设备，按墙钟向真实 HTTP 后端周期上报。随插件注册 13 个 hw_* 工具与一份 SKILL.md。
 - [nousag/dsh-writing-desk](https://github.com/nousag/dsh-writing-desk) — 本地优先写作工作台：书籍/卷/章管理、正文编辑、笔记资料调用、字数统计与导出。
 - [nvbb/dsh-ollama-vision-bridge](https://github.com/nvbb/dsh-ollama-vision-bridge) — 聊天选中纯文本模型时，自动用本地 Ollama VL 模型（qwen3-vl:8b）描述附图并注入同一模型步骤：本地视觉、显存冷却、无需云端（DSH ≥ 0.1.2-rc.1）。
 - [omdsh-dev/dsh-custom-tool](https://github.com/omdsh-dev/dsh-custom-tool) — 用 Monaco 编辑器创建和管理沙箱化的自定义 JavaScript 工具。
