@@ -203,6 +203,8 @@ DeepSeek Harness is DeepSeek's open-source agent harness — a runnable coding a
 - [Wine-Red/dsh-prompt-stash](https://github.com/Wine-Red/dsh-prompt-stash) - Local, per-session LIFO prompt stash for temporarily setting aside unfinished composer text and safely restoring it later.
 - [yindf/taskfold](https://github.com/yindf/taskfold) - Wraps work in named tasks and folds each finished task's whole span of messages into one summary at the next step boundary, with the original messages restorable on demand.
 - [yuezengwu/dsh-explain](https://github.com/yuezengwu/dsh-explain) - Local-first learning mode: cross-session learning threads with per-source explanations.
+- [weibaohui/dsh-favorites](https://github.com/weibaohui/dsh-favorites) - Session favorites: bookmark any conversation into a browser-style favorites panel — one-click star from session rows, folders for organization, notes, custom display names, resume session, fork into a new session, basic session stats, plus a fork-relationship graph showing how conversations derive from one another.
+
 
 ### Memory
 - [Bionic-forest/dsh-memory_rollout](https://github.com/Bionic-forest/dsh-memory_rollout) - Codex-style per-session memory for DSH: one session one draft (rollout_summaries), layered disclosure (summary → registry → drafts/evidence), restrained & passive, idempotent integration, remembers facts/preferences/decisions across sessions with verifiable citations, npm package `dsh-memory_rollout`.
