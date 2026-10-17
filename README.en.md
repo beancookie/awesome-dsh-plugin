@@ -32,7 +32,7 @@ DeepSeek Harness is DeepSeek's open-source agent harness — a runnable coding a
 
 </details>
 
-**504** plugins · [PRs welcome](#contributing)
+**505** plugins · [PRs welcome](#contributing)
 
 ## Contents
 
@@ -300,6 +300,7 @@ DeepSeek Harness is DeepSeek's open-source agent harness — a runnable coding a
 - [liustack/modlens](https://github.com/liustack/modlens) - Vision bridge for text-only models: paste an image, get structured JSON evidence (OCR, layout, semantics).
 - [liustack/modsearch](https://github.com/liustack/modsearch) - Web search bridge for text-only agents: ask the web or X, get structured JSON evidence (search, fetch, citations).
 - [liznee/dsh-file-resource](https://github.com/liznee/dsh-file-resource) - Local file input: images use the native path, while PDF/Office/EPUB/text are parsed locally into session-scoped resources, with a restricted read tool, @filename references, and a right-side split preview.
+- [lkdx0220/dsh-ai-code-quality](https://github.com/lkdx0220/dsh-ai-code-quality) - Typed `cq_*` tools for DSH that orchestrate Python code-quality scans, baseline comparison, quality gates, and auditable reports.
 - [lonelymoon87/dsh-code-intel](https://github.com/lonelymoon87/dsh-code-intel) - Indexes workspace symbols with Tree-sitter and provides lexical or optional embedding-assisted code search.
 - [lsjspl/dsh-plugin-grok2api-media-tool](https://github.com/lsjspl/dsh-plugin-grok2api-media-tool) - Gives dsh the ability to generate images and videos through the grok2api API.
 - [Luke-Yong/dsh-plugin-knowledge-graph](https://github.com/Luke-Yong/dsh-plugin-knowledge-graph) - A read_graph tool backed by a codebase knowledge graph (CONTAINS / EXPORTS / IMPORTS / IMPORTS_SYMBOL relations).
