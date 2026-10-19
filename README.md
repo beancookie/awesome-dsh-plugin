@@ -218,6 +218,7 @@ DeepSeek Harness 是 DeepSeek 开源的 agent harness——既是可直接运行
 - [imkelt/DSH-RAG](https://github.com/imkelt/DSH-RAG) — DSH Web 本地知识库：支持多目录增量索引、BM25 与 SiliconFlow 混合检索，并在会话中展示可定位、可打开的来源。
 - [Jesse-njx/dsh-memory](https://github.com/Jesse-njx/dsh-memory) — 基于 DSH 无损会话日志的引用式记忆：蒸馏出的事实带 `(sessionId, eventRange)` 引用，可随时展开回原始日志片段。
 - [lcthe/dsh-hermes-memory](https://github.com/lcthe/dsh-hermes-memory) — 面向 DSH 的原生持久记忆插件：会话检索、常驻上下文、崩溃安全合并和本地技能存储。
+- [lo2589/knowledge_database](https://github.com/lo2589/knowledge_database) — 在对话里点一句就成为右栏知识树里的一张卡；Ctrl 拖框把多句合成一张卡，每张卡都能跳回原句，整棵树可导出 Markdown、Mermaid、JSON、PDF。需先按仓库说明跑 `setup.sh`（Python 3.11 + FastNode）。
 - [LoserFox/distill](https://github.com/LoserFox/distill) — 自动对话蒸馏：后台 subagent 反省 + 技能 create/update。
 - [modusensus/dsh-mneme](https://github.com/modusensus/dsh-mneme) — 跨会话记忆：SQLite + 可人工编辑的 Markdown 镜像，后台自动巩固（去重/合并/冲突裁决），提供 6 个记忆工具。
 - [nowledge-co/nowledge-mem-deepseek-harness](https://github.com/nowledge-co/nowledge-mem-deepseek-harness) — 给所有 AI 工具和 Agent 共用的一层记忆：注入 Context Bundle、提示时检索、MCP 工具与回合结束 DSH 线程捕获。
@@ -472,6 +473,7 @@ DeepSeek Harness 是 DeepSeek 开源的 agent harness——既是可直接运行
 - [model-catalog](https://github.com/JohnXu22786/model-catalog) — 模型目录自动发现：从 OpenAI 兼容主机获取模型列表、价格与能力，归一化为即用配置。
 - [kam74515-boop/dsh-everything-oauth](https://github.com/kam74515-boop/dsh-everything-oauth) — 把本机 Codex / Grok / Claude / OpenCode / CC Switch 登录态导入 DSH，在设置里自选来源并启用模型。
 - [lcestou/dsh-oh-my-claude](https://github.com/lcestou/dsh-oh-my-claude) — 把已登录的 Claude Code CLI 作为 dsh 的模型提供商：实时模型列表、按会话恢复、审批中转、图片、记忆/回退/变更面板，以及远程 SSH 主机上的工作区。
+- [lo2589/deepseek-harness-media](https://github.com/lo2589/deepseek-harness-media) — DSH 网页版输入框旁的一排按钮：不改 YAML 切换模型提供方（GLM、MiniMax、OpenAI、Claude、本地 Ollama），截图，上传图片/SVG/文本文件，把图片交给视觉模型读，另有会话媒体面板和历史搜索。
 - [omdsh-dev/Qwen-MM-Plugins](https://github.com/omdsh-dev/Qwen-MM-Plugins) — Qwen 多模态插件支持。
 - [PerryLink/dsh-autotier](https://github.com/PerryLink/dsh-autotier) — 自动模型档位路由：一条用户指令进入、一个档位决策出来——复杂意图由强档规划、廉价档执行，确定性护栏 + TTL 升级回退。
 - [suntianc/dsh-codex-auth](https://github.com/suntianc/dsh-codex-auth) — 复用 Codex CLI 的 ChatGPT 登录态注册 `openai-codex` LLM 路由，并在 DSH Web 设置中提供 GPT Auth 控件。
