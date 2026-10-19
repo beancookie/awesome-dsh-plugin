@@ -146,6 +146,8 @@ DeepSeek Harness 是 DeepSeek 开源的 agent harness——既是可直接运行
 - [WFMinerva/dsh-turn-cost](https://github.com/WFMinerva/dsh-turn-cost) — 每条 AI 回复下方显示该轮真实花费：人民币、官方峰谷价、缓存读占比；纯本地读会话日志，零上报零密钥。
 - [wsxwj123/dsh-plugins#turn-scrubber](https://github.com/wsxwj123/dsh-plugins/tree/main/packages/turn-scrubber) — 右侧紧凑回合刻度条，悬停显示回合摘要，点击跳转到对应用户回合。
 - [xiaogu619520/dsh-plugin-task-panel](https://github.com/xiaogu619520/dsh-plugin-task-panel) — 任务摘要与上下文用量监控浮动面板（待办事项跟踪、文件与系统 Token 占用统计、8向缩放与快捷键）。
+- [ydlly224/dsh-ui-taskcards](https://github.com/ydlly224/dsh-ui-taskcards) — 待办任务右侧栏标签页：把会话 todos 转成可执行/定时/顺序执行的任务卡，支持编辑、排序与历史归档。
+- [ydlly224/dsh-ui-taskpanel](https://github.com/ydlly224/dsh-ui-taskpanel) — 任务面板右侧栏标签页：待办进度、子代理状态（模型、tokens、轮次、上下文）与后台任务（进度与两段式终止）一览。
 - [YEYEYEYESHIFU/dsh-result-only-view](https://github.com/YEYEYEYESHIFU/dsh-result-only-view) - 「只看结果」开关：折叠思考与工具调用过程行，对话只留用户消息与最终回复；运行中显示实时摘要芯片，回合后可点击痕迹行展开过程（支持悬停预览与自动/手动折叠）。
 - [YEYEYEYESHIFU/dsh-session-hotkeys](https://github.com/YEYEYEYESHIFU/dsh-session-hotkeys) — 会话热键管理：像切浏览器标签页一样用键盘切换会话——Alt+1-9 顺序切换、固定槽位、上/下一个、新建/归档/重命名、键盘模型切换与备用发送，键位可在面板录制重绑，Windows/macOS 双预设。
 - [YEYEYEYESHIFU/dsh-split-screen](https://github.com/YEYEYEYESHIFU/dsh-split-screen) — 分屏工作区：多个会话并排聊天，面板观感与原生对话完全一致，Alt+T 切换 TUI 输入模式，Alt+Shift+方向键切换面板焦点。
