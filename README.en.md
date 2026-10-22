@@ -173,6 +173,7 @@ DeepSeek Harness is DeepSeek's open-source agent harness — a runnable coding a
 - [Small-tailqwq/dsh-deep-whale](https://github.com/Small-tailqwq/dsh-deep-whale) - Whale-girl skin series for the DSH Web UI (maid-atelier).
 - [wsxwj123/dsh-plugins#theme-gallery](https://github.com/wsxwj123/dsh-plugins/tree/main/packages/theme-gallery) - Fifteen curated theme families with complete light and dark palettes that follow the native Light, Dark, and Follow system modes.
 - [xiaoyanzi191/dsh-premium-themes](https://github.com/xiaoyanzi191/dsh-premium-themes) - 8 curated color schemes plus custom palette import (name + scheme + seed colors derive a full token map), a Palette row in General settings, hot-plug install.
+- [Yoimiya-Lover-0621-01/himeko-starry-night](https://github.com/Yoimiya-Lover-0621-01/himeko-starry-night) - A dark theme for the DSH Web UI with a star-nebula wallpaper, a Monet-derived palette, liquid-glass surfaces, a themed boot screen, and a dark-mode lock.
 - [zhtx2024/dsh-skin-switcher](https://github.com/zhtx2024/dsh-skin-switcher) - Adds a Skins page to Settings that auto-discovers installed skins for one-click switching, with one-click restore to the official default look.
 
 ### Sessions & Messages
