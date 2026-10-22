@@ -203,6 +203,7 @@ DeepSeek Harness 是 DeepSeek 开源的 agent harness——既是可直接运行
 - [Wine-Red/dsh-prompt-stash](https://github.com/Wine-Red/dsh-prompt-stash) — 本地、按会话隔离的 LIFO 输入暂存：临时收起未完成的输入，之后安全恢复并继续编辑。
 - [yindf/taskfold](https://github.com/yindf/taskfold) — 用命名任务包住工作过程；任务结束后在下一个步骤边界把整段消息折叠成一段摘要，原文可随时还原。
 - [yuezengwu/dsh-explain](https://github.com/yuezengwu/dsh-explain) — 本地优先学习模式：跨会话全局学习线程、按来源讲解。
+- [YunongDai2005/dsh-theone](https://github.com/YunongDai2005/dsh-theone) — 只开一个主聊天：每条消息自动分到所属话题，在该话题自己的会话和项目文件夹里继续；分错可一键换话题，也可撤销。
 
 ### 🧠 记忆
 - [Bionic-forest/dsh-memory_rollout](https://github.com/Bionic-forest/dsh-memory_rollout) — Codex 风格的 DSH 会话持久记忆：一会话一草稿（rollout_summaries）、分层披露（summary→注册表→草稿/证据）、克制被动、幂等整合，跨会话记住事实/偏好/决策并带可核验引用，npm 包名 `dsh-memory_rollout`。
