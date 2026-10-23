@@ -162,6 +162,7 @@ DeepSeek Harness 是 DeepSeek 开源的 agent harness——既是可直接运行
 - [Braidy-Wu/dsh-conversation-minimap](https://github.com/Braidy-Wu/dsh-conversation-minimap) — DSH Web GUI 对话迷你地图（复刻 ChatGPT 桌面端）：每轮 Prompt 一个等距胶囊锚点，鱼眼钟形悬停放大 + 完整 Prompt 预览，顶部/底部渐隐，蓝色高亮跟随当前 Prompt，点击跳转对应消息，自动拉取完整历史。
 - [ink5897/dsh-theme-kit](https://github.com/ink5897/dsh-theme-kit) — 32 款预设主题（莫兰迪 / 马卡龙 / 中国传统色）、动态与静态壁纸、纸纹纹理、分区透明度与文字深浅，附按键桌宠。
 - [dsh-custom-theme-import](https://github.com/Juryorca/dsh-custom-theme-import) — DSH Web 自定义主题导入插件：支持本地路径/GitHub 集合一键导入、主题预览与实时刷新、托管主题库；格式轻量，作者可直接改 CSS/DOM 文件热加载，适合个人主题开发与分享。
+- [jryang1997/dsh-ascii-whales](https://github.com/jryang1997/dsh-ascii-whales) — 海面正上方俯视的对话背景，支持用自定义文字或 ASCII 组成五种鲸类，含彩色字格、内容框毛玻璃、输入框避让、独立下潜、喷水、尾拍涟漪、风纹与云影。
 - [KinGao294/dsh-skin](https://github.com/KinGao294/dsh-skin) — Codex 风格皮肤切换器 + 自定义壁纸层，可调透明度与模糊。
 - [lffrom0303/dsh-window98-theme](https://github.com/lffrom0303/dsh-window98-theme) — DSH Web 客户端 Windows 98 复古皮肤：teal 桌面 + 银色面板、立体浮雕按钮、凹陷输入框、像素字体与棋盘格滚动条，浅色/深色双模式。
 - [Liu-ZA-81/dsh-theme-firefly](https://github.com/Liu-ZA-81/dsh-theme-firefly) — 崩坏：星穹铁道「流萤」主题：立绘/动态壁纸、萤火绿霓虹配色、开屏变身动画、萤火氛围粒子、背景音乐、打字音效与按对话触发的表情包彩蛋。
