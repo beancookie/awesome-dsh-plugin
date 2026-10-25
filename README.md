@@ -495,6 +495,7 @@ DeepSeek Harness 是 DeepSeek 开源的 agent harness——既是可直接运行
 - [DietCokewithSugar/dsh-user-experience](https://github.com/DietCokewithSugar/dsh-user-experience) — 帮你发现项目中可能存在的用户体验问题：自动走查 React/TypeScript 源码，定位问题并给出具体优化建议。
 - [disyli/dsh-tool-call-stats](https://github.com/disyli/dsh-tool-call-stats) — 进程内工具调用统计：提供 `tool_stats` 工具，按工具汇报调用次数、失败次数与平均耗时。
 - [DoggyHU/dsh4vscode](https://github.com/DoggyHU/dsh4vscode) — 基于 DSH agent 的 VS Code 聊天窗口，模型自动路由。
+- [EasonMWS/dsh-plugin-health](https://github.com/EasonMWS/dsh-plugin-health) — DSH 插件升级前兼容体检：一条命令对比多个宿主版本，标出会被判不兼容的插件和精确锁死的 peer；附带官方 format-1 索引、PR 自动兼容矩阵 Action 与 Windows/WSL 诊断。
 - [EvilIrving/dsh-repro](https://github.com/EvilIrving/dsh-repro) — /repro 导出最小可复现问题包：去 secret 的会话日志、失败命令与 git diff。
 - [fakechris/dsh-harness-ops](https://github.com/fakechris/dsh-harness-ops) — DSH 自愈运维工具箱：官方每日快照 A/B 双槽轮换（验收通过才原子切换、一键回滚）、10s 守护自动拉起 web 并续接被打断的回合、web/agent 全挂时终端 dsh-doctor 一键诊断修复拉起。
 - [foolgry/dsh-desktop](https://github.com/foolgry/dsh-desktop) — 开箱即用的 Electron 桌面版，自动跟随上游发版。
