@@ -461,6 +461,7 @@ DeepSeek Harness 是 DeepSeek 开源的 agent harness——既是可直接运行
 - [PerryLink/dsh-reach](https://github.com/PerryLink/dsh-reach) — 多渠道决策与遥控桥：把 DSH 的审批与提问卡片推送到 IM 渠道（微信 iLink、Telegram、飞书）并在聊天内作答，附会话控制台、按渠道安全策略与开放推送服务。
 - [PerryLink/dsh-ticktick](https://github.com/PerryLink/dsh-ticktick) — TickTick / Dida365（滴答清单）任务桥：会话头部任务面板（列表筛选、快速添加、完成、删除、截止日期、拖拽排序）、11 个精选 agent 工具、插件设置卡片与类型化 Remote 服务，全部走官方 TickTick MCP 端点。
 - [dsh-feishu](https://github.com/PGZXB/dsh-feishu) — DeepSeek Harness 的飞书 UI：面板驱动控制台，卡内审批与提问，流式卡片，扫码一键配置。
+- [radres/dsh-plugin-call-me](https://github.com/radres/dsh-plugin-call-me) — 当运行需要回答时，通过 /call-me 应用给用户的 iPhone 打电话：Agent 的提问被朗读出来，口头回答以文字形式回到运行中；该应用为付费订阅。
 - [SeverusZh/dsh-notify-windows](https://github.com/SeverusZh/dsh-notify-windows) — Windows 通知，零依赖。
 
 ### 🔌 模型与账号接入
