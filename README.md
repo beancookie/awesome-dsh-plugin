@@ -476,6 +476,7 @@ DeepSeek Harness 是 DeepSeek 开源的 agent harness——既是可直接运行
 - [PerryLink/dsh-autotier](https://github.com/PerryLink/dsh-autotier) — 自动模型档位路由：一条用户指令进入、一个档位决策出来——复杂意图由强档规划、廉价档执行，确定性护栏 + TTL 升级回退。
 - [suntianc/dsh-codex-auth](https://github.com/suntianc/dsh-codex-auth) — 复用 Codex CLI 的 ChatGPT 登录态注册 `openai-codex` LLM 路由，并在 DSH Web 设置中提供 GPT Auth 控件。
 - [tianxia--/dsh-llm-local-token](https://github.com/tianxia--/dsh-llm-local-token) — 复用本机 Codex CLI 与 Claude Code 的 OAuth 凭据注册 OpenAI Codex 和 Anthropic 模型路由，并在 Web 中显示订阅用量。
+- [star-Cosmo/dsh-model-tidy](https://github.com/star-Cosmo/dsh-model-tidy) — 模型整理：隐藏用不到的模型、给模型和渠道改备注名（保留厂商计费倍率）、用箭头调整排序，含搜索、渠道批量开关与返回顶部。
 
 ### 🧑‍💻 开发与运行时
 - [030611/dsh-telemetry-redactor](https://github.com/030611/dsh-telemetry-redactor) — 在已配置遥测后端接收前，对 `session-telemetry/record` 导出副本中的已支持秘密模式进行脱敏。
