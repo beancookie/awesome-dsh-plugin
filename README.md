@@ -112,6 +112,7 @@ DeepSeek Harness 是 DeepSeek 开源的 agent harness——既是可直接运行
 - [dsh-plugin-hub](https://github.com/Noob-stupid/dsh-plugin-hub) — DSH 插件管理面板：一键启停 + 多源市场（GitHub/Gitee/自定义）+ 静态索引市场（500+ 插件 / 300 技能）+ 技能安装/停用 + 套装一键装配 + 框架升级适配。
 - [omdsh-dev/dsh-annotation](https://github.com/omdsh-dev/dsh-annotation) — 选中文字→批注→随消息发送，回复按批注逐条对照。
 - [omdsh-dev/dsh-at-file](https://github.com/omdsh-dev/dsh-at-file) — Codex 风格的 `@file` 文件引用，输入框里直接搜索并引用工作区文件。
+- [jameswatt139240-crypto/dsh-ATLAS](https://github.com/jameswatt139240-crypto/dsh-ATLAS) — 在 DSH 输入框里用 @ 引用文件（支持行区间 @src/a.ts:12-40）、Skill、插件和任意 git 仓库，并在发送前显示每条引用要花多少 token。
 - [omdsh-dev/DSH-better-sidebar](https://github.com/omdsh-dev/DSH-better-sidebar) — 侧边栏完整工作台：内置文件渲染编辑、终端、Git 与子代理，支持三方插件注册新 Tab。
 - [omdsh-dev/dsh-genui](https://github.com/omdsh-dev/dsh-genui) — 助手回复内渲染交互式 UI 组件：布局、图表、表单、测验、mermaid、3D 场景与回传事件循环。
 - [omdsh-dev/ex-setting](https://github.com/omdsh-dev/ex-setting) — DSH 的设置扩展。
