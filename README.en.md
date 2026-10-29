@@ -32,7 +32,7 @@ DeepSeek Harness is DeepSeek's open-source agent harness — a runnable coding a
 
 </details>
 
-**504** plugins · [PRs welcome](#contributing)
+**505** plugins · [PRs welcome](#contributing)
 
 ## Contents
 
@@ -216,6 +216,7 @@ DeepSeek Harness is DeepSeek's open-source agent harness — a runnable coding a
 - [ICCuse/dsh-knowledge](https://github.com/ICCuse/dsh-knowledge) - Bridge into a global Markdown knowledge base shared with the Codex kb.cmd CLI: kb_add/kb_search/kb_show/kb_timeline tools with byte-compatible frontmatter.
 - [ICCuse/dsh-premise-guard](https://github.com/ICCuse/dsh-premise-guard) - Post-compaction premise-drift guard: injects a one-shot notice when a compaction summary drops a critical literal anchor.
 - [imkelt/DSH-RAG](https://github.com/imkelt/DSH-RAG) - Local knowledge bases for DSH Web with multi-directory incremental indexing, BM25 and SiliconFlow hybrid retrieval, and source cards that locate and open original files.
+- [InariNGT-Ofiicial/dsh-bili-humanism](https://github.com/InariNGT-Ofiicial/dsh-bili-humanism) - Read Bilibili subtitles and sampled frames, keep private journals and revisable personality reflections, and ask a grounded post-viewing question; account writes need separate authorization and comments remain unavailable.
 - [Jesse-njx/dsh-memory](https://github.com/Jesse-njx/dsh-memory) - Cited memory over DSH's lossless session log: distilled facts carry `(sessionId, eventRange)` citations that expand back to the exact original log excerpt.
 - [lcthe/dsh-hermes-memory](https://github.com/lcthe/dsh-hermes-memory) - DSH-native persistent memory: session-aware retrieval, standing context, crash-safe consolidation, and storage-backed skills.
 - [LoserFox/distill](https://github.com/LoserFox/distill) - Automatic conversation distillation: background subagent reflection + skill create/update.
