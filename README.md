@@ -105,6 +105,7 @@ DeepSeek Harness 是 DeepSeek 开源的 agent harness——既是可直接运行
 - [liznee/dsh-speech-input](https://github.com/liznee/dsh-speech-input) — 输入框原生麦克风按钮：语音写草稿、5 秒静音自动停止、胶囊听写 UI 与点击预览。中英文支持。
 - [lqhl/dsh-pi-tui](https://github.com/lqhl/dsh-pi-tui) — 差分渲染 TUI 前端：流式 Markdown 与工具卡片。
 - [Luaphes/dsh-web-attention-badge](https://github.com/Luaphes/dsh-web-attention-badge) — 会话需要你时三处同时亮起：角标、标签页标题计数、按状态换色的鲸鱼 favicon。
+- [LUgABeEEE/dsh-global-todo](https://github.com/LUgABeEEE/dsh-global-todo) — 侧边栏的全局跨会话待办清单：人和 Agent 读写同一份 JSON 文件，待办可带步骤与文档链接，一键交给某个对话继续，完成状态由人确认。
 - [Meredith2328/dsh-sticky-note](https://github.com/Meredith2328/dsh-sticky-note) — 编辑框工具栏便签，随手记点子和 TODO，自动保存为 Markdown，一键发送到对话。
 - [MysaDC/dsh-plugin-description](https://github.com/MysaDC/dsh-plugin-description) — 为 Web 设置页插件卡片补上中英文功能说明。
 - [Nagi-ovo/dsh-visualize](https://github.com/Nagi-ovo/dsh-visualize) — 对话内生成式 UI：模型把交互式 HTML 卡片直接画进会话流，带流式预览与沙箱渲染。
