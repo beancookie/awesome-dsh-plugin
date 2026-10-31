@@ -32,7 +32,7 @@ DeepSeek Harness is DeepSeek's open-source agent harness — a runnable coding a
 
 </details>
 
-**504** plugins · [PRs welcome](#contributing)
+**507** plugins · [PRs welcome](#contributing)
 
 ## Contents
 
@@ -337,12 +337,15 @@ DeepSeek Harness is DeepSeek's open-source agent harness — a runnable coding a
 - [omdsh-dev/dsh-toolkit](https://github.com/omdsh-dev/dsh-toolkit) - Zero-dependency toolkit: time / encoding / json / calculator / csv / regex / markdown / diff / stat / schema — ten deterministic tools in one install.
 - [PerryLink/dsh-background-agents](https://github.com/PerryLink/dsh-background-agents) - Resumable background subagents plus persistent multi-agent team rooms: a message bus, shared task boards, and approval-gated handoffs that survive restarts.
 - [PerryLink/dsh-data-quality](https://github.com/PerryLink/dsh-data-quality) - Deterministic data profiling, cleaning, and verification: a ctx.dataQuality capability seam with three model tools and a frozen cross-plugin citation-checking contract — all computation in TypeScript, the model never does the math.
+- [PerryLink/dsh-excel-reconcile](https://github.com/PerryLink/dsh-excel-reconcile) - Joins two spreadsheets on a declared key and compares declared fields within declared tolerances, producing a Markdown report, a JSON result and a diff workbook; it reports differences rather than adjudicating them.
 - [PerryLink/dsh-fund-research](https://github.com/PerryLink/dsh-fund-research) - Deterministic research reports for Chinese public mutual funds: every key number traces back to a hashed source snapshot — gaps declared, never invented; research only, not investment advice.
 - [PerryLink/dsh-industry-research](https://github.com/PerryLink/dsh-industry-research) - Industry and company research domain pack for DeepSeek Harness: chain maps, public-source tracking, company cards, and auditable reports — every number traces to a source, every gap is declared.
+- [PerryLink/dsh-invoice-ledger](https://github.com/PerryLink/dsh-invoice-ledger) - Checks an invoice ledger for duplicates keyed on code + number, arithmetic consistency, payer mismatch, date anomalies and template placeholders, and emits an anomaly list plus a workbook.
 - [PerryLink/dsh-laya](https://github.com/PerryLink/dsh-laya) - Laya typed decisions (noul yes/no, choice, score) as a first-class Cordis service plus the laya_ask and laya_plan tools; a client of a self-started laya-mcp sidecar, so it installs nothing itself.
 - [PerryLink/dsh-plugin-guide](https://github.com/PerryLink/dsh-plugin-guide) - A plugin-development knowledge base packaged as on-demand agent skills: official constraints, task workflows, API references, and community gotchas.
 - [PerryLink/dsh-research-report](https://github.com/PerryLink/dsh-research-report) - Verifiable research-report engine: every claim is bound to immutable evidence snapshots, verified byte-for-byte, and sealed into a versioned report whose manifest hash can be recomputed.
 - [PerryLink/dsh-skill-pack-security](https://github.com/PerryLink/dsh-skill-pack-security) - Security-audit skill pack plus a plugin_vet supply-chain gate: eight bilingual skills and an automated pre-install scanner.
+- [PerryLink/dsh-table-ingest](https://github.com/PerryLink/dsh-table-ingest) - Converts tables in .docx, .xlsx, .xlsm, .csv and .tsv files into the table JSON consumed by the rule checkers, and reports when it could not rather than guessing.
 - [phelpsyacht/dshmath-manim](https://github.com/phelpsyacht/dshmath-manim) - Manim CE based math animation plugin: 6 built-in templates (function/derivative/integral/geometry/polar/3D surface) plus a zero-code skill pack (math-animation / manim-codegen) - natural language to animated math videos, with AST static security validation.
 - [PicGo/dsh-plugin](https://github.com/PicGo/dsh-plugin) - Upload local images and files to your image host through PicGo's existing configuration (PicGo Cloud, GitHub, S3, COS, Qiniu, or any installed uploader plugin), via a `picgo_upload` tool and a `/picgo` command.
 - [PolinniZhong/dsh-omi-voice](https://github.com/PolinniZhong/dsh-omi-voice) - In-conversation read-aloud with Doubao-quality voices: every AI reply gets a 🔊 tap-to-read / auto-read toggle (off by default, state persisted), with voices synthesized by the local Omi engine (Doubao seed-tts); BYOK — keys stay in your local Keychain, the plugin stores none.
