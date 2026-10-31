@@ -1816,7 +1816,7 @@
     "en": "Rewind a conversation and its workspace together without touching Git; every rewind is a fork and /redo reverses it."
    },
    "npm": "dsh-filesnap",
-   "stars": 45,
+   "stars": 46,
    "createdAt": "2026-08-27",
    "install": "dsh plugin --profile web add dsh-filesnap",
    "added": "2026-09-06"
@@ -1906,7 +1906,7 @@
     "en": "Execution maze for DSH sessions: main path, detours and backtracks on one timeline with per-step data tracks (tools, tokens, context pressure), deterministic analysis (outcome evidence, behavior signals) and comparison of up to five sessions; reads session logs and renders live inside a session tab."
    },
    "npm": "dsh-maze",
-   "stars": 87,
+   "stars": 88,
    "createdAt": "2026-08-18",
    "install": "dsh plugin --profile web add dsh-maze",
    "added": "2026-10-10"
@@ -2161,7 +2161,7 @@
     "en": "Connects DSH agents to Busabase through MCP tools, approval-aware ChangeRequests, result cards, and a live record inspector."
    },
    "npm": "@busabase/dsh-plugin",
-   "stars": 7,
+   "stars": 9,
    "createdAt": "2026-09-02",
    "install": "dsh plugin --profile web add @busabase/dsh-plugin",
    "added": "2026-09-12"
@@ -3571,7 +3571,7 @@
     "en": "Integrates TypeSafe Jev for skill and file selection, task supervision, shared-finding corrections, tool-output filtering, approval assistance, and recorded-stage navigation in DeepSeek Harness; all features are disabled by default."
    },
    "npm": null,
-   "stars": 197,
+   "stars": 200,
    "createdAt": "2026-09-27",
    "install": "dsh plugin --profile web add github:luobosibing2/dsh-jev-plugin",
    "added": "2026-10-10"
@@ -5326,7 +5326,7 @@
     "en": "Study workbench for exam prep and research: a three-column task board with tags and filters, a spaced-repetition queue (simplified SM-2) that keeps finished cards coming back, a heatmap lit by actual focused minutes, weekly reports, per-day review notes, a pomodoro timer that survives panel switches, and Markdown export/import for Obsidian."
    },
    "npm": "dsh-study-desk",
-   "stars": 2,
+   "stars": 3,
    "createdAt": "2026-10-08",
    "install": "dsh plugin --profile web add dsh-study-desk",
    "added": "2026-10-10"
@@ -5446,7 +5446,7 @@
     "en": "Think tank: a built-in library of 144 classic mental models (decision/strategy/cognition/psychology/communication/learning/system/innovation/execution) — enter one question and several selected models analyze it in parallel via AI, producing a synthesized report with consensus, disagreements, blind spots and an action checklist; supports both automatic analysis and prompt round-trip import."
    },
    "npm": "@weibaohui/dsh-thinktank",
-   "stars": 2,
+   "stars": 3,
    "createdAt": "2026-10-01",
    "install": "dsh plugin --profile web add @weibaohui/dsh-thinktank",
    "added": "2026-10-10"
@@ -6061,7 +6061,7 @@
     "en": "Organ-based plugin layer: plugins declare capabilities, senses and reflexes, a nerve impulse routes each command to the organ that owns it, reflex arcs fire with zero model calls, quiet periods consolidate run history into memory cards, and a failing organ heals through attribution, prescription and re-check."
    },
    "npm": null,
-   "stars": 17,
+   "stars": 18,
    "createdAt": "2026-09-11",
    "install": "dsh plugin --profile web add github:1420079678-ctrl/agent-body",
    "added": "2026-10-10"
@@ -6406,7 +6406,7 @@
     "en": "Use Windows and native Linux DSH sessions in one Windows window, with WSL environment switching and bidirectional system tools."
    },
    "npm": null,
-   "stars": 2,
+   "stars": 3,
    "createdAt": "2026-09-30",
    "install": "dsh plugin --profile web add github:Han-1413141/dsh-wsl-native",
    "added": "2026-10-10"
@@ -7546,7 +7546,7 @@
     "en": "Fireworks celebration engine: floats fireworks above the chat window while the agent codes, with a welcome show, per-turn salutes, tool sparks, milestone celebrations, a finish finale and a dud on failure; each event type has its own fireworks card group with random variants, and token usage decides firework size, height and splendour."
    },
    "npm": "@weibaohui/dsh-fireworks",
-   "stars": 1,
+   "stars": 2,
    "createdAt": "2026-09-25",
    "install": "dsh plugin --profile web add @weibaohui/dsh-fireworks",
    "added": "2026-10-10"
