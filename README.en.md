@@ -221,6 +221,7 @@ DeepSeek Harness is DeepSeek's open-source agent harness — a runnable coding a
 - [LoserFox/distill](https://github.com/LoserFox/distill) - Automatic conversation distillation: background subagent reflection + skill create/update.
 - [modusensus/dsh-mneme](https://github.com/modusensus/dsh-mneme) - Cross-session memory: SQLite with a human-editable Markdown mirror, background consolidation (dedup, merge, conflict resolution), and six memory tools.
 - [nowledge-co/nowledge-mem-deepseek-harness](https://github.com/nowledge-co/nowledge-mem-deepseek-harness) - One memory layer for every AI tool and agent: Context Bundle injection, prompt-time recall, MCP tools, and turn-end DSH thread capture.
+- [OakcoderX/solopup-memory](https://github.com/OakcoderX/solopup-memory) - Source-linked text memory for DSH with project scopes and revision history (public beta).
 - [omdsh-dev/dsh-mnemon](https://github.com/omdsh-dev/dsh-mnemon) - Deep Mnemon integration: local three-tier memory (Runtime Memory, retrievable Documents, supervised Memory Spaces).
 - [PerryLink/dsh-auto-review](https://github.com/PerryLink/dsh-auto-review) - Second-model auto-review on the approval chain: a read-only reviewer subagent returns structured allow/deny verdicts with reasons, fail-closed by default.
 - [PerryLink/dsh-budget](https://github.com/PerryLink/dsh-budget) - Cost governance: token and cost metering aggregated by model/session/day, with budget caps, threshold alerts, and alert/block/degrade over-limit policies via the /budget command.
