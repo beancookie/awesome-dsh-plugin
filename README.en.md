@@ -157,6 +157,7 @@ DeepSeek Harness is DeepSeek's open-source agent harness — a runnable coding a
 - [zhu1090093659/dsh-web-ui](https://github.com/zhu1090093659/dsh-web-ui) - Plugin and skin collection for the DSH Web UI: task board, Git graph, right-side panel, remote mobile UI, pet, live token stats, and a skin center.
 - [ZSeven-W/dsh-openpencil](https://github.com/ZSeven-W/dsh-openpencil) - OpenPencil design preview and editing plugin.
 
+- [fu-silent/dsh-sidebar-home](https://github.com/fu-silent/dsh-sidebar-home) - Sidebar Home panel: pick a workspace to focus its sessions in the sidebar, keep the other workspaces folded below, and restore the shipped sidebar on exit.
 ### Themes & Appearance
 - [BeiZi6/dsh-theme-plugin](https://github.com/BeiZi6/dsh-theme-plugin) - Theme studio for the DSH Web GUI: five built-in presets plus fully customizable light/dark palettes (accent, background, foreground, UI and code fonts, translucent sidebar, contrast), hot-swapped instantly and persisted in localStorage.
 - [Braidy-Wu/dsh-conversation-minimap](https://github.com/Braidy-Wu/dsh-conversation-minimap) - A conversation minimap for the DSH Web GUI (ChatGPT desktop style): one evenly-spaced capsule anchor per user prompt, fish-eye bell-curve magnification on hover with full prompt preview, top/bottom edge fade, blue highlight that follows the current prompt, click to jump to the message, and automatic full-history loading.
