@@ -157,6 +157,8 @@ DeepSeek Harness is DeepSeek's open-source agent harness — a runnable coding a
 - [zhu1090093659/dsh-web-ui](https://github.com/zhu1090093659/dsh-web-ui) - Plugin and skin collection for the DSH Web UI: task board, Git graph, right-side panel, remote mobile UI, pet, live token stats, and a skin center.
 - [ZSeven-W/dsh-openpencil](https://github.com/ZSeven-W/dsh-openpencil) - OpenPencil design preview and editing plugin.
 
+- [ShawnRen57/dsh-whale-trail](https://github.com/ShawnRen57/dsh-whale-trail) - Whale-themed local achievement plugin: normal Harness use earns 67 stamped badges across 7 series, completes 9 voyage chapters holding 36 ocean collectibles, unlocks a configurable ASCII aquarium, and exports a five-badge voyage card as PNG or offline HTML; records stay local with no model calls or chat uploads.
+
 ### Themes & Appearance
 - [BeiZi6/dsh-theme-plugin](https://github.com/BeiZi6/dsh-theme-plugin) - Theme studio for the DSH Web GUI: five built-in presets plus fully customizable light/dark palettes (accent, background, foreground, UI and code fonts, translucent sidebar, contrast), hot-swapped instantly and persisted in localStorage.
 - [Braidy-Wu/dsh-conversation-minimap](https://github.com/Braidy-Wu/dsh-conversation-minimap) - A conversation minimap for the DSH Web GUI (ChatGPT desktop style): one evenly-spaced capsule anchor per user prompt, fish-eye bell-curve magnification on hover with full prompt preview, top/bottom edge fade, blue highlight that follows the current prompt, click to jump to the message, and automatic full-history loading.
@@ -395,6 +397,8 @@ DeepSeek Harness is DeepSeek's open-source agent harness — a runnable coding a
 - [sandbaseai/sandbase-skills](https://github.com/sandbaseai/sandbase-skills) - 88 Agent Skills for research, social intelligence, marketing, and business workflows, mounted through a native DSH bundle with optional project-scoped installation of multi-source-search.
 - [weibaohui/skills-management](https://github.com/weibaohui/skills-management) - Skill marketplace and manager: manage skills from all local coding agents (10+ executors, incl. Claude Code and Codex) in one page and import them into the DSH skill library; built-in market of 6600+ skills, per-skill token-overhead stats, and model visibility control.
 - [yanglaofish/dsh-skill-manager](https://github.com/yanglaofish/dsh-skill-manager) - Skill lifecycle manager for DSH: list / edit / import / enable / disable skills under a global-workspace-session three-layer model, with unified settings & conversation UI, cross-layer search and pagination.
+
+- [ShawnRen57/omni-learning-anything](https://github.com/ShawnRen57/omni-learning-anything) - Portable learning-plan Agent Skill: builds personalized plans and illustrated daily lessons from the user's schedule, goals and own materials, delivering PDF / HTML / cloud documents in 10 languages; a pure SKILL.md skill installed by unzipping into ~/.dsh/skills/omni-learning-anything/.
 
 ### Workflow & Automation
 - [940842546/dsh-permissions](https://github.com/940842546/dsh-permissions) - Claude Code-style permission rules engine: hard/deny/ask/allow tiers with a hard tier above full access, workspace-scoped rules, wildcard path protection, and a visual staged editor; rules persist in settings.yaml.
