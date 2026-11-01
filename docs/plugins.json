@@ -1261,7 +1261,7 @@
     "en": "Customizes the native settings window: preset/custom sizes, fullscreen, background transparency, and theme, solid-color, or image backgrounds, with a floating ball for quick access; saved in the local browser."
    },
    "npm": "@weibaohui/dsh-settings-ui",
-   "stars": 3,
+   "stars": 4,
    "createdAt": "2026-09-01",
    "install": "dsh plugin --profile web add @weibaohui/dsh-settings-ui",
    "added": "2026-09-06"
@@ -4081,7 +4081,7 @@
     "en": "Industry and company research domain pack for DeepSeek Harness: chain maps, public-source tracking, company cards, and auditable reports — every number traces to a source, every gap is declared."
    },
    "npm": "dsh-industry-research",
-   "stars": 214,
+   "stars": 216,
    "createdAt": "2026-08-19",
    "install": "dsh plugin --profile web add dsh-industry-research",
    "added": "2026-09-13"
@@ -4426,7 +4426,7 @@
     "en": "Full DSH configuration backup, restore, export, import, migrate and sync: settings, providers, plugins, MCP servers, skills, agent presets and workspaces in one ZIP, with encrypted backups, Git/WebDAV sync and a configuration marketplace."
    },
    "npm": "dsh-config-manager",
-   "stars": 240,
+   "stars": 279,
    "createdAt": "2026-08-14",
    "install": "dsh plugin --profile web add dsh-config-manager",
    "added": "2026-08-23"
@@ -5791,7 +5791,7 @@
     "en": "Multi-channel decision and remote-control bridge: pushes DSH approval and question cards to IM channels (WeChat iLink, Telegram, Feishu) and answers them from chat, with a session console, per-channel security, and an open push service."
    },
    "npm": "dsh-reach",
-   "stars": 2,
+   "stars": 3,
    "createdAt": "2026-09-03",
    "install": "dsh plugin --profile web add dsh-reach",
    "added": "2026-09-13"
@@ -5806,7 +5806,7 @@
     "en": "TickTick / Dida365 task bridge for DeepSeek Harness: a session-header task panel (list filter, quick add, complete, delete, due dates, drag reorder), eleven curated agent tools, a plugin settings card, and a typed Remote service — all over the official TickTick MCP endpoint."
    },
    "npm": "@perrylink/dsh-ticktick",
-   "stars": 4,
+   "stars": 5,
    "createdAt": "2026-09-03",
    "install": "dsh plugin --profile web add @perrylink/dsh-ticktick",
    "added": "2026-09-13"
@@ -6856,7 +6856,7 @@
     "en": "Zero-dependency static + sandbox smoke detector for DeepSeek Harness plugins: package-structure checks (R), a Cordis contract scan (K), dynamic sandbox smoke tests (D), and an ecosystem collection-site checklist (CC) in one run."
    },
    "npm": "@perrylink/dsh-plugin-doctor",
-   "stars": 5,
+   "stars": 6,
    "createdAt": "2026-09-07",
    "install": "dsh plugin --profile web add @perrylink/dsh-plugin-doctor",
    "added": "2026-09-13"
