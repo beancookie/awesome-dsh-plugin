@@ -32,7 +32,7 @@ DeepSeek Harness is DeepSeek's open-source agent harness — a runnable coding a
 
 </details>
 
-**504** plugins · [PRs welcome](#contributing)
+**505** plugins · [PRs welcome](#contributing)
 
 ## Contents
 
@@ -347,6 +347,7 @@ DeepSeek Harness is DeepSeek's open-source agent harness — a runnable coding a
 - [PicGo/dsh-plugin](https://github.com/PicGo/dsh-plugin) - Upload local images and files to your image host through PicGo's existing configuration (PicGo Cloud, GitHub, S3, COS, Qiniu, or any installed uploader plugin), via a `picgo_upload` tool and a `/picgo` command.
 - [PolinniZhong/dsh-omi-voice](https://github.com/PolinniZhong/dsh-omi-voice) - In-conversation read-aloud with Doubao-quality voices: every AI reply gets a 🔊 tap-to-read / auto-read toggle (off by default, state persisted), with voices synthesized by the local Omi engine (Doubao seed-tts); BYOK — keys stay in your local Keychain, the plugin stores none.
 - [PriceDotWin/pricewin-dsh](https://github.com/PriceDotWin/pricewin-dsh) - Live hotel and flight prices in USD across Booking.com, Agoda, Trip.com and Traveloka, through the remote PriceWin MCP server (no account or API key), with a bundled travel-search skill.
+- [q8atnight/dsh-squeeze](https://github.com/q8atnight/dsh-squeeze) - Adds a squeeze tool: the agent hands a long web page, a batch of pages, a text file or a text PDF plus one question to a helper model chosen on the settings page, and gets back only the answer, so the material never enters the chat.
 - [sakikoTGW/pack-agent](https://github.com/sakikoTGW/pack-agent) - Project .pack.json/.pack.zip into .agent-pack/modpacks/ and expose skills via a workspace allow-list.
 - [SamXiaBing/dsh-adb](https://github.com/SamXiaBing/dsh-adb) - ADB device & bench operations for DSH: device discovery, structured logcat (background streaming), apk install, file pull/push, and dumpsys performance snapshots.
 - [Sanqi-normal/dsh-webui-market-plugin](https://github.com/Sanqi-normal/dsh-webui-market-plugin) - In-harness plugin market for the dsh web GUI: browse the awesome-dsh-plugin.com catalog and install/uninstall plugins into a profile from Settings → Plugins → Plugin Market.
