@@ -1336,7 +1336,7 @@
     "en": "Keyboard session management for the DSH Web GUI: switch sessions like browser tabs (positional Alt+1-9, pinned slots, previous/next), keyboard model switching, alternate send, archive confirmation, and focus-search, with every binding rebindable via Windows/macOS presets."
    },
    "npm": "dsh-session-hotkeys",
-   "stars": 2,
+   "stars": 3,
    "createdAt": "2026-08-15",
    "install": "dsh plugin --profile web add dsh-session-hotkeys",
    "added": "2026-08-25"
@@ -2056,7 +2056,7 @@
     "en": "Smart session titles for DSH: after each conversation turn an independent auxiliary LLM call summarizes the full user+assistant transcript into a title that follows the session's real topic instead of echoing the first message; the first message is titled instantly, failed built-in titles auto-retry on later turns, manual renames are never overwritten, and subagent/fork sessions are skipped."
    },
    "npm": "@weibaohui/dsh-smart-title",
-   "stars": 8,
+   "stars": 9,
    "createdAt": "2026-09-08",
    "install": "dsh plugin --profile web add @weibaohui/dsh-smart-title",
    "added": "2026-09-08"
@@ -4186,7 +4186,7 @@
     "en": "In-conversation read-aloud with Doubao-quality voices: every AI reply gets a 🔊 tap-to-read / auto-read toggle (off by default, state persisted), with voices synthesized by the local Omi engine (Doubao seed-tts); BYOK — keys stay in your local Keychain, the plugin stores none."
    },
    "npm": "dsh-omi-voice",
-   "stars": 76,
+   "stars": 75,
    "createdAt": "2026-08-18",
    "install": "dsh plugin --profile web add dsh-omi-voice",
    "added": "2026-08-18"
@@ -5821,7 +5821,7 @@
     "en": "Feishu (Lark) UI for DeepSeek Harness: panel-driven control console, in-card approvals and questions, live streaming cards, one-QR setup."
    },
    "npm": null,
-   "stars": 33,
+   "stars": 37,
    "createdAt": "2026-08-14",
    "install": "dsh plugin --profile web add github:PGZXB/dsh-feishu",
    "added": "2026-08-18"
@@ -5956,7 +5956,7 @@
     "en": "Runs the logged-in Claude Code CLI as an LLM provider for dsh: live model list, per-session resume, approval relay, images, a memory/rewind/changes panel, and workspaces on remote SSH boxes."
    },
    "npm": "dsh-oh-my-claude",
-   "stars": 22,
+   "stars": 26,
    "createdAt": "2026-09-11",
    "install": "dsh plugin --profile web add dsh-oh-my-claude",
    "added": "2026-09-22"
@@ -6586,7 +6586,7 @@
     "en": "Commit-time governance harness for AI coding agents: 24 deterministic audit rules over git diffs (secrets, out-of-scope edits, blind modifications, prompt-injection traces), HMAC-chained audit history, and a DSH plugin family. - Context injection audit: token costs of instruction chains / skill catalogs / tool schemas, duplicate and conflict detection."
    },
    "npm": null,
-   "stars": 54,
+   "stars": 55,
    "createdAt": "2026-06-18",
    "install": "dsh plugin --profile web add github:KongFangXun/sofagent",
    "added": "2026-09-01"
