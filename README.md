@@ -212,6 +212,7 @@ DeepSeek Harness 是 DeepSeek 开源的 agent harness——既是可直接运行
 - [flymysql/dsh-memory](https://github.com/flymysql/dsh-memory) — 跨会话记忆库：remember / recall / forget 工具、每轮提示注入与设置页条目浏览。
 - [freehul/sgme](https://github.com/freehul/sgme) — 拾光记忆引擎（SGME）桥接：多智能体共享长期记忆（HTTP）—— L0/L1/L1.5/L2 分层提炼、按场景注入、统一检索、主动关怀信号（memory_search / wiki_search / signal_pull / signal_claim / signal_ack），npm 包名 `dsh-sgme`。
 - [futongxu9-maker/dsh-shared-memory](https://github.com/futongxu9-maker/dsh-shared-memory) — 跨对话共享记忆：MEMORY.md + USER.md 注入每个会话系统提示词，memory 工具 + 可视化记忆面板，Hermes 式实现。
+- [dongsheng123132/task-passport](https://github.com/dongsheng123132/task-passport) — 任务状态护照 + TaskPack 交接容器：把任务的当前世界状态做成有版本、有锁的护照留在本地，需要交接时打成单文件离线包交给另一个 harness 或另一台机器，不搬聊天记录；机器级事实在打包时降级为未证并记下原机。npm 包 `task-passport`（带 SLSA provenance），既是 CLI 也是 DSH bundle。
 - [ICCuse/dsh-file-memory](https://github.com/ICCuse/dsh-file-memory) — 文件型工作记忆：memorize/recall 把关键前提逐字保存在会话笔记文件，无损挺过上下文压缩。
 - [ICCuse/dsh-knowledge](https://github.com/ICCuse/dsh-knowledge) — 全局 Markdown 知识库桥：kb_add/kb_search/kb_show/kb_timeline 读写与 Codex kb.cmd CLI 共享的知识库（格式逐字节兼容）。
 - [ICCuse/dsh-premise-guard](https://github.com/ICCuse/dsh-premise-guard) — 压缩后前提漂移守卫：摘要丢失关键字面锚点时注入一次性提醒。
