@@ -414,6 +414,7 @@ DeepSeek Harness is DeepSeek's open-source agent harness — a runnable coding a
 - [dsh-product-subagent-console](https://github.com/Jokasa7/dsh-product-subagent-console) - A conversation-level multi-agent workbench for editable task plans, real child-session trees, plan-to-runtime comparison, and evidence-backed recovery previews.
 - [Letter2025/dsh-approval-llm](https://github.com/Letter2025/dsh-approval-llm) - Model-based permission approval: an approval-request answerer backed by a separate reviewer model.
 - [Letter2025/dsh-model-failover](https://github.com/Letter2025/dsh-model-failover) - Two-level model circuit breaker with failover: trip a model or a whole provider after repeated request failures and route the next request to a configured fallback.
+- [lijiaqi-AI-Product-Manager/dsh-bug-gps](https://github.com/lijiaqi-AI-Product-Manager/dsh-bug-gps) - Records browser bugs, freezes expected results, and verifies fixes against a fresh original-code control.
 - [lonelymoon87/dsh-specflow](https://github.com/lonelymoon87/dsh-specflow) - Adds specification artifacts, skills, commands, goal-backed implementation, and task-progress context.
 - [NanmiCoder/dsh-agent-teams](https://github.com/NanmiCoder/dsh-agent-teams) - AgentTeams multi-agent teams.
 - [omdsh-dev/dsh-deep-research](https://github.com/omdsh-dev/dsh-deep-research) - Adaptive deep-research orchestrator built on the official workflow engine.
