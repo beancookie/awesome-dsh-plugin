@@ -63,6 +63,8 @@ DeepSeek Harness is DeepSeek's open-source agent harness — a runnable coding a
 
 ### UI Enhancements
 - [0xsline/dsh-spotlight](https://github.com/0xsline/dsh-spotlight) - Keyboard-first command palette for the DSH Web UI.
+- [skyrocks/dsh-deepseek-cost](https://github.com/skyrocks/dsh-deepseek-cost) - Dock under the composer with the DeepSeek platform balance plus current-turn, day, week, month and lifetime spend; hover for details, click to refresh.
+- [skyrocks/dsh-go-quota](https://github.com/skyrocks/dsh-go-quota) - OpenCode GO 5-hour, weekly and monthly quota windows under the composer, with labels, progress bars and percentages; hover for reset countdowns.
 - [a903067276-rgb/dsh-file-mentions](https://github.com/a903067276-rgb/dsh-file-mentions) - Clickable file paths in DSH replies: Codex-style inline open, reveal in file manager, and a mentioned-files chip list at the turn tail.
 - [a903067276-rgb/dsh-hud](https://github.com/a903067276-rgb/dsh-hud) - HUD status panel: Git status, MCP servers, skills, model and token usage in a floating side panel.
 - [AKIRACOD/dsh-drag-and-drop](https://github.com/AKIRACOD/dsh-drag-and-drop) - File-drag fork: drop documents as removable chips above the composer, send without typing.
