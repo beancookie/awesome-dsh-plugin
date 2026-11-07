@@ -32,7 +32,7 @@ DeepSeek Harness is DeepSeek's open-source agent harness — a runnable coding a
 
 </details>
 
-**504** plugins · [PRs welcome](#contributing)
+**507** plugins · [PRs welcome](#contributing)
 
 ## Contents
 
@@ -201,6 +201,7 @@ DeepSeek Harness is DeepSeek's open-source agent harness — a runnable coding a
 - [weibaohui/dsh-continue](https://github.com/weibaohui/dsh-continue) - Auto-resume for interrupted sessions: rules route by failure type (rate limit, quota, auth, context overflow, crashed orphan) into backoff retry, model switch, resume-after-compaction, or stop-loss notification, with a visual rule editor and activity log.
 - [weibaohui/dsh-smart-title](https://github.com/weibaohui/dsh-smart-title) - Smart session titles for DSH: after each conversation turn an independent auxiliary LLM call summarizes the full user+assistant transcript into a title that follows the session's real topic instead of echoing the first message; the first message is titled instantly, failed built-in titles auto-retry on later turns, manual renames are never overwritten, and subagent/fork sessions are skipped.
 - [Wine-Red/dsh-prompt-stash](https://github.com/Wine-Red/dsh-prompt-stash) - Local, per-session LIFO prompt stash for temporarily setting aside unfinished composer text and safely restoring it later.
+- [WJDdidi-1/ai-context-doctor](https://github.com/WJDdidi-1/ai-context-doctor) - Grades what a repository or a past session actually read, warns before it floods the context window, and writes the `.aiignore` rules that stop the worst of it; the sidebar panel follows the current conversation.
 - [yindf/taskfold](https://github.com/yindf/taskfold) - Wraps work in named tasks and folds each finished task's whole span of messages into one summary at the next step boundary, with the original messages restorable on demand.
 - [yuezengwu/dsh-explain](https://github.com/yuezengwu/dsh-explain) - Local-first learning mode: cross-session learning threads with per-source explanations.
 
@@ -552,6 +553,8 @@ DeepSeek Harness is DeepSeek's open-source agent harness — a runnable coding a
 - [weibaohui/dsh-webdav-server](https://github.com/weibaohui/dsh-webdav-server) - WebDAV server: turns a shared directory into a WebDAV service that Windows, macOS and Linux can mount as a local disk, with token authentication, optional read-only mode, configurable directory/port/token, and per-platform mounting guides built into the settings page.
 - [weibaohui/user-management](https://github.com/weibaohui/user-management) - Login gate for the dsh web UI: unauthenticated visitors get a login/register page and the first registrant becomes admin; includes user and role management plus login and access audit logs.
 - [william-jin-cmu/dsh-evolve](https://github.com/william-jin-cmu/dsh-evolve) - Self-evolution: the agent hot-mounts/removes persistent plugins on itself mid-session.
+- [WJDdidi-1/dsh-plugin-example](https://github.com/WJDdidi-1/dsh-plugin-example) - A ~70-line plugin to copy from: one sidebar tab, a host half, a bundle manifest and a passing preflight.
+- [WJDdidi-1/dsh-plugin-toolkit](https://github.com/WJDdidi-1/dsh-plugin-toolkit) - Preflight for plugin authors: packs the plugin the way npm would, installs the tarball, imports the root export the loader mounts and mounts the panel, so a plugin the host would drop fails before release; also `init`, `dev` and `release`.
 - [dsh-review-loop](https://github.com/wuxiangru915/dsh-review-loop) - Incremental diff reviewer with a Web UI panel and feedback injection into the agent.
 - [xgone/dsh-remote](https://github.com/xgone/dsh-remote) - Remote access & authentication for the DeepSeek Harness web UI: account/password login gate, MFA (TOTP), signed session cookies, role-based access, in-browser directory picker, and an account-management settings page.
 - [xingyingyuzhui/dsh-updater-ui](https://github.com/xingyingyuzhui/dsh-updater-ui) - DSH self-updater in the settings page: one-click check/pull (`git pull --ff-only`), auto background checks, version diff and changelog preview with a red-dot reminder.
