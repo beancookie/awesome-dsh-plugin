@@ -515,7 +515,7 @@ DeepSeek Harness 是 DeepSeek 开源的 agent harness——既是可直接运行
 - [Jesse-njx/dsh-polyglot](https://github.com/Jesse-njx/dsh-polyglot) — DSH 的模型切换器：指向任意 OpenAI 兼容端点，内置精选免费/低价 DeepSeek 服务商预设，免费额度限流时自动回退。
 - [Jesse-njx/dsh-tmuxctl](https://github.com/Jesse-njx/dsh-tmuxctl) — 掌控你的 tmux 面板：list/send-keys/capture、在面板中运行长任务并 watch，破坏性命令需审批。
 - [hooks-adapter](https://github.com/JohnXu22786/hooks-adapter) — 通用 hooks 兼容层：在 dsh 上运行 Claude Code / Codex / opencode 配置中声明的 hooks。
-- [KongFangXun/sofagent](https://github.com/KongFangXun/sofagent) — 提交时审计 harness：24 条确定性规则审查 git diff（密钥、越权改动、盲改、提示注入痕迹），HMAC 链式防篡改审计记录，含 DSH 插件家族（engine/dsh-plugins）。 — 上下文注入审计：统计指令链/技能目录/工具 schema 的 token 成本，检测重复与冲突。
+- [KongFangXun/sofagent](https://github.com/KongFangXun/sofagent) — 提交时审计 harness：28 条确定性规则审查 git diff（密钥、越权改动、盲改、提示注入痕迹），HMAC 链式防篡改审计记录，含 DSH 插件家族（engine/dsh-plugins）。 — 上下文注入审计：统计指令链/技能目录/工具 schema 的 token 成本，检测重复与冲突。
 - [Leon0555/dsh-lan-access](https://github.com/Leon0555/dsh-lan-access) — 局域网访问：Web GUI 绑定 0.0.0.0 + crypto.randomUUID polyfill（修复非安全上下文下 RPC 崩溃）。
 - [Lixiaoyiao/deepseek-harness-action](https://github.com/Lixiaoyiao/deepseek-harness-action) — GitHub Action 运行 DSH 做 PR 审查、CI 诊断与受信任修复。
 - [lonelymoon87/dsh-gitflow](https://github.com/lonelymoon87/dsh-gitflow) — 增加需要审批的 Git 状态、diff、日志、提交、分支和可选检查点工具。
