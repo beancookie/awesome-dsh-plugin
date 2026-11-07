@@ -481,7 +481,7 @@
     "en": "Adds a row at the top of the sidebar that switches the whole Web GUI to another DSH host reached over a loopback port, with that host's session state on the row (running, unread activity, or waiting for your answer)."
    },
    "npm": "dsh-remote-dsh",
-   "stars": 0,
+   "stars": 2,
    "createdAt": "2026-09-10",
    "install": "dsh plugin --profile web add dsh-remote-dsh",
    "added": "2026-09-12"
@@ -1816,7 +1816,7 @@
     "en": "Rewind a conversation and its workspace together without touching Git; every rewind is a fork and /redo reverses it."
    },
    "npm": "dsh-filesnap",
-   "stars": 46,
+   "stars": 47,
    "createdAt": "2026-08-27",
    "install": "dsh plugin --profile web add dsh-filesnap",
    "added": "2026-09-06"
@@ -2161,7 +2161,7 @@
     "en": "Connects DSH agents to Busabase through MCP tools, approval-aware ChangeRequests, result cards, and a live record inspector."
    },
    "npm": "@busabase/dsh-plugin",
-   "stars": 9,
+   "stars": 10,
    "createdAt": "2026-09-02",
    "install": "dsh plugin --profile web add @busabase/dsh-plugin",
    "added": "2026-09-12"
@@ -3571,7 +3571,7 @@
     "en": "Integrates TypeSafe Jev for skill and file selection, task supervision, shared-finding corrections, tool-output filtering, approval assistance, and recorded-stage navigation in DeepSeek Harness; all features are disabled by default."
    },
    "npm": null,
-   "stars": 200,
+   "stars": 204,
    "createdAt": "2026-09-27",
    "install": "dsh plugin --profile web add github:luobosibing2/dsh-jev-plugin",
    "added": "2026-10-10"
@@ -5326,7 +5326,7 @@
     "en": "Study workbench for exam prep and research: a three-column task board with tags and filters, a spaced-repetition queue (simplified SM-2) that keeps finished cards coming back, a heatmap lit by actual focused minutes, weekly reports, per-day review notes, a pomodoro timer that survives panel switches, and Markdown export/import for Obsidian."
    },
    "npm": "dsh-study-desk",
-   "stars": 3,
+   "stars": 5,
    "createdAt": "2026-10-08",
    "install": "dsh plugin --profile web add dsh-study-desk",
    "added": "2026-10-10"
@@ -6376,7 +6376,7 @@
     "en": "Control pnpm build-script approval across DSH profiles from Add Plugin, and repair same-Git-URL updates on DSH 0.2.0-rc.2."
    },
    "npm": null,
-   "stars": 1,
+   "stars": 2,
    "createdAt": "2026-09-30",
    "install": "dsh plugin --profile web add github:Han-1413141/dsh-pnpm-build-control",
    "added": "2026-10-10"
