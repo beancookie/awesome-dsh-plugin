@@ -1261,7 +1261,7 @@
     "en": "Customizes the native settings window: preset/custom sizes, fullscreen, background transparency, and theme, solid-color, or image backgrounds, with a floating ball for quick access; saved in the local browser."
    },
    "npm": "@weibaohui/dsh-settings-ui",
-   "stars": 4,
+   "stars": 5,
    "createdAt": "2026-09-01",
    "install": "dsh plugin --profile web add @weibaohui/dsh-settings-ui",
    "added": "2026-09-06"
@@ -2296,7 +2296,7 @@
     "en": "DSH-native persistent memory: session-aware retrieval, standing context, crash-safe consolidation, and storage-backed skills."
    },
    "npm": "@lcthe/dsh-hermes-memory",
-   "stars": 0,
+   "stars": 1,
    "createdAt": "2026-08-26",
    "install": "dsh plugin --profile web add @lcthe/dsh-hermes-memory",
    "added": "2026-09-06"
@@ -2641,7 +2641,7 @@
     "en": "Automatic post-conversation retrospective that distills useful experience into reusable skills for the skill library, with approval mode and skill-library governance (archive/restore, never deletes directly)."
    },
    "npm": "@weibaohui/hermes-loop",
-   "stars": 11,
+   "stars": 12,
    "createdAt": "2026-08-31",
    "install": "dsh plugin --profile web add @weibaohui/hermes-loop",
    "added": "2026-09-06"
@@ -4051,7 +4051,7 @@
     "en": "Deterministic data profiling, cleaning, and verification: a ctx.dataQuality capability seam with three model tools and a frozen cross-plugin citation-checking contract — all computation in TypeScript, the model never does the math."
    },
    "npm": "dsh-data-quality",
-   "stars": 54,
+   "stars": 53,
    "createdAt": "2026-08-19",
    "install": "dsh plugin --profile web add dsh-data-quality",
    "added": "2026-09-13"
@@ -4081,7 +4081,7 @@
     "en": "Industry and company research domain pack for DeepSeek Harness: chain maps, public-source tracking, company cards, and auditable reports — every number traces to a source, every gap is declared."
    },
    "npm": "dsh-industry-research",
-   "stars": 216,
+   "stars": 217,
    "createdAt": "2026-08-19",
    "install": "dsh plugin --profile web add dsh-industry-research",
    "added": "2026-09-13"
@@ -4126,7 +4126,7 @@
     "en": "Verifiable research-report engine: every claim is bound to immutable evidence snapshots, verified byte-for-byte, and sealed into a versioned report whose manifest hash can be recomputed."
    },
    "npm": "dsh-research-report",
-   "stars": 213,
+   "stars": 212,
    "createdAt": "2026-08-19",
    "install": "dsh plugin --profile web add dsh-research-report",
    "added": "2026-09-13"
@@ -4426,7 +4426,7 @@
     "en": "Full DSH configuration backup, restore, export, import, migrate and sync: settings, providers, plugins, MCP servers, skills, agent presets and workspaces in one ZIP, with encrypted backups, Git/WebDAV sync and a configuration marketplace."
    },
    "npm": "dsh-config-manager",
-   "stars": 279,
+   "stars": 317,
    "createdAt": "2026-08-14",
    "install": "dsh plugin --profile web add dsh-config-manager",
    "added": "2026-08-23"
