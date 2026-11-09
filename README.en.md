@@ -32,7 +32,7 @@ DeepSeek Harness is DeepSeek's open-source agent harness — a runnable coding a
 
 </details>
 
-**504** plugins · [PRs welcome](#contributing)
+**505** plugins · [PRs welcome](#contributing)
 
 ## Contents
 
@@ -261,6 +261,7 @@ DeepSeek Harness is DeepSeek's open-source agent harness — a runnable coding a
 - [dsh-learn-everything](https://github.com/cendaifeng/dsh-learn-everything) - Feynman learning-mode loop rendered as rich HTML lesson cards.
 - [dsh-harness-mcp-server](https://github.com/chushixixin/dsh-harness-mcp-server) - MCP server that lets any MCP client drive the Harness agent.
 - [dsh-report-studio](https://github.com/ciceroyang/dsh-report-studio) - Turn a DSH session into daily/weekly/handoff/article reports with verifiable receipts.
+- [cyrus-xc/better-ego-browser](https://github.com/cyrus-xc/better-ego-browser) — Connects DSH to the installed Windows ego lite app over authenticated loopback HTTP for navigation, clicks, form input and screenshots.
 - [dream-num/dsh-univer-office](https://github.com/dream-num/dsh-univer-office) - Give DeepSeek Harness a real office environment. Univer Office Plugin brings spreadsheets, docs, slides, canvases, relational tables, and more into one runtime — with connected data, validation, versioned changes, and isolated worktrees for multi-agent collaboration.
 - [dsh-market/dsh-market](https://github.com/dsh-market/dsh-market) - The plugin market inside DSH: a Settings page to browse and search the full community catalog by category, with confirmed one-click installs and an installed-plugins view.
 - [EvilIrving/dsh-context-proxy](https://github.com/EvilIrving/dsh-context-proxy) - Thin on-demand context retrieval: context_query / context_slice / context_grep tools that read already-persisted history back with replay-safe citations.
