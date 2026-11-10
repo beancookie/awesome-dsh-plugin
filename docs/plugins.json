@@ -5956,7 +5956,7 @@
     "en": "Runs the logged-in Claude Code CLI as an LLM provider for dsh: live model list, per-session resume, approval relay, images, a memory/rewind/changes panel, and workspaces on remote SSH boxes."
    },
    "npm": "dsh-oh-my-claude",
-   "stars": 26,
+   "stars": 35,
    "createdAt": "2026-09-11",
    "install": "dsh plugin --profile web add dsh-oh-my-claude",
    "added": "2026-09-22"
