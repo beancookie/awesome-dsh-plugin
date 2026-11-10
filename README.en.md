@@ -469,6 +469,7 @@ DeepSeek Harness is DeepSeek's open-source agent harness — a runnable coding a
 - [dsh-vision](https://github.com/dsh-external/dsh-vision) - Vision bridge: view_image tool over any OpenAI-compatible VLM.
 - [dylan121322/llm-adaptive](https://github.com/dylan121322/llm-adaptive) - Adaptive model routing: per-request complexity classification with automatic provider routing.
 - [franksong2702/dsh-codex-connect](https://github.com/franksong2702/dsh-codex-connect) - Connect ChatGPT OAuth and OpenAI Codex models to DeepSeek Harness, with opt-in search and image tools.
+- [JiamingShi-JsPhys/dsh-token-steward](https://github.com/JiamingShi-JsPhys/dsh-token-steward) - Local OpenAI-compatible gateway that pools upstream models and routes each request by task profile, with failover, exact-match cache, and a usage/cost ledger.
 - [model-catalog](https://github.com/JohnXu22786/model-catalog) - Model catalog auto-discovery: fetches model listings, pricing and capabilities from OpenAI-compatible hosts into ready-to-use config.
 - [kam74515-boop/dsh-everything-oauth](https://github.com/kam74515-boop/dsh-everything-oauth) - Import local Codex, Grok, Claude, OpenCode, and CC Switch logins into DSH; pick sources and enable models in Settings.
 - [lcestou/dsh-oh-my-claude](https://github.com/lcestou/dsh-oh-my-claude) - Runs the logged-in Claude Code CLI as an LLM provider for dsh: live model list, per-session resume, approval relay, images, a memory/rewind/changes panel, and workspaces on remote SSH boxes.
