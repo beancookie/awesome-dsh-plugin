@@ -481,7 +481,7 @@
  },
  "https://github.com/fishxcode/dsh-plugin-deepseek-balance": {
   "npm": null,
-  "checkedAt": "2026-08-14"
+  "checkedAt": "2026-11-04"
  },
  "https://github.com/flyingtimes/dsh-trajectory-reader": {
   "npm": "@clarkchan/trajectory-reader",
@@ -581,7 +581,7 @@
  },
  "https://github.com/Han-1413141/dsh-codex-computer-use": {
   "npm": null,
-  "checkedAt": "2026-10-10"
+  "checkedAt": "2026-11-09"
  },
  "https://github.com/Han-1413141/dsh-compat-guardian": {
   "npm": "dsh-compat-guardian",
@@ -1472,8 +1472,8 @@
   "checkedAt": "2026-09-13"
  },
  "https://github.com/PerryLink/dsh-laya": {
-  "npm": null,
-  "checkedAt": "2026-10-10"
+  "npm": "dsh-laya",
+  "checkedAt": "2026-11-09"
  },
  "https://github.com/PerryLink/dsh-library": {
   "npm": "dsh-library",
@@ -1749,7 +1749,7 @@
  },
  "https://github.com/suimi8/dsh-test-runner": {
   "npm": null,
-  "checkedAt": "2026-10-07"
+  "checkedAt": "2026-11-06"
  },
  "https://github.com/SunQingyuan0/Kabutack": {
   "npm": "@galactus/kabutack",
@@ -1765,7 +1765,7 @@
  },
  "https://github.com/SunshineR04/dsh-session-manager": {
   "npm": null,
-  "checkedAt": "2026-10-07"
+  "checkedAt": "2026-11-06"
  },
  "https://github.com/suntianc/dsh-codex-auth": {
   "npm": "dsh-codex-auth",
@@ -1900,8 +1900,8 @@
   "checkedAt": "2026-10-10"
  },
  "https://github.com/weibaohui/dsh-gaokao": {
-  "npm": null,
-  "checkedAt": "2026-10-10"
+  "npm": "@weibaohui/dsh-gaokao",
+  "checkedAt": "2026-11-09"
  },
  "https://github.com/weibaohui/dsh-git-server": {
   "npm": "@weibaohui/dsh-git-server",
@@ -1912,12 +1912,12 @@
   "checkedAt": "2026-09-14"
  },
  "https://github.com/weibaohui/dsh-kite": {
-  "npm": null,
-  "checkedAt": "2026-10-10"
+  "npm": "@weibaohui/dsh-kite",
+  "checkedAt": "2026-11-09"
  },
  "https://github.com/weibaohui/dsh-matrix": {
-  "npm": null,
-  "checkedAt": "2026-10-10"
+  "npm": "@weibaohui/dsh-matrix",
+  "checkedAt": "2026-11-09"
  },
  "https://github.com/weibaohui/dsh-process": {
   "npm": "@weibaohui/dsh-process",
