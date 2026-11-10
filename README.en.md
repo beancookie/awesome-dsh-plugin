@@ -244,6 +244,7 @@ DeepSeek Harness is DeepSeek's open-source agent harness — a runnable coding a
 - [xiejianjun000/eco-dsh-plugins](https://github.com/xiejianjun000/eco-dsh-plugins) - A scored memory-tree plugin (eco-memory-tree): structured long-term memory with BM25/Chinese retrieval and two-way Obsidian sync.
 - [Xplore-LAB/dsh-plugin-asmemory](https://github.com/Xplore-LAB/dsh-plugin-asmemory) - Action-state time memory: record typed states and actions, then analyze trends, anomalies, and causality.
 - [zilliztech/memsearch](https://github.com/zilliztech/memsearch) - Shared Markdown memory for DSH and other coding agents, with automatic capture, pre-step context injection, searchable recall, and a review panel.
+- [zuoyunlai/dsh-chronicle](https://github.com/zuoyunlai/dsh-chronicle) - Daily chronicle for DeepSeek Harness: collects session events, closes the previous day after midnight into a Markdown week file (LLM scoring adds a daily summary; rule scoring does not), and extracts durable facts — decisions, conventions, pitfalls — that merge across days and can be superseded. 10 tools, a read-only sidebar panel, rule export, and a standalone Obsidian vault; zero third-party dependencies.
 
 ### Tools & Capabilities
 - [1na-ko/dsh-hdc-bridge](https://github.com/1na-ko/dsh-hdc-bridge) - HarmonyOS device bridge: hdc screenshot/install/log/crash/UI automation loop with read_image, official-first versioned API knowledge (SDK .d.ts + offline bundled docs), and a DevEco CLI build/sign/lint lane.
