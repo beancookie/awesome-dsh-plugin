@@ -74,6 +74,7 @@ DeepSeek Harness is DeepSeek's open-source agent harness — a runnable coding a
 - [bill9109/dsh-drag-and-drop](https://github.com/bill9109/dsh-drag-and-drop) - Cross-platform file drag-and-drop with raw path insertion, no file copying.
 - [bobcat848/dsh-calculator](https://github.com/bobcat848/dsh-calculator) - DeepSeek API spend (current session and all sessions) and account balance in the aside panel, with official pricing and peak/off-peak support.
 - [dsh-web-billing](https://github.com/bpc-oss/dsh-web-billing) - RMB/USD token billing with official-policy pricing and a per-message cost ledger.
+- [brickhu/dsh-plugins#icon-studio](https://github.com/brickhu/dsh-plugins/tree/main/icon-studio) - Project-level icon library in `.icons.json`: a right-sidebar panel plus four agent tools, with pasted SVG, Iconify/IconMCP imports, a workspace scan and AI generation, and one edit rewrites every code reference.
 - [bunipai/dsh-fare-meter](https://github.com/bunipai/dsh-fare-meter) - Taxi-meter style real-time cost: ticks every second while generating, resets when idle, with official peak/valley pricing built in.
 - [dsh-web-review](https://github.com/CanglongCl/dsh-web-review) - Isolated web page previews with element annotations that guide source edits.
 - [ccch1mneyyy/dsh-TUI](https://github.com/ccch1mneyyy/dsh-TUI) - Claude Code-style full-screen terminal UI: pixel-whale header, live status line, and streaming thought expansion.

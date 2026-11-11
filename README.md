@@ -74,6 +74,7 @@ DeepSeek Harness 是 DeepSeek 开源的 agent harness——既是可直接运行
 - [bill9109/dsh-drag-and-drop](https://github.com/bill9109/dsh-drag-and-drop) — 跨平台文件拖拽与原始路径插入，无需复制文件。
 - [bobcat848/dsh-calculator](https://github.com/bobcat848/dsh-calculator) — 右侧面板展示 DeepSeek API 费用（当前会话 + 全部会话累计）与账户余额，内置官方计价与峰谷计价支持。
 - [bpc-oss/dsh-web-billing](https://github.com/bpc-oss/dsh-web-billing) — 人民币/美元 token 计费，官方政策计价与逐条消息费用账本。
+- [brickhu/dsh-plugins#icon-studio](https://github.com/brickhu/dsh-plugins/tree/main/icon-studio) — 项目级图标库 `.icons.json`：右栏面板 + 四个 agent 工具，支持粘贴、Iconify / IconMCP 导入、工作区扫描与 AI 生成，改一次图形，代码里的引用一起更新。
 - [bunipai/dsh-fare-meter](https://github.com/bunipai/dsh-fare-meter) — 出租车计价器式实时计费：生成时逐秒跳动、空闲归零，内置官方峰谷时段与价格表。
 - [CanglongCl/dsh-web-review](https://github.com/CanglongCl/dsh-web-review) — 隔离网页预览，通过元素批注指导源码修改。
 - [ccch1mneyyy/dsh-TUI](https://github.com/ccch1mneyyy/dsh-TUI) — Claude Code 风格全屏终端 UI：像素鲸鱼顶栏、实时工作状态行、思考流式展开。
