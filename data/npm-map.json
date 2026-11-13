@@ -33,7 +33,7 @@
  },
  "https://github.com/940842546/dsh-usage-billing": {
   "npm": null,
-  "checkedAt": "2026-10-14"
+  "checkedAt": "2026-11-13"
  },
  "https://github.com/a903067276-rgb/dsh-file-mentions": {
   "npm": null,
@@ -153,7 +153,7 @@
  },
  "https://github.com/BeiZi6/dsh-theme-plugin": {
   "npm": null,
-  "checkedAt": "2026-10-14"
+  "checkedAt": "2026-11-13"
  },
  "https://github.com/BiBoyang/dsh-eval-harness": {
   "npm": null,
@@ -569,7 +569,7 @@
  },
  "https://github.com/Gumiho12345/dsh-plugin-net-access": {
   "npm": null,
-  "checkedAt": "2026-10-14"
+  "checkedAt": "2026-11-13"
  },
  "https://github.com/gwrsfsfeefdsfs/dsh-skill-curator": {
   "npm": null,
@@ -936,8 +936,8 @@
   "checkedAt": "2026-08-15"
  },
  "https://github.com/Lanxing6480/dsh-galgame": {
-  "npm": null,
-  "checkedAt": "2026-10-14"
+  "npm": "@lanxing/dsh-galgame",
+  "checkedAt": "2026-11-13"
  },
  "https://github.com/Laplace-bit/dsh-bell-notify": {
   "npm": "dsh-bell-notify",
@@ -1597,7 +1597,7 @@
  },
  "https://github.com/pk7j7sqryy-ops/dsh-token-pet": {
   "npm": null,
-  "checkedAt": "2026-10-14"
+  "checkedAt": "2026-11-13"
  },
  "https://github.com/PolinniZhong/dsh-omi-voice": {
   "npm": "dsh-omi-voice",

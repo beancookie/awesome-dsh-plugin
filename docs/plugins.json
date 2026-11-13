@@ -615,10 +615,10 @@
     "zh": "DSH Web 聊天界面 GalGame 演出层：立绘差分、流式思考气泡、打字机对话框与 GalGame 式提问/审批选项框，可随时切回普通聊天。",
     "en": "A visual-novel presentation layer for the DSH Web chat view: portrait diffs, streaming thought bubble, typewriter dialogue, and GalGame-style question/approval panels; switch back to the normal chat anytime."
    },
-   "npm": null,
+   "npm": "@lanxing/dsh-galgame",
    "stars": 21,
    "createdAt": "2026-08-14",
-   "install": "dsh plugin --profile web add github:Lanxing6480/dsh-galgame",
+   "install": "dsh plugin --profile web add @lanxing/dsh-galgame",
    "added": "2026-08-15"
   },
   {
