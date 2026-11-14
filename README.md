@@ -490,6 +490,7 @@ DeepSeek Harness 是 DeepSeek 开源的 agent harness——既是可直接运行
 - [BrambleXu/dsh-annotate](https://github.com/BrambleXu/dsh-annotate) — 面向 Vibe Coding 的浏览器元素标注插件：直接选取页面元素，并将结构化视觉反馈发送给 DeepSeek Harness Agent。
 - [BrambleXu/dsh-prompt-profile](https://github.com/BrambleXu/dsh-prompt-profile) — DeepSeek Harness 可复用 Markdown Prompt Profile，支持单轮模型选择、参数替换和状态恢复。
 - [BrambleXu/dsh-revdiff](https://github.com/BrambleXu/dsh-revdiff) — DeepSeek Harness 原生交互式 Git diff 审查，支持结构化批注并回传当前 Agent 会话。
+- [brungcm/dsh-server-resources](https://github.com/brungcm/dsh-server-resources) — 在右侧边栏新增“资源”页，在 Linux、macOS 和 Windows 上实时显示 CPU、内存、交换区和磁盘用量，并列出占用最多的进程、文件夹和文件。只读、无依赖；需要 dsh-better-sidebar。
 - [cdxiaodong/dsh-guardian](https://github.com/cdxiaodong/dsh-guardian) — Agent 安全护栏：拦截并审计所有工具调用，命中敏感操作就要求人工确认。
 - [CH4ACKO3/dsh-harmony](https://github.com/CH4ACKO3/dsh-harmony) — 让一个 DSH 插件在运行时修改另一个插件的代码，并提供 Patch 排序、冲突检查和热重载。
 - [DietCokewithSugar/dsh-user-experience](https://github.com/DietCokewithSugar/dsh-user-experience) — 帮你发现项目中可能存在的用户体验问题：自动走查 React/TypeScript 源码，定位问题并给出具体优化建议。
