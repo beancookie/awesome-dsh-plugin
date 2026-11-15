@@ -2641,7 +2641,7 @@
     "en": "Automatic post-conversation retrospective that distills useful experience into reusable skills for the skill library, with approval mode and skill-library governance (archive/restore, never deletes directly)."
    },
    "npm": "@weibaohui/hermes-loop",
-   "stars": 12,
+   "stars": 11,
    "createdAt": "2026-08-31",
    "install": "dsh plugin --profile web add @weibaohui/hermes-loop",
    "added": "2026-09-06"
@@ -4066,7 +4066,7 @@
     "en": "Deterministic research reports for Chinese public mutual funds: every key number traces back to a hashed source snapshot — gaps declared, never invented; research only, not investment advice."
    },
    "npm": "dsh-fund-research",
-   "stars": 66,
+   "stars": 68,
    "createdAt": "2026-08-19",
    "install": "dsh plugin --profile web add dsh-fund-research",
    "added": "2026-09-13"
@@ -4081,7 +4081,7 @@
     "en": "Industry and company research domain pack for DeepSeek Harness: chain maps, public-source tracking, company cards, and auditable reports — every number traces to a source, every gap is declared."
    },
    "npm": "dsh-industry-research",
-   "stars": 217,
+   "stars": 219,
    "createdAt": "2026-08-19",
    "install": "dsh plugin --profile web add dsh-industry-research",
    "added": "2026-09-13"
@@ -4126,7 +4126,7 @@
     "en": "Verifiable research-report engine: every claim is bound to immutable evidence snapshots, verified byte-for-byte, and sealed into a versioned report whose manifest hash can be recomputed."
    },
    "npm": "dsh-research-report",
-   "stars": 212,
+   "stars": 214,
    "createdAt": "2026-08-19",
    "install": "dsh plugin --profile web add dsh-research-report",
    "added": "2026-09-13"
@@ -4426,7 +4426,7 @@
     "en": "Full DSH configuration backup, restore, export, import, migrate and sync: settings, providers, plugins, MCP servers, skills, agent presets and workspaces in one ZIP, with encrypted backups, Git/WebDAV sync and a configuration marketplace."
    },
    "npm": "dsh-config-manager",
-   "stars": 317,
+   "stars": 343,
    "createdAt": "2026-08-14",
    "install": "dsh plugin --profile web add dsh-config-manager",
    "added": "2026-08-23"
@@ -5986,7 +5986,7 @@
     "en": "Automatic model-tier routing for DeepSeek Harness: one user instruction enters, one tier decision comes out — complex intent is planned on the strong tier and implemented on the cheap tier, with a deterministic guard and a TTL escalation fallback."
    },
    "npm": "dsh-autotier",
-   "stars": 1,
+   "stars": 2,
    "createdAt": "2026-09-09",
    "install": "dsh plugin --profile web add dsh-autotier",
    "added": "2026-09-13"
