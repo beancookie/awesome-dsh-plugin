@@ -310,6 +310,7 @@ DeepSeek Harness 是 DeepSeek 开源的 agent harness——既是可直接运行
 - [lynx-gt/dsh-subagent-tools](https://github.com/lynx-gt/dsh-subagent-tools) — 子代理委派的按调用覆盖：model/provider/persona/toolFilter、@preset: 引用与 provider/model 组合 id。
 - [lzszq/dsh-scholar](https://github.com/lzszq/dsh-scholar) — 学术助手插件。
 - [maddogfinance/dsh-trading](https://github.com/maddogfinance/dsh-trading) — 只读交易研究工作台：类型化行情数据接缝（可自带数据源）、多周期指标 regime 快照、dsh web 交互式 K 线卡（AI 标注需引用依据并经真实 K 线区间校验）、结构性禁止下单的 risk-guard。
+- [markthc/dsh-caidazi-boards](https://github.com/markthc/dsh-caidazi-boards) - 存储、AI基建、PCB/CCL及美国数据中心政策研究看板，结合财搭子MCP数据、Yahoo行情图表和版本化研究快照，实时刷新需财搭子API Key。
 - [MAXeaglet/dsh-bash-terminal](https://github.com/MAXeaglet/dsh-bash-terminal) — 一个 shell 工具：Windows 上统一执行 PowerShell / Git Bash / WSL，外加交互式 PTY 终端，默认终端由用户在设置中选择。
 - [maxmilian/dsh-forge](https://github.com/maxmilian/dsh-forge) — 面向自建 Gitea / Forgejo 的只读工具，走两者共用的 REST API：仓库列表、议题与 PR 搜索、PR diff 与变更文件，以及 Actions 运行、任务与任务日志。npm `@maxhsu/dsh-forge`。
 - [maxmilian/dsh-grafana-query](https://github.com/maxmilian/dsh-grafana-query) — 面向 Grafana 的只读工具，经数据源代理：实例健康、数据源列表、instant 与 range PromQL 查询、当前告警状态与已配置的告警规则。npm `dsh-grafana-query`。
