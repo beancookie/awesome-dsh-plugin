@@ -156,6 +156,7 @@ DeepSeek Harness is DeepSeek's open-source agent harness — a runnable coding a
 - [Zhangbo-cn/dsh-voice-input-plugin](https://github.com/Zhangbo-cn/dsh-voice-input-plugin) - Composer microphone: click for continuous monitoring or hold to talk; browser speech recognition types words into the composer as you speak, while replies are read aloud as they stream via host Edge TTS (sentence-split), pausing recognition while reading to avoid echo, click to stop.
 - [zhu1090093659/dsh-web-ui](https://github.com/zhu1090093659/dsh-web-ui) - Plugin and skin collection for the DSH Web UI: task board, Git graph, right-side panel, remote mobile UI, pet, live token stats, and a skin center.
 - [ZSeven-W/dsh-openpencil](https://github.com/ZSeven-W/dsh-openpencil) - OpenPencil design preview and editing plugin.
+- [zuoyunlai/dsh-rightbar-quicknav](https://github.com/zuoyunlai/dsh-rightbar-quicknav) - Vertical icon rail under the right-sidebar toggle: collapsed it shows three icons, hovering expands every right-sidebar tab, and clicking one opens that tab.
 
 ### Themes & Appearance
 - [BeiZi6/dsh-theme-plugin](https://github.com/BeiZi6/dsh-theme-plugin) - Theme studio for the DSH Web GUI: five built-in presets plus fully customizable light/dark palettes (accent, background, foreground, UI and code fonts, translucent sidebar, contrast), hot-swapped instantly and persisted in localStorage.
@@ -174,6 +175,7 @@ DeepSeek Harness is DeepSeek's open-source agent harness — a runnable coding a
 - [wsxwj123/dsh-plugins#theme-gallery](https://github.com/wsxwj123/dsh-plugins/tree/main/packages/theme-gallery) - Fifteen curated theme families with complete light and dark palettes that follow the native Light, Dark, and Follow system modes.
 - [xiaoyanzi191/dsh-premium-themes](https://github.com/xiaoyanzi191/dsh-premium-themes) - 8 curated color schemes plus custom palette import (name + scheme + seed colors derive a full token map), a Palette row in General settings, hot-plug install.
 - [zhtx2024/dsh-skin-switcher](https://github.com/zhtx2024/dsh-skin-switcher) - Adds a Skins page to Settings that auto-discovers installed skins for one-click switching, with one-click restore to the official default look.
+- [zuoyunlai/dsh-theme-palette](https://github.com/zuoyunlai/dsh-theme-palette) - Five palettes for DeepSeek Harness — mono, warm sand, indigo, moss and a custom three-colour palette — each rebuilt in OKLCH for light and dark, with text and surface contrast solved per palette. Includes config export/import codes and a high-contrast mode.
 
 ### Sessions & Messages
 - [Anionex/dsh-turn-rewind](https://github.com/Anionex/dsh-turn-rewind) - Rewind conversation and workspace state, powered by a persistent Change Ledger.
@@ -244,6 +246,7 @@ DeepSeek Harness is DeepSeek's open-source agent harness — a runnable coding a
 - [xiejianjun000/eco-dsh-plugins](https://github.com/xiejianjun000/eco-dsh-plugins) - A scored memory-tree plugin (eco-memory-tree): structured long-term memory with BM25/Chinese retrieval and two-way Obsidian sync.
 - [Xplore-LAB/dsh-plugin-asmemory](https://github.com/Xplore-LAB/dsh-plugin-asmemory) - Action-state time memory: record typed states and actions, then analyze trends, anomalies, and causality.
 - [zilliztech/memsearch](https://github.com/zilliztech/memsearch) - Shared Markdown memory for DSH and other coding agents, with automatic capture, pre-step context injection, searchable recall, and a review panel.
+- [zuoyunlai/dsh-chronicle](https://github.com/zuoyunlai/dsh-chronicle) - Daily chronicle for DeepSeek Harness: collects session events, closes the previous day into a Markdown week file, and extracts durable facts — decisions, conventions, pitfalls — that merge across days and can be superseded. 10 tools, a read-only sidebar panel, rule export, and a standalone Obsidian vault; zero third-party dependencies.
 
 ### Tools & Capabilities
 - [1na-ko/dsh-hdc-bridge](https://github.com/1na-ko/dsh-hdc-bridge) - HarmonyOS device bridge: hdc screenshot/install/log/crash/UI automation loop with read_image, official-first versioned API knowledge (SDK .d.ts + offline bundled docs), and a DevEco CLI build/sign/lint lane.
@@ -380,6 +383,7 @@ DeepSeek Harness is DeepSeek's open-source agent harness — a runnable coding a
 - [zimai233/dsh-wash-calendar](https://github.com/zimai233/dsh-wash-calendar) - Recurring-habit scheduling from pure date math: next occurrence, range schedules, and overdue advice.
 - [ZK-Andy/dsh-continual-evolve](https://github.com/ZK-Andy/dsh-continual-evolve) - Continual self-evolution: versioned, auditable, rollback-safe harness state (prompts, memory, skills, subagent specs) refined from session trajectories, with review gates and hot-reloaded skills.
 - [zp-home/dsh-recommend](https://github.com/zp-home/dsh-recommend) - Transparent rankings and recommendations for the DSH plugin ecosystem: daily auto-fetched topic data, an open scoring model, and rank/search/recommend tools with a settings-page leaderboard.
+- [zuoyunlai/dsh-healthkit](https://github.com/zuoyunlai/dsh-healthkit) - Read-only health check for DeepSeek Harness: a 0–10 score across seven weighted dimensions, findings with fix hints, cross-restart verification of whether past findings were fixed, and a baseline CI gate that only fails on new problems.
 
 ### Skills
 - [creght-dev/skills](https://github.com/creght-dev/skills) - Skills for building websites on the Creght platform: CLI pull/push sync, page and component conventions, CMS, forms, auth, SEO, publishing and version rollback.
@@ -395,6 +399,7 @@ DeepSeek Harness is DeepSeek's open-source agent harness — a runnable coding a
 - [sandbaseai/sandbase-skills](https://github.com/sandbaseai/sandbase-skills) - 88 Agent Skills for research, social intelligence, marketing, and business workflows, mounted through a native DSH bundle with optional project-scoped installation of multi-source-search.
 - [weibaohui/skills-management](https://github.com/weibaohui/skills-management) - Skill marketplace and manager: manage skills from all local coding agents (10+ executors, incl. Claude Code and Codex) in one page and import them into the DSH skill library; built-in market of 6600+ skills, per-skill token-overhead stats, and model visibility control.
 - [yanglaofish/dsh-skill-manager](https://github.com/yanglaofish/dsh-skill-manager) - Skill lifecycle manager for DSH: list / edit / import / enable / disable skills under a global-workspace-session three-layer model, with unified settings & conversation UI, cross-layer search and pagination.
+- [zuoyunlai/lunheng-article-pipeline-dsh](https://github.com/zuoyunlai/lunheng-article-pipeline-dsh) - DeepSeek Harness bundle registering one skill that turns long-form production (academic papers, industry analysis, business commentary) into a 9-role pipeline across 6 phases with triangular evidence verification, a 26-check M-gate and 4 human checkpoints.
 
 ### Workflow & Automation
 - [940842546/dsh-permissions](https://github.com/940842546/dsh-permissions) - Claude Code-style permission rules engine: hard/deny/ask/allow tiers with a hard tier above full access, workspace-scoped rules, wildcard path protection, and a visual staged editor; rules persist in settings.yaml.
@@ -586,6 +591,7 @@ DeepSeek Harness is DeepSeek's open-source agent harness — a runnable coding a
 - [weibaohui/dsh-kite](https://github.com/weibaohui/dsh-kite) - Kite-flying engine: while the agent codes, an animated kite drifts and sways in the wind on screen, tethered to the bottom edge of the window — the busier the agent, the denser the events and the higher it flies; ships a Weifang-style framework card deck (sand-swallow, goldfish, butterfly, bagua, dragon-head and more, hard-wing / soft-wing / flat / dimensional frames), with shape x pattern x colors all swappable data configs, and supports pasting user images onto the kite face with real-time affine transforms as the kite banks.
 - [weibaohui/dsh-matrix](https://github.com/weibaohui/dsh-matrix) - Matrix digital rain: drapes the chat window in the classic green character rain — cascading columns with incandescent white heads and green tails, streaming the tokens the agent is generating into the rain in real time; opacity, speed, density, font size and colors are all adjustable, and rain intensity follows agent activity.
 - [william-jin-cmu/dsh-stickers](https://github.com/william-jin-cmu/dsh-stickers) - Bidirectional sticker reactions between user and agent.
+- [zuoyunlai/dsh-pet-plugin](https://github.com/zuoyunlai/dsh-pet-plugin) - A photo-real desk pet for the DSH window: five personas with five expression sprites each, whose dance, hair-flip and walk actions play as 24 fps VP9 alpha video clips; proactive lines with an optional edge-tts neural voice, a right-click menu and a /dsh-pet command, plus a small chat box that answers through a one-shot host model call without writing to your session.
 
 ## Related
 
