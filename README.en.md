@@ -465,6 +465,7 @@ DeepSeek Harness is DeepSeek's open-source agent harness — a runnable coding a
 
 ### Models & Providers
 - [AgentsDanceAI/dsh-plugin-cloud](https://github.com/AgentsDanceAI/deepseek-harness-cloud/tree/main/packages/dsh-plugin-cloud) - Connect to the DSH Cloud gateway (hosted or self-hosted): device-authorization login, and one command writes multi-provider models (DeepSeek / GPT / Claude / Gemini and 20 more) into the user config layer.
+- [apolenkov/dsh-provider-proxy](https://github.com/apolenkov/dsh-provider-proxy) - Per-provider and per-model outbound proxy routing for model calls, configured from a Settings page.
 - [btspoony/dsh-llm-fallbacks](https://github.com/btspoony/dsh-llm-fallbacks) - Role-based LLM retry & fallback strategies.
 - [dsh-vision](https://github.com/dsh-external/dsh-vision) - Vision bridge: view_image tool over any OpenAI-compatible VLM.
 - [dylan121322/llm-adaptive](https://github.com/dylan121322/llm-adaptive) - Adaptive model routing: per-request complexity classification with automatic provider routing.
