@@ -901,7 +901,7 @@
     "en": "Terminal-style input history for the Web composer: arrow keys restore drafts/cursor position exactly, Ctrl+R reverse search, workspace-scoped recall with sliding-context awareness."
    },
    "npm": "dsh-composer-history",
-   "stars": 18,
+   "stars": 19,
    "createdAt": "2026-08-13",
    "install": "dsh plugin --profile web add dsh-composer-history",
    "added": "2026-08-19"
@@ -1606,7 +1606,7 @@
     "en": "Four-source migration wizard: move sessions, memory, skills, and slash commands from Claude Code, Codex, OpenCode, and Hermes into DSH and keep working."
    },
    "npm": "dsh-claude-move",
-   "stars": 32,
+   "stars": 33,
    "createdAt": "2026-08-13",
    "install": "dsh plugin --profile web add dsh-claude-move",
    "added": "2026-08-19"
@@ -1621,7 +1621,7 @@
     "en": "Cross-device session sync: a dedicated git mirror with append-only three-way merging (keep-both + fork conflict resolution), a /sync command, and automatic push/pull."
    },
    "npm": "dsh-session-sync",
-   "stars": 29,
+   "stars": 38,
    "createdAt": "2026-08-16",
    "install": "dsh plugin --profile web add dsh-session-sync",
    "added": "2026-08-19"
@@ -2011,7 +2011,7 @@
     "en": "In-window in-place rewind (Claude Code /rewind semantics): a ↶ button beside each user message truncates the model context back to any message, with optional Claude Code-style file rollback (disk-persisted before backups)."
    },
    "npm": "dsh-rewind-plugin",
-   "stars": 255,
+   "stars": 284,
    "createdAt": "2026-08-17",
    "install": "dsh plugin --profile web add dsh-rewind-plugin",
    "added": "2026-08-26"
@@ -2371,7 +2371,7 @@
     "en": "Second-model auto-review on the approval chain: a read-only reviewer subagent returns structured allow/deny verdicts with reasons, fail-closed by default."
    },
    "npm": "dsh-auto-review",
-   "stars": 247,
+   "stars": 253,
    "createdAt": "2026-08-13",
    "install": "dsh plugin --profile web add dsh-auto-review",
    "added": "2026-08-19"
@@ -2416,7 +2416,7 @@
     "en": "Prompt-injection, jailbreak, and secret-leak detection: an Aho-Corasick engine interposes allow/ask/block at three seams — user messages, tool arguments, and tool results."
    },
    "npm": "dsh-defend",
-   "stars": 27,
+   "stars": 28,
    "createdAt": "2026-08-16",
    "install": "dsh plugin --profile web add dsh-defend",
    "added": "2026-08-19"
@@ -2446,7 +2446,7 @@
     "en": "Local document knowledge base: hybrid semantic + keyword retrieval, diversity reranking, citation-aware injection, SQLite index, zero model downloads."
    },
    "npm": "dsh-library",
-   "stars": 26,
+   "stars": 28,
    "createdAt": "2026-08-16",
    "install": "dsh plugin --profile web add dsh-library",
    "added": "2026-08-19"
@@ -2491,7 +2491,7 @@
     "en": "Declarative allow/deny/ask permission rules plus Codex-style per-process network policy (with a built-in local HTTP/CONNECT proxy), full audit logging and hot rule reload."
    },
    "npm": "dsh-permission-rules",
-   "stars": 136,
+   "stars": 137,
    "createdAt": "2026-08-13",
    "install": "dsh plugin --profile web add dsh-permission-rules",
    "added": "2026-08-19"
@@ -2926,7 +2926,7 @@
     "en": "Give DeepSeek Harness a real office environment. Univer Office Plugin brings spreadsheets, docs, slides, canvases, relational tables, and more into one runtime — with connected data, validation, versioned changes, and isolated worktrees for multi-agent collaboration."
    },
    "npm": "dsh-univer-office",
-   "stars": 706,
+   "stars": 735,
    "createdAt": "2026-08-15",
    "install": "dsh plugin --profile web add dsh-univer-office",
    "added": "2026-08-19"
@@ -4111,7 +4111,7 @@
     "en": "A plugin-development knowledge base packaged as on-demand agent skills: official constraints, task workflows, API references, and community gotchas."
    },
    "npm": "dsh-plugin-guide",
-   "stars": 66,
+   "stars": 69,
    "createdAt": "2026-08-13",
    "install": "dsh plugin --profile web add dsh-plugin-guide",
    "added": "2026-08-19"
@@ -4261,7 +4261,7 @@
     "en": "Per-change approval gate before file writes and tool calls: write/edit/stream operations show red/green line-level diffs before release, with bash command approval (off by default) and configurable gating."
    },
    "npm": "dsh-edit-approval",
-   "stars": 6,
+   "stars": 7,
    "createdAt": "2026-08-17",
    "install": "dsh plugin --profile web add dsh-edit-approval",
    "added": "2026-08-26"
@@ -4861,7 +4861,7 @@
     "en": "88 Agent Skills for research, social intelligence, marketing, and business workflows, mounted through a native DSH bundle with optional project-scoped installation of multi-source-search."
    },
    "npm": null,
-   "stars": 210,
+   "stars": 212,
    "createdAt": "2026-07-29",
    "install": "dsh plugin --profile web add github:sandbaseai/sandbase-skills",
    "added": "2026-08-19"
@@ -5251,7 +5251,7 @@
     "en": "Production-grade GitHub CI integration: a composite action, a polling PR review bot (idempotent inline comments), and a status-check gate; all writes pass through approval."
    },
    "npm": "@perrylink/dsh-github",
-   "stars": 29,
+   "stars": 31,
    "createdAt": "2026-08-13",
    "install": "dsh plugin --profile web add @perrylink/dsh-github",
    "added": "2026-08-19"
@@ -5776,7 +5776,7 @@
     "en": "OpenTelemetry and Langfuse observability export: turn/step/tool/LLM spans plus token and cost metrics, with sanitized collection and offline buffering with retry."
    },
    "npm": "dsh-observe",
-   "stars": 14,
+   "stars": 15,
    "createdAt": "2026-08-16",
    "install": "dsh plugin --profile web add dsh-observe",
    "added": "2026-08-19"
