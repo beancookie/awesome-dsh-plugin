@@ -461,6 +461,7 @@ DeepSeek Harness is DeepSeek's open-source agent harness — a runnable coding a
 - [PerryLink/dsh-reach](https://github.com/PerryLink/dsh-reach) - Multi-channel decision and remote-control bridge: pushes DSH approval and question cards to IM channels (WeChat iLink, Telegram, Feishu) and answers them from chat, with a session console, per-channel security, and an open push service.
 - [PerryLink/dsh-ticktick](https://github.com/PerryLink/dsh-ticktick) - TickTick / Dida365 task bridge for DeepSeek Harness: a session-header task panel (list filter, quick add, complete, delete, due dates, drag reorder), eleven curated agent tools, a plugin settings card, and a typed Remote service — all over the official TickTick MCP endpoint.
 - [dsh-feishu](https://github.com/PGZXB/dsh-feishu) - Feishu (Lark) UI for DeepSeek Harness: panel-driven control console, in-card approvals and questions, live streaming cards, one-QR setup.
+- [radres/dsh-plugin-call-me](https://github.com/radres/dsh-plugin-call-me) - Rings the user's iPhone through the /call-me app when a run needs an answer: the agent's question is read aloud and the spoken reply goes back into the run as text; the app is a paid subscription.
 - [dsh-notify-windows](https://github.com/SeverusZh/dsh-notify-windows) - Windows notifications, zero dependencies.
 
 ### Models & Providers
