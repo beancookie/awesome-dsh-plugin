@@ -403,7 +403,7 @@ DeepSeek Harness 是 DeepSeek 开源的 agent harness——既是可直接运行
 - [btspoony/dsh-advisor](https://github.com/btspoony/dsh-advisor) — 搭配一个副模型，每轮被动审查并注入见解。
 - [btspoony/mstar-harness](https://github.com/btspoony/mstar-harness) — 技能驱动的 harness/loop 工程化工作流插件。
 - [chenzhi-clude/dsh-hooks-pack](https://github.com/chenzhi-clude/dsh-hooks-pack) — 一键启用 Claude Code / Codex hooks：自动发现已有 ~/.claude、~/.codex hook 配置并跑在官方桥接插件上，显式注入沙箱策略，hook 命令不再静默失效。
-- [ECCVIK/LMTAgent](https://github.com/ECCVIK/LMTAgent) — 多智能体研发与安全审计编排工作台（`v0.23.2`）：8 个角色预设、1:1 会话工作区隔离、AI 需求澄清与无交集分片拆解、4-Wave DAG 并发派发与自动接力、PG/SQLite WAL 事实库、写后越界审计及常驻 Web 控制台。
+- [ECCVIK/LMTAgent](https://github.com/ECCVIK/LMTAgent) — 多智能体软件研发编排工作台（dsh-lmtagent v1.0.0）：8 个角色预设、1:1 会话工作区隔离、12 个精简 lmt_* 工具与 12 项纯净工程技能、实验性推测 DAG 调度、Git 越界回滚、预算熔断及全双语 Web 控制台（独立命名空间零冲突共存）。
 - [EvilIrving/dsh-proof](https://github.com/EvilIrving/dsh-proof) — 独立只读验收层：顶层 turn 收尾前 spawn 只读 verifier，未通过时把缺口注回主 agent。
 - [fakechris/dsh-track](https://github.com/fakechris/dsh-track) — 嵌入式任务管理引擎：决策点协议、念头捕获墙、Linear 形 issue 存储。
 - [fuhefei/dsh-sentinel](https://github.com/fuhefei/dsh-sentinel) — 条件驱动唤醒：file/command/http/process/webhook 持久监视，触发即唤醒 agent。
