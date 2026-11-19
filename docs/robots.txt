@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://beancookie.github.io/awesome-dsh-plugin/sitemap.xml
