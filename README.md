@@ -436,6 +436,7 @@ DeepSeek Harness 是 DeepSeek 开源的 agent harness——既是可直接运行
 - [weibaohui/dsh-thinktank](https://github.com/weibaohui/dsh-thinktank) — 智囊团：内置 144 个经典思维模型库（决策/战略/认知/心理/沟通/学习/系统/创新/执行九大分类），输入一个问题即可用选中的多个模型并行 AI 分析，产出含共识/分歧/盲区/行动清单的综合报告页；支持自动分析与提示词往返导入两种模式。
 - [weibaohui/experts-management](https://github.com/weibaohui/experts-management) — 专家管理：管理 ntd 格式的专家与专家团队（plugin.json + Agent MD + 技能集），内置 50+ 专家市场，`/expert-名称` 以专家身份执行任务，不占模型目录 token。
 - [whateverboy2333/dsh-flat-teams](https://github.com/whateverboy2333/dsh-flat-teams) — 无队长扁平 Agent 团队：跨窗口结构化任务派发（状态机 + 事件流 + 离线唤醒）、记录员进展服务与 Web 两级看板。
+- [wychmod/dsh-mini-superagent](https://github.com/wychmod/dsh-mini-superagent) — 主会话把任务派给独立的后台子会话执行，立即返回、报告自动回流；侧边栏「派发工作台」看并发、排队、批次进度与失败原因，可取消、重试、归档；提供 10 个 `dispatch_*` 工具，零运行时依赖。
 
 ### 🔔 通知与集成
 - [Abel-86/task-chime](https://github.com/Abel-86/task-chime) — 审批/权限请求与任务完成提示音，可在 GUI 设置中自定义声音、音量与冷却时间。
