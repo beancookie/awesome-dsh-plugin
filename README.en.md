@@ -568,6 +568,7 @@ DeepSeek Harness is DeepSeek's open-source agent harness — a runnable coding a
 - [beancookie/dsh-plugin-nintendo](https://github.com/beancookie/dsh-plugin-nintendo) - NES emulator built on jsnes: play in a popup window with a hotkey toggle, agents can load ROMs via the `nes_play` tool, with save/load and screenshots.
 - [FlytoMAYDAY80/dsh-pet](https://github.com/FlytoMAYDAY80/dsh-pet) - Desktop whale pet with live session state.
 - [hellodigua/dsh-emoji](https://github.com/hellodigua/dsh-emoji) - Automatically add emojis to AI replies.
+- [heswy/dsh-game-market](https://github.com/heswy/dsh-game-market) - DSH game market and runtime: games fill the main workspace while the agent runs long tasks, a whale in the corner shows agent status, and progress auto-saves and resumes; 5 built-in games with a game SDK/CLI and community catalog.
 - [HuanLinOTO/dsh-plugin-d399](https://github.com/HuanLinOTO/dsh-plugin-d399) - Pops up a mini-game menu (wordle, match-3, extensible) while the model generates.
 - [JAdpp/dsh-whale-galgame](https://github.com/JAdpp/dsh-whale-galgame) - Multi-character Galgame conversation view with separate character and reply-model selection, per-character affection, memory, dialogue history, and CG galleries, plus responses informed by task events across Harness sessions.
 - [Laplace-bit/dsh-pianist](https://github.com/Laplace-bit/dsh-pianist) - AI piano performance: ask the agent to play a piece on a Canvas2D grand piano with real Salamander Grand samples and a playable 88-key keyboard.

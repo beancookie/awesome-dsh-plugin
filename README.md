@@ -568,6 +568,7 @@ DeepSeek Harness 是 DeepSeek 开源的 agent harness——既是可直接运行
 - [beancookie/dsh-plugin-nintendo](https://github.com/beancookie/dsh-plugin-nintendo) — 基于 jsnes 的 NES 模拟器：独立弹窗游玩、快捷键开关，Agent 可调用 `nes_play` 工具加载 ROM，支持存档/读档/截图。
 - [FlytoMAYDAY80/dsh-pet](https://github.com/FlytoMAYDAY80/dsh-pet) — 桌面小鲸鱼，实时感知会话状态。
 - [hellodigua/dsh-emoji](https://github.com/hellodigua/dsh-emoji) — 为 AI 回复自动添加表情。
+- [heswy/dsh-game-market](https://github.com/heswy/dsh-game-market) — DSH 游戏市场与运行时：Agent 跑长任务时游戏铺满主工作区，右下角小鲸鱼显示状态，进度自动保存可续；内置 5 款游戏，附游戏 SDK/CLI 与社区目录。
 - [HuanLinOTO/dsh-plugin-d399](https://github.com/HuanLinOTO/dsh-plugin-d399) — 模型生成时弹出小游戏菜单（wordle/消消乐，可扩展）。
 - [JAdpp/dsh-whale-galgame](https://github.com/JAdpp/dsh-whale-galgame) — 多角色 Galgame 对话界面：角色与回复模型可独立切换，分角色保存好感度、记忆、对话历史与 CG 图鉴，并根据 Harness 跨会话任务事件做出角色回应。
 - [Laplace-bit/dsh-pianist](https://github.com/Laplace-bit/dsh-pianist) — AI 钢琴演奏：让 Agent 弹一曲真钢琴，Canvas2D 三角钢琴 + Salamander Grand 真实采样音色，88 键可弹，附沉浸式舞台。
