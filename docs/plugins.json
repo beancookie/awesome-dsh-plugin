@@ -1816,7 +1816,7 @@
     "en": "Rewind a conversation and its workspace together without touching Git; every rewind is a fork and /redo reverses it."
    },
    "npm": "dsh-filesnap",
-   "stars": 49,
+   "stars": 48,
    "createdAt": "2026-08-27",
    "install": "dsh plugin --profile web add dsh-filesnap",
    "added": "2026-09-06"
@@ -1906,7 +1906,7 @@
     "en": "Execution maze for DSH sessions: main path, detours and backtracks on one timeline with per-step data tracks (tools, tokens, context pressure), deterministic analysis (outcome evidence, behavior signals) and comparison of up to five sessions; reads session logs and renders live inside a session tab."
    },
    "npm": "dsh-maze",
-   "stars": 94,
+   "stars": 96,
    "createdAt": "2026-08-18",
    "install": "dsh plugin --profile web add dsh-maze",
    "added": "2026-10-10"
@@ -3571,7 +3571,7 @@
     "en": "Integrates TypeSafe Jev for skill and file selection, task supervision, shared-finding corrections, tool-output filtering, approval assistance, and recorded-stage navigation in DeepSeek Harness; all features are disabled by default."
    },
    "npm": null,
-   "stars": 213,
+   "stars": 218,
    "createdAt": "2026-09-27",
    "install": "dsh plugin --profile web add github:luobosibing2/dsh-jev-plugin",
    "added": "2026-10-10"
@@ -3736,7 +3736,7 @@
     "en": "Tavily search, extract, map and crawl tools with multi-key rotation, failover on HTTP 401/429/432/433, and a load-balance mode that caps in-flight requests per Tavily account; a key and usage card on the Plugins page. The built-in web_search is never replaced."
    },
    "npm": null,
-   "stars": 13,
+   "stars": 14,
    "createdAt": "2026-08-15",
    "install": "dsh plugin --profile web add github:moguiyu/dsh-tavily",
    "added": "2026-10-10"
@@ -4096,7 +4096,7 @@
     "en": "Laya typed decisions (noul yes/no, choice, score) as a first-class Cordis service plus the laya_ask and laya_plan tools; a client of a self-started laya-mcp sidecar, so it installs nothing itself."
    },
    "npm": "dsh-laya",
-   "stars": 7,
+   "stars": 9,
    "createdAt": "2026-09-21",
    "install": "dsh plugin --profile web add dsh-laya",
    "added": "2026-09-22"
@@ -5041,7 +5041,7 @@
     "en": "Find and compose DSH plugins from a task description, then open an independent chat environment or install the plan into the current profile."
    },
    "npm": "dsh-autocompose",
-   "stars": 1,
+   "stars": 2,
    "createdAt": "2026-09-30",
    "install": "dsh plugin --profile web add dsh-autocompose",
    "added": "2026-10-10"
@@ -6361,7 +6361,7 @@
     "en": "Detect DSH plugin conflicts and loading failures, quarantine affected bundles and recover them, with offline startup rescue."
    },
    "npm": "dsh-compat-guardian",
-   "stars": 1,
+   "stars": 2,
    "createdAt": "2026-09-30",
    "install": "dsh plugin --profile web add dsh-compat-guardian",
    "added": "2026-10-10"
