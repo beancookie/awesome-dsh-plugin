@@ -440,6 +440,7 @@ DeepSeek Harness 是 DeepSeek 开源的 agent harness——既是可直接运行
 ### 🔔 通知与集成
 - [Abel-86/task-chime](https://github.com/Abel-86/task-chime) — 审批/权限请求与任务完成提示音，可在 GUI 设置中自定义声音、音量与冷却时间。
 - [Andyqwe44/dsh-notify-win](https://github.com/Andyqwe44/dsh-notify-win) — 原生 Windows toast + 任务栏闪烁，任务完成/审批/提问时触发，支持 Win10/11，npm 安装 `dsh plugin --profile web add dsh-notify-win`。
+- [bgfhsnm/dsh-ask-alert](https://github.com/bgfhsnm/dsh-ask-alert) — 提问/审批/任务完成提醒：右下角置顶卡片 + 任务栏闪烁 + 提示音，问题未回答时每 20 秒重复提醒（可配置），不依赖系统通知开关。
 - [BiBoyang/dsh-im-bridge](https://github.com/BiBoyang/dsh-im-bridge) — 微信（iLink）双向桥：turn 完成/批准请求推送、聊天内批准与消息注入、持久去重与长回复收敛分段；通道层为多 IM 预留。
 - [bill9109/dsh-web-ui-notify](https://github.com/bill9109/dsh-web-ui-notify) — 桌面通知提醒。
 - [bill9109/dsh-webbridge](https://github.com/bill9109/dsh-webbridge) — DSH 结合 Kimi WebBridge。

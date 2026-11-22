@@ -440,6 +440,7 @@ DeepSeek Harness is DeepSeek's open-source agent harness — a runnable coding a
 ### Notifications & Integrations
 - [Abel-86/task-chime](https://github.com/Abel-86/task-chime) - Plays local sounds for approval/permission requests and task completion, configurable from the Web GUI settings.
 - [Andyqwe44/dsh-notify-win](https://github.com/Andyqwe44/dsh-notify-win) - Native Windows toast + taskbar flash for task done / approval / ask_user_question, Win10/11, npm install `dsh plugin --profile web add dsh-notify-win`.
+- [bgfhsnm/dsh-ask-alert](https://github.com/bgfhsnm/dsh-ask-alert) - Always-on-top alert card, taskbar flash and sound when the agent asks a question, waits for approval, or finishes a task, with repeated reminders while unanswered.
 - [BiBoyang/dsh-im-bridge](https://github.com/BiBoyang/dsh-im-bridge) - Two-way WeChat (iLink) bridge: turn-end and approval-request push, in-chat approve/reject and message injection, persistent dedup and convergent long-reply chunking; channel layer extensible to other IMs.
 - [bill9109/dsh-web-ui-notify](https://github.com/bill9109/dsh-web-ui-notify) - Desktop notification reminders.
 - [bill9109/dsh-webbridge](https://github.com/bill9109/dsh-webbridge) - DSH meets Kimi WebBridge.
