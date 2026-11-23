@@ -478,6 +478,7 @@ DeepSeek Harness is DeepSeek's open-source agent harness — a runnable coding a
 - [tianxia--/dsh-llm-local-token](https://github.com/tianxia--/dsh-llm-local-token) - Reuses local Codex CLI and Claude Code OAuth credentials as OpenAI Codex and Anthropic model routes, with subscription usage shown in Web.
 
 ### Development & Runtime
+- [DSHJJJ/dsh-oauth](https://github.com/DSHJJJ/dsh-oauth) - OAuth/OIDC sign-in for DSH Web: GitHub, Google, GitLab, Gitee, Microsoft Entra, Discord, Slack, Keycloak/OIDC and Feishu/Lark, configured in Settings -> OAuth with per-account allowlists that apply on the next request.
 - [030611/dsh-telemetry-redactor](https://github.com/030611/dsh-telemetry-redactor) - Redacts supported secret patterns from the `session-telemetry/record` export copy before configured telemetry backends receive it.
 - [030611/dsh-verification-receipt](https://github.com/030611/dsh-verification-receipt) - Writes local JSONL summaries of per-turn tool counts and coarse verification signals without storing prompts, tool arguments, or result text.
 - [1420079678-ctrl/agent-body](https://github.com/1420079678-ctrl/agent-body) - Organ-based plugin layer: plugins declare capabilities, senses and reflexes, a nerve impulse routes each command to the organ that owns it, reflex arcs fire with zero model calls, quiet periods consolidate run history into memory cards, and a failing organ heals through attribution, prescription and re-check.
