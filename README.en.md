@@ -175,6 +175,8 @@ DeepSeek Harness is DeepSeek's open-source agent harness — a runnable coding a
 - [xiaoyanzi191/dsh-premium-themes](https://github.com/xiaoyanzi191/dsh-premium-themes) - 8 curated color schemes plus custom palette import (name + scheme + seed colors derive a full token map), a Palette row in General settings, hot-plug install.
 - [zhtx2024/dsh-skin-switcher](https://github.com/zhtx2024/dsh-skin-switcher) - Adds a Skins page to Settings that auto-discovers installed skins for one-click switching, with one-click restore to the official default look.
 
+- [zuoyunlai/dsh-zhuoer-theme](https://github.com/zuoyunlai/dsh-zhuoer-theme) - Eleven built-in color themes plus a custom theme editor with eight color anchors, style presets and screenshot color picking; applies design tokens locally through the host theme API.
+
 ### Sessions & Messages
 - [Anionex/dsh-turn-rewind](https://github.com/Anionex/dsh-turn-rewind) - Rewind conversation and workspace state, powered by a persistent Change Ledger.
 - [bill9109/dsh-conversation-share](https://github.com/bill9109/dsh-conversation-share) - Share any excerpt of a conversation.
