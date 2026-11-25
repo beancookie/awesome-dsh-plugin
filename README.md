@@ -237,6 +237,7 @@ DeepSeek Harness 是 DeepSeek 开源的 agent harness——既是可直接运行
 - [qwert702/dsh-context-compressor](https://github.com/qwert702/dsh-context-compressor) — 面向小模型的上下文压缩：把工具输出与对话历史压缩成几句话，为真正的任务腾出上下文；自动在新会话中继续。
 - [qwert702/dsh-continue-on-limit](https://github.com/qwert702/dsh-continue-on-limit) — 本地模型触顶输出 token 上限时自动补发 continue：双源检测（turn-max-tokens 节点 + provider 响应），maxConsecutive 护栏（默认 3）防止死循环。
 - [qwert702/dsh-memory](https://github.com/qwert702/dsh-memory) — DSH Web 的项目级与全局长期记忆：独立的 POST /items 路由避免路径冲突，存储前对多轮工具调用上下文压缩，去重与会话持久化存储。
+- [shinji00222/dsh-persona-continuity-bot](https://github.com/shinji00222/dsh-persona-continuity-bot) — 为 DeepSeek Harness 的每个人格提供独立本地 Markdown 跨会话记忆（无需 Git），支持普通会话选人格、人格工作台、凭据自动脱敏与可选完整 Bot 模式。
 - [Tyan66666/billion-context-dsh](https://github.com/Tyan66666/billion-context-dsh) — 模型驱动的上下文压缩：由模型决定何时压缩、压缩什么。
 - [weibaohui/context-razor](https://github.com/weibaohui/context-razor) — 上下文剃刀：把当前会话上下文逐条列出（角色/预览/≈token 估算），超阈值标红，勾选后不经 LLM 精确裁剪，删了什么一目了然。
 - [weibaohui/dsh-kb](https://github.com/weibaohui/dsh-kb) — 团队知识库：离线知识共享（FDE 盒子场景），浏览/全文检索/加工入口；raw 入料自动入队、bot 会话串行蒸馏成文（Karpathy LLM Wiki 模式：raw 不可变 / 两步加工 / log 流水 / 月度 lint）。
