@@ -32,7 +32,7 @@ DeepSeek Harness 是 DeepSeek 开源的 agent harness——既是可直接运行
 
 </details>
 
-**504** 个插件 · 欢迎 [PR](#贡献)
+**507** 个插件 · 欢迎 [PR](#贡献)
 
 ## 目录
 
@@ -337,12 +337,15 @@ DeepSeek Harness 是 DeepSeek 开源的 agent harness——既是可直接运行
 - [omdsh-dev/dsh-toolkit](https://github.com/omdsh-dev/dsh-toolkit) — 零依赖工具包：time / encoding / json / calculator / csv / regex / markdown / diff / stat / schema 十件套一键安装。
 - [PerryLink/dsh-background-agents](https://github.com/PerryLink/dsh-background-agents) — 可续跑的后台子代理 + 持久多代理团队房间：消息总线、共享任务板、审批门交接，跨重启存活。
 - [PerryLink/dsh-data-quality](https://github.com/PerryLink/dsh-data-quality) — 确定性数据画像、清洗与核验：ctx.dataQuality 能力接缝提供三个模型工具与跨插件引文核验冻结契约——全部计算由 TypeScript 完成，模型不碰算术。
+- [PerryLink/dsh-excel-reconcile](https://github.com/PerryLink/dsh-excel-reconcile) — 两张表按声明主键连接、按声明字段与容差比对，输出 Markdown、JSON 与差异工作簿；只报差异，不裁决。
 - [PerryLink/dsh-fund-research](https://github.com/PerryLink/dsh-fund-research) — 中国公募基金确定性研究报告：每个关键数字都回溯到哈希封存的数据快照——缺口如实声明、绝不编造；仅供研究，不构成投资建议。
 - [PerryLink/dsh-industry-research](https://github.com/PerryLink/dsh-industry-research) — 行业与公司研究领域包：产业链建图、公开源动态跟踪、公司速览卡与可审计报告——每个数字可溯源，每个缺口都如实声明。
+- [PerryLink/dsh-invoice-ledger](https://github.com/PerryLink/dsh-invoice-ledger) — 发票台账核对：按代码与号码识别重复、核对算式、付款方不一致、日期异常与模板占位符，输出异常清单与工作簿。
 - [PerryLink/dsh-laya](https://github.com/PerryLink/dsh-laya) — Laya 的有类型决策（noul 是/否、choice、score）作为一等 Cordis 服务与 laya_ask、laya_plan 两个模型可见工具；插件自身不安装也不下载任何东西，由你自行启动的 laya-mcp serve 边车提供模型。
 - [PerryLink/dsh-plugin-guide](https://github.com/PerryLink/dsh-plugin-guide) — 插件开发知识库打包为按需加载的 agent 技能：官方约束、任务工作流、API 参考与社区踩坑。
 - [PerryLink/dsh-research-report](https://github.com/PerryLink/dsh-research-report) — 可验证研究报告引擎：每条结论绑定不可变证据快照并逐字节核验，封存为版本化报告，其清单哈希可复算。
 - [PerryLink/dsh-skill-pack-security](https://github.com/PerryLink/dsh-skill-pack-security) — 安全审计技能包 + plugin_vet 供应链门禁：八个双语技能 + 自动化预安装扫描器。
+- [PerryLink/dsh-table-ingest](https://github.com/PerryLink/dsh-table-ingest) — 把 .docx、.xlsx、.xlsm、.csv、.tsv 中的表格转换成规则核查器可读的 table JSON；识别不了时明确报告，不做猜测。
 - [phelpsyacht/dshmath-manim](https://github.com/phelpsyacht/dshmath-manim) — 基于 Manim CE 的数学动画插件：6 个内置模板（函数/导数/积分/几何/极坐标/3D 曲面）+ 零代码技能包（math-animation / manim-codegen），模型说人话即可生成动画视频，含 AST 静态安全校验。
 - [PicGo/dsh-plugin](https://github.com/PicGo/dsh-plugin) — 通过 PicGo 已有配置（PicGo Cloud、GitHub、S3、腾讯云 COS、七牛，或任意已安装的上传插件）把本地图片和文件上传到图床，提供 `picgo_upload` 工具与 `/picgo` 命令。
 - [PolinniZhong/dsh-omi-voice](https://github.com/PolinniZhong/dsh-omi-voice) — 豆包音质对话内朗读：每条 AI 回复 🔊 点读/自动朗读（默认关、状态持久化），音色由本地 Omi 引擎合成（豆包 seed-tts），BYOK（Key 只留在本机 Keychain，插件零 Key）。
