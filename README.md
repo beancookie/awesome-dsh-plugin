@@ -478,6 +478,7 @@ DeepSeek Harness 是 DeepSeek 开源的 agent harness——既是可直接运行
 - [tianxia--/dsh-llm-local-token](https://github.com/tianxia--/dsh-llm-local-token) — 复用本机 Codex CLI 与 Claude Code 的 OAuth 凭据注册 OpenAI Codex 和 Anthropic 模型路由，并在 Web 中显示订阅用量。
 
 ### 🧑‍💻 开发与运行时
+- [SSHOOTING/dsh-event-fix](https://github.com/SSHOOTING/dsh-event-fix) — DSH 会话日志的 step 级无效动作统计与浪费核算：工具报错、命令失败、模型重试、重复调用与失败回合恢复率，支持设置页、输入框胶囊和 CLI。
 - [030611/dsh-telemetry-redactor](https://github.com/030611/dsh-telemetry-redactor) — 在已配置遥测后端接收前，对 `session-telemetry/record` 导出副本中的已支持秘密模式进行脱敏。
 - [030611/dsh-verification-receipt](https://github.com/030611/dsh-verification-receipt) — 把每轮工具计数与粗粒度验证信号写入本地 JSONL，不保存提示词、工具参数或结果正文。
 - [1420079678-ctrl/agent-body](https://github.com/1420079678-ctrl/agent-body) — 器官化插件层：插件以「器官」声明能力、感知与反射，神经冲动把命令路由给负责它的器官，反射弧零模型调用即命中执行，静默期把运行经历巩固成记忆卡，器官失败走「归因—处方—复检」闭环自愈。
