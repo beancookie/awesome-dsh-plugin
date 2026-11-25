@@ -177,6 +177,7 @@ DeepSeek Harness is DeepSeek's open-source agent harness — a runnable coding a
 
 ### Sessions & Messages
 - [Anionex/dsh-turn-rewind](https://github.com/Anionex/dsh-turn-rewind) - Rewind conversation and workspace state, powered by a persistent Change Ledger.
+- [benz-ai-x/dsh-research-graph](https://github.com/benz-ai-x/dsh-research-graph) - Session graph plugin that puts a workspace's Sessions on one canvas to find one, branch from any completed turn, and merge 2–3 Sessions into one new Session, with Workspace folders in the sidebar and source-linked Knowledge Cards.
 - [bill9109/dsh-conversation-share](https://github.com/bill9109/dsh-conversation-share) - Share any excerpt of a conversation.
 - [Buyi-wsgzg/dsh-sidechain](https://github.com/Buyi-wsgzg/dsh-sidechain) - `/side` persistent side sessions and `/btw` one-shot side questions, run in a temporary fork without touching main history.
 - [chenproton/dsh-history](https://github.com/chenproton/dsh-history) - Browse every message you sent in the current session: full-history listing with newest-first sort, text filter, one-click copy, and click-to-jump that auto-loads earlier history when the target is not yet loaded.
