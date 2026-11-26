@@ -166,6 +166,7 @@ DeepSeek Harness 是 DeepSeek 开源的 agent harness——既是可直接运行
 - [lffrom0303/dsh-window98-theme](https://github.com/lffrom0303/dsh-window98-theme) — DSH Web 客户端 Windows 98 复古皮肤：teal 桌面 + 银色面板、立体浮雕按钮、凹陷输入框、像素字体与棋盘格滚动条，浅色/深色双模式。
 - [Liu-ZA-81/dsh-theme-firefly](https://github.com/Liu-ZA-81/dsh-theme-firefly) — 崩坏：星穹铁道「流萤」主题：立绘/动态壁纸、萤火绿霓虹配色、开屏变身动画、萤火氛围粒子、背景音乐、打字音效与按对话触发的表情包彩蛋。
 - [dsh-odette-skin](https://github.com/lkdx0220/Genshin-odette-skin-dsh) — dsh-odette-skin — DSH 原神「奥黛塔」主题 UI 皮肤：深/浅双模式背景（官方素材）+ 13 个主题 token 毛玻璃覆盖 + 输入框装饰系统（三层冰蓝边框/天鹅顶饰/套娃应援棒组合），内置明暗切换，npm 即装即用。
+- [manyuemeiquqi/dsh-gta6](https://github.com/manyuemeiquqi/dsh-gta6) — 基于 Rockstar 官方 GTA VI 主视觉的 Vice City 主题：通缉星级接 Agent 运行状态，工具调用行按动作分色，右栏实时显示会话标题、token 消耗、模型与推理档位。
 - [PerryLink/dsh-checkpoint-rewind](https://github.com/PerryLink/dsh-checkpoint-rewind) — DSH 版 Claude Code /rewind：git 优先工作区快照 + 轮边界会话 fork + /checkpoint、/rewind 一键恢复。
 - [PerryLink/dsh-claude-move](https://github.com/PerryLink/dsh-claude-move) — 四源迁移向导：把 Claude Code、Codex、OpenCode、Hermes 的会话、记忆、技能、斜杠命令搬进 DSH 并可续跑。
 - [PerryLink/dsh-session-sync](https://github.com/PerryLink/dsh-session-sync) — 会话跨设备同步：专用 git 镜像 + append-only 三方合并（keep-both + fork 冲突解决），/sync 命令与自动推拉。
