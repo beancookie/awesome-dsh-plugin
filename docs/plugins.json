@@ -1906,7 +1906,7 @@
     "en": "Execution maze for DSH sessions: main path, detours and backtracks on one timeline with per-step data tracks (tools, tokens, context pressure), deterministic analysis (outcome evidence, behavior signals) and comparison of up to five sessions; reads session logs and renders live inside a session tab."
    },
    "npm": "dsh-maze",
-   "stars": 96,
+   "stars": 98,
    "createdAt": "2026-08-18",
    "install": "dsh plugin --profile web add dsh-maze",
    "added": "2026-10-10"
@@ -3571,7 +3571,7 @@
     "en": "Integrates TypeSafe Jev for skill and file selection, task supervision, shared-finding corrections, tool-output filtering, approval assistance, and recorded-stage navigation in DeepSeek Harness; all features are disabled by default."
    },
    "npm": null,
-   "stars": 218,
+   "stars": 217,
    "createdAt": "2026-09-27",
    "install": "dsh plugin --profile web add github:luobosibing2/dsh-jev-plugin",
    "added": "2026-10-10"
@@ -4096,7 +4096,7 @@
     "en": "Laya typed decisions (noul yes/no, choice, score) as a first-class Cordis service plus the laya_ask and laya_plan tools; a client of a self-started laya-mcp sidecar, so it installs nothing itself."
    },
    "npm": "dsh-laya",
-   "stars": 9,
+   "stars": 10,
    "createdAt": "2026-09-21",
    "install": "dsh plugin --profile web add dsh-laya",
    "added": "2026-09-22"
@@ -6061,7 +6061,7 @@
     "en": "Organ-based plugin layer: plugins declare capabilities, senses and reflexes, a nerve impulse routes each command to the organ that owns it, reflex arcs fire with zero model calls, quiet periods consolidate run history into memory cards, and a failing organ heals through attribution, prescription and re-check."
    },
    "npm": null,
-   "stars": 18,
+   "stars": 19,
    "createdAt": "2026-09-11",
    "install": "dsh plugin --profile web add github:1420079678-ctrl/agent-body",
    "added": "2026-10-10"
