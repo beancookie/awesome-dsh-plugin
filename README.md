@@ -296,6 +296,7 @@ DeepSeek Harness 是 DeepSeek 开源的 agent harness——既是可直接运行
 - [lak321/dsh-screen-agent](https://github.com/lak321/dsh-screen-agent) — 桌面与网页自动化：📸 多屏截图 + 🔍 Windows OCR（文字+像素坐标）+ 🖱️ 鼠标点击/拖拽 + ⌨️ 中文打字/按键 + 🪟 窗口激活，含实战打磨的画图能力（鼠标加速度补偿、画布定位、贝塞尔曲线，可在画图中绘制图形）。
 - [lak321/dsh-voice-chat](https://github.com/lak321/dsh-voice-chat) — 语音对话：🎤 语音输入（Web Speech，实时中间结果可编辑）+ 🔊 自动/手动朗读回复（TTS），支持人声/语速/语调设置与识别语言（普通话/粤语等），纯客户端零密钥，朗读前自动清理 Markdown 标记。
 - [Letter2025/dsh-task-worktree](https://github.com/Letter2025/dsh-task-worktree) — 完整的任务级 git worktree：per-repo manifest 永久保存、worktree-<name> 分支、主目录带回（bring-back）与直接提交两种收尾、可携带主工作区未提交改动（参考 Qoder / Codex / Claude Code）。
+- [li1378380/dsh-file-tools](https://github.com/li1378380/dsh-file-tools) — 文件工具箱：本地全文搜索（file_search）、目录空间报告（disk_report）、重复文件查找（find_duplicates）；只读、零依赖，Windows/macOS/Linux 可用。npm 包名 `dsh-file-tools`。
 - [lire1131/dsh-undo-plugin](https://github.com/lire1131/dsh-undo-plugin) — DSH 撤销/回退系统：配置变更自动存档，一键撤销/恢复/回退到任意版本，支持 WebUI 与离线 CLI/GUI 工具（DSH 启动失败也能救）。
 - [liustack/modlens](https://github.com/liustack/modlens) — 为纯文本模型架起视觉桥梁：粘贴图片，输出结构化 JSON 证据（OCR、版面、语义）。
 - [liustack/modsearch](https://github.com/liustack/modsearch) — 纯文本 agent 的联网搜索桥：搜索网页与 X，返回结构化 JSON 证据（search/fetch/引用）。
