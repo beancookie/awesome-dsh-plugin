@@ -462,6 +462,7 @@ DeepSeek Harness is DeepSeek's open-source agent harness — a runnable coding a
 - [PerryLink/dsh-ticktick](https://github.com/PerryLink/dsh-ticktick) - TickTick / Dida365 task bridge for DeepSeek Harness: a session-header task panel (list filter, quick add, complete, delete, due dates, drag reorder), eleven curated agent tools, a plugin settings card, and a typed Remote service — all over the official TickTick MCP endpoint.
 - [dsh-feishu](https://github.com/PGZXB/dsh-feishu) - Feishu (Lark) UI for DeepSeek Harness: panel-driven control console, in-card approvals and questions, live streaming cards, one-QR setup.
 - [dsh-notify-windows](https://github.com/SeverusZh/dsh-notify-windows) - Windows notifications, zero dependencies.
+- [SuRanHF/dsh-gui-turn](https://github.com/SuRanHF/dsh-gui-turn) - Exposes one full desktop agent turn as a loopback HTTP route so external processes (QQ/Discord bots, cron jobs, CLIs) can reuse the app's model, persona and MCP tools; per-turn persona and MCP servers, fail-closed tool allow-list, loopback-only.
 
 ### Models & Providers
 - [AgentsDanceAI/dsh-plugin-cloud](https://github.com/AgentsDanceAI/deepseek-harness-cloud/tree/main/packages/dsh-plugin-cloud) - Connect to the DSH Cloud gateway (hosted or self-hosted): device-authorization login, and one command writes multi-provider models (DeepSeek / GPT / Claude / Gemini and 20 more) into the user config layer.

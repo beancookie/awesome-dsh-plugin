@@ -462,6 +462,7 @@ DeepSeek Harness 是 DeepSeek 开源的 agent harness——既是可直接运行
 - [PerryLink/dsh-ticktick](https://github.com/PerryLink/dsh-ticktick) — TickTick / Dida365（滴答清单）任务桥：会话头部任务面板（列表筛选、快速添加、完成、删除、截止日期、拖拽排序）、11 个精选 agent 工具、插件设置卡片与类型化 Remote 服务，全部走官方 TickTick MCP 端点。
 - [dsh-feishu](https://github.com/PGZXB/dsh-feishu) — DeepSeek Harness 的飞书 UI：面板驱动控制台，卡内审批与提问，流式卡片，扫码一键配置。
 - [SeverusZh/dsh-notify-windows](https://github.com/SeverusZh/dsh-notify-windows) — Windows 通知，零依赖。
+- [SuRanHF/dsh-gui-turn](https://github.com/SuRanHF/dsh-gui-turn) — 把桌面端「跑一轮 agent 对话」暴露成本机 loopback HTTP 接口，外部进程（QQ/Discord 机器人、定时脚本、CLI）可复用桌面端已配好的模型、人设与 MCP 工具；人设与 MCP 按轮注入、工具默认只放行本轮、仅接受本机调用。
 
 ### 🔌 模型与账号接入
 - [AgentsDanceAI/dsh-plugin-cloud](https://github.com/AgentsDanceAI/deepseek-harness-cloud/tree/main/packages/dsh-plugin-cloud) — 接入 DSH Cloud 网关（托管或自部署）：设备授权登录，一条命令在用户配置层写入多模型 provider（DeepSeek / GPT / Claude / Gemini 等 20 个模型）。
